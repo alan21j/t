@@ -1,1 +1,495 @@
-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
+{
+ "cache_time": 6000,
+ "api_site": {
+  "api_1": {
+   "name": "TV-1080资源",
+   "api": "https://api.1080zyku.com/inc/api_mac10.php",
+   "detail": "https://api.1080zyku.com"
+  },
+  "api_2": {
+   "name": "AV-155资源",
+   "api": "https://155api.com/api.php/provide/vod",
+   "detail": "https://155api.com"
+  },
+  "api_3": {
+   "name": "TV-360资源",
+   "api": "https://360zy.com/api.php/provide/vod",
+   "detail": "https://360zy.com"
+  },
+  "api_4": {
+   "name": "TV-CK资源",
+   "api": "https://ckzy.me/api.php/provide/vod",
+   "detail": "https://ckzy.me"
+  },
+  "api_5": {
+   "name": "TV-U酷资源",
+   "api": "https://api.ukuapi.com/api.php/provide/vod",
+   "detail": "https://api.ukuapi.com"
+  },
+  "api_6": {
+   "name": "TV-U酷资源",
+   "api": "https://api.ukuapi88.com/api.php/provide/vod",
+   "detail": "https://api.ukuapi88.com"
+  },
+  "api_7": {
+   "name": "TV-ikun资源",
+   "api": "https://ikunzyapi.com/api.php/provide/vod",
+   "detail": "https://ikunzyapi.com"
+  },
+  "api_8": {
+   "name": "TV-wujinapi无尽",
+   "api": "https://api.wujinapi.cc/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_9": {
+   "name": "TV-丫丫点播",
+   "api": "https://cj.yayazy.net/api.php/provide/vod",
+   "detail": "https://cj.yayazy.net"
+  },
+  "api_10": {
+   "name": "TV-光速资源",
+   "api": "https://api.guangsuapi.com/api.php/provide/vod",
+   "detail": "https://api.guangsuapi.com"
+  },
+  "api_11": {
+   "name": "TV-卧龙点播",
+   "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+   "detail": "https://collect.wolongzyw.com"
+  },
+  "api_12": {
+   "name": "TV-卧龙资源",
+   "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_13": {
+   "name": "TV-卧龙资源",
+   "api": "https://wolongzyw.com/api.php/provide/vod",
+   "detail": "https://wolongzyw.com"
+  },
+  "api_14": {
+   "name": "TV-天涯资源",
+   "api": "https://tyyszy.com/api.php/provide/vod",
+   "detail": "https://tyyszy.com"
+  },
+  "api_15": {
+   "name": "TV-如意资源",
+   "api": "http://cj.rycjapi.com/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_16": {
+   "name": "TV-小猫咪资源",
+   "api": "https://zy.xmm.hk/api.php/provide/vod",
+   "detail": "https://zy.xmm.hk"
+  },
+  "api_17": {
+   "name": "TV-新浪点播",
+   "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+   "detail": "https://api.xinlangapi.com"
+  },
+  "api_18": {
+   "name": "TV-无尽资源",
+   "api": "https://api.wujinapi.com/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_19": {
+   "name": "TV-无尽资源",
+   "api": "https://api.wujinapi.me/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_20": {
+   "name": "TV-无尽资源",
+   "api": "https://api.wujinapi.net/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_21": {
+   "name": "TV-旺旺短剧",
+   "api": "https://wwzy.tv/api.php/provide/vod",
+   "detail": "https://wwzy.tv"
+  },
+  "api_22": {
+   "name": "TV-旺旺资源",
+   "api": "https://api.wwzy.tv/api.php/provide/vod",
+   "detail": "https://api.wwzy.tv"
+  },
+  "api_23": {
+   "name": "TV-暴风资源",
+   "api": "https://bfzyapi.com/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_24": {
+   "name": "TV-最大点播",
+   "api": "http://zuidazy.me/api.php/provide/vod",
+   "detail": "http://zuidazy.me"
+  },
+  "api_25": {
+   "name": "TV-最大资源",
+   "api": "https://api.zuidapi.com/api.php/provide/vod",
+   "detail": "https://api.zuidapi.com"
+  },
+  "api_26": {
+   "name": "TV-樱花资源",
+   "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_27": {
+   "name": "TV-步步高资源",
+   "api": "https://api.yparse.com/api/json",
+   "detail": ""
+  },
+  "api_28": {
+   "name": "TV-牛牛点播",
+   "api": "https://api.niuniuzy.me/api.php/provide/vod",
+   "detail": "https://api.niuniuzy.me"
+  },
+  "api_29": {
+   "name": "TV-电影天堂资源",
+   "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+   "detail": "http://caiji.dyttzyapi.com"
+  },
+  "api_30": {
+   "name": "AV-百万资源",
+   "api": "https://api.bwzyz.com/api.php/provide/vod",
+   "detail": "https://api.bwzyz.com"
+  },
+  "api_31": {
+   "name": "TV-百度云资源",
+   "api": "https://api.apibdzy.com/api.php/provide/vod",
+   "detail": "https://api.apibdzy.com"
+  },
+  "api_32": {
+   "name": "TV-神马云",
+   "api": "https://api.1080zyku.com/inc/apijson.php/",
+   "detail": "https://api.1080zyku.com"
+  },
+  "api_33": {
+   "name": "TV-索尼资源",
+   "api": "https://suoniapi.com/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_34": {
+   "name": "TV-红牛资源",
+   "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+   "detail": "https://www.hongniuzy2.com"
+  },
+  "api_35": {
+   "name": "TV-茅台资源",
+   "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+   "detail": "https://caiji.maotaizy.cc"
+  },
+  "api_36": {
+   "name": "TV-虎牙资源",
+   "api": "https://www.huyaapi.com/api.php/provide/vod",
+   "detail": "https://www.huyaapi.com"
+  },
+  "api_37": {
+   "name": "TV-豆瓣资源",
+   "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+   "detail": "https://caiji.dbzy.tv"
+  },
+  "api_38": {
+   "name": "TV-豆瓣资源",
+   "api": "https://dbzy.tv/api.php/provide/vod",
+   "detail": "https://dbzy.tv"
+  },
+  "api_39": {
+   "name": "TV-豪华资源",
+   "api": "https://hhzyapi.com/api.php/provide/vod",
+   "detail": "https://hhzyapi.com"
+  },
+  "api_40": {
+   "name": "TV-速博资源",
+   "api": "https://subocaiji.com/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_41": {
+   "name": "TV-量子资源",
+   "api": "https://cj.lziapi.com/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_42": {
+   "name": "TV-金鹰点播",
+   "api": "https://jinyingzy.com/api.php/provide/vod",
+   "detail": "https://jinyingzy.com"
+  },
+  "api_43": {
+   "name": "TV-金鹰资源",
+   "api": "https://jyzyapi.com/api.php/provide/vod",
+   "detail": "https://jyzyapi.com"
+  },
+  "api_44": {
+   "name": "TV-閃電资源",
+   "api": "https://sdzyapi.com/api.php/provide/vod",
+   "detail": "https://sdzyapi.com"
+  },
+  "api_45": {
+   "name": "TV-非凡资源",
+   "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+   "detail": "https://cj.ffzyapi.com"
+  },
+  "api_46": {
+   "name": "TV-飘零资源",
+   "api": "https://p2100.net/api.php/provide/vod",
+   "detail": "https://p2100.net"
+  },
+  "api_47": {
+   "name": "TV-魔爪资源",
+   "api": "https://mozhuazy.com/api.php/provide/vod",
+   "detail": "https://mozhuazy.com"
+  },
+  "api_48": {
+   "name": "TV-魔都动漫",
+   "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+   "detail": "https://caiji.moduapi.cc"
+  },
+  "api_49": {
+   "name": "TV-魔都资源",
+   "api": "https://www.mdzyapi.com/api.php/provide/vod",
+   "detail": "https://www.mdzyapi.com"
+  },
+  "api_50": {
+   "name": "TV-黑木耳",
+   "api": "https://json.heimuer.xyz/api.php/provide/vod",
+   "detail": "https://json.heimuer.xyz"
+  },
+  "api_51": {
+   "name": "TV-黑木耳点播",
+   "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+   "detail": "https://json02.heimuer.xyz"
+  },
+  "api_52": {
+   "name": "AV-91麻豆",
+   "api": "https://91md.me/api.php/provide/vod",
+   "detail": "https://91md.me"
+  },
+  "api_53": {
+   "name": "AV-AIvin",
+   "api": "http://lbapiby.com/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_54": {
+   "name": "AV-JKUN资源",
+   "api": "https://jkunzyapi.com/api.php/provide/vod",
+   "detail": "https://jkunzyapi.com"
+  },
+  "api_55": {
+   "name": "AV-souav资源",
+   "api": "https://api.souavzy.vip/api.php/provide/vod",
+   "detail": "https://api.souavzy.vip"
+  },
+  "api_56": {
+   "name": "AV-乐播资源",
+   "api": "https://lbapi9.com/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_57": {
+   "name": "AV-奥斯卡资源",
+   "api": "https://aosikazy.com/api.php/provide/vod",
+   "detail": "https://aosikazy.com"
+  },
+  "api_58": {
+   "name": "AV-奶香香",
+   "api": "https://Naixxzy.com/api.php/provide/vod",
+   "detail": "https://Naixxzy.com"
+  },
+  "api_59": {
+   "name": "AV-森林资源",
+   "api": "https://slapibf.com/api.php/provide/vod",
+   "detail": "https://slapibf.com"
+  },
+  "api_60": {
+   "name": "AV-淫水机资源",
+   "api": "https://www.xrbsp.com/api/json.php",
+   "detail": "https://www.xrbsp.com"
+  },
+  "api_61": {
+   "name": "AV-玉兔资源",
+   "api": "https://apiyutu.com/api.php/provide/vod",
+   "detail": "https://apiyutu.com"
+  },
+  "api_62": {
+   "name": "AV-番号资源",
+   "api": "http://fhapi9.com/api.php/provide/vod",
+   "detail": ""
+  },
+  "api_63": {
+   "name": "AV-白嫖资源",
+   "api": "https://www.kxgav.com/api/json.php",
+   "detail": "https://www.kxgav.com"
+  },
+  "api_64": {
+   "name": "AV-精品资源",
+   "api": "https://www.jingpinx.com/api.php/provide/vod",
+   "detail": "https://www.jingpinx.com"
+  },
+  "api_65": {
+   "name": "AV-美少女资源",
+   "api": "https://www.msnii.com/api/json.php",
+   "detail": "https://www.msnii.com"
+  },
+  "api_66": {
+   "name": "AV-老色逼资源",
+   "api": "https://apilsbzy1.com/api.php/provide/vod",
+   "detail": "https://apilsbzy1.com"
+  },
+  "api_67": {
+   "name": "AV-色南国",
+   "api": "https://api.sexnguon.com/api.php/provide/vod",
+   "detail": "https://api.sexnguon.com"
+  },
+  "api_68": {
+   "name": "AV-色猫资源",
+   "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+   "detail": "https://api.maozyapi.com"
+  },
+  "api_69": {
+   "name": "AV-辣椒资源",
+   "api": "https://apilj.com/api.php/provide/vod",
+   "detail": "https://apilj.com"
+  },
+  "api_70": {
+   "name": "AV-香奶儿资源",
+   "api": "https://www.gdlsp.com/api/json.php",
+   "detail": "https://www.gdlsp.com"
+  },
+  "api_71": {
+   "name": "AV-鲨鱼资源",
+   "api": "https://shayuapi.com/api.php/provide/vod",
+   "detail": "https://shayuapi.com"
+  },
+  "api_72": {
+   "name": "AV-黄AV资源",
+   "api": "https://www.pgxdy.com/api/json.php",
+   "detail": "https://www.pgxdy.com"
+  },
+  "ffzynew": {
+   "api": "https://api.ffzyapi.com/api.php/provide/vod",
+   "name": "非凡影视new",
+   "detail": "http://ffzy5.tv"
+  },
+  "jisu": {
+   "api": "https://jszyapi.com/api.php/provide/vod",
+   "name": "极速资源",
+   "detail": "https://jszyapi.com"
+  },
+  "mozhua": {
+   "api": "https://mozhuazy.com/api.php/provide/vod",
+   "name": "魔爪资源"
+  },
+  "mdzy": {
+   "api": "https://www.mdzyapi.com/api.php/provide/vod",
+   "name": "魔都资源"
+  },
+  "kauiboziyuan": {
+   "api": "https://gayapi.com/api.php/provide/vod",
+   "name": "快播资源网站"
+  },
+  "xingbaziyuan": {
+   "api": "https://xingba111.com/api.php/provide/vod",
+   "name": "杏吧资源"
+  },
+  "liangziziyuan": {
+   "api": "https://cj.lziapi.com/api.php/provide/vod",
+   "name": "量子资源"
+  },
+  "senlinziyuan": {
+   "api": "https://slapibf.com/api.php/provide/vod",
+   "name": "森林资源"
+  },
+  "aiduanjucc": {
+   "api": "https://www.aiduanju.cc/",
+   "name": "爱短剧.cc"
+  },
+  "huaweiba": {
+   "api": "https://huawei8.live/api.php/provide/vod",
+   "name": "华为吧资源"
+  },
+  "taopian": {
+   "api": "https://taopianapi.com/cjapi/sda/vod",
+   "name": "淘片资源"
+  },
+  "hongniuziyuan": {
+   "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+   "name": "红牛资源"
+  },
+  "suonisandian": {
+   "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+   "name": "索尼-闪电资源"
+  },
+  "yayaziyuan": {
+   "api": "https://cj.yayazy.net/api.php/provide/vod",
+   "name": "鸭鸭资源"
+  },
+  "jinyingziyuan": {
+   "api": "https://jyzyapi.com/provide/vod",
+   "name": "金鹰资源采集网"
+  },
+  "fengchao": {
+   "api": "https://api.fczy888.me/api.php/provide/vod",
+   "name": "蜂巢片库"
+  },
+  "jinmaziyuan2": {
+   "api": "https://api.jmzy.com/api.php/provide/vod",
+   "name": "金马资源网"
+  },
+  "dadiziy": {
+   "api": "https://dadiapi.com/api.php/provide/vod",
+   "name": "大地资源网络"
+  },
+  "huangseziy": {
+   "api": "https://hsckzy888.com/api.php/provide/vod",
+   "name": "黄色资源啊啊"
+  },
+  "xiaojiziy": {
+   "api": "https://api.xiaojizy.live/provide/vod",
+   "name": "小鸡资源"
+  },
+  "kauicheziyuan": {
+   "api": "https://caiji.kuaichezy.org/api.php/provide",
+   "name": "快车资源阿"
+  },
+  "xinlangaa": {
+   "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+   "name": "新浪资源阿"
+  },
+  "lajiaoziyu": {
+   "api": "https://apilj.com/api.php/provide",
+   "name": "辣椒资源黄黄"
+  },
+  "youzhidianying": {
+   "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+   "name": "优质资源库1080zyk6.com高清"
+  },
+  "iqiyi": {
+   "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+   "name": "iqiyi资源"
+  },
+  "xibaocaiji": {
+   "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+   "name": "细胞采集黄色"
+  },
+  "qiqiqiqi": {
+   "api": "https://www.qiqidys.com/api.php/provide/vod/",
+   "name": "七七影视"
+  },
+  "yingshigongchang": {
+   "api": "https://cj.lziapi.com/api.php/provide/vod/",
+   "name": "影视工厂"
+  },
+  "fantuanyingshi": {
+   "api": "https://www.fantuan.tv/api.php/provide/vod/",
+   "name": "饭团影视"
+  }
+ },
+ "custom_category": [
+  {
+   "name": "情欲",
+   "type": "movie",
+   "query": "情欲"
+  },
+  {
+   "name": "AV",
+   "type": "movie",
+   "query": "AV"
+  }
+ ]
+}
