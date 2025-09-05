@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 logo="" group-title="World" ,Bloomberg Asia
-https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 logo="" group-title="World" ,RT Español（西语）
