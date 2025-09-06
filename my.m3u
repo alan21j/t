@@ -2,28 +2,10 @@
 
 #EXTINF:-1 logo="" group-title="World" ,Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT Español（西语）
-https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT Français（法语）
-https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT Arabic（阿语）
-https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT DE（德语）
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT Balkan （塞尔维亚语）
-https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT Documentary（英语纪录）
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT Doc-Русский（俄语纪录）
-https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Newsmax
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,TBS
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 logo="" group-title="World" ,CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 logo="" group-title="World" ,AlJazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 logo="" group-title="World" ,CBS News
@@ -32,32 +14,16 @@ http://fl3.moveonjoy.com/CBS_News/index.m3u8
 http://fortv.cc:8080/q8KuDU/354945/57434
 #EXTINF:-1 logo="" group-title="World" ,France 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RTE News
-http://fortv.cc:8080/q8KuDU/354945/79108
 #EXTINF:-1 logo="" group-title="World" ,Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 logo="" group-title="World" ,CNBC
-http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,FOX5
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,ESPN News
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,ABC Australia
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,NewsNation
-http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1 logo="" group-title="World" ,FOX Soul
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Wion News
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Fashion TV
-http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Start TV
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,TCM
@@ -78,8 +44,6 @@ http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 http://fl3.moveonjoy.com/COMET/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,COZI TV
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,ION Plus
-https://fl3.moveonjoy.com/ION_Plus/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,ION
 http://143.244.60.30/ION_TV/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Discovery Channel
@@ -98,12 +62,6 @@ http://fl3.moveonjoy.com/BRAVO/index.m3u8
 http://fl3.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,TV One
 http://fl3.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,CMTV
-https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Nat Geo Wild
-http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,BBC America
-http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Disney Junior
 http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Nick Jr.
@@ -142,10 +100,6 @@ http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 http://fl3.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,ACCN
 http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,World Poker Tour
-https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
-#EXTINF:-1 logo="" group-title="World" ,MSG
-http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Animal Planet
 http://143.244.60.30/Animal_Planet/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,DIY
@@ -156,8 +110,8 @@ http://fl3.moveonjoy.com/FUSE/index.m3u8
 http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,GRIT TV
 http://143.244.60.30/GRIT_TV/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,FoxBusiness
-http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1 logo="" group-title="World" ,Hallmark
+http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Cooking
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Wild Earth
@@ -170,8 +124,6 @@ http://143.244.60.30/Discovery_Science/index.m3u8
 http://143.244.60.30/HGTV/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,INSP TV
 http://143.244.60.30/INSP/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,MTV
-http://143.244.60.30/MTV/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,MTV Live
 http://143.244.60.30/MTV_LIVE/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,NickToons
@@ -196,6 +148,8 @@ http://143.244.60.30/WGN/index.m3u8
 http://143.244.60.30/NHL_NETWORK/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,MLB Network
 http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 logo="" group-title="World" ,Sportsman Channel
+http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,ESPN U
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,SportsNet New York
@@ -219,28 +173,12 @@ http://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Sky Sports F1
 http://fortv.cc:8080/q8KuDU/354945/53704
 
-#EXTINF:-1 logo="" group-title="Sports" ,4Sport
-https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,30A Golf Kingdom
-https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,:Šport (1080p)
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,AfroSport Nigeria
-https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,AntenaSport (720p) [Not 24/7]
-https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,beIN Sports USA
 http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,BEK TV Sports West (720p)
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,CBC Sport [Geo-blocked]
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,CBS Sports Network USA
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,CDN Deportes (720p)
 http://200.125.170.122:8000/play/a03j/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,ColimdoT TV (720p)
-https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,ČT Sport (720p)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,Eleven Sports 1 (2160p)
@@ -249,94 +187,14 @@ http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 logo="" group-title="Sports" ,ERT Sports 2 (1080p)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
-#EXTINF:-1 logo="" group-title="Sports" ,ESPN U (720p)
-https://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,FanDuel Sports Network
-https://fl3.moveonjoy.com/PAC_12/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,FITE 24/7 (1080p)
-https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Futbol (1080p)
-https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Game+ (720p)
-https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Golf Channel
-https://fl3.moveonjoy.com/GOLF/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,KHL Prime
-http://194.143.148.28:8080/KHL_HD/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Kozoom TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,M-Net Sport (720p)
 http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,MadeinBO TV (1080p)
-https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,MLB Network
-https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,MSG
-https://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,NBC Sports Bay Area (720p)
-https://tvpass.org/live/nbc-sports-bay-area/hd
-#EXTINF:-1 logo="" group-title="Sports" ,NBC Sports Boston (1080p)
-https://tvpass.org/live/nbc-sports-boston/hd
-#EXTINF:-1 logo="" group-title="Sports" ,NBC Sports Philadelphia (720p)
-https://tvpass.org/live/nbc-sports-philadelphia/hd
-#EXTINF:-1 logo="" group-title="Sports" ,NFL Network
-https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,NFL RedZone
-https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Ovacion TV (720p) [Not 24/7]
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Persiana Sport
-https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Pluto TV Sport Italy (720p)
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 logo="" group-title="Sports" ,SOS Kanal Plus (720p)
-https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Sportsman Channel
-https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,SportsNet New York (540p)
-https://fl3.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Star Sports 1 HD [Geo-blocked]
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,T Sports 7 (720p)
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,TDM Sports Ch. 93 (720p)
-https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,TSN2
-https://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,TSN3
-https://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,TSN5
-https://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,VITAL Drive [Not 24/7]
-https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,VITAL Football [Not 24/7]
-https://vslive.pw/stream/48682/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,VITAL Plus [Not 24/7]
-https://vslive.pw/stream/48683/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,VITAL Sport [Not 24/7]
-https://vslive.pw/stream/48527/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,VITAL Tennis [Not 24/7]
-https://vslive.pw/stream/48685/index.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,W14DK-D 14.5 All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,World Poker Tour (1080p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,World Poker Tour Italy (720p)
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 logo="" group-title="Sports" ,Матч! Арена
-http://194.143.148.28:8080/MatchArena/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Футбол
-http://31.148.48.15/Futbol_HD/index.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,Đồng Nai 2 (576p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,ITV Deportes
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,RightNow TV (720p)
-https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,ESPNews (720p)
-https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,RTI La 3 (1080p) [Not 24/7]
-http://69.64.57.208/la3/index.m3u8
 
 #EXTINF:-1 logo="" group-title="体育" ,精品体育
 http://111.43.126.240:9003/hls/89/index.m3u8
@@ -349,11 +207,11 @@ http://xiaoya.crccxw.top:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="" group-title="体育" ,睛彩竞技
 http://xiaoya.crccxw.top:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="" group-title="体育" ,睛彩竞技
+http://[2409:8087:1a01:df::4061]/TVOD/88888888/224/3221225899/main.m3u8
+#EXTINF:-1 logo="" group-title="体育" ,睛彩竞技
 http://drive.mxmy.net:8888/udp/239.3.1.125:8001
 #EXTINF:-1 logo="" group-title="体育" ,睛彩篮球
 http://xiaoya.crccxw.top:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
-#EXTINF:-1 logo="" group-title="体育" ,睛彩篮球
-http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 #EXTINF:-1 logo="" group-title="体育" ,睛彩篮球
 http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,睛彩篮球
@@ -367,9 +225,9 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 #EXTINF:-1 logo="" group-title="体育" ,超级体育
 http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225715/.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-13.m3u8
+https://stream1.freetv.fun/wu-xing-ti-yu-9.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-10.m3u8
+https://stream1.freetv.fun/wu-xing-ti-yu-13.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
 https://stream1.freetv.fun/wu-xing-ti-yu-10.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
@@ -379,7 +237,7 @@ https://stream1.freetv.fun/wu-xing-ti-yu-6.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
 https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-4.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-3.m3u8
+https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-1.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
 https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
@@ -387,19 +245,7 @@ https://stream1.freetv.fun/wu-xing-ti-yu-8.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
 http://61.173.162.228:4022/rtp/239.45.3.210:5140
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-5.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
 https://cdn3.163189.xyz/163189/wxty
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-8.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-12.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-2.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-1.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-11.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
 https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-6.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
@@ -412,283 +258,81 @@ http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
 http://111.8.242.124:4095/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="体育" ,劲爆体育
 http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,劲爆体育
-http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-17.ctv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-3.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-5.ctv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-30.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-26.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-30.ctv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-8.ctv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-18.ctv
+#EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-10.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-38.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-19.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://117.141.162.238:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-15.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-2.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-13.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-http://bxtv.3a.ink/api.php?id=gdty
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-9.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-25.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-21.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://120.198.95.220:9901/tsfile/live/1010_1.m3u8?key=txiptv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-20.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-4.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-23.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-39.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-12.ctv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
-http://php.jdshipin.com/PLTV/iptv.php?id=gdty
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-12.m3u8
+https://stream1.freetv.fun/yan-dong-ti-yu-6.ctv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-28.ctv
-#EXTINF:-1 logo="" group-title="体育" ,纬来体育
-https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 logo="" group-title="体育" ,纬来体育
-https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 logo="" group-title="体育" ,纬来体育
-https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,纬来体育
 http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
-#EXTINF:-1 logo="" group-title="体育" ,辽宁体育
-https://stream1.freetv.fun/liao-zhu-ti-yu-3.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,风云足球
 http://sh.lnott.top:880/dx71.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,风云足球
-http://183.11.239.36:808/hls/133/index.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,魅力足球
 https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,魅力足球
-https://stream1.freetv.fun/mei-li-zu-qiu-4.ctv
-#EXTINF:-1 logo="" group-title="体育" ,魅力足球
-https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-5.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,魅力足球
-https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-4.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,央视台球
-http://sh.lnott.top:880/dx82.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,快乐垂钓
 http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 #EXTINF:-1 logo="" group-title="体育" ,快乐垂钓
 http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/KLCDMPP360.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,快乐垂钓
 http://111.8.242.124:4095/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="体育" ,快乐垂钓
-http://111.196.133.168:8012/rtp/239.3.1.164:8001
 #EXTINF:-1 logo="" group-title="体育" ,skysports
-https://stream1.freetv.fun/skysports-14.ctv
-#EXTINF:-1 logo="" group-title="体育" ,skysports
-https://stream1.freetv.fun/skysports-12.ctv
+https://stream1.freetv.fun/skysports-7.ctv
 #EXTINF:-1 logo="" group-title="体育" ,skysports
 https://stream1.freetv.fun/skysports-17.ctv
 #EXTINF:-1 logo="" group-title="体育" ,skysports
 https://stream1.freetv.fun/skysports-3.ctv
 
 #EXTINF:-1 logo="" group-title="港澳臺" ,明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 logo="" group-title="港澳臺" ,明珠台
 http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 #EXTINF:-1 logo="" group-title="港澳臺" ,翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 logo="" group-title="港澳臺" ,翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 logo="" group-title="港澳臺" ,翡翠台
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB翡翠
-http://iptv.4666888.xyz/iptv.php?id=20066
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB翡翠(新加坡)
-http://iptv.4666888.xyz/iptv.php?id=20067
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB翡翠(马来)
-http://iptv.4666888.xyz/iptv.php?id=20068
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB无线新闻(北美)
-http://iptv.4666888.xyz/iptv.php?id=20070
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB明珠
-http://iptv.4666888.xyz/iptv.php?id=20071
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB_Plus
-http://iptv.4666888.xyz/iptv.php?id=20072
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB娱乐新闻
-http://iptv.4666888.xyz/iptv.php?id=20073
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB生活
-http://iptv.4666888.xyz/iptv.php?id=20074
-#EXTINF:-1 logo="" group-title="港澳臺" ,华丽翡翠台
-http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-#EXTINF:-1 logo="" group-title="港澳臺" ,华丽翡翠台
-http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 logo="" group-title="港澳臺" ,无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 logo="" group-title="港澳臺" ,无线新闻
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-#EXTINF:-1 logo="" group-title="港澳臺" ,ViuTV
-http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 logo="" group-title="港澳臺" ,ViuTVSix
-http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-#EXTINF:-1 logo="" group-title="港澳臺" ,ViuTV
-http://iptv.4666888.xyz/iptv.php?id=20075
-#EXTINF:-1 logo="" group-title="港澳臺" ,ViuTV6
-http://iptv.4666888.xyz/iptv.php?id=20076
-#EXTINF:-1 logo="" group-title="港澳臺" ,HOY77
-http://iptv.4666888.xyz/iptv.php?id=20078
-#EXTINF:-1 logo="" group-title="港澳臺" ,RTHK32
-http://iptv.4666888.xyz/iptv.php?id=20081
-#EXTINF:-1 logo="" group-title="港澳臺" ,Now新闻
-http://iptv.4666888.xyz/iptv.php?id=20082
-#EXTINF:-1 logo="" group-title="港澳臺" ,Now新闻
-http://iptv.4666888.xyz/iptv.php?id=20083
-#EXTINF:-1 logo="" group-title="港澳臺" ,Now财经
-http://iptv.4666888.xyz/iptv.php?id=20085
-#EXTINF:-1 logo="" group-title="港澳臺" ,Now星影(粤)
-http://iptv.4666888.xyz/iptv.php?id=20086
-#EXTINF:-1 logo="" group-title="港澳臺" ,Now爆谷(粤)
-http://iptv.4666888.xyz/iptv.php?id=20087
-#EXTINF:-1 logo="" group-title="港澳臺" ,Now星影(国)
-http://iptv.4666888.xyz/iptv.php?id=20088
-#EXTINF:-1 logo="" group-title="港澳臺" ,Now爆谷(国)
-http://iptv.4666888.xyz/iptv.php?id=20089
-#EXTINF:-1 logo="" group-title="港澳臺" ,Now紫金国际
-http://iptv.4666888.xyz/iptv.php?id=20090
-#EXTINF:-1 logo="" group-title="港澳臺" ,Now剧集
-http://iptv.4666888.xyz/iptv.php?id=20091
-#EXTINF:-1 logo="" group-title="港澳臺" ,Now直播
-http://iptv.4666888.xyz/iptv.php?id=20093
-#EXTINF:-1 logo="" group-title="港澳臺" ,Now668赛马
-http://iptv.4666888.xyz/iptv.php?id=20094
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB1
-http://iptv.4666888.xyz/iptv.php?id=20095
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVBE
-http://iptv.4666888.xyz/iptv.php?id=20097
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB明珠剧集
-http://iptv.4666888.xyz/iptv.php?id=20098
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB黄金华剧
-http://iptv.4666888.xyz/iptv.php?id=20100
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB星河(粤)
-http://iptv.4666888.xyz/iptv.php?id=20101
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB星河(国)
-http://iptv.4666888.xyz/iptv.php?id=20102
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB武侠(粤)
-http://iptv.4666888.xyz/iptv.php?id=20103
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB千禧经典
-http://iptv.4666888.xyz/iptv.php?id=20105
-#EXTINF:-1 logo="" group-title="港澳臺" ,MYTV_SUPER黄金翡翠
-http://iptv.4666888.xyz/iptv.php?id=20106
-#EXTINF:-1 logo="" group-title="港澳臺" ,MYTV_SUPER黄金华剧
-http://iptv.4666888.xyz/iptv.php?id=20108
-#EXTINF:-1 logo="" group-title="港澳臺" ,MYTV_SUPER亚洲剧
-http://iptv.4666888.xyz/iptv.php?id=20109
-#EXTINF:-1 logo="" group-title="港澳臺" ,MYTV_SUPER少儿
-http://iptv.4666888.xyz/iptv.php?id=20110
-#EXTINF:-1 logo="" group-title="港澳臺" ,MYTV_SUPER_FREE
-http://iptv.4666888.xyz/iptv.php?id=20111
-#EXTINF:-1 logo="" group-title="港澳臺" ,MYTV_SUPER戏曲
-http://iptv.4666888.xyz/iptv.php?id=20113
 #EXTINF:-1 logo="" group-title="港澳臺" ,TVB星河
 http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 logo="" group-title="港澳臺" ,HOY77
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVBJ1
-http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 logo="" group-title="港澳臺" ,RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 logo="" group-title="港澳臺" ,RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 logo="" group-title="港澳臺" ,RTHK33
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 logo="" group-title="港澳臺" ,凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 logo="" group-title="港澳臺" ,凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 logo="" group-title="港澳臺" ,千禧经典台
-http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-#EXTINF:-1 logo="" group-title="港澳臺" ,天映
-http://php.jdshipin.com:8880/smt.php?id=Celestial
-#EXTINF:-1 logo="" group-title="港澳臺" ,天映经典
-http://php.jdshipin.com:8880/smt.php?id=Celestial2
-#EXTINF:-1 logo="" group-title="港澳臺" ,凤凰中文
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-#EXTINF:-1 logo="" group-title="港澳臺" ,凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 logo="" group-title="港澳臺" ,凤凰香港
-http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-#EXTINF:-1 logo="" group-title="港澳臺" ,爱奇艺
-http://php.jdshipin.com:8880/smt.php?id=Qiyi
-#EXTINF:-1 logo="" group-title="港澳臺" ,重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 logo="" group-title="港澳臺" ,凤凰中文
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,凤凰资讯
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 logo="" group-title="港澳臺" ,凤凰中文
-http://iptv.4666888.xyz/iptv.php?id=20060
-#EXTINF:-1 logo="" group-title="港澳臺" ,凤凰香港
-http://iptv.4666888.xyz/iptv.php?id=20062
-#EXTINF:-1 logo="" group-title="港澳臺" ,凤凰中文
-http://iptv.4666888.xyz/iptv.php?id=20063
-#EXTINF:-1 logo="" group-title="港澳臺" ,凤凰香港
-http://iptv.4666888.xyz/iptv.php?id=20065
 #EXTINF:-1 logo="" group-title="港澳臺" ,凤凰香港
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1 logo="" group-title="港澳臺" ,星空World
-http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,澳视澳门
 http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,莲花卫视
 http://8.138.7.223/tv/lotustv.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,莲花卫视（备用）
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1 logo="" group-title="港澳臺" ,千禧经典
-http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 #EXTINF:-1 logo="" group-title="港澳臺" ,星空卫视
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,环球电视
@@ -701,302 +345,26 @@ rtmp://f13h.mine.nu/sat/tv071
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 logo="" group-title="港澳臺" ,非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 logo="" group-title="港澳臺" ,美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 logo="" group-title="港澳臺" ,MOMO TV
-rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 logo="" group-title="港澳臺" ,纬来体育
-rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 logo="" group-title="港澳臺" ,纬来日本
+rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 logo="" group-title="港澳臺" ,纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 logo="" group-title="港澳臺" ,纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 logo="" group-title="港澳臺" ,大立电视台  
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 logo="" group-title="港澳臺" ,龙华电影
-https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1 logo="" group-title="港澳臺" ,龙华洋片
-https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-#EXTINF:-1 logo="" group-title="港澳臺" ,龙华经典
-https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,龙华卡通
 https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-#EXTINF:-1 logo="" group-title="港澳臺" ,龙华偶像
-https://cdn8.163189.xyz/live/lhox/stream.m3u8
-#EXTINF:-1 logo="" group-title="港澳臺" ,龙华日韩
-https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-#EXTINF:-1 logo="" group-title="港澳臺" ,龙华戏剧
-https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-#EXTINF:-1 logo="" group-title="港澳臺" ,DAZN体育1
-rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 logo="" group-title="港澳臺" ,天映经典
-http://iptv.4666888.xyz/iptv.php?id=20114
-#EXTINF:-1 logo="" group-title="港澳臺" ,天映经典2
-http://iptv.4666888.xyz/iptv.php?id=20115
-#EXTINF:-1 logo="" group-title="港澳臺" ,天映频道
-http://iptv.4666888.xyz/iptv.php?id=20116
-#EXTINF:-1 logo="" group-title="港澳臺" ,天映频道2
-http://iptv.4666888.xyz/iptv.php?id=20117
-#EXTINF:-1 logo="" group-title="港澳臺" ,美亚电影(港)
-http://iptv.4666888.xyz/iptv.php?id=20120
-#EXTINF:-1 logo="" group-title="港澳臺" ,星光视界
-http://iptv.4666888.xyz/iptv.php?id=20121
-#EXTINF:-1 logo="" group-title="港澳臺" ,重温经典
-http://iptv.4666888.xyz/iptv.php?id=20122
-#EXTINF:-1 logo="" group-title="港澳臺" ,88赛马
-http://iptv.4666888.xyz/iptv.php?id=20123
-#EXTINF:-1 logo="" group-title="港澳臺" ,无线18赛马
-http://iptv.4666888.xyz/iptv.php?id=20125
-#EXTINF:-1 logo="" group-title="港澳臺" ,澳门Macau
-http://iptv.4666888.xyz/iptv.php?id=20128
-#EXTINF:-1 logo="" group-title="港澳臺" ,澳门资讯
-http://iptv.4666888.xyz/iptv.php?id=20129
-#EXTINF:-1 logo="" group-title="港澳臺" ,澳门莲花
-http://iptv.4666888.xyz/iptv.php?id=20130
-#EXTINF:-1 logo="" group-title="港澳臺" ,澳门体育
-http://iptv.4666888.xyz/iptv.php?id=20131
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB-EYT
-http://iptv.4666888.xyz/iptv.php?id=20133
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB-Music
-http://iptv.4666888.xyz/iptv.php?id=20134
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB-Sports
-http://iptv.4666888.xyz/iptv.php?id=20135
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB-劇場
-http://iptv.4666888.xyz/iptv.php?id=20136
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB-煲劇
-http://iptv.4666888.xyz/iptv.php?id=20137
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB-獎門人
-http://iptv.4666888.xyz/iptv.php?id=20138
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB-話當年
-http://iptv.4666888.xyz/iptv.php?id=20139
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB-識食
-http://iptv.4666888.xyz/iptv.php?id=20141
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB-金曲
-http://iptv.4666888.xyz/iptv.php?id=20142
-#EXTINF:-1 logo="" group-title="港澳臺" ,新加坡MU
-http://iptv.4666888.xyz/iptv.php?id=20284
-#EXTINF:-1 logo="" group-title="港澳臺" ,新加坡M5
-http://iptv.4666888.xyz/iptv.php?id=20285
-#EXTINF:-1 logo="" group-title="港澳臺" ,Hub娱家
-http://iptv.4666888.xyz/iptv.php?id=20287
-#EXTINF:-1 logo="" group-title="港澳臺" ,Hub都会
-http://iptv.4666888.xyz/iptv.php?id=20288
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVBS新闻
-http://iptv.4666888.xyz/iptv.php?id=20168
-#EXTINF:-1 logo="" group-title="港澳臺" ,三立新闻
-http://iptv.4666888.xyz/iptv.php?id=20169
-#EXTINF:-1 logo="" group-title="港澳臺" ,三立iNEWS
-http://iptv.4666888.xyz/iptv.php?id=20170
-#EXTINF:-1 logo="" group-title="港澳臺" ,中视新闻
-http://iptv.4666888.xyz/iptv.php?id=20171
-#EXTINF:-1 logo="" group-title="港澳臺" ,台视新闻
-http://iptv.4666888.xyz/iptv.php?id=20172
-#EXTINF:-1 logo="" group-title="港澳臺" ,中天新闻
-http://iptv.4666888.xyz/iptv.php?id=20173
-#EXTINF:-1 logo="" group-title="港澳臺" ,东森新闻
-http://iptv.4666888.xyz/iptv.php?id=20174
-#EXTINF:-1 logo="" group-title="港澳臺" ,寰宇新闻
-http://iptv.4666888.xyz/iptv.php?id=20176
-#EXTINF:-1 logo="" group-title="港澳臺" ,寰宇新闻台湾
-http://iptv.4666888.xyz/iptv.php?id=20293
-#EXTINF:-1 logo="" group-title="港澳臺" ,民视新闻
-http://iptv.4666888.xyz/iptv.php?id=20177
-#EXTINF:-1 logo="" group-title="港澳臺" ,年代新闻
-http://iptv.4666888.xyz/iptv.php?id=20178
-#EXTINF:-1 logo="" group-title="港澳臺" ,非凡新闻
-http://iptv.4666888.xyz/iptv.php?id=20179
-#EXTINF:-1 logo="" group-title="港澳臺" ,摬新闻
-http://iptv.4666888.xyz/iptv.php?id=20180
-#EXTINF:-1 logo="" group-title="港澳臺" ,中天CTI+
-http://iptv.4666888.xyz/iptv.php?id=20181
-#EXTINF:-1 logo="" group-title="港澳臺" ,民视
-http://iptv.4666888.xyz/iptv.php?id=20182
-#EXTINF:-1 logo="" group-title="港澳臺" ,中视
-http://iptv.4666888.xyz/iptv.php?id=20183
-#EXTINF:-1 logo="" group-title="港澳臺" ,华视
-http://iptv.4666888.xyz/iptv.php?id=20184
-#EXTINF:-1 logo="" group-title="港澳臺" ,公视
-http://iptv.4666888.xyz/iptv.php?id=20185
-#EXTINF:-1 logo="" group-title="港澳臺" ,台视
-http://iptv.4666888.xyz/iptv.php?id=20186
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVBS HD
-http://iptv.4666888.xyz/iptv.php?id=20188
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVBS欢乐
-http://iptv.4666888.xyz/iptv.php?id=20189
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVBS亚洲
-http://iptv.4666888.xyz/iptv.php?id=20190
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVBS精采
-http://iptv.4666888.xyz/iptv.php?id=20191
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVBS综艺
-http://iptv.4666888.xyz/iptv.php?id=20192
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVBS台剧
-http://iptv.4666888.xyz/iptv.php?id=20193
-#EXTINF:-1 logo="" group-title="港澳臺" ,八大第一
-http://iptv.4666888.xyz/iptv.php?id=20197
-#EXTINF:-1 logo="" group-title="港澳臺" ,八大戏剧
-http://iptv.4666888.xyz/iptv.php?id=20199
-#EXTINF:-1 logo="" group-title="港澳臺" ,八大精采
-http://iptv.4666888.xyz/iptv.php?id=20201
-#EXTINF:-1 logo="" group-title="港澳臺" ,三立台湾
-http://iptv.4666888.xyz/iptv.php?id=20202
-#EXTINF:-1 logo="" group-title="港澳臺" ,三立戏剧
-http://iptv.4666888.xyz/iptv.php?id=20203
-#EXTINF:-1 logo="" group-title="港澳臺" ,三立综合
-http://iptv.4666888.xyz/iptv.php?id=20204
-#EXTINF:-1 logo="" group-title="港澳臺" ,三立都会
-http://iptv.4666888.xyz/iptv.php?id=20205
-#EXTINF:-1 logo="" group-title="港澳臺" ,东森综合
-http://iptv.4666888.xyz/iptv.php?id=20206
-#EXTINF:-1 logo="" group-title="港澳臺" ,东森戏剧
-http://iptv.4666888.xyz/iptv.php?id=20207
-#EXTINF:-1 logo="" group-title="港澳臺" ,东森超视34.5
-http://iptv.4666888.xyz/iptv.php?id=20208
-#EXTINF:-1 logo="" group-title="港澳臺" ,东森美洲
-http://iptv.4666888.xyz/iptv.php?id=20210
-#EXTINF:-1 logo="" group-title="港澳臺" ,东森电影
-http://iptv.4666888.xyz/iptv.php?id=20211
-#EXTINF:-1 logo="" group-title="港澳臺" ,东森洋片
-http://iptv.4666888.xyz/iptv.php?id=20212
-#EXTINF:-1 logo="" group-title="港澳臺" ,东森Yoyo
-http://iptv.4666888.xyz/iptv.php?id=20213
-#EXTINF:-1 logo="" group-title="港澳臺" ,民事第一
-http://iptv.4666888.xyz/iptv.php?id=20214
-#EXTINF:-1 logo="" group-title="港澳臺" ,民视台湾
-http://iptv.4666888.xyz/iptv.php?id=20216
-#EXTINF:-1 logo="" group-title="港澳臺" ,民事综艺
-http://iptv.4666888.xyz/iptv.php?id=20217
-#EXTINF:-1 logo="" group-title="港澳臺" ,民视戏剧
-http://iptv.4666888.xyz/iptv.php?id=20219
-#EXTINF:-1 logo="" group-title="港澳臺" ,中视经典
-http://iptv.4666888.xyz/iptv.php?id=20221
-#EXTINF:-1 logo="" group-title="港澳臺" ,中视菁采
-http://iptv.4666888.xyz/iptv.php?id=20222
-#EXTINF:-1 logo="" group-title="港澳臺" ,智林体育
-http://iptv.4666888.xyz/iptv.php?id=20224
-#EXTINF:-1 logo="" group-title="港澳臺" ,纬来体育
-http://iptv.4666888.xyz/iptv.php?id=20225
-#EXTINF:-1 logo="" group-title="港澳臺" ,纬来日本
-http://iptv.4666888.xyz/iptv.php?id=20226
-#EXTINF:-1 logo="" group-title="港澳臺" ,纬来电影
-http://iptv.4666888.xyz/iptv.php?id=20227
-#EXTINF:-1 logo="" group-title="港澳臺" ,纬来综合
-http://iptv.4666888.xyz/iptv.php?id=20228
-#EXTINF:-1 logo="" group-title="港澳臺" ,爱尔达影剧
-http://iptv.4666888.xyz/iptv.php?id=20230
-#EXTINF:-1 logo="" group-title="港澳臺" ,爱尔达体育1
-http://iptv.4666888.xyz/iptv.php?id=20232
-#EXTINF:-1 logo="" group-title="港澳臺" ,爱尔达体育2
-http://iptv.4666888.xyz/iptv.php?id=20233
-#EXTINF:-1 logo="" group-title="港澳臺" ,爱尔达体育3
-http://iptv.4666888.xyz/iptv.php?id=20234
-#EXTINF:-1 logo="" group-title="港澳臺" ,爱尔达体育4
-http://iptv.4666888.xyz/iptv.php?id=20235
-#EXTINF:-1 logo="" group-title="港澳臺" ,靖天国际台
-http://iptv.4666888.xyz/iptv.php?id=20236
-#EXTINF:-1 logo="" group-title="港澳臺" ,靖天卡通
-http://iptv.4666888.xyz/iptv.php?id=20237
-#EXTINF:-1 logo="" group-title="港澳臺" ,美亚电影
-http://iptv.4666888.xyz/iptv.php?id=20239
-#EXTINF:-1 logo="" group-title="港澳臺" ,龙华电影
-http://iptv.4666888.xyz/iptv.php?id=20240
-#EXTINF:-1 logo="" group-title="港澳臺" ,龙华戏剧
-http://iptv.4666888.xyz/iptv.php?id=20241
-#EXTINF:-1 logo="" group-title="港澳臺" ,龙华日韩
-http://iptv.4666888.xyz/iptv.php?id=20244
-#EXTINF:-1 logo="" group-title="港澳臺" ,龙华经典
-http://iptv.4666888.xyz/iptv.php?id=20245
-#EXTINF:-1 logo="" group-title="港澳臺" ,龙华卡通
-http://iptv.4666888.xyz/iptv.php?id=20246
-#EXTINF:-1 logo="" group-title="港澳臺" ,龙祥时代
-http://iptv.4666888.xyz/iptv.php?id=20247
-#EXTINF:-1 logo="" group-title="港澳臺" ,好莱乌电影
-http://iptv.4666888.xyz/iptv.php?id=20248
-#EXTINF:-1 logo="" group-title="港澳臺" ,HBO
-http://iptv.4666888.xyz/iptv.php?id=20249
-#EXTINF:-1 logo="" group-title="港澳臺" ,HBO_HD
-http://iptv.4666888.xyz/iptv.php?id=20250
-#EXTINF:-1 logo="" group-title="港澳臺" ,HBO_HITS
-http://iptv.4666888.xyz/iptv.php?id=20252
-#EXTINF:-1 logo="" group-title="港澳臺" ,HBO-Ignature
-http://iptv.4666888.xyz/iptv.php?id=20253
-#EXTINF:-1 logo="" group-title="港澳臺" ,ONE电影
-http://iptv.4666888.xyz/iptv.php?id=20255
-#EXTINF:-1 logo="" group-title="港澳臺" ,爱尔达娱乐
-http://iptv.4666888.xyz/iptv.php?id=20303
-#EXTINF:-1 logo="" group-title="港澳臺" ,CINEMAX
-http://iptv.4666888.xyz/iptv.php?id=20256
-#EXTINF:-1 logo="" group-title="港澳臺" ,Star Movies
-http://iptv.4666888.xyz/iptv.php?id=20257
-#EXTINF:-1 logo="" group-title="港澳臺" ,Thrill
-http://iptv.4666888.xyz/iptv.php?id=20259
-#EXTINF:-1 logo="" group-title="港澳臺" ,欢喜台
-http://iptv.4666888.xyz/iptv.php?id=20260
-#EXTINF:-1 logo="" group-title="港澳臺" ,MDAX
-http://iptv.4666888.xyz/iptv.php?id=20261
-#EXTINF:-1 logo="" group-title="港澳臺" ,CN卡通
-http://iptv.4666888.xyz/iptv.php?id=20262
-#EXTINF:-1 logo="" group-title="港澳臺" ,博斯运动2
-http://iptv.4666888.xyz/iptv.php?id=20264
-#EXTINF:-1 logo="" group-title="港澳臺" ,博斯高球2
-http://iptv.4666888.xyz/iptv.php?id=20265
-#EXTINF:-1 logo="" group-title="港澳臺" ,博斯高球1
-http://iptv.4666888.xyz/iptv.php?id=20266
-#EXTINF:-1 logo="" group-title="港澳臺" ,博斯网球
-http://iptv.4666888.xyz/iptv.php?id=20267
-#EXTINF:-1 logo="" group-title="港澳臺" ,博斯无限
-http://iptv.4666888.xyz/iptv.php?id=20268
-#EXTINF:-1 logo="" group-title="港澳臺" ,WWE摔胶
-http://iptv.4666888.xyz/iptv.php?id=20269
-#EXTINF:-1 logo="" group-title="港澳臺" ,亚洲美食
-http://iptv.4666888.xyz/iptv.php?id=20270
-#EXTINF:-1 logo="" group-title="港澳臺" ,TLC亚洲旅游
-http://iptv.4666888.xyz/iptv.php?id=20272
-#EXTINF:-1 logo="" group-title="港澳臺" ,ASIA亚洲旅游
-http://iptv.4666888.xyz/iptv.php?id=20273
-#EXTINF:-1 logo="" group-title="港澳臺" ,阿里郎Ariranga
-http://iptv.4666888.xyz/iptv.php?id=20274
-#EXTINF:-1 logo="" group-title="港澳臺" ,ROCK Entertainment
-http://iptv.4666888.xyz/iptv.php?id=20275
-#EXTINF:-1 logo="" group-title="港澳臺" ,MTV_Livea
-http://iptv.4666888.xyz/iptv.php?id=20276
-#EXTINF:-1 logo="" group-title="港澳臺" ,动物星球
-http://iptv.4666888.xyz/iptv.php?id=20277
-#EXTINF:-1 logo="" group-title="港澳臺" ,BBC_Earth
-http://iptv.4666888.xyz/iptv.php?id=20279
-#EXTINF:-1 logo="" group-title="港澳臺" ,BBC_Lifestyle
-http://iptv.4666888.xyz/iptv.php?id=20280
-#EXTINF:-1 logo="" group-title="港澳臺" ,新加坡剧乐酷
-http://iptv.4666888.xyz/iptv.php?id=20281
-#EXTINF:-1 logo="" group-title="港澳臺" ,新加坡e乐
-http://iptv.4666888.xyz/iptv.php?id=20282
-#EXTINF:-1 logo="" group-title="港澳臺" ,History
-http://iptv.4666888.xyz/iptv.php?id=20283
-#EXTINF:-1 logo="" group-title="港澳臺" ,KTSF26(美)
-http://iptv.4666888.xyz/iptv.php?id=20290
-#EXTINF:-1 logo="" group-title="港澳臺" ,靖洋戏剧
-http://iptv.4666888.xyz/iptv.php?id=20294
-#EXTINF:-1 logo="" group-title="港澳臺" ,靖洋卡通
-http://iptv.4666888.xyz/iptv.php?id=20295
-#EXTINF:-1 logo="" group-title="港澳臺" ,靖天综合
-http://iptv.4666888.xyz/iptv.php?id=20296
-#EXTINF:-1 logo="" group-title="港澳臺" ,靖天欢乐
-http://iptv.4666888.xyz/iptv.php?id=20297
-#EXTINF:-1 logo="" group-title="港澳臺" ,靖天映画
-http://iptv.4666888.xyz/iptv.php?id=20298
-#EXTINF:-1 logo="" group-title="港澳臺" ,靖天戏剧
-http://iptv.4666888.xyz/iptv.php?id=20299
-#EXTINF:-1 logo="" group-title="港澳臺" ,靖天电影
-http://iptv.4666888.xyz/iptv.php?id=20300
-#EXTINF:-1 logo="" group-title="港澳臺" ,靖天育乐
-http://iptv.4666888.xyz/iptv.php?id=20301
-#EXTINF:-1 logo="" group-title="港澳臺" ,靖天资讯
-http://iptv.4666888.xyz/iptv.php?id=20302
+#EXTINF:-1 logo="" group-title="港澳臺" ,DAZN体育2
+rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1 logo="" group-title="广东" ,广东大湾区
 http://222.128.55.152:9080/live/dwq.m3u8
@@ -1022,8 +390,6 @@ http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 logo="" group-title="广东" ,河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 logo="" group-title="广东" ,广东珠江
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 logo="" group-title="广东" ,广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 #EXTINF:-1 logo="" group-title="广东" ,广州新闻
@@ -1039,48 +405,30 @@ https://live.yjtvw.com:8081/live/yjtv1.m3u8
 #EXTINF:-1 logo="" group-title="广东" ,阳江-2
 https://live.yjtvw.com:8081/live/yjtv2.m3u8
 
-#EXTINF:-1 logo="" group-title="上海" ,纪实人文
-http://8.138.7.223/tv/shtv.php?id=xjs
 #EXTINF:-1 logo="" group-title="上海" ,五星体育
 http://8.138.7.223/tv/shtv.php?id=wxty
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
 https://stream1.freetv.fun/xin-wen-zong-he-11.ctv
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-1.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-http://z.b.bkpcp.top/m.php?id=shxw
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
 https://stream1.freetv.fun/ipv6-xin-wen-zong-he-15.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/xin-wen-zong-he-9.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/ipv6-shang-hai-xin-wen-zong-he-3.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=2c1df649aa4a05375c169ba80b0e1237948ea4ca1f76374295c3a13814b384753f3baf0671b15276cc4e08d3b8cc736174d9e248cc91974b4a90971bb67c1980a21d82ed456a9630f45e87f4b0
+https://stream1.freetv.fun/ipv6-shang-hai-xin-wen-zong-he-6.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
 https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
 https://xatv-yt.xiancity.cn/live/1/index.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/ipv6-xin-wen-zong-he-11.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
 https://migu.188766.xyz/?migutoken=1f3e782d6259d3de81dfb5807babec9f&id=xwzh&type=sz
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-10.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/xin-wen-zong-he-1.ctv
+https://stream1.freetv.fun/xin-wen-zong-he-13.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
 http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/xin-wen-zong-he-2.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/ipv6-shang-hai-xin-wen-zong-he-7.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
 http://8.138.7.223/tv/shtv.php?id=xwzh
+#EXTINF:-1 logo="" group-title="上海" ,新闻综合
+https://stream1.freetv.fun/ipv6-shang-hai-xin-wen-zong-he-2.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
 http://mg.hmysapp.cn:177/ckmg/zb.php?id=shxwzh
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
@@ -1089,52 +437,22 @@ http://sh.lnott.top:880/dx28.m3u8
 https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=3d07ca6dd63fe88d489828ac56bd02581e576f20c460c32bec943a86a2d159b51a177f4186aa91045ee1c3b1b14ede5accc85b0c58c01a8201e6e8277e222da8b0cd553a74a01b9b3bb56893f8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
 https://stream1.freetv.fun/xin-wen-zong-he-15.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-8.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/xin-wen-zong-he-14.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-6.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,东方影视
 https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-13.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,东方影视
 https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-4.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-1.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-2.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-13.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-10.m3u8
+https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-3.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,东方影视
 https://stream1.freetv.fun/dong-fang-ying-shi-7.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,东方影视
 https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-14.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,东方影视
-http://gat.bkpcp.top/ymg.php?id=shys
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-8.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-6.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-6.ctv
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-8.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
 https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-7.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-5.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-2.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,上海都市
 https://stream1.freetv.fun/ipv6-shang-hai-du-shi-5.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,上海都市
-https://stream1.freetv.fun/ipv6-shang-hai-du-shi-6.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海都市
 http://8.138.7.223/tv/shtv.php?id=ds
-#EXTINF:-1 logo="" group-title="上海" ,上海都市
-https://stream1.freetv.fun/ipv6-shang-hai-du-shi-4.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,上海都市
 https://stream1.freetv.fun/ipv6-shang-hai-du-shi-8.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,上海都市
@@ -1142,17 +460,9 @@ https://stream1.freetv.fun/ipv6-shang-hai-du-shi-1.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,上海都市
 https://stream1.freetv.fun/shang-hai-du-shi-8.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,上海都市
-https://stream1.freetv.fun/shang-hai-du-shi-10.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海都市
-https://stream1.freetv.fun/shang-hai-du-shi-1.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海都市
 https://migu.188766.xyz/?migutoken=63cd8ecac8c6c861f718e19f1b4496f7&id=ds&type=sz
-#EXTINF:-1 logo="" group-title="上海" ,上海都市
-https://stream1.freetv.fun/ipv6-shang-hai-du-shi-2.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海都市
-https://stream1.freetv.fun/ipv6-shang-hai-du-shi-10.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/ipv6-di-yi-cai-jing-7.m3u8
+https://stream1.freetv.fun/di-yi-cai-jing-13.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
 https://migu.188766.xyz/?migutoken=d0a3836066a9886cd600ae57bcfe4638&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&type=yy
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
@@ -1160,97 +470,33 @@ https://migu.188766.xyz/?migutoken=3c5bcc977566f006531ca2e593e70516&id=dycj&type
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
 http://mg.hmysapp.cn:177/ckmg/zb.php?id=dycj
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/di-yi-cai-jing-10.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
 http://8.138.7.223/tv/shtv.php?id=dycj
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
 https://mgtv.ottiptv.cc/migu/608780988.m3u8?migutoken=dfed5da7e29e8b57e2aed3975fb3c0bfe41b53caed5efc9396edfc75fec33a9eeb357652ef34a96b8623b38e12b71bee632bf6f127e9c17861e5ca6e52898d0d770965f4de553ee23aeea5ce2c
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
 https://stream1.freetv.fun/di-yi-cai-jing-3.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/di-yi-cai-jing-6.ctv
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/ipv6-di-yi-cai-jing-6.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
 https://stream1.freetv.fun/ipv6-di-yi-cai-jing-1.ctv
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
-http://t.061899.xyz/tl/dq.php?id=dycj
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
 https://cdn3.163189.xyz/163189/dycj
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/ipv6-di-yi-cai-jing-3.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/di-yi-cai-jing-7.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
 https://stream1.freetv.fun/ipv6-di-yi-cai-jing-13.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
 https://stream1.freetv.fun/ipv6-di-yi-cai-jing-4.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/di-yi-cai-jing-2.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/ipv6-di-yi-cai-jing-8.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海纪实
-https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-5.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海纪实
-https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-1.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海纪实
-https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-2.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,上海纪实
 https://stream1.freetv.fun/shang-hai-ji-shi-ren-wen-1.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-25.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/ipv6-sheng-huo-shi-shang-14.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-23.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-13.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
 https://stream1.freetv.fun/sheng-huo-shi-shang-5.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-19.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-11.ctv
 #EXTINF:-1 logo="" group-title="上海" ,生活时尚
 https://stream1.freetv.fun/ipv6-sheng-huo-shi-shang-7.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,生活时尚
 https://stream1.freetv.fun/sheng-huo-shi-shang-6.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-28.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
 https://stream1.freetv.fun/ipv6-sheng-huo-shi-shang-2.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-9.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-2.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-29.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-18.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-http://nas.hssvm.com:8888/udp/225.1.1.143:5002
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-9.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-26.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-14.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-17.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-25.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-11.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-4.ctv
+https://stream1.freetv.fun/ipv6-sheng-huo-shi-shang-5.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,生活时尚
 https://stream1.freetv.fun/sheng-huo-shi-shang-27.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-10.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-24.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-12.m3u8
 
 #EXTINF:-1 logo="" group-title="浙江" ,浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -1279,12 +525,6 @@ http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 logo="" group-title="浙江" ,云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 
-#EXTINF:-1 logo="" group-title="江苏" ,江苏城市
-https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
-#EXTINF:-1 logo="" group-title="江苏" ,江苏教育
-https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c54.ctv
-#EXTINF:-1 logo="" group-title="江苏" ,江苏体育休闲
-https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv
 #EXTINF:-1 logo="" group-title="江苏" ,苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 logo="" group-title="江苏" ,苏州社会经济
@@ -1350,8 +590,6 @@ http://112.46.105.20:8009/hls/509/index.m3u8
 http://112.46.105.20:8009/hls/506/index.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CCTV12
 http://112.46.105.20:8009/hls/507/index.m3u8
-#EXTINF:-1 logo="" group-title="央视" ,CCTV1
-http://112.132.10.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV2
 http://112.132.10.54:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV3
@@ -1360,30 +598,18 @@ http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV6
 http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="央视" ,CCTV7
-http://112.132.10.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV8
 http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="央视" ,CCTV9
-http://112.132.10.54:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="央视" ,CCTV10
-http://112.132.10.54:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="央视" ,CCTV12
-http://112.132.10.54:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV11
+http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV15
 http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="央视" ,CCTV1
-http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV2
 http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV3
 http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV4
 http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="央视" ,CCTV5
-http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="央视" ,CCTV6
-http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV7
 http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV8
@@ -1392,22 +618,14 @@ http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV10
 http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV11
+http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV12
 http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="央视" ,CCTV13
-http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV14
 http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV15
 http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="央视" ,CCTV风云足球
-http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
-#EXTINF:-1 logo="" group-title="央视" ,CCTV怀旧剧场
-http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
-#EXTINF:-1 logo="" group-title="央视" ,CCTV央视台球
-http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
-#EXTINF:-1 logo="" group-title="央视" ,CCTV央视高网
-http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
 #EXTINF:-1 logo="" group-title="央视" ,CCTV风云足球
 http://111.61.236.247:9081/hls/58/index.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CCTV世界地理
@@ -1418,16 +636,10 @@ http://sh.lnott.top:880/dx72.m3u8
 http://sh.lnott.top:880/dx81.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CCTV高尔夫网球
 http://sh.lnott.top:880/dx98.m3u8
-#EXTINF:-1 logo="" group-title="央视" ,CCTV女性时尚
-http://sh.lnott.top:880/dx105.m3u8
-#EXTINF:-1 logo="" group-title="央视" ,CCTV电视指南
-http://www.tszhgjj.cn:7000/rtp/239.253.93.249:6427
 #EXTINF:-1 logo="" group-title="央视" ,CCTV-5 体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CCTV-5+体育赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 logo="" group-title="央视" ,CGTN英语
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CGTN纪录
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CGTN英语
@@ -1438,8 +650,6 @@ https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CGTN英语
 https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 logo="" group-title="央视" ,CGTN纪录
-https://0472.org/hls/cgtnd.m3u8
 
 #EXTINF:-1 logo="" group-title="卫视" ,湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
@@ -1473,8 +683,6 @@ http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
 http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
 #EXTINF:-1 logo="" group-title="卫视" ,广东卫视
 http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
-#EXTINF:-1 logo="" group-title="卫视" ,山东卫视
-http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
 #EXTINF:-1 logo="" group-title="卫视" ,东南卫视
 http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
 #EXTINF:-1 logo="" group-title="卫视" ,贵州卫视
@@ -1491,8 +699,6 @@ http://iptv.huuc.edu.cn/hls/hbhd.m3u8
 http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1 logo="" group-title="卫视" ,重庆卫视
 http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 logo="" group-title="卫视" ,四川卫视
-http://iptv.huuc.edu.cn/hls/schd.m3u8
 #EXTINF:-1 logo="" group-title="卫视" ,东南卫视
 http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1 logo="" group-title="卫视" ,江西卫视
@@ -1509,10 +715,6 @@ http://mg.hmysapp.cn:177/ckmg/zb.php?id=jxws
 http://mg.hmysapp.cn:177/ckmg/zb.php?id=sxws
 #EXTINF:-1 logo="" group-title="卫视" ,广东卫视
 http://mg.hmysapp.cn:177/ckmg/zb.php?id=gdws
-#EXTINF:-1 logo="" group-title="卫视" ,安徽卫视
-http://153.0.171.163:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="卫视" ,北京卫视
-http://153.0.171.163:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,重庆卫视
 http://153.0.171.163:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,东方卫视
@@ -1533,8 +735,6 @@ http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 http://153.0.171.163:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,辽宁卫视
 http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="卫视" ,宁夏卫视
-http://153.0.171.163:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,青海卫视
 http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,山东卫视
@@ -1553,42 +753,3 @@ http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,东方卫视
 http://omnix.cn:4000/udp/225.1.8.45:8032
-
-#EXTINF:-1 logo="" group-title="XXX" ,松视1
-http://iptv.4666888.xyz/iptv.php?id=20143
-#EXTINF:-1 logo="" group-title="XXX" ,松视2
-http://iptv.4666888.xyz/iptv.php?id=20144
-#EXTINF:-1 logo="" group-title="XXX" ,松视3
-http://iptv.4666888.xyz/iptv.php?id=20145
-#EXTINF:-1 logo="" group-title="XXX" ,彩虹e
-http://iptv.4666888.xyz/iptv.php?id=20146
-#EXTINF:-1 logo="" group-title="XXX" ,彩虹电影
-http://iptv.4666888.xyz/iptv.php?id=20148
-#EXTINF:-1 logo="" group-title="XXX" ,潘朵啦玩美
-http://iptv.4666888.xyz/iptv.php?id=20149
-#EXTINF:-1 logo="" group-title="XXX" ,惊艳电影
-http://iptv.4666888.xyz/iptv.php?id=20150
-#EXTINF:-1 logo="" group-title="XXX" ,Happy
-http://iptv.4666888.xyz/iptv.php?id=20151
-#EXTINF:-1 logo="" group-title="XXX" ,香蕉
-http://iptv.4666888.xyz/iptv.php?id=20152
-#EXTINF:-1 logo="" group-title="XXX" ,PIGOO
-http://iptv.4666888.xyz/iptv.php?id=20153
-#EXTINF:-1 logo="" group-title="XXX" ,极限电影
-http://iptv.4666888.xyz/iptv.php?id=20154
-#EXTINF:-1 logo="" group-title="XXX" ,免仔TV-女同
-http://iptv.4666888.xyz/iptv.php?id=20156
-#EXTINF:-1 logo="" group-title="XXX" ,麻豆AV
-http://iptv.4666888.xyz/iptv.php?id=20157
-#EXTINF:-1 logo="" group-title="XXX" ,pornbox日本AV
-http://iptv.4666888.xyz/iptv.php?id=20158
-#EXTINF:-1 logo="" group-title="XXX" ,JStar三级片
-http://iptv.4666888.xyz/iptv.php?id=20159
-#EXTINF:-1 logo="" group-title="XXX" ,国外AV2
-http://iptv.4666888.xyz/iptv.php?id=20161
-#EXTINF:-1 logo="" group-title="XXX" ,国外AV3
-http://iptv.4666888.xyz/iptv.php?id=20162
-#EXTINF:-1 logo="" group-title="XXX" ,国外AV5
-http://iptv.4666888.xyz/iptv.php?id=20164
-#EXTINF:-1 logo="" group-title="XXX" ,国外AV6
-http://iptv.4666888.xyz/iptv.php?id=20165
