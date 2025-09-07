@@ -16,8 +16,6 @@ https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 logo="" group-title="World" ,RT Doc-Русский（俄语纪录）
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Newsmax
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,TBS
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,BBC
@@ -36,12 +34,12 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 http://fortv.cc:8080/q8KuDU/354945/79108
 #EXTINF:-1 logo="" group-title="World" ,Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 logo="" group-title="World" ,CNBC
-http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,FOX5
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,ESPN News
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 logo="" group-title="World" ,ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,NewsNation
 http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,NHK World
@@ -62,8 +60,6 @@ http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 http://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,FYI
 http://fl3.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Aspire
 http://143.244.60.30/Aspire/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Bounce
@@ -88,8 +84,6 @@ http://143.244.60.30/LIFETIME/index.m3u8
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,VH1
 http://fl3.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,GoUSA TV
-https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Showtime
 http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Bravo
@@ -108,8 +102,6 @@ http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Nick Jr.
 http://fl3.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Disney Channel
-http://fl5.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,DISCOVERY LIFE
 http://143.244.60.30/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,DISNEY XD
@@ -152,6 +144,8 @@ http://143.244.60.30/Animal_Planet/index.m3u8
 http://143.244.60.30/DIY/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Fuse
 http://fl3.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 logo="" group-title="World" ,LMN
+http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,GRIT TV
 http://143.244.60.30/GRIT_TV/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Hallmark
@@ -170,8 +164,6 @@ http://143.244.60.30/Destination_America/index.m3u8
 http://143.244.60.30/Discovery_Science/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,HGTV
 http://143.244.60.30/HGTV/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,INSP TV
-http://143.244.60.30/INSP/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,MTV
 http://143.244.60.30/MTV/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,MTV Live
@@ -231,6 +223,8 @@ https://30a-tv.com/feeds/vidaa/golf.m3u8
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,ACCN (720p)
 https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 logo="" group-title="Sports" ,AfroSport Nigeria
+https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,Alkass SHOOF (1080p)
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,AntenaSport (720p) [Not 24/7]
@@ -247,10 +241,6 @@ https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,ČT Sport (720p)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Dubai Racing (1080p)
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Dubai Racing 3 (1080p)
-https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,Dubai Sports 2 (720p)
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,Eleven Sports 1 (2160p)
@@ -275,16 +265,24 @@ https://fl3.moveonjoy.com/GOLF/index.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,KHL Prime
 http://194.143.148.28:8080/KHL_HD/index.m3u8
+#EXTINF:-1 logo="" group-title="Sports" ,M-Net Sport (720p)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,MadeinBO TV (1080p)
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,MLB Network
 https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,MSG
 https://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 logo="" group-title="Sports" ,MSG Plus (720p)
+https://tvpass.org/live/msg-plus/hd
 #EXTINF:-1 logo="" group-title="Sports" ,Nautical Channel (720p)
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,NBC Sports Bay Area (720p)
 https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 logo="" group-title="Sports" ,NBC Sports Boston (1080p)
+https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 logo="" group-title="Sports" ,NBC Sports Philadelphia (720p)
+https://tvpass.org/live/nbc-sports-philadelphia/hd
 #EXTINF:-1 logo="" group-title="Sports" ,NFL Network
 https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,NFL RedZone
@@ -293,6 +291,8 @@ https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,Persiana Sport
 https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 logo="" group-title="Sports" ,Pluto TV Deportes (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 logo="" group-title="Sports" ,Pluto TV Sport Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 logo="" group-title="Sports" ,Radio Turrialba TV Sports (720p) [Geo-blocked]
@@ -307,12 +307,6 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,TDM Sports Ch. 93 (720p)
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,TSN2
-https://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,TSN3
-https://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,TSN5
-https://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,VITAL Basketball [Not 24/7]
 https://vslive.pw/stream/48684/index.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,VITAL Football [Not 24/7]
@@ -337,6 +331,8 @@ http://31.148.48.15/Futbol_HD/index.m3u8
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 logo="" group-title="Sports" ,RightNow TV (720p)
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,ESPNews (720p)
 https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,RTI La 3 (1080p) [Not 24/7]
@@ -352,12 +348,20 @@ http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://xiaoya.crccxw.top:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="" group-title="体育" ,睛彩竞技
 http://xiaoya.crccxw.top:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1 logo="" group-title="体育" ,睛彩竞技
+http://[2409:8087:1a01:df::4061]/TVOD/88888888/224/3221225899/main.m3u8
+#EXTINF:-1 logo="" group-title="体育" ,睛彩竞技
+http://drive.mxmy.net:8888/udp/239.3.1.125:8001
 #EXTINF:-1 logo="" group-title="体育" ,睛彩篮球
 http://xiaoya.crccxw.top:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
+#EXTINF:-1 logo="" group-title="体育" ,睛彩篮球
+http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 #EXTINF:-1 logo="" group-title="体育" ,睛彩篮球
 http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,睛彩篮球
 http://xiaoya.crccxw.top:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 logo="" group-title="体育" ,睛彩羽毛球
+http://drive.mxmy.net:8888/udp/239.3.1.127:8001
 #EXTINF:-1 logo="" group-title="体育" ,超级体育
 http://111.43.126.240:9003/hls/86/index.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,超级体育
@@ -469,6 +473,8 @@ https://stream1.freetv.fun/yan-dong-ti-yu-38.ctv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-19.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
+http://117.141.162.238:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="体育" ,广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-15.ctv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8
@@ -529,9 +535,17 @@ https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,纬来体育
 http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
 #EXTINF:-1 logo="" group-title="体育" ,辽宁体育
+http://119.112.167.61:4022/rtp/232.0.0.66:8820
+#EXTINF:-1 logo="" group-title="体育" ,辽宁体育
+http://ygbh.site/php/bfgd.php?id=611
+#EXTINF:-1 logo="" group-title="体育" ,辽宁体育
+http://120.76.248.139/live/bfgd/4200000611.m3u8
+#EXTINF:-1 logo="" group-title="体育" ,辽宁体育
 https://stream1.freetv.fun/liao-zhu-ti-yu-3.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,风云足球
 http://sh.lnott.top:880/dx71.m3u8
+#EXTINF:-1 logo="" group-title="体育" ,风云足球
+http://183.11.239.36:808/hls/133/index.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,魅力足球
 https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,魅力足球
@@ -548,6 +562,10 @@ https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-4.m3u8
 https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-3.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,央视台球
 http://sh.lnott.top:880/dx82.m3u8
+#EXTINF:-1 logo="" group-title="体育" ,快乐垂钓
+http://121.60.56.116:10001/rtp/239.69.1.142:10488
+#EXTINF:-1 logo="" group-title="体育" ,快乐垂钓
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/KLCDMPP360.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,快乐垂钓
 http://111.8.242.124:4095/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="体育" ,快乐垂钓
@@ -577,8 +595,6 @@ http://mytv.cdn.loc.cc/o12.php?id=fct
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 logo="" group-title="港澳臺" ,翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB娱乐新闻
-http://iptv.4666888.xyz/iptv.php?id=20073
 #EXTINF:-1 logo="" group-title="港澳臺" ,华丽翡翠台
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 #EXTINF:-1 logo="" group-title="港澳臺" ,华丽翡翠台
@@ -589,12 +605,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 logo="" group-title="港澳臺" ,无线新闻
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-#EXTINF:-1 logo="" group-title="港澳臺" ,ViuTV
-http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 logo="" group-title="港澳臺" ,ViuTVSix
-http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVB星河(粤)
-http://iptv.4666888.xyz/iptv.php?id=20101
 #EXTINF:-1 logo="" group-title="港澳臺" ,TVB星河
 http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 #EXTINF:-1 logo="" group-title="港澳臺" ,TVB Plus
@@ -625,8 +635,10 @@ http://php.jdshipin.com:8880/smt.php?id=Celestial2
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 #EXTINF:-1 logo="" group-title="港澳臺" ,凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 logo="" group-title="港澳臺" ,Astro AEC
-http://php.jdshipin.com:8880/smt.php?id=AEC
+#EXTINF:-1 logo="" group-title="港澳臺" ,凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 logo="" group-title="港澳臺" ,八度空间
+http://php.jdshipin.com:8880/smt.php?id=TV8
 #EXTINF:-1 logo="" group-title="港澳臺" ,爱奇艺
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
 #EXTINF:-1 logo="" group-title="港澳臺" ,Astro QJ
@@ -671,12 +683,18 @@ http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,非凡新闻
 rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 logo="" group-title="港澳臺" ,东森超视
+rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 logo="" group-title="港澳臺" ,美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,MOMO TV
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 logo="" group-title="港澳臺" ,纬来日本
 rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 logo="" group-title="港澳臺" ,纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 logo="" group-title="港澳臺" ,纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 logo="" group-title="港澳臺" ,纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,大立电视台  
@@ -701,24 +719,10 @@ https://cdn8.163189.xyz/live/lhox/stream.m3u8
 https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 #EXTINF:-1 logo="" group-title="港澳臺" ,龙华戏剧
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-#EXTINF:-1 logo="" group-title="港澳臺" ,天映频道
-http://iptv.4666888.xyz/iptv.php?id=20116
-#EXTINF:-1 logo="" group-title="港澳臺" ,TVBS综艺
-http://iptv.4666888.xyz/iptv.php?id=20192
-#EXTINF:-1 logo="" group-title="港澳臺" ,东森戏剧
-http://iptv.4666888.xyz/iptv.php?id=20207
-#EXTINF:-1 logo="" group-title="港澳臺" ,东森洋片
-http://iptv.4666888.xyz/iptv.php?id=20212
-#EXTINF:-1 logo="" group-title="港澳臺" ,龙华电影
-http://iptv.4666888.xyz/iptv.php?id=20240
-#EXTINF:-1 logo="" group-title="港澳臺" ,ONE电影
-http://iptv.4666888.xyz/iptv.php?id=20255
-#EXTINF:-1 logo="" group-title="港澳臺" ,爱尔达娱乐
-http://iptv.4666888.xyz/iptv.php?id=20303
-#EXTINF:-1 logo="" group-title="港澳臺" ,欢喜台
-http://iptv.4666888.xyz/iptv.php?id=20260
-#EXTINF:-1 logo="" group-title="港澳臺" ,ROCK Entertainment
-http://iptv.4666888.xyz/iptv.php?id=20275
+#EXTINF:-1 logo="" group-title="港澳臺" ,DAZN体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 logo="" group-title="港澳臺" ,DAZN体育2
+rtmp://f13h.mine.nu/sat/tv741
 
 #EXTINF:-1 logo="" group-title="广东" ,广东大湾区
 http://222.128.55.152:9080/live/dwq.m3u8
@@ -740,10 +744,6 @@ https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 #EXTINF:-1 logo="" group-title="广东" ,番禺综合
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-#EXTINF:-1 logo="" group-title="广东" ,河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 logo="" group-title="广东" ,河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 logo="" group-title="广东" ,广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 logo="" group-title="广东" ,广州综合
@@ -1068,6 +1068,10 @@ http://112.46.105.20:8009/hls/509/index.m3u8
 http://112.46.105.20:8009/hls/506/index.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CCTV12
 http://112.46.105.20:8009/hls/507/index.m3u8
+#EXTINF:-1 logo="" group-title="央视" ,CCTV1
+http://112.132.10.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV2
+http://112.132.10.54:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV3
 http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV5
@@ -1078,24 +1082,50 @@ http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.132.10.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV8
 http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV9
+http://112.132.10.54:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV10
+http://112.132.10.54:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV11
 http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV12
+http://112.132.10.54:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV15
+http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV1
+http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV2
+http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV3
+http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV4
 http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV5
+http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV6
 http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV7
+http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV8
+http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV9
 http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV10
 http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV11
+http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV12
+http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV13
+http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="央视" ,CCTV14
+http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV15
 http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="央视" ,CCTV风云足球
-http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
 #EXTINF:-1 logo="" group-title="央视" ,CCTV怀旧剧场
 http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
-#EXTINF:-1 logo="" group-title="央视" ,CCTV女性时尚
-http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
+#EXTINF:-1 logo="" group-title="央视" ,CCTV央视台球
+http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 #EXTINF:-1 logo="" group-title="央视" ,CCTV央视高网
 http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
 #EXTINF:-1 logo="" group-title="央视" ,CCTV风云足球
@@ -1110,6 +1140,8 @@ http://sh.lnott.top:880/dx81.m3u8
 http://sh.lnott.top:880/dx98.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CCTV女性时尚
 http://sh.lnott.top:880/dx105.m3u8
+#EXTINF:-1 logo="" group-title="央视" ,CCTV电视指南
+http://www.tszhgjj.cn:7000/rtp/239.253.93.249:6427
 #EXTINF:-1 logo="" group-title="央视" ,CCTV-5 体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CCTV-5+体育赛事
@@ -1169,32 +1201,61 @@ http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
 http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
 #EXTINF:-1 logo="" group-title="卫视" ,安徽卫视
 http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 logo="" group-title="卫视" ,黑龙江卫视
+http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 logo="" group-title="卫视" ,深圳卫视
+http://iptv.huuc.edu.cn/hls/szhd.m3u8
 #EXTINF:-1 logo="" group-title="卫视" ,湖北卫视
 http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 logo="" group-title="卫视" ,山东卫视
+http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1 logo="" group-title="卫视" ,重庆卫视
 http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 logo="" group-title="卫视" ,四川卫视
+http://iptv.huuc.edu.cn/hls/schd.m3u8
+#EXTINF:-1 logo="" group-title="卫视" ,东南卫视
+http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1 logo="" group-title="卫视" ,江西卫视
 http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 logo="" group-title="卫视" ,安徽卫视
+http://153.0.171.163:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="卫视" ,北京卫视
+http://153.0.171.163:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,重庆卫视
 http://153.0.171.163:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="卫视" ,东方卫视
+http://153.0.171.163:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,东南卫视
 http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="卫视" ,贵州卫视
+http://153.0.171.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="卫视" ,湖北卫视
+http://153.0.171.163:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="卫视" ,河北卫视
+http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="卫视" ,河南卫视
+http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="卫视" ,吉林卫视
+http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,江西卫视
 http://153.0.171.163:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,辽宁卫视
 http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="卫视" ,宁夏卫视
+http://153.0.171.163:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="卫视" ,青海卫视
+http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="卫视" ,山东卫视
+http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="卫视" ,陕西卫视
+http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,山西卫视
 http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="卫视" ,深圳卫视
+http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="卫视" ,天津卫视
+http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,云南卫视
 http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,浙江卫视
 http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="卫视" ,东方卫视
-http://omnix.cn:4000/udp/225.1.8.45:8032
-
-#EXTINF:-1 logo="" group-title="XXX" ,松视2
-http://iptv.4666888.xyz/iptv.php?id=20144
-#EXTINF:-1 logo="" group-title="XXX" ,JStar三级片
-http://iptv.4666888.xyz/iptv.php?id=20159
-#EXTINF:-1 logo="" group-title="XXX" ,国外AV5
-http://iptv.4666888.xyz/iptv.php?id=20164
