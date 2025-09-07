@@ -1153,16 +1153,3 @@ http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="卫视" ,东方卫视
 http://omnix.cn:4000/udp/225.1.8.45:8032
-
-#EXTINF:-1 logo="" group-title="XXX" ,松视2
-http://iptv.4666888.xyz/iptv.php?id=20144
-#EXTINF:-1 logo="" group-title="XXX" ,松视3
-http://iptv.4666888.xyz/iptv.php?id=20145
-#EXTINF:-1 logo="" group-title="XXX" ,惊艳电影
-http://iptv.4666888.xyz/iptv.php?id=20150
-#EXTINF:-1 logo="" group-title="XXX" ,免仔TV-女同
-http://iptv.4666888.xyz/iptv.php?id=20156
-#EXTINF:-1 logo="" group-title="XXX" ,国外AV5
-http://iptv.4666888.xyz/iptv.php?id=20164
-#EXTINF:-1 logo="" group-title="XXX" ,国外AV6
-http://iptv.4666888.xyz/iptv.php?id=20165
