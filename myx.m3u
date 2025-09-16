@@ -670,8 +670,6 @@ http://iptv.4666888.xyz/iptv.php?id=20301
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 #EXTINF:-1 logo="" group-title="广东" ,广州新闻
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-#EXTINF:-1 logo="" group-title="广东" ,广州影视
-http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 #EXTINF:-1 logo="" group-title="广东" ,广州法治
 http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 #EXTINF:-1 logo="" group-title="广东" ,南国都市
@@ -696,8 +694,6 @@ https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f3823
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 #EXTINF:-1 logo="" group-title="广东" ,广州法治
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=31e9eb294789e59e351fc1f0ab3178bc&txTime=18d00acf487
-#EXTINF:-1 logo="" group-title="广东" ,广州影视
-https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 #EXTINF:-1 logo="" group-title="广东" ,广州南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46
 #EXTINF:-1 logo="" group-title="广东" ,阳江-2
@@ -972,8 +968,6 @@ http://iptv.4666888.xyz/iptv.php?id=20144
 http://iptv.4666888.xyz/iptv.php?id=20146
 #EXTINF:-1 logo="" group-title="XXX" ,K 頻道
 http://iptv.4666888.xyz/iptv.php?id=20147
-#EXTINF:-1 logo="" group-title="XXX" ,彩虹电影
-http://iptv.4666888.xyz/iptv.php?id=20148
 #EXTINF:-1 logo="" group-title="XXX" ,潘朵啦玩美
 http://iptv.4666888.xyz/iptv.php?id=20149
 #EXTINF:-1 logo="" group-title="XXX" ,惊艳电影
@@ -984,8 +978,6 @@ http://iptv.4666888.xyz/iptv.php?id=20151
 http://iptv.4666888.xyz/iptv.php?id=20152
 #EXTINF:-1 logo="" group-title="XXX" ,PIGOO
 http://iptv.4666888.xyz/iptv.php?id=20153
-#EXTINF:-1 logo="" group-title="XXX" ,极限电影
-http://iptv.4666888.xyz/iptv.php?id=20154
 #EXTINF:-1 logo="" group-title="XXX" ,PPA日本AV
 http://iptv.4666888.xyz/iptv.php?id=20155
 #EXTINF:-1 logo="" group-title="XXX" ,免仔TV-女同
