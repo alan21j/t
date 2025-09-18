@@ -173,45 +173,19 @@ http://111.43.126.240:9003/hls/89/index.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,超级体育
 http://111.43.126.240:9003/hls/86/index.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-9.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-13.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-10.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-3.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-10.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
 https://stream1.freetv.fun/wu-xing-ti-yu-4.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-13.ctv
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
 https://stream1.freetv.fun/wu-xing-ti-yu-6.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
 https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-4.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-1.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-3.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://gdcucc.v1.mk/gdcucc/wxty.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
 https://stream1.freetv.fun/wu-xing-ti-yu-8.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
 http://61.173.162.228:4022/rtp/239.45.3.210:5140
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-5.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
 https://cdn3.163189.xyz/163189/wxty
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
 https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-8.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-12.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-2.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-1.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
 https://stream1.freetv.fun/wu-xing-ti-yu-11.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,五星体育
@@ -227,8 +201,6 @@ http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,劲爆体育
 http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-17.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-24.ctv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
@@ -237,141 +209,37 @@ https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-3.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-5.ctv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-30.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-26.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-30.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-8.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-18.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-1.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-10.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-35.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-33.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-38.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-19.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://117.141.162.238:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-15.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-2.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-27.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-13.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://bxtv.3a.ink/api.php?id=gdty
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-9.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-7.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-4.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-25.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-21.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://120.198.95.220:9901/tsfile/live/1010_1.m3u8?key=txiptv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-20.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-4.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-23.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-39.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-16.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-12.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-6.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-12.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-28.ctv
-#EXTINF:-1 logo="" group-title="体育" ,纬来体育
-https://stream1.freetv.fun/wei-lai-ti-yu-7.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,纬来体育
 https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 logo="" group-title="体育" ,纬来体育
 https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 logo="" group-title="体育" ,纬来体育
-https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,纬来体育
 http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
 #EXTINF:-1 logo="" group-title="体育" ,辽宁体育
 http://ygbh.site/php/bfgd.php?id=611
 #EXTINF:-1 logo="" group-title="体育" ,辽宁体育
 http://120.76.248.139/live/bfgd/4200000611.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,辽宁体育
-https://stream1.freetv.fun/liao-zhu-ti-yu-3.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,风云足球
 http://sh.lnott.top:880/dx71.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,魅力足球
-https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,魅力足球
-https://stream1.freetv.fun/mei-li-zu-qiu-5.ctv
-#EXTINF:-1 logo="" group-title="体育" ,魅力足球
-https://stream1.freetv.fun/mei-li-zu-qiu-4.ctv
-#EXTINF:-1 logo="" group-title="体育" ,魅力足球
-https://stream1.freetv.fun/mei-li-zu-qiu-3.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,魅力足球
-https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-5.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,魅力足球
-https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-4.m3u8
-#EXTINF:-1 logo="" group-title="体育" ,魅力足球
-https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-3.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,央视台球
 http://sh.lnott.top:880/dx82.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,天元围棋
 https://cc06.tv12.xyz/47.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,快乐垂钓
 http://111.8.242.124:4095/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="体育" ,DAZN2
-https://stream1.freetv.fun/dazn-sport-2-1.ctv
-#EXTINF:-1 logo="" group-title="体育" ,skysports
-https://stream1.freetv.fun/skysports-14.ctv
-#EXTINF:-1 logo="" group-title="体育" ,skysports
-https://stream1.freetv.fun/skysports-7.ctv
-#EXTINF:-1 logo="" group-title="体育" ,skysports
-https://stream1.freetv.fun/skysports-12.ctv
-#EXTINF:-1 logo="" group-title="体育" ,skysports
-https://stream1.freetv.fun/skysports-17.ctv
-#EXTINF:-1 logo="" group-title="体育" ,skysports
-https://stream1.freetv.fun/skysports-3.ctv
-#EXTINF:-1 logo="" group-title="体育" ,skysports
-https://stream1.freetv.fun/skysports-15.ctv
 
 #EXTINF:-1 logo="" group-title="港澳臺" ,明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
@@ -769,28 +637,14 @@ https://live.yjtvw.com:8081/live/yjtv2.m3u8
 
 #EXTINF:-1 logo="" group-title="上海" ,纪实人文
 http://8.138.7.223/tv/shtv.php?id=xjs
-#EXTINF:-1 logo="" group-title="上海" ,五星体育
-http://8.138.7.223/tv/shtv.php?id=wxty
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/ipv6-xin-wen-zong-he-14.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
 https://stream1.freetv.fun/xin-wen-zong-he-11.ctv
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
 http://z.b.bkpcp.top/m.php?id=shxw
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/ipv6-xin-wen-zong-he-15.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
 https://stream1.freetv.fun/ipv6-shang-hai-xin-wen-zong-he-6.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/xin-wen-zong-he-9.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/ipv6-shang-hai-xin-wen-zong-he-3.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
 https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
@@ -800,77 +654,23 @@ https://stream1.freetv.fun/ipv6-xin-wen-zong-he-11.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
 https://migu.188766.xyz/?migutoken=1f3e782d6259d3de81dfb5807babec9f&id=xwzh&type=sz
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-10.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/xin-wen-zong-he-1.ctv
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-2.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
 https://stream1.freetv.fun/xin-wen-zong-he-13.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
 http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/xin-wen-zong-he-2.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/ipv6-shang-hai-xin-wen-zong-he-7.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
 http://8.138.7.223/tv/shtv.php?id=xwzh
 #EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/ipv6-shang-hai-xin-wen-zong-he-2.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
 http://sh.lnott.top:880/dx28.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/xin-wen-zong-he-15.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-8.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,新闻综合
-https://stream1.freetv.fun/xin-wen-zong-he-14.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-6.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-13.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,东方影视
 https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-4.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-3.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-1.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-2.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-13.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-10.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,东方影视
 https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-14.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,东方影视
 http://gat.bkpcp.top/ymg.php?id=shys
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-8.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-9.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-6.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-6.ctv
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/dong-fang-ying-shi-8.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-5.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,东方影视
-https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-2.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,上海都市
 https://stream1.freetv.fun/ipv6-shang-hai-du-shi-5.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,上海都市
-https://stream1.freetv.fun/ipv6-shang-hai-du-shi-6.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海都市
 http://8.138.7.223/tv/shtv.php?id=ds
-#EXTINF:-1 logo="" group-title="上海" ,上海都市
-https://stream1.freetv.fun/ipv6-shang-hai-du-shi-3.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海都市
-https://stream1.freetv.fun/ipv6-shang-hai-du-shi-4.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海都市
-https://stream1.freetv.fun/ipv6-shang-hai-du-shi-11.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,上海都市
 https://stream1.freetv.fun/ipv6-shang-hai-du-shi-8.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,上海都市
@@ -880,11 +680,7 @@ https://stream1.freetv.fun/shang-hai-du-shi-10.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,上海都市
 https://migu.188766.xyz/?migutoken=63cd8ecac8c6c861f718e19f1b4496f7&id=ds&type=sz
 #EXTINF:-1 logo="" group-title="上海" ,上海都市
-https://stream1.freetv.fun/ipv6-shang-hai-du-shi-2.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海都市
 https://stream1.freetv.fun/ipv6-shang-hai-du-shi-10.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/ipv6-di-yi-cai-jing-7.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
 https://stream1.freetv.fun/di-yi-cai-jing-13.m3u8
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
@@ -892,103 +688,13 @@ https://migu.188766.xyz/?migutoken=d0a3836066a9886cd600ae57bcfe4638&id=%E4%B8%8A
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
 https://migu.188766.xyz/?migutoken=3c5bcc977566f006531ca2e593e70516&id=dycj&type=sz
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/ipv6-di-yi-cai-jing-11.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
 http://8.138.7.223/tv/shtv.php?id=dycj
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/di-yi-cai-jing-3.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/di-yi-cai-jing-6.ctv
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/ipv6-di-yi-cai-jing-6.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/ipv6-di-yi-cai-jing-1.ctv
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
 http://t.061899.xyz/tl/dq.php?id=dycj
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
 https://cdn3.163189.xyz/163189/dycj
 #EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/ipv6-di-yi-cai-jing-3.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/di-yi-cai-jing-7.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
 https://stream1.freetv.fun/ipv6-di-yi-cai-jing-13.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/ipv6-di-yi-cai-jing-4.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/di-yi-cai-jing-2.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,第一财经
-https://stream1.freetv.fun/ipv6-di-yi-cai-jing-8.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海纪实
-https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-5.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海纪实
-https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-1.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海纪实
-https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-2.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海纪实
-https://stream1.freetv.fun/shang-hai-ji-shi-ren-wen-1.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,上海纪实
-https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-3.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-25.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/ipv6-sheng-huo-shi-shang-14.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-23.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-13.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-5.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-19.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-11.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/ipv6-sheng-huo-shi-shang-7.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-6.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-28.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/ipv6-sheng-huo-shi-shang-2.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-9.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-2.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-20.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-29.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-18.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-9.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-26.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-14.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/ipv6-sheng-huo-shi-shang-5.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-17.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-25.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-11.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-4.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-22.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-27.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-10.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-1.ctv
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-24.m3u8
-#EXTINF:-1 logo="" group-title="上海" ,生活时尚
-https://stream1.freetv.fun/sheng-huo-shi-shang-12.m3u8
 
 #EXTINF:-1 logo="" group-title="浙江" ,浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -1017,14 +723,6 @@ http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 logo="" group-title="浙江" ,云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 
-#EXTINF:-1 logo="" group-title="江苏" ,江苏城市
-https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
-#EXTINF:-1 logo="" group-title="江苏" ,江苏影视
-https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d91.ctv
-#EXTINF:-1 logo="" group-title="江苏" ,江苏教育
-https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c54.ctv
-#EXTINF:-1 logo="" group-title="江苏" ,江苏体育休闲
-https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv
 #EXTINF:-1 logo="" group-title="江苏" ,苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 logo="" group-title="江苏" ,苏州社会经济
@@ -1228,8 +926,6 @@ http://iptv.4666888.xyz/iptv.php?id=20145
 http://iptv.4666888.xyz/iptv.php?id=20146
 #EXTINF:-1 logo="" group-title="XXX" ,K 頻道
 http://iptv.4666888.xyz/iptv.php?id=20147
-#EXTINF:-1 logo="" group-title="XXX" ,彩虹电影
-http://iptv.4666888.xyz/iptv.php?id=20148
 #EXTINF:-1 logo="" group-title="XXX" ,潘朵啦玩美
 http://iptv.4666888.xyz/iptv.php?id=20149
 #EXTINF:-1 logo="" group-title="XXX" ,惊艳电影
@@ -1240,8 +936,6 @@ http://iptv.4666888.xyz/iptv.php?id=20151
 http://iptv.4666888.xyz/iptv.php?id=20152
 #EXTINF:-1 logo="" group-title="XXX" ,PIGOO
 http://iptv.4666888.xyz/iptv.php?id=20153
-#EXTINF:-1 logo="" group-title="XXX" ,极限电影
-http://iptv.4666888.xyz/iptv.php?id=20154
 #EXTINF:-1 logo="" group-title="XXX" ,PPA日本AV
 http://iptv.4666888.xyz/iptv.php?id=20155
 #EXTINF:-1 logo="" group-title="XXX" ,免仔TV-女同
