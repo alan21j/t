@@ -579,23 +579,23 @@ http://118.112.148.249:4022/rtp/239.93.1.9:2192
 http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
 #EXTINF:-1 group-title="港澳臺",凤凰资讯
 http://146.56.153.245:20121/bysid/257
-#EXTINF:-1  group-title="港澳臺",翡翠台
+#EXTINF:-1 group-title="港澳臺",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1  港澳臺group-title="港澳臺",翡翠台
+#EXTINF:-1 group-title="港澳臺",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1  港澳臺group-title="港澳臺",翡翠台
+#EXTINF:-1 group-title="港澳臺",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1  港澳臺group-title="港澳臺",翡翠台
+#EXTINF:-1 group-title="港澳臺",翡翠台
 http://58.250.155.2:8180/TV00000000000000000032@HHZT
-#EXTINF:-1  港澳臺group-title="港澳臺",翡翠台
+#EXTINF:-1 group-title="港澳臺",翡翠台
 http://iptviptv.site:9694/hls/98/index.m3u8
-#EXTINF:-1  港澳臺group-title="港澳臺",翡翠台
+#EXTINF:-1 group-title="港澳臺",翡翠台
 http://119.125.104.36:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1  港澳臺group-title="港澳臺",翡翠台
+#EXTINF:-1 group-title="港澳臺",翡翠台
 https://test.zapi.us.kg/?id=feicui
-#EXTINF:-1  港澳臺group-title="港澳臺",翡翠台
+#EXTINF:-1 group-title="港澳臺",翡翠台
 http://124.244.149.194:65530/bysid/1
-#EXTINF:-1  港澳臺group-title="港澳臺",翡翠台
+#EXTINF:-1 group-title="港澳臺",翡翠台
 http://iptviptv.site:9694/hls/99/index.m3u8
 #EXTINF:-1 group-title="港澳臺",无线翡翠
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
