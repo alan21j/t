@@ -30,8 +30,14 @@ http://fortv.cc:8080/q8KuDU/354945/57434
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 logo="" group-title="World" ,France 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 logo="" group-title="World" ,RTE News
+http://fortv.cc:8080/q8KuDU/354945/79108
 #EXTINF:-1 logo="" group-title="World" ,Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 logo="" group-title="World" ,TalkTV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+#EXTINF:-1 logo="" group-title="World" ,LiveNow from Fox
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Wion News
@@ -48,16 +54,24 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="World" ,CMTV
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
+#EXTINF:-1 logo="" group-title="World" ,Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Tastemade
 https://tastemade-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="World" ,World Poker Tour
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:-1 logo="" group-title="World" ,Mytime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
 #EXTINF:-1 logo="" group-title="World" ,FoxBusiness
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 logo="" group-title="World" ,Crave 3
+http://fortv.cc:8080/q8KuDU/354945/57322
+#EXTINF:-1 logo="" group-title="World" ,Kids TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="World" ,Sky Sports F1
 http://fortv.cc:8080/q8KuDU/354945/53704
 
@@ -69,8 +83,6 @@ https://30a-tv.com/feeds/vidaa/golf.m3u8
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,AfroSport Nigeria
 https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Alkass SHOOF (1080p)
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,AntenaSport (720p) [Not 24/7]
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,BEK TV Sports West (720p)
@@ -103,6 +115,8 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 http://194.143.148.28:8080/KHL_HD/index.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,Kozoom TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:-1 logo="" group-title="Sports" ,Lacrosse TV (720p)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,M-Net Sport (720p)
 http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,MadeinBO TV (1080p)
@@ -111,8 +125,6 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
 #EXTINF:-1 logo="" group-title="Sports" ,MMA-TV.com
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,MSG Plus (720p)
-https://tvpass.org/live/msg-plus/hd
 #EXTINF:-1 logo="" group-title="Sports" ,Nautical Channel (720p)
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,NBC Sports Bay Area (720p)
@@ -163,8 +175,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea
 http://194.143.148.28:8080/MatchArena/index.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,Футбол
 http://31.148.48.15/Futbol_HD/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Đồng Nai 2 (576p) [Not 24/7]
-http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,RightNow TV (720p)
@@ -172,8 +182,6 @@ https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Sports" ,RTI La 3 (1080p) [Not 24/7]
 http://69.64.57.208/la3/index.m3u8
 
-#EXTINF:-1 logo="" group-title="体育" ,睛彩竞技
-http://drive.mxmy.net:8888/udp/239.3.1.125:8001
 #EXTINF:-1 logo="" group-title="体育" ,睛彩篮球
 http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 #EXTINF:-1 logo="" group-title="体育" ,睛彩羽毛球
@@ -223,8 +231,6 @@ https://stream1.freetv.fun/yan-dong-ti-yu-5.ctv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
-http://117.141.162.238:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 logo="" group-title="体育" ,广东体育
 http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -246,6 +252,8 @@ http://183.11.239.36:808/hls/133/index.m3u8
 http://183.11.239.36:808/hls/73/index.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,央视台球
 http://sh.lnott.top:880/dx82.m3u8
+#EXTINF:-1 logo="" group-title="体育" ,天元围棋
+https://cc06.tv12.xyz/47.m3u8
 #EXTINF:-1 logo="" group-title="体育" ,快乐垂钓
 http://111.8.242.124:4095/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="体育" ,快乐垂钓
@@ -297,6 +305,8 @@ http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 logo="" group-title="港澳臺" ,凤凰香港
 http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 logo="" group-title="港澳臺" ,八度空间
+http://php.jdshipin.com:8880/smt.php?id=TV8
 #EXTINF:-1 logo="" group-title="港澳臺" ,Astro AEC
 http://php.jdshipin.com:8880/smt.php?id=AEC
 #EXTINF:-1 logo="" group-title="港澳臺" ,爱奇艺
@@ -546,16 +556,6 @@ http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.132.10.54:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 logo="" group-title="央视" ,CCTV15
 http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="央视" ,CCTV10
-http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="央视" ,CCTV15
-http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="央视" ,CCTV风云足球
-http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
-#EXTINF:-1 logo="" group-title="央视" ,CCTV女性时尚
-http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
-#EXTINF:-1 logo="" group-title="央视" ,CCTV央视台球
-http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 #EXTINF:-1 logo="" group-title="央视" ,CCTV风云足球
 http://111.61.236.247:9081/hls/58/index.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CCTV世界地理
@@ -570,8 +570,6 @@ http://sh.lnott.top:880/dx98.m3u8
 http://sh.lnott.top:880/dx105.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CCTV电视指南
 http://www.tszhgjj.cn:7000/rtp/239.253.93.249:6427
-#EXTINF:-1 logo="" group-title="央视" ,CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CGTN英语
 http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 logo="" group-title="央视" ,CGTN记录
@@ -627,7 +625,3 @@ http://iptv.huuc.edu.cn/hls/schd.m3u8
 http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1 logo="" group-title="卫视" ,江西卫视
 http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-#EXTINF:-1 logo="" group-title="卫视" ,东南卫视
-http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="卫视" ,山西卫视
-http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
