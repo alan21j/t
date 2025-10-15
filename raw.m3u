@@ -110,8 +110,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="港澳" ,TVB 翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="港澳" ,TVB 翡翠台
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-#EXTINF:-1 group-title="港澳" ,TVB 翡翠台
 http://erp.giihgtidg.com:8080/live/jade01.m3u8
 #EXTINF:-1 group-title="港澳" ,TVB 無線華麗
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
@@ -561,82 +559,22 @@ https://live.yjtvw.com:8081/live/yjtv1.m3u8
 #EXTINF:-1 group-title="廣東" ,陽江-2
 https://live.yjtvw.com:8081/live/yjtv2.m3u8
 
-#EXTINF:-1 group-title="上海" ,紀實人文
-http://8.138.7.223/tv/shtv.php?id=xjs
-#EXTINF:-1 group-title="上海" ,上海新聞
-http://8.138.7.223/tv/shtv.php?id=xwzh
-#EXTINF:-1 group-title="上海" ,第一財經
-http://8.138.7.223/tv/shtv.php?id=dycj
-#EXTINF:-1 group-title="上海" ,五星體育
-http://8.138.7.223/tv/shtv.php?id=wxty
-#EXTINF:-1 group-title="上海" ,上海都市
-http://8.138.7.223/tv/shtv.php?id=ds
 #EXTINF:-1 group-title="上海" ,新聞綜合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 group-title="上海" ,新聞綜合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 #EXTINF:-1 group-title="上海" ,新聞綜合
-https://stream1.freetv.fun/xin-wen-zong-he-11.ctv
-#EXTINF:-1 group-title="上海" ,新聞綜合
-https://stream1.freetv.fun/ipv6-xin-wen-zong-he-10.m3u8
-#EXTINF:-1 group-title="上海" ,新聞綜合
-http://z.b.bkpcp.top/m.php?id=shxw
-#EXTINF:-1 group-title="上海" ,新聞綜合
-https://stream1.freetv.fun/ipv6-shang-hai-xin-wen-zong-he-6.m3u8
-#EXTINF:-1 group-title="上海" ,新聞綜合
-https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=2c1df649aa4a05375c169ba80b0e1237948ea4ca1f7637429 5c3a13814b384753f3baf0671b15276cc4e08d3b8cc736174d9e248cc91974b4a90971bb67c1980a21d82ed456a9630ffb
-#EXTINF:-1 group-title="上海" ,新聞綜合
 https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
 #EXTINF:-1 group-title="上海" ,新聞綜合
 https://xatv-yt.xiancity.cn/live/1/index.m3u8
-#EXTINF:-1 group-title="上海" ,新聞綜合
-https://stream1.freetv.fun/ipv6-xin-wen-zong-he-11.m3u8
 #EXTINF:-1 group-title="上海" ,新聞綜合
 https://stream1.freetv.fun/xin-wen-zong-he-13.m3u8
 #EXTINF:-1 group-title="上海" ,新聞綜合
 http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
 #EXTINF:-1 group-title="上海" ,新聞綜合
-http://8.138.7.223/tv/shtv.php?id=xwzh
-#EXTINF:-1 group-title="上海" ,新聞綜合
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=shxwzh
-#EXTINF:-1 group-title="上海" ,新聞綜合
 http://sh.lnott.top:880/dx28.m3u8
-#EXTINF:-1 group-title="上海" ,新聞綜合
-https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=3d07ca6dd63fe88d489828ac56bd02581e576f20c460c32bec 943a86a2d159b51a177f4186aa91045ee1c3b1b14ede5accc85b0c58c01a8201e6e8277e222da8b0cd553a74a01b9bbb56893f
-#EXTINF:-1 group-title="上海" ,新聞綜合
-http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=20250906090032b916150a07c341cabbf655d905914395&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250906090032&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20250906090032&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9582487a86899b42b7cd022e61f3f4ae&ddCalcu=e9a5v48af2w34af8176ae8262809d9cb74b2&sv=10004&ct=android
-#EXTINF:-1 group-title="上海" ,上海都市
-https://stream1.freetv.fun/ipv6-shang-hai-du-shi-5.m3u8
-#EXTINF:-1 group-title="上海" ,上海都市
-http://8.138.7.223/tv/shtv.php?id=ds
-#EXTINF:-1 group-title="上海" ,上海都市
-https://stream1.freetv.fun/ipv6-shang-hai-du-shi-8.m3u8
-#EXTINF:-1 group-title="上海" ,上海都市
-https://stream1.freetv.fun/ipv6-shang-hai-du-shi-1.m3u8
-#EXTINF:-1 group-title="上海" ,上海都市
-https://stream1.freetv.fun/shang-hai-du-shi-8.m3u8
-#EXTINF:-1 group-title="上海" ,上海都市
-https://stream1.freetv.fun/shang-hai-du-shi-1.m3u8
-#EXTINF:-1 group-title="上海" ,第一財經
-https://stream1.freetv.fun/di-yi-cai-jing-13.m3u8
-#EXTINF:-1 group-title="上海" ,第一財經
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=dycj
-#EXTINF:-1 group-title="上海" ,第一財經
-https://stream1.freetv.fun/di-yi-cai-jing-10.m3u8
-#EXTINF:-1 group-title="上海" ,第一財經
-http://8.138.7.223/tv/shtv.php?id=dycj
-#EXTINF:-1 group-title="上海" ,第一財經
-https://mgtv.ottiptv.cc/migu/608780988.m3u8?migutoken=dfed5da7e29e8b57e2aed3975fb3c0bfe41b53caed5efc9396 edfc75fec33a9eeb357652ef34a96b8623b38e12b71bee632bf6f127e9c17861e5ca6e52898d0d770965f4de553ee23ea5ce2c
-#EXTINF:-1 group-title="上海" ,第一財經
-http://t.061899.xyz/tl/dq.php?id=dycj
 #EXTINF:-1 group-title="上海" ,第一財經
 https://cdn3.163189.xyz/163189/dycj
-#EXTINF:-1 group-title="上海" ,第一財經
-https://stream1.freetv.fun/ipv6-di-yi-cai-jing-13.m3u8
-#EXTINF:-1 group-title="上海" ,第一財經
-http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=202509060900334bfd7f5db4924bbf9f2172b06ecd0a63d7f5db4924bbf9f2172b06ecd0a63&mdspd e=0&sid=2201008312&pid=2028597139&timestamp=20250906090033&Channel_ID=0116_2 600037000-99000-200300220100002&ProgramID=608780988&ParentNodeID=-99&assertID =2201008312&client_ip=106.13.250.83&SecurityKey=20250906090033&promotionId=&mvid=2201008312&mcid=5000020&playtaVersion=2201008312&mcid=5000020&playhmVersion=Wuser-A1-8.8. videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f4a7af3685ff7e2cc64cad23550d0c0b&ddCalcu=bf04vcaa07ldaa0f53563825dfa.4e620
-#EXTINF:-1 group-title="上海" ,生活時尚
-http://nas.hssvm.com:8888/udp/225.1.1.143:5002
 
 #EXTINF:-1 group-title="浙江" ,浙江新聞
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -703,29 +641,15 @@ http://111.8.242.124:4095/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="體育" ,廣東體育
 http://183.11.239.36:808/hls/2/index.m3u8
 #EXTINF:-1 group-title="體育" ,廣東體育
-https://stream1.freetv.fun/yan-dong-ti-yu-12.ctv
-#EXTINF:-1 group-title="體育" ,廣東體育
 http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="體育" ,廣東體育
-https://stream1.freetv.fun/yan-dong-ti-yu-30.m3u8
-#EXTINF:-1 group-title="體育" ,廣東體育
-https://stream1.freetv.fun/yan-dong-ti-yu-27.m3u8
-#EXTINF:-1 group-title="體育" ,廣東體育
 https://stream1.freetv.fun/yan-dong-ti-yu-24.ctv
-#EXTINF:-1 group-title="體育" ,廣東體育
-https://stream1.freetv.fun/yan-dong-ti-yu-10.ctv
 #EXTINF:-1 group-title="體育" ,廣東體育
 https://stream1.freetv.fun/yan-dong-ti-yu-28.ctv
 #EXTINF:-1 group-title="體育" ,廣東體育
 http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 group-title="體育" ,廣東體育
-https://stream1.freetv.fun/yan-dong-ti-yu-38.ctv
-#EXTINF:-1 group-title="體育" ,廣東體育
-https://stream1.freetv.fun/yan-dong-ti-yu-2.m3u8
-#EXTINF:-1 group-title="體育" ,廣東體育
 http://pa.kuangdeng.top:8081/hls/68/index.m3u8
-#EXTINF:-1 group-title="體育" ,廣東體育
-https://stream1.freetv.fun/yan-dong-ti-yu-39.m3u8
 #EXTINF:-1 group-title="體育" ,廣東體育
 https://stream1.freetv.fun/yan-dong-ti-yu-29.ctv
 #EXTINF:-1 group-title="體育" ,緯來體育
@@ -776,8 +700,6 @@ http://iptv.jxpan.vip:18888/aio/huya/23749096
 #EXTINF:-1 group-title="卡通片" ,名偵探柯南
 http://iptv.jxpan.vip:18888/aio/huya/30080236
 
-#EXTINF:-1 group-title="World" ,UK: Sky Sports News
-http://nocable.cc:8080//OURTV/OURTV@4806/35241
 #EXTINF:-1 group-title="World" ,UK: SKY SPORTS F1
 http://nocable.cc:8080//OURTV/OURTV@4806/35244
 #EXTINF:-1 group-title="World" ,UK: SKY SPORTS Golf
@@ -873,8 +795,6 @@ https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Sports" ,AntenaSport (720p) [Not 24/7]
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
-#EXTINF:-1 group-title="Sports" ,Bahrain Sports 1 (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 group-title="Sports" ,beIN Sports USA
 http://fl7.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Sports" ,CDN Deportes (720p)
@@ -893,8 +813,6 @@ https://fl7.moveonjoy.com/ESPN_U/index.m3u8
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1 group-title="Sports" ,FanDuel TV (720p)
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
-#EXTINF:-1 group-title="Sports" ,Fubo Sports Network (1080p) [Geo-blocked]
-https://livetv-fa.tubi.video/fubo/master.m3u8
 #EXTINF:-1 group-title="Sports" ,Futbol (1080p)
 https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 group-title="Sports" ,FUTV (1080p)
@@ -923,14 +841,10 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 https://fl7.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" ,MSG
 https://fl7.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 group-title="Sports" ,MSG Plus (720p) [Not 24/7]
-https://tvpass.org/live/msg-plus/hd
 #EXTINF:-1 group-title="Sports" ,NBC Sports Bay Area (720p) [Not 24/7]
 https://tvpass.org/live/nbc-sports-bay-area/hd
 #EXTINF:-1 group-title="Sports" ,NBC Sports Boston (1080p) [Not 24/7]
 https://tvpass.org/live/nbc-sports-boston/hd
-#EXTINF:-1 group-title="Sports" ,NBC Sports Philadelphia (720p) [Not 24/7]
-https://tvpass.org/live/nbc-sports-philadelphia/hd
 #EXTINF:-1 group-title="Sports" ,NFL Network
 https://fl7.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" ,NFL RedZone
@@ -943,16 +857,10 @@ https://fighthls.persiana.live/hls/stream.m3u8
 http://187.120.222.37:721
 #EXTINF:-1 group-title="Sports" ,PRO Sport International
 https://proshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Sports" ,Radio Turrialba TV Sports (720p) [Geo-blocked]
-https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
 #EXTINF:-1 group-title="Sports" ,Sharjah Sports (1080p) [Geo-blocked]
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports" ,Solh Sports
 https://wo.cma.footballii.ir/hls2/solh.m3u8
-#EXTINF:-1 group-title="Sports" ,SOS Kanal Plus (720p)
-https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" ,Sports TV (720p) [Geo-blocked]
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 group-title="Sports" ,Sportsman Channel
 https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Sports" ,SportsNet New York (540p)
@@ -971,14 +879,6 @@ http://116.90.120.149:8000/play/a0cm/index.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
 #EXTINF:-1 group-title="Sports" ,TDM Sports Ch. 93 (720p)
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 group-title="Sports" ,Teledeporte (1080p)
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-#EXTINF:-1 group-title="Sports" ,Telewebion Sport
-https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8
-#EXTINF:-1 group-title="Sports" ,Telewebion Sport 2
-https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8
-#EXTINF:-1 group-title="Sports" ,Telewebion Sport 3
-https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
 #EXTINF:-1 group-title="Sports" ,TSN1 (1080p)
 https://fl7.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 group-title="Sports" ,TSN2
@@ -989,18 +889,6 @@ https://fl7.moveonjoy.com/TSN_3/index.m3u8
 https://fl7.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 group-title="Sports" ,TSN5
 https://fl7.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="Sports" ,TVS Bowling Network (720p)
-https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
-#EXTINF:-1 group-title="Sports" ,TVS Classic Sports (360p)
-https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
-#EXTINF:-1 group-title="Sports" ,TVS Sports (720p) [Not 24/7]
-https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
-#EXTINF:-1 group-title="Sports" ,TVS Sports Bureau (720p)
-https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
-#EXTINF:-1 group-title="Sports" ,TVS Turbo (360p)
-https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 group-title="Sports" ,TVS Women Sports (720p)
-https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 group-title="Sports" ,VITAL Basketball [Not 24/7]
 https://vslive.pw/stream/48684/index.m3u8
 #EXTINF:-1 group-title="Sports" ,VITAL Football [Not 24/7]
