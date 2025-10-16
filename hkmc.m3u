@@ -1,0 +1,143 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="中國香港澳門" ,HOY76
+http://bziyunshao.synology.me:8891/bysid/76
+#EXTINF:-1 group-title="中國香港澳門" ,HOY77
+http://bziyunshao.synology.me:8891/bysid/77
+#EXTINF:-1 group-title="中國香港澳門" ,HOY77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 group-title="中國香港澳門" ,ViuTV
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 group-title="中國香港澳門" ,ViuTVSix
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 group-title="中國香港澳門",TVB 翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="中國香港澳門",TVB 翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 翡翠台
+http://erp.giihgtidg.com:8080/live/jade01.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 無線華麗
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 無線華麗
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 無線新聞
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 無線新聞
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 無線新聞
+http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 無線新聞
+http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 無線新聞
+https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 group-title="中國香港澳門" ,TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="中國香港澳門" ,TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 group-title="中國香港澳門" ,TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 千禧經典
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+#EXTINF:-1 group-title="中國香港澳門" ,TVB 明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 group-title="中國香港澳門",TVB 明珠台
+http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
+#EXTINF:-1 group-title="中國香港澳門",TVB 星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="中國香港澳門",TVB 星河
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="中國香港澳門" ,RTHK-31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="中國香港澳門" ,RTHK-32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="中國香港澳門" ,RTHK-33(CCTV1)
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 group-title="中國香港澳門" ,RTHK-33(CCTV1)
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,RTHK-34(CGTN-D)
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,RTHK-35(CGTN)
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,美亞C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,美亞C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,美亞C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,耀才財經
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,耀才財經
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,鳳凰中文
+http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,鳳凰香港
+http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,鳳凰電影
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,鳳凰資訊
+http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,鳳凰資訊
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="中國香港澳門" ,環球電視
+http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,鳳凰衛視
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="中國香港澳門" ,澳視澳門
+http://php.jdshipin.com/PLTV/iptv.php?id=asam
+#EXTINF:-1 group-title="中國香港澳門" ,澳視澳門
+https://fenghuang.tv12.xyz/181.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視澳門
+http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視澳門
+http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視澳門
+http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視葡語
+http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視葡語
+http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視葡語
+https://fenghuang.tv12.xyz/182.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳門Mac
+http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳門資訊
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視衛星
+http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視衛星
+https://fenghuang.tv12.xyz/183.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視體育
+http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視體育
+https://fenghuang.tv12.xyz/184.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視資訊
+http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視資訊
+https://fenghuang.tv12.xyz/185.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視綜藝
+http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,澳視綜藝
+https://fenghuang.tv12.xyz/186.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,天映經典
+http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1 group-title="中國香港澳門" ,astro-QJ
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 group-title="中國香港澳門" ,astroAod
+http://php.jdshipin.com/smt.php?id=Aodhd
+#EXTINF:-1 group-title="中國香港澳門" ,astro歡喜
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 group-title="中國香港澳門" ,亞洲衛視
+https://fenghuang.tv12.xyz/173.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,蓮花衛視
+http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+#EXTINF:-1 group-title="中國香港澳門" ,星空衛視
+http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+

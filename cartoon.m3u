@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="卡通片" ,韓國EBS兒童
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="卡通片" ,Japanim TV
+https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:-1 group-title="卡通片" ,七龍珠
+http://iptv.jxpan.vip:18888/aio/huya/11601966
+#EXTINF:-1 group-title="卡通片" ,哆啦A夢
+http://iptv.jxpan.vip:18888/aio/huya/11601963
+#EXTINF:-1 group-title="卡通片" ,貓與老鼠
+http://iptv.jxpan.vip:18888/aio/huya/11352879
+#EXTINF:-1 group-title="卡通片" ,喜羊羊與灰太狼
+http://iptv.jxpan.vip:18888/aio/huya/23865080
+#EXTINF:-1 group-title="卡通片" ,精靈寶可夢
+http://iptv.jxpan.vip:18888/aio/huya/23749096
+#EXTINF:-1 group-title="卡通片" ,名偵探柯南
+http://iptv.jxpan.vip:18888/aio/huya/30080236
+
