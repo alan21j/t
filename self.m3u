@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1综合.png",CCTV1综合
 http://172.168.1.254:5080/migu720p.php?id=608807420
-#EXTINF:-1 tvg-name="cctv1" tvg-logo="https://live.fanmingming.com/tv/cctv1.png",cctv1
+#EXTINF:-1 tvg-name="cctv1" tvg-logo="https://live.fanmingming.com/tv/cctv1.png",CCTV1
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2财经.png",CCTV2财经
 http://172.168.1.254:5080/migu720p.php?id=631780532
-#EXTINF:-1 tvg-name="cctv2" tvg-logo="https://live.fanmingming.com/tv/cctv2.png",cctv2
+#EXTINF:-1 tvg-name="cctv2" tvg-logo="https://live.fanmingming.com/tv/cctv2.png",CCTV2
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv2
 #EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3综艺.png",CCTV3综艺
 http://172.168.1.254:5080/migu720p.php?id=624878271
 #EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4中文国际.png",CCTV4中文国际
 http://172.168.1.254:5080/migu720p.php?id=631780421
-#EXTINF:-1 tvg-name="cctv4" tvg-logo="https://live.fanmingming.com/tv/cctv4.png",cctv4
+#EXTINF:-1 tvg-name="cctv4" tvg-logo="https://live.fanmingming.com/tv/cctv4.png",CCTV4
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv4
 #EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5体育.png",CCTV5体育
 http://172.168.1.254:5080/migu720p.php?id=641886683
@@ -21,27 +21,27 @@ http://172.168.1.254:5080/migu720p.php?id=641886773
 http://172.168.1.254:5080/migu720p.php?id=624878396
 #EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7国防军事.png",CCTV7国防军事
 http://172.168.1.254:5080/migu720p.php?id=673168121
-#EXTINF:-1 tvg-name="cctv7" tvg-logo="https://live.fanmingming.com/tv/cctv7.png",cctv7
+#EXTINF:-1 tvg-name="cctv7" tvg-logo="https://live.fanmingming.com/tv/cctv7.png",CCTV7
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv7
 #EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8电视剧.png",CCTV8电视剧
 http://172.168.1.254:5080/migu720p.php?id=624878356
 #EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="https://live.fanmingming.com/tv/CCTV9纪录.png",CCTV9纪录
 http://172.168.1.254:5080/migu720p.php?id=673168140
-#EXTINF:-1 tvg-name="cctv9" tvg-logo="https://live.fanmingming.com/tv/cctv9.png",cctv9
+#EXTINF:-1 tvg-name="cctv9" tvg-logo="https://live.fanmingming.com/tv/cctv9.png",CCTV9
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv9
 #EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10科教.png",CCTV10科教
 http://172.168.1.254:5080/migu720p.php?id=624878405
-#EXTINF:-1 tvg-name="cctv10" tvg-logo="https://live.fanmingming.com/tv/cctv10.png",cctv10
+#EXTINF:-1 tvg-name="cctv10" tvg-logo="https://live.fanmingming.com/tv/cctv10.png",CCTV10
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv10
 #EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11戏曲.png",CCTV11戏曲
 http://172.168.1.254:5080/migu720p.php?id=667987558
 #EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://live.fanmingming.com/tv/CCTV12社会与法.png",CCTV12社会与法
 http://172.168.1.254:5080/migu720p.php?id=673168185
-#EXTINF:-1 tvg-name="cctv12" tvg-logo="https://live.fanmingming.com/tv/cctv12.png",cctv12
+#EXTINF:-1 tvg-name="cctv12" tvg-logo="https://live.fanmingming.com/tv/cctv12.png",CCTV12
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv12
 #EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13新闻.png",CCTV13新闻
 http://172.168.1.254:5080/migu720p.php?id=608807423
-#EXTINF:-1 tvg-name="cctv13" tvg-logo="https://live.fanmingming.com/tv/cctv13.png",cctv13
+#EXTINF:-1 tvg-name="cctv13" tvg-logo="https://live.fanmingming.com/tv/cctv13.png",CCTV13
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv13
 #EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14少儿.png",CCTV14少儿
 http://172.168.1.254:5080/migu720p.php?id=624878440
@@ -49,9 +49,9 @@ http://172.168.1.254:5080/migu720p.php?id=624878440
 http://172.168.1.254:5080/migu720p.php?id=673168223
 #EXTINF:-1 tvg-name="CCTV17农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17农业农村.png",CCTV17农业农村
 http://172.168.1.254:5080/migu720p.php?id=673168256
-#EXTINF:-1 tvg-name="cctv17" tvg-logo="https://live.fanmingming.com/tv/cctv17.png",cctv17
+#EXTINF:-1 tvg-name="cctv17" tvg-logo="https://live.fanmingming.com/tv/cctv17.png",CCTV17
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv17
-#EXTINF:-1 tvg-name="cctv4k" tvg-logo="https://live.fanmingming.com/tv/cctv4k.png",cctv4k
+#EXTINF:-1 tvg-name="cctv4k" tvg-logo="https://live.fanmingming.com/tv/cctv4k.png",CCTV4k
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv4k
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png",CCTV4欧洲
 http://172.168.1.254:5080/migu720p.php?id=608807419
