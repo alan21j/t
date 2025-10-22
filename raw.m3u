@@ -318,12 +318,8 @@ http://bziyunshao.synology.me:8891/bysid/77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="中國香港澳門" ,ViuTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 group-title="中國香港澳門",Viu TV
-http://iptv.4666888.xyz/iptv2A.php?id=VIUTV
 #EXTINF:-1 group-title="中國香港澳門" ,ViuTVSix
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-#EXTINF:-1 group-title="中國香港澳門",NOW 新闻
-http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 #EXTINF:-1 group-title="中國香港澳門",TVB 翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="中國香港澳門" ,TVB 翡翠台
@@ -334,8 +330,6 @@ http://php.jdshipin.com:8880/smt.php?id=jade_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="中國香港澳門" ,TVB 翡翠台
 http://erp.giihgtidg.com:8080/live/jade01.m3u8
-#EXTINF:-1 group-title="中國香港澳門",TVB 翡翠台
-http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
 #EXTINF:-1 group-title="中國香港澳門" ,TVB 無線華麗
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 group-title="中國香港澳門" ,TVB 無線華麗
@@ -352,16 +346,12 @@ http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 group-title="中國香港澳門" ,TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="中國香港澳門",TVB Plus
-http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
 #EXTINF:-1 group-title="中國香港澳門" ,TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 group-title="中國香港澳門" ,TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="中國香港澳門" ,TVB 千禧經典
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 group-title="中國香港澳門",TVB 千禧經典
-http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
 #EXTINF:-1 group-title="中國香港澳門" ,TVB 明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 group-title="中國香港澳門" ,TVB 明珠台
@@ -370,8 +360,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 #EXTINF:-1 group-title="中國香港澳門",TVB 明珠台
 http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-#EXTINF:-1 group-title="中國香港澳門",TVB 明珠台
-http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
 #EXTINF:-1 group-title="中國香港澳門",TVB 星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #EXTINF:-1 group-title="中國香港澳門",TVB 星河
