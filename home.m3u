@@ -488,11 +488,11 @@ https://fenghuang.tv12.xyz/183.m3u8
 http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="中國香港澳門" ,澳視體育
 https://fenghuang.tv12.xyz/184.m3u8
-#EXTINF:-1 group-title="MO",澳視澳門
+#EXTINF:-1 group-title="中國香港澳門",澳視澳門
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
-#EXTINF:-1 group-title="MO",澳視衛星
+#EXTINF:-1 group-title="中國香港澳門",澳視衛星
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
-#EXTINF:-1 group-title="MO",澳門體育
+#EXTINF:-1 group-title="中國香港澳門",澳門體育
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
 #EXTINF:-1 group-title="中國香港澳門" ,澳視資訊
 http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
