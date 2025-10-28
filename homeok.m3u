@@ -157,10 +157,6 @@ https://vslive.pw/stream/48527/index.m3u8
 https://vslive.pw/stream/48685/index.m3u8
 #EXTINF:-1 group-title="Sports" ,杜拜體育2
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports" ,緯來體育
-rtmp://f13h.mine.nu:1935/sat/tv721
-#EXTINF:-1 group-title="Sports" ,緯來體育
-rtmp://f13h.mine.nu/sat/tv721
 
 #EXTINF:-1 group-title="Kids",4 Fun Kids (576i) [[Not 24/7]]
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
@@ -1129,6 +1125,10 @@ http://pa.kuangdeng.top:8081/hls/68/index.m3u8
 https://stream1.freetv.fun/yan-dong-ti-yu-29.ctv
 #EXTINF:-1 group-title="體育" ,快樂釣魚
 http://111.196.133.168:8012/rtp/239.3.1.164:8001
+#EXTINF:-1 group-title="體育" ,緯來體育
+rtmp://f13h.mine.nu:1935/sat/tv721
+#EXTINF:-1 group-title="體育" ,緯來體育
+rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 group-title="體育" ,緯來體育
 http://zb.xmzb.xyz/123.php?id=⚽馬上oppppp一緯來體育
 #EXTINF:-1 group-title="體育" ,風雲足球
