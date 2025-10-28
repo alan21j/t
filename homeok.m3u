@@ -518,320 +518,320 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/
 #EXTINF:-1 group-title="臺灣" ,龍華電影
 http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
 
-#EXTINF:-1 group-title="港澳" ,astro-QJ
+#EXTINF:-1 group-title="中國港澳" ,astro-QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 group-title="港澳" ,astroAod
+#EXTINF:-1 group-title="中國港澳" ,astroAod
 http://php.jdshipin.com/smt.php?id=Aodhd
-#EXTINF:-1 group-title="港澳" ,astro歡喜
+#EXTINF:-1 group-title="中國港澳" ,astro歡喜
 http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 group-title="港澳" ,CCTV1港澳版
+#EXTINF:-1 group-title="中國港澳" ,CCTV1港澳版
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,HOY77
+#EXTINF:-1 group-title="中國港澳" ,HOY77
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,HOY77
+#EXTINF:-1 group-title="中國港澳" ,HOY77
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,HOY77
+#EXTINF:-1 group-title="中國港澳" ,HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 group-title="港澳" ,HOY77
+#EXTINF:-1 group-title="中國港澳" ,HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-#EXTINF:-1 group-title="港澳" ,NOW新聞
+#EXTINF:-1 group-title="中國港澳" ,NOW新聞
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,NOW新聞
+#EXTINF:-1 group-title="中國港澳" ,NOW新聞
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 group-title="港澳" ,RTHK-31
+#EXTINF:-1 group-title="中國港澳" ,RTHK-31
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,RTHK-31
+#EXTINF:-1 group-title="中國港澳" ,RTHK-31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 group-title="港澳" ,RTHK-32
+#EXTINF:-1 group-title="中國港澳" ,RTHK-32
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,RTHK-32
+#EXTINF:-1 group-title="中國港澳" ,RTHK-32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 group-title="港澳" ,RTHK-33(CCTV1)
+#EXTINF:-1 group-title="中國港澳" ,RTHK-33(CCTV1)
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 group-title="港澳" ,RTHK-33(CCTV1)
+#EXTINF:-1 group-title="中國港澳" ,RTHK-33(CCTV1)
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="港澳" ,RTHK-34(CGTN-D)
+#EXTINF:-1 group-title="中國港澳" ,RTHK-34(CGTN-D)
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-#EXTINF:-1 group-title="港澳" ,RTHK-35(CGTN)
+#EXTINF:-1 group-title="中國港澳" ,RTHK-35(CGTN)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="港澳" ,TVB J1
+#EXTINF:-1 group-title="中國港澳" ,TVB J1
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,TVB J1
+#EXTINF:-1 group-title="中國港澳" ,TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 group-title="港澳" ,TVB Plus
+#EXTINF:-1 group-title="中國港澳" ,TVB Plus
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,TVB Plus
+#EXTINF:-1 group-title="中國港澳" ,TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="港澳" ,TVB Plus
+#EXTINF:-1 group-title="中國港澳" ,TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 group-title="港澳" ,TVB 千禧經典
+#EXTINF:-1 group-title="中國港澳" ,TVB 千禧經典
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 group-title="港澳" ,TVB 明珠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 明珠台
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,TVB 明珠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 明珠台
 http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-#EXTINF:-1 group-title="港澳" ,TVB 明珠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-#EXTINF:-1 group-title="港澳" ,TVB 明珠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 group-title="港澳" ,TVB 明珠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 group-title="港澳" ,TVB 星河
+#EXTINF:-1 group-title="中國港澳" ,TVB 星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="港澳" ,TVB 無線新聞
+#EXTINF:-1 group-title="中國港澳" ,TVB 無線新聞
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,TVB 無線新聞
+#EXTINF:-1 group-title="中國港澳" ,TVB 無線新聞
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 group-title="港澳" ,TVB 無線新聞
+#EXTINF:-1 group-title="中國港澳" ,TVB 無線新聞
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 group-title="港澳" ,TVB 無線新聞
+#EXTINF:-1 group-title="中國港澳" ,TVB 無線新聞
 https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 group-title="港澳" ,TVB 無線華麗
+#EXTINF:-1 group-title="中國港澳" ,TVB 無線華麗
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-#EXTINF:-1 group-title="港澳" ,TVB 無線華麗
+#EXTINF:-1 group-title="中國港澳" ,TVB 無線華麗
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 group-title="港澳" ,TVB 翡翠劇集台
+#EXTINF:-1 group-title="中國港澳" ,TVB 翡翠劇集台
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,TVB 翡翠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 翡翠台
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,TVB 翡翠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 group-title="港澳" ,TVB 翡翠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="港澳" ,TVB 翡翠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 group-title="港澳" ,TVB 翡翠台4K
+#EXTINF:-1 group-title="中國港澳" ,TVB 翡翠台4K
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,TVB1
+#EXTINF:-1 group-title="中國港澳" ,TVB1
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,ViuTV
+#EXTINF:-1 group-title="中國港澳" ,ViuTV
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,ViuTV
+#EXTINF:-1 group-title="中國港澳" ,ViuTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 group-title="港澳" ,ViuTV
+#EXTINF:-1 group-title="中國港澳" ,ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 group-title="港澳" ,ViuTVSix
+#EXTINF:-1 group-title="中國港澳" ,ViuTVSix
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-#EXTINF:-1 group-title="港澳" ,亞洲衛視
+#EXTINF:-1 group-title="中國港澳" ,亞洲衛視
 https://fenghuang.tv12.xyz/173.m3u8
-#EXTINF:-1 group-title="港澳" ,天映經典
+#EXTINF:-1 group-title="中國港澳" ,天映經典
 http://php.jdshipin.com/smt.php?id=Celestial2
-#EXTINF:-1 group-title="港澳" ,星空衛視
+#EXTINF:-1 group-title="中國港澳" ,星空衛視
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳" ,澳視澳門
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳" ,澳視澳門
 http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳" ,澳視澳門
 http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳" ,澳視澳門
 http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳" ,澳視澳門
 http://php.jdshipin.com/PLTV/iptv.php?id=asam
-#EXTINF:-1 group-title="港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳" ,澳視澳門
 https://fenghuang.tv12.xyz/181.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視綜藝
+#EXTINF:-1 group-title="中國港澳" ,澳視綜藝
 http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視綜藝
+#EXTINF:-1 group-title="中國港澳" ,澳視綜藝
 https://fenghuang.tv12.xyz/186.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視葡語
+#EXTINF:-1 group-title="中國港澳" ,澳視葡語
 http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視葡語
+#EXTINF:-1 group-title="中國港澳" ,澳視葡語
 http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視葡語
+#EXTINF:-1 group-title="中國港澳" ,澳視葡語
 https://fenghuang.tv12.xyz/182.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視衛星
+#EXTINF:-1 group-title="中國港澳" ,澳視衛星
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視衛星
+#EXTINF:-1 group-title="中國港澳" ,澳視衛星
 http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視衛星
+#EXTINF:-1 group-title="中國港澳" ,澳視衛星
 https://fenghuang.tv12.xyz/183.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視資訊
+#EXTINF:-1 group-title="中國港澳" ,澳視資訊
 http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視資訊
+#EXTINF:-1 group-title="中國港澳" ,澳視資訊
 https://fenghuang.tv12.xyz/185.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視體育
+#EXTINF:-1 group-title="中國港澳" ,澳視體育
 http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳" ,澳視體育
+#EXTINF:-1 group-title="中國港澳" ,澳視體育
 https://fenghuang.tv12.xyz/184.m3u8
-#EXTINF:-1 group-title="港澳" ,澳門Mac
+#EXTINF:-1 group-title="中國港澳" ,澳門Mac
 http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
-#EXTINF:-1 group-title="港澳" ,澳門資訊
+#EXTINF:-1 group-title="中國港澳" ,澳門資訊
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳" ,澳門體育
+#EXTINF:-1 group-title="中國港澳" ,澳門體育
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,環球電視
+#EXTINF:-1 group-title="中國港澳" ,環球電視
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="港澳" ,美亞C+
+#EXTINF:-1 group-title="中國港澳" ,美亞C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
-#EXTINF:-1 group-title="港澳" ,美亞C+
+#EXTINF:-1 group-title="中國港澳" ,美亞C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
-#EXTINF:-1 group-title="港澳" ,美亞C+
+#EXTINF:-1 group-title="中國港澳" ,美亞C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="港澳" ,耀才財經
+#EXTINF:-1 group-title="中國港澳" ,耀才財經
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-#EXTINF:-1 group-title="港澳" ,耀才財經
+#EXTINF:-1 group-title="中國港澳" ,耀才財經
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="港澳" ,蓮花衛視
+#EXTINF:-1 group-title="中國港澳" ,蓮花衛視
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1 group-title="港澳" ,鳳凰中文
+#EXTINF:-1 group-title="中國港澳" ,鳳凰中文
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,鳳凰衛視
+#EXTINF:-1 group-title="中國港澳" ,鳳凰衛視
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="港澳" ,鳳凰資訊
+#EXTINF:-1 group-title="中國港澳" ,鳳凰資訊
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
-#EXTINF:-1 group-title="港澳" ,鳳凰資訊
+#EXTINF:-1 group-title="中國港澳" ,鳳凰資訊
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="港澳" ,鳳凰電影
+#EXTINF:-1 group-title="中國港澳" ,鳳凰電影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1 group-title="港澳" ,鳳凰香港
+#EXTINF:-1 group-title="中國港澳" ,鳳凰香港
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
 
-#EXTINF:-1 group-title="中國中央" ,CCTV1
+#EXTINF:-1 group-title="中國官媒" ,CCTV1
 http://172.168.1.254:5080/migu720p.php?id=608807420
-#EXTINF:-1 group-title="中國中央" ,CCTV1
+#EXTINF:-1 group-title="中國官媒" ,CCTV1
 http://112.132.10.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV1
+#EXTINF:-1 group-title="中國官媒" ,CCTV1
 http://112.27.235.94:8000/hls/1/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV1
+#EXTINF:-1 group-title="中國官媒" ,CCTV1
 http://112.46.105.20:8009/hls/501/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV2
+#EXTINF:-1 group-title="中國官媒" ,CCTV2
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv2
-#EXTINF:-1 group-title="中國中央" ,CCTV2
+#EXTINF:-1 group-title="中國官媒" ,CCTV2
 http://172.168.1.254:5080/migu720p.php?id=631780532
-#EXTINF:-1 group-title="中國中央" ,CCTV2
+#EXTINF:-1 group-title="中國官媒" ,CCTV2
 http://112.132.10.54:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV2
+#EXTINF:-1 group-title="中國官媒" ,CCTV2
 http://112.27.235.94:8000/hls/2/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV2
+#EXTINF:-1 group-title="中國官媒" ,CCTV2
 http://112.46.105.20:8009/hls/502/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV3
+#EXTINF:-1 group-title="中國官媒" ,CCTV3
 http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV3
+#EXTINF:-1 group-title="中國官媒" ,CCTV3
 http://112.27.235.94:8000/hls/3/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV3
+#EXTINF:-1 group-title="中國官媒" ,CCTV3
 http://112.46.105.20:8009/hls/3/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV3
+#EXTINF:-1 group-title="中國官媒" ,CCTV3
 http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV4
+#EXTINF:-1 group-title="中國官媒" ,CCTV4
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv4
-#EXTINF:-1 group-title="中國中央" ,CCTV4
+#EXTINF:-1 group-title="中國官媒" ,CCTV4
 http://172.168.1.254:5080/migu720p.php?id=631780421
-#EXTINF:-1 group-title="中國中央" ,CCTV4
+#EXTINF:-1 group-title="中國官媒" ,CCTV4
 http://112.132.10.54:9901/tsfile/live/0004_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV4
+#EXTINF:-1 group-title="中國官媒" ,CCTV4
 http://112.27.235.94:8000/hls/4/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV4
+#EXTINF:-1 group-title="中國官媒" ,CCTV4
 http://112.46.105.20:8009/hls/4/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV4
+#EXTINF:-1 group-title="中國官媒" ,CCTV4
 http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV4欧洲
+#EXTINF:-1 group-title="中國官媒" ,CCTV4欧洲
 http://172.168.1.254:5080/migu720p.php?id=608807419
-#EXTINF:-1 group-title="中國中央" ,CCTV4美洲
+#EXTINF:-1 group-title="中國官媒" ,CCTV4美洲
 http://172.168.1.254:5080/migu720p.php?id=608807416
-#EXTINF:-1 group-title="中國中央" ,CCTV5
+#EXTINF:-1 group-title="中國官媒" ,CCTV5
 http://172.168.1.254:5080/migu720p.php?id=641886683
-#EXTINF:-1 group-title="中國中央" ,CCTV5
+#EXTINF:-1 group-title="中國官媒" ,CCTV5
 http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV5
+#EXTINF:-1 group-title="中國官媒" ,CCTV5
 http://112.27.235.94:8000/hls/5/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV5
+#EXTINF:-1 group-title="中國官媒" ,CCTV5
 http://112.46.105.20:8009/hls/503/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV5+
+#EXTINF:-1 group-title="中國官媒" ,CCTV5+
 http://112.27.235.94:8000/hls/6/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV6
+#EXTINF:-1 group-title="中國官媒" ,CCTV6
 http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV6
+#EXTINF:-1 group-title="中國官媒" ,CCTV6
 http://112.27.235.94:8000/hls/7/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV7
+#EXTINF:-1 group-title="中國官媒" ,CCTV7
 http://172.168.1.254:5080/migu720p.php?id=673168121
-#EXTINF:-1 group-title="中國中央" ,CCTV7
+#EXTINF:-1 group-title="中國官媒" ,CCTV7
 http://112.132.10.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV7
+#EXTINF:-1 group-title="中國官媒" ,CCTV7
 http://112.27.235.94:8000/hls/8/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV7
+#EXTINF:-1 group-title="中國官媒" ,CCTV7
 http://112.46.105.20:8009/hls/504/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV8
+#EXTINF:-1 group-title="中國官媒" ,CCTV8
 http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV8
+#EXTINF:-1 group-title="中國官媒" ,CCTV8
 http://112.27.235.94:8000/hls/9/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV8
+#EXTINF:-1 group-title="中國官媒" ,CCTV8
 http://112.46.105.20:8009/hls/8/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV8
+#EXTINF:-1 group-title="中國官媒" ,CCTV8
 http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV9
+#EXTINF:-1 group-title="中國官媒" ,CCTV9
 http://112.132.10.54:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV9
+#EXTINF:-1 group-title="中國官媒" ,CCTV9
 http://112.27.235.94:8000/hls/10/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV9
+#EXTINF:-1 group-title="中國官媒" ,CCTV9
 http://112.46.105.20:8009/hls/509/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV9
+#EXTINF:-1 group-title="中國官媒" ,CCTV9
 http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV10
+#EXTINF:-1 group-title="中國官媒" ,CCTV10
 http://172.168.1.254:5080/migu720p.php?id=624878405
-#EXTINF:-1 group-title="中國中央" ,CCTV10
+#EXTINF:-1 group-title="中國官媒" ,CCTV10
 http://112.132.10.54:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV10
+#EXTINF:-1 group-title="中國官媒" ,CCTV10
 http://112.27.235.94:8000/hls/11/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV10
+#EXTINF:-1 group-title="中國官媒" ,CCTV10
 http://112.46.105.20:8009/hls/506/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV10
+#EXTINF:-1 group-title="中國官媒" ,CCTV10
 http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV11
+#EXTINF:-1 group-title="中國官媒" ,CCTV11
 http://172.168.1.254:5080/migu720p.php?id=667987558
-#EXTINF:-1 group-title="中國中央" ,CCTV11
+#EXTINF:-1 group-title="中國官媒" ,CCTV11
 http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV11
+#EXTINF:-1 group-title="中國官媒" ,CCTV11
 http://112.27.235.94:8000/hls/12/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV11
+#EXTINF:-1 group-title="中國官媒" ,CCTV11
 http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV12
+#EXTINF:-1 group-title="中國官媒" ,CCTV12
 http://112.132.10.54:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV12
+#EXTINF:-1 group-title="中國官媒" ,CCTV12
 http://112.27.235.94:8000/hls/13/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV12
+#EXTINF:-1 group-title="中國官媒" ,CCTV12
 http://112.46.105.20:8009/hls/507/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV12
+#EXTINF:-1 group-title="中國官媒" ,CCTV12
 http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV13
+#EXTINF:-1 group-title="中國官媒" ,CCTV13
 http://112.27.235.94:8000/hls/14/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV13
+#EXTINF:-1 group-title="中國官媒" ,CCTV13
 http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV14
+#EXTINF:-1 group-title="中國官媒" ,CCTV14
 http://112.132.10.54:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV14
+#EXTINF:-1 group-title="中國官媒" ,CCTV14
 http://112.27.235.94:8000/hls/15/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV14
+#EXTINF:-1 group-title="中國官媒" ,CCTV14
 http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV15
+#EXTINF:-1 group-title="中國官媒" ,CCTV15
 http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV15
+#EXTINF:-1 group-title="中國官媒" ,CCTV15
 http://112.27.235.94:8000/hls/16/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV15
+#EXTINF:-1 group-title="中國官媒" ,CCTV15
 http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國中央" ,CCTV世界地理
+#EXTINF:-1 group-title="中國官媒" ,CCTV世界地理
 http://111.61.236.247:9081/hls/62/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV世界地理
+#EXTINF:-1 group-title="中國官媒" ,CCTV世界地理
 http://sh.lnott.top:880/dx72.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV兵器科技
+#EXTINF:-1 group-title="中國官媒" ,CCTV兵器科技
 http://sh.lnott.top:880/dx81.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV女性時尚
+#EXTINF:-1 group-title="中國官媒" ,CCTV女性時尚
 http://sh.lnott.top:880/dx105.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV文化精品
+#EXTINF:-1 group-title="中國官媒" ,CCTV文化精品
 http://sh.lnott.top:880/dx104.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV風雲足球
+#EXTINF:-1 group-title="中國官媒" ,CCTV風雲足球
 http://111.61.236.247:9081/hls/58/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV風雲音樂
+#EXTINF:-1 group-title="中國官媒" ,CCTV風雲音樂
 http://sh.lnott.top:880/dx73.m3u8
-#EXTINF:-1 group-title="中國中央" ,CCTV高爾夫網球
+#EXTINF:-1 group-title="中國官媒" ,CCTV高爾夫網球
 http://sh.lnott.top:880/dx98.m3u8
-#EXTINF:-1 group-title="中國中央" ,CGTN
+#EXTINF:-1 group-title="中國官媒" ,CGTN
 http://172.168.1.254:5080/migu720p.php?id=609017205
-#EXTINF:-1 group-title="中國中央" ,CGTN
+#EXTINF:-1 group-title="中國官媒" ,CGTN
 http://112.27.235.94:8000/hls/17/index.m3u8
-#EXTINF:-1 group-title="中國中央" ,CGTN西班牙语
+#EXTINF:-1 group-title="中國官媒" ,CGTN西班牙语
 http://172.168.1.254:5080/migu720p.php?id=609006450
-#EXTINF:-1 group-title="中國中央" ,CGTN阿拉伯语
+#EXTINF:-1 group-title="中國官媒" ,CGTN阿拉伯语
 http://172.168.1.254:5080/migu720p.php?id=609154345
 
 #EXTINF:-1 group-title="中國衛視" ,上海衛視
