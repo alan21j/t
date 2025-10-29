@@ -8,7 +8,7 @@ https://stream1.freetv.fun/abc-news-australia-2.ctv
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 group-title="World",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="World" tvg-logo=" https://www.lysvc.cc/TVlogo/img/ArirangTV.png",Arirang
+#EXTINF:-1 group-title="World",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 group-title="World",BBC News
 https://jmp2.uk/stvp-US4000033L
@@ -38,7 +38,7 @@ https://fl30.moveonjoy.com/CMT/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="World",CNBC
 https://fl30.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title="World" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CNN.png",CNN
+#EXTINF:-1 group-title="World",CNN
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 group-title="World",Comedy TV
 https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
@@ -72,7 +72,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 #EXTINF:-1 group-title="World",HBO Family
 https://fl30.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="World" tvg-logo=" https://www.lysvc.cc/TVlogo/img/HBO.png",HBO
+#EXTINF:-1 group-title="World",HBO
 https://fl30.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="World",HGTV
 https://fl30.moveonjoy.com/HGTV/index.m3u8
@@ -802,13 +802,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #EXTINF:-1 group-title="中國港澳",鳳凰香港
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+#EXTINF:-1 group-title="中國官媒",CCTV1
 http://172.168.1.254:5080/migu720p.php?id=608807420
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+#EXTINF:-1 group-title="中國官媒",CCTV1
 http://112.132.10.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+#EXTINF:-1 group-title="中國官媒",CCTV1
 http://112.27.235.94:8000/hls/1/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
+#EXTINF:-1 group-title="中國官媒",CCTV1
 http://112.46.105.20:8009/hls/501/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV2
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv2
@@ -820,13 +820,13 @@ http://112.132.10.54:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.27.235.94:8000/hls/2/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV2
 http://112.46.105.20:8009/hls/502/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+#EXTINF:-1 group-title="中國官媒",CCTV3
 http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+#EXTINF:-1 group-title="中國官媒",CCTV3
 http://112.27.235.94:8000/hls/3/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+#EXTINF:-1 group-title="中國官媒",CCTV3
 http://112.46.105.20:8009/hls/3/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
+#EXTINF:-1 group-title="中國官媒",CCTV3
 http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV4
 http://172.168.1.254:5080/cctvnewsapp.php?id=cctv4
@@ -840,17 +840,17 @@ http://112.27.235.94:8000/hls/4/index.m3u8
 http://112.46.105.20:8009/hls/4/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV4
 http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV4oz.png",CCTV4欧洲
+#EXTINF:-1 group-title="中國官媒",CCTV4欧洲
 http://172.168.1.254:5080/migu720p.php?id=608807419
 #EXTINF:-1 group-title="中國官媒",CCTV4美洲
 http://172.168.1.254:5080/migu720p.php?id=608807416
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+#EXTINF:-1 group-title="中國官媒",CCTV5
 http://172.168.1.254:5080/migu720p.php?id=641886683
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+#EXTINF:-1 group-title="中國官媒",CCTV5
 http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+#EXTINF:-1 group-title="中國官媒",CCTV5
 http://112.27.235.94:8000/hls/5/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
+#EXTINF:-1 group-title="中國官媒",CCTV5
 http://112.46.105.20:8009/hls/503/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV5+
 http://112.27.235.94:8000/hls/6/index.m3u8
@@ -858,13 +858,13 @@ http://112.27.235.94:8000/hls/6/index.m3u8
 http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV6
 http://112.27.235.94:8000/hls/7/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+#EXTINF:-1 group-title="中國官媒",CCTV7
 http://172.168.1.254:5080/migu720p.php?id=673168121
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+#EXTINF:-1 group-title="中國官媒",CCTV7
 http://112.132.10.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+#EXTINF:-1 group-title="中國官媒",CCTV7
 http://112.27.235.94:8000/hls/8/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
+#EXTINF:-1 group-title="中國官媒",CCTV7
 http://112.46.105.20:8009/hls/504/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV8
 http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -874,13 +874,13 @@ http://112.27.235.94:8000/hls/9/index.m3u8
 http://112.46.105.20:8009/hls/8/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV8
 http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+#EXTINF:-1 group-title="中國官媒",CCTV9
 http://112.132.10.54:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+#EXTINF:-1 group-title="中國官媒",CCTV9
 http://112.27.235.94:8000/hls/10/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+#EXTINF:-1 group-title="中國官媒",CCTV9
 http://112.46.105.20:8009/hls/509/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
+#EXTINF:-1 group-title="中國官媒",CCTV9
 http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV10
 http://172.168.1.254:5080/migu720p.php?id=624878405
@@ -892,13 +892,13 @@ http://112.27.235.94:8000/hls/11/index.m3u8
 http://112.46.105.20:8009/hls/506/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV10
 http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+#EXTINF:-1 group-title="中國官媒",CCTV11
 http://172.168.1.254:5080/migu720p.php?id=667987558
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+#EXTINF:-1 group-title="中國官媒",CCTV11
 http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+#EXTINF:-1 group-title="中國官媒",CCTV11
 http://112.27.235.94:8000/hls/12/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
+#EXTINF:-1 group-title="中國官媒",CCTV11
 http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV12
 http://112.132.10.54:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -908,9 +908,9 @@ http://112.27.235.94:8000/hls/13/index.m3u8
 http://112.46.105.20:8009/hls/507/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV12
 http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
+#EXTINF:-1 group-title="中國官媒",CCTV13
 http://112.27.235.94:8000/hls/14/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
+#EXTINF:-1 group-title="中國官媒",CCTV13
 http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV14
 http://112.132.10.54:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -918,15 +918,15 @@ http://112.132.10.54:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.27.235.94:8000/hls/15/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV14
 http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+#EXTINF:-1 group-title="中國官媒",CCTV15
 http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+#EXTINF:-1 group-title="中國官媒",CCTV15
 http://112.27.235.94:8000/hls/16/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
+#EXTINF:-1 group-title="中國官媒",CCTV15
 http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTVsjdl.png",CCTV世界地理
+#EXTINF:-1 group-title="中國官媒",CCTV世界地理
 http://111.61.236.247:9081/hls/62/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVlogo/img/CCTVsjdl.png",CCTV世界地理
+#EXTINF:-1 group-title="中國官媒",CCTV世界地理
 http://sh.lnott.top:880/dx72.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV兵器科技
 http://sh.lnott.top:880/dx81.m3u8
@@ -940,11 +940,11 @@ http://111.61.236.247:9081/hls/58/index.m3u8
 http://sh.lnott.top:880/dx73.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV高爾夫網球
 http://sh.lnott.top:880/dx98.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN.png",CGTN
+#EXTINF:-1 group-title="中國官媒",CGTN
 http://172.168.1.254:5080/migu720p.php?id=609017205
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTN.png",CGTN
+#EXTINF:-1 group-title="中國官媒",CGTN
 http://112.27.235.94:8000/hls/17/index.m3u8
-#EXTINF:-1 group-title="中國官媒" tvg-logo="https://www.lysvc.cc/TVLogo/img/CGTNxbyy.png",CGTN西班牙语
+#EXTINF:-1 group-title="中國官媒",CGTN西班牙语
 http://172.168.1.254:5080/migu720p.php?id=609006450
 #EXTINF:-1 group-title="中國官媒",CGTN阿拉伯语
 http://172.168.1.254:5080/migu720p.php?id=609154345
