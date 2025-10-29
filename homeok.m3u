@@ -1142,8 +1142,6 @@ https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 group-title="中國廣東",河源綜合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="中國廣東",珠江
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 group-title="中國廣東",番禺綜合
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 #EXTINF:-1 group-title="中國廣東",陽江-1
@@ -1208,8 +1206,6 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/index.m3u8
 http://i.iill.top:12838/sh/wxty
 #EXTINF:-1 group-title="華文體育",五星體育
 https://migu.188766.xyz/?migutoken=60b58d0ddca033294fc224b9549608c7&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
-#EXTINF:-1 group-title="華文體育",五星體育
-https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-8.m3u8
 #EXTINF:-1 group-title="華文體育",五星體育
 https://stream1.freetv.fun/wu-xing-ti-yu-8.m3u8
 #EXTINF:-1 group-title="華文體育",勁爆體育
