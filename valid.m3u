@@ -1,2270 +1,2270 @@
 #EXTM3U
 
-#EXTINF:-1 logo="" group-title="World" ,4K Travel
+#EXTINF:-1 group-title="World" ,4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
-#EXTINF:-1 logo="" group-title="World" ,ABC News Australia
+#EXTINF:-1 group-title="World" ,ABC News Australia
 https://stream1.freetv.fun/abc-news-australia-2.ctv
-#EXTINF:-1 logo="" group-title="World" ,Action Movies
+#EXTINF:-1 group-title="World" ,Action Movies
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Al Jazeera
+#EXTINF:-1 group-title="World" ,Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Arirang
+#EXTINF:-1 group-title="World" ,Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 logo="" group-title="World" ,BBC News
+#EXTINF:-1 group-title="World" ,BBC News
 https://jmp2.uk/stvp-US4000033L
-#EXTINF:-1 logo="" group-title="World" ,BBC News
+#EXTINF:-1 group-title="World" ,BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 logo="" group-title="World" ,BET HER
+#EXTINF:-1 group-title="World" ,BET HER
 https://fl30.moveonjoy.com/BET_HER/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,BET
+#EXTINF:-1 group-title="World" ,BET
 https://fl30.moveonjoy.com/BET_EAST/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Bloomberg
+#EXTINF:-1 group-title="World" ,Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 logo="" group-title="World" ,BRAVO
+#EXTINF:-1 group-title="World" ,BRAVO
 https://fl30.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,CARTOON NETWORK
+#EXTINF:-1 group-title="World" ,CARTOON NETWORK
 https://fl30.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Cheddar News
+#EXTINF:-1 group-title="World" ,Cheddar News
 https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
-#EXTINF:-1 logo="" group-title="World" ,CINEMAX MOREMAX
+#EXTINF:-1 group-title="World" ,CINEMAX MOREMAX
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,CMT
+#EXTINF:-1 group-title="World" ,CMT
 https://fl30.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,CNA
+#EXTINF:-1 group-title="World" ,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 logo="" group-title="World" ,CNBC
+#EXTINF:-1 group-title="World" ,CNBC
 https://fl30.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,CNN
+#EXTINF:-1 group-title="World" ,CNN
 https://jmp2.uk/stvp-GBBD8000016N
-#EXTINF:-1 logo="" group-title="World" ,Comedy TV
+#EXTINF:-1 group-title="World" ,Comedy TV
 https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
-#EXTINF:-1 logo="" group-title="World" ,COOKING
+#EXTINF:-1 group-title="World" ,COOKING
 https://fl30.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Crave 3
+#EXTINF:-1 group-title="World" ,Crave 3
 http://fortv.cc:8080/q8KuDU/354945/57322
-#EXTINF:-1 logo="" group-title="World" ,DISCOVERY FAMILY CHANNEL
+#EXTINF:-1 group-title="World" ,DISCOVERY FAMILY CHANNEL
 https://fl30.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,DISCOVERY LIFE
+#EXTINF:-1 group-title="World" ,DISCOVERY LIFE
 https://fl30.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,DISCOVERY Science
+#EXTINF:-1 group-title="World" ,DISCOVERY Science
 https://fl30.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,DW News
+#EXTINF:-1 group-title="World" ,DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Eurosport 4K
+#EXTINF:-1 group-title="World" ,Eurosport 4K
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Fashion Channel
+#EXTINF:-1 group-title="World" ,Fashion Channel
 http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 logo="" group-title="World" ,FOOD NETWORK
+#EXTINF:-1 group-title="World" ,FOOD NETWORK
 https://fl30.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,FOX News Channel
+#EXTINF:-1 group-title="World" ,FOX News Channel
 https://fl30.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,FoxBusiness
+#EXTINF:-1 group-title="World" ,FoxBusiness
 http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Global News
+#EXTINF:-1 group-title="World" ,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:-1 logo="" group-title="World" ,HBO
+#EXTINF:-1 group-title="World" ,HBO
 https://fl30.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,HGTV
+#EXTINF:-1 group-title="World" ,HGTV
 https://fl30.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,HollyWire
+#EXTINF:-1 group-title="World" ,HollyWire
 https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
-#EXTINF:-1 logo="" group-title="World" ,MLB Network
+#EXTINF:-1 group-title="World" ,MLB Network
 https://fl30.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,MovieSphere
+#EXTINF:-1 group-title="World" ,MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="World" ,MTV2
+#EXTINF:-1 group-title="World" ,MTV2
 https://fl30.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,National Geographic Wild
+#EXTINF:-1 group-title="World" ,National Geographic Wild
 https://fl30.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,National Geographic
+#EXTINF:-1 group-title="World" ,National Geographic
 https://fl30.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,NBA TV
+#EXTINF:-1 group-title="World" ,NBA TV
 https://fl30.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,NBC
+#EXTINF:-1 group-title="World" ,NBC
 https://d4whmvwm0rdvi.cloudfront.net/10007/99992212/hls/master.m3u8?ads.xumo_channelId=99992212&ads.asnw=169843&ads.afid=137704898&ads.sfid=16373024&ads.csid=lgchannels_us_nbcnewsnow_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99992212&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 logo="" group-title="World" ,New Kmovies
+#EXTINF:-1 group-title="World" ,New Kmovies
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-13a2f01a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 logo="" group-title="World" ,Newsmax
+#EXTINF:-1 group-title="World" ,Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Newsy
+#EXTINF:-1 group-title="World" ,Newsy
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Oprah Winfrey Network
+#EXTINF:-1 group-title="World" ,Oprah Winfrey Network
 https://fl30.moveonjoy.com/OWN/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Paramount Network
+#EXTINF:-1 group-title="World" ,Paramount Network
 https://fl30.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,PBS Kids
+#EXTINF:-1 group-title="World" ,PBS Kids
 https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Red Bull TV
+#EXTINF:-1 group-title="World" ,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Redbull
+#EXTINF:-1 group-title="World" ,Redbull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT Arabic
+#EXTINF:-1 group-title="World" ,RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT Balkan
+#EXTINF:-1 group-title="World" ,RT Balkan
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT DE
+#EXTINF:-1 group-title="World" ,RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT Doc-Русский
+#EXTINF:-1 group-title="World" ,RT Doc-Русский
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT Documentary
+#EXTINF:-1 group-title="World" ,RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT Español
+#EXTINF:-1 group-title="World" ,RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="World" ,RT News
+#EXTINF:-1 group-title="World" ,RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="World" ,SBS Drama
+#EXTINF:-1 group-title="World" ,SBS Drama
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=sbsk-drama&channel_id=newid_008&mpf=c064f5f4-39af1962-7c36be2c&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=474ab4cb-5d47aa0a-84d0cbca-2a3730a6&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 logo="" group-title="World" ,SEC Network
+#EXTINF:-1 group-title="World" ,SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Showtime 2
+#EXTINF:-1 group-title="World" ,Showtime 2
 https://fl30.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Showtime Extreme
+#EXTINF:-1 group-title="World" ,Showtime Extreme
 https://fl30.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Sky News
+#EXTINF:-1 group-title="World" ,Sky News
 https://jmp2.uk/stvp-USBB52000022Q
-#EXTINF:-1 logo="" group-title="World" ,Sky Sports F1
+#EXTINF:-1 group-title="World" ,Sky Sports F1
 http://fortv.cc:8080/q8KuDU/354945/53704
-#EXTINF:-1 logo="" group-title="World" ,Sony One Comedy HITS
+#EXTINF:-1 group-title="World" ,Sony One Comedy HITS
 https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Sony One Dragons' Den
+#EXTINF:-1 group-title="World" ,Sony One Dragons' Den
 https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Sony One FAVES
+#EXTINF:-1 group-title="World" ,Sony One FAVES
 https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Thriller TV
+#EXTINF:-1 group-title="World" ,Thriller TV
 https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
-#EXTINF:-1 logo="" group-title="World" ,TNT
+#EXTINF:-1 group-title="World" ,TNT
 https://fl30.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Trace Sports
+#EXTINF:-1 group-title="World" ,Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 logo="" group-title="World" ,Travel XP
+#EXTINF:-1 group-title="World" ,Travel XP
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
-#EXTINF:-1 logo="" group-title="World" ,TRT World
+#EXTINF:-1 group-title="World" ,TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 logo="" group-title="World" ,UK: SKY SPORTS F1
+#EXTINF:-1 group-title="World" ,UK: SKY SPORTS F1
 http://nocable.cc:8080//OURTV/OURTV@4806/35244
-#EXTINF:-1 logo="" group-title="World" ,UK: SKY SPORTS Golf
+#EXTINF:-1 group-title="World" ,UK: SKY SPORTS Golf
 http://nocable.cc:8080//OURTV/OURTV@4806/35240
-#EXTINF:-1 logo="" group-title="World" ,UK: SKY SPORTS Main Event
+#EXTINF:-1 group-title="World" ,UK: SKY SPORTS Main Event
 http://nocable.cc:8080//OURTV/OURTV@4806/137720
-#EXTINF:-1 logo="" group-title="World" ,Universal Monsters
+#EXTINF:-1 group-title="World" ,Universal Monsters
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993044/hls/master.m3u8?ads.xumo_channelId=99993044&ads.asnw=169843&ads.afid=380753606&ads.sfid=17850336&ads.csid=lgchannels_us_nbcuuniversalmonsters_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.channelId=99993044&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 logo="" group-title="World" ,Wild Earth
+#EXTINF:-1 group-title="World" ,Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 logo="" group-title="World" ,WION
+#EXTINF:-1 group-title="World" ,WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 logo="" group-title="World" ,半島新聞
+#EXTINF:-1 group-title="World" ,半島新聞
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 logo="" group-title="World" ,半島新聞
+#EXTINF:-1 group-title="World" ,半島新聞
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 logo="" group-title="Sports" ,:Šport
+#EXTINF:-1 group-title="Sports" ,:Šport
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,30A Golf Kingdom
+#EXTINF:-1 group-title="Sports" ,30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,4 Sport
+#EXTINF:-1 group-title="Sports" ,4 Sport
 https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Alkass Three
+#EXTINF:-1 group-title="Sports" ,Alkass Three
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Alkass Two
+#EXTINF:-1 group-title="Sports" ,Alkass Two
 https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,AntenaSport [Not 24/7]
+#EXTINF:-1 group-title="Sports" ,AntenaSport [Not 24/7]
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,CDN Deportes
+#EXTINF:-1 group-title="Sports" ,CDN Deportes
 http://200.125.170.122:8000/play/a03j/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,ColimdoT TV
+#EXTINF:-1 group-title="Sports" ,ColimdoT TV
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,ČT Sport
+#EXTINF:-1 group-title="Sports" ,ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,DirecTV Sports
+#EXTINF:-1 group-title="Sports" ,DirecTV Sports
 http://38.183.182.166:8000/play/a125/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,ELEVEN體育1
+#EXTINF:-1 group-title="Sports" ,ELEVEN體育1
 rtmp://f13h.mine.nu/sat/tv731
-#EXTINF:-1 logo="" group-title="Sports" ,ELEVEN體育2
+#EXTINF:-1 group-title="Sports" ,ELEVEN體育2
 rtmp://f13h.mine.nu/sat/tv741
-#EXTINF:-1 logo="" group-title="Sports" ,FanDuel Racing
+#EXTINF:-1 group-title="Sports" ,FanDuel Racing
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,FanDuel TV
+#EXTINF:-1 group-title="Sports" ,FanDuel TV
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Futbol
+#EXTINF:-1 group-title="Sports" ,Futbol
 https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,FUTV
+#EXTINF:-1 group-title="Sports" ,FUTV
 https://live20.bozztv.com/akamaissh101/ssh101/livefutvcr/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Game+
+#EXTINF:-1 group-title="Sports" ,Game+
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,GEM Fit
+#EXTINF:-1 group-title="Sports" ,GEM Fit
 https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemfit/index-0.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Geo Super
+#EXTINF:-1 group-title="Sports" ,Geo Super
 http://116.90.120.149:8000/play/a021/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Gol Peru
+#EXTINF:-1 group-title="Sports" ,Gol Peru
 http://38.183.182.166:8000/play/a120/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Horse TV
+#EXTINF:-1 group-title="Sports" ,Horse TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,KHL Prime
+#EXTINF:-1 group-title="Sports" ,KHL Prime
 http://194.143.148.28:8080/KHL_HD/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,L1 Max
+#EXTINF:-1 group-title="Sports" ,L1 Max
 http://38.183.182.166:8000/play/a12t/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,M-Net Sport
+#EXTINF:-1 group-title="Sports" ,M-Net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,MadeinBO TV
+#EXTINF:-1 group-title="Sports" ,MadeinBO TV
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,NBA TV
+#EXTINF:-1 group-title="Sports" ,NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,NBA TV
+#EXTINF:-1 group-title="Sports" ,NBA TV
 https://stream1.freetv.fun/nba-tv-3.ctv
-#EXTINF:-1 logo="" group-title="Sports" ,NBC Sports Bay Area [Not 24/7]
+#EXTINF:-1 group-title="Sports" ,NBC Sports Bay Area [Not 24/7]
 https://tvpass.org/live/nbc-sports-bay-area/hd
-#EXTINF:-1 logo="" group-title="Sports" ,NBC Sports Boston [Not 24/7]
+#EXTINF:-1 group-title="Sports" ,NBC Sports Boston [Not 24/7]
 https://tvpass.org/live/nbc-sports-boston/hd
-#EXTINF:-1 logo="" group-title="Sports" ,Ovacion TV [Not 24/7]
+#EXTINF:-1 group-title="Sports" ,Ovacion TV [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Persiana Fight
+#EXTINF:-1 group-title="Sports" ,Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Premiere Clubes
+#EXTINF:-1 group-title="Sports" ,Premiere Clubes
 http://187.120.222.37:721
-#EXTINF:-1 logo="" group-title="Sports" ,PRO Sport International
+#EXTINF:-1 group-title="Sports" ,PRO Sport International
 https://proshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,RightNow TV
+#EXTINF:-1 group-title="Sports" ,RightNow TV
 https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Solh Sports
+#EXTINF:-1 group-title="Sports" ,Solh Sports
 https://wo.cma.footballii.ir/hls2/solh.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,SportsNet New York
+#EXTINF:-1 group-title="Sports" ,SportsNet New York
 https://fl7.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Star Sports 1 Hindi HD
+#EXTINF:-1 group-title="Sports" ,Star Sports 1 Hindi HD
 http://116.90.120.149:8000/play/a0bv/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Star Sports 2 Hindi
+#EXTINF:-1 group-title="Sports" ,Star Sports 2 Hindi
 http://116.90.120.149:8000/play/a0cs/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Star Sports Select 1 HD
+#EXTINF:-1 group-title="Sports" ,Star Sports Select 1 HD
 http://116.90.120.149:8000/play/a0cl/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,Star Sports Select 2 HD
+#EXTINF:-1 group-title="Sports" ,Star Sports Select 2 HD
 http://116.90.120.149:8000/play/a0cm/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,TDM Sports Ch. 93
+#EXTINF:-1 group-title="Sports" ,TDM Sports Ch. 93
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,VITAL Sport [Not 24/7]
+#EXTINF:-1 group-title="Sports" ,VITAL Sport [Not 24/7]
 https://vslive.pw/stream/48527/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,VITAL Tennis [Not 24/7]
+#EXTINF:-1 group-title="Sports" ,VITAL Tennis [Not 24/7]
 https://vslive.pw/stream/48685/index.m3u8
-#EXTINF:-1 logo="" group-title="Sports" ,杜拜體育2
+#EXTINF:-1 group-title="Sports" ,杜拜體育2
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:-1 logo="" group-title="Kids" ,ABC Entertains
+#EXTINF:-1 group-title="Kids" ,ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,ABC Kids
+#EXTINF:-1 group-title="Kids" ,ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,ADN TV+
+#EXTINF:-1 group-title="Kids" ,ADN TV+
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Afarin Baxcha
+#EXTINF:-1 group-title="Kids" ,Afarin Baxcha
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Afarin TV [Not 24/7]
+#EXTINF:-1 group-title="Kids" ,Afarin TV [Not 24/7]
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Aghapy Kids
+#EXTINF:-1 group-title="Kids" ,Aghapy Kids
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Amou Yazid TV
+#EXTINF:-1 group-title="Kids" ,Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Angela Anaconda
+#EXTINF:-1 group-title="Kids" ,Angela Anaconda
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e73687fcd580007d1f052/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28121508-e373-4b45-8f21-c48bbc48ecda
-#EXTINF:-1 logo="" group-title="Kids" ,Ani
+#EXTINF:-1 group-title="Kids" ,Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Anime Vision
+#EXTINF:-1 group-title="Kids" ,Anime Vision
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Anime Vision Classics
+#EXTINF:-1 group-title="Kids" ,Anime Vision Classics
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,ARB Gunes
+#EXTINF:-1 group-title="Kids" ,ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Atfal & Mawaheb TV
+#EXTINF:-1 group-title="Kids" ,Atfal & Mawaheb TV
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Avatar
+#EXTINF:-1 group-title="Kids" ,Avatar
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca060-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c480aed6-08b6-4f7d-9964-40220005ecb8
-#EXTINF:-1 logo="" group-title="Kids" ,Avatar
+#EXTINF:-1 group-title="Kids" ,Avatar
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5690-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f0f2f9f0-a766-421f-b28e-f13232bf4b9f
-#EXTINF:-1 logo="" group-title="Kids" ,Avatar
+#EXTINF:-1 group-title="Kids" ,Avatar
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4c17a81e29300071d3a39/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=640a4092-5016-4d01-bcbf-d66e4f7aa21d
-#EXTINF:-1 logo="" group-title="Kids" ,Baby Shark TV
+#EXTINF:-1 group-title="Kids" ,Baby Shark TV
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,BabyFirst Spanish
+#EXTINF:-1 group-title="Kids" ,BabyFirst Spanish
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,BabyFirst
+#EXTINF:-1 group-title="Kids" ,BabyFirst
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,BeJoy.kids
+#EXTINF:-1 group-title="Kids" ,BeJoy.kids
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Biznet Kids
+#EXTINF:-1 group-title="Kids" ,Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Blues TV
+#EXTINF:-1 group-title="Kids" ,Blues TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Bravo! Kids TV
+#EXTINF:-1 group-title="Kids" ,Bravo! Kids TV
 https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Camp Spoopy
+#EXTINF:-1 group-title="Kids" ,Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:-1 logo="" group-title="Kids" ,Chinola TV
+#EXTINF:-1 group-title="Kids" ,Chinola TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Christian Youth Channel
+#EXTINF:-1 group-title="Kids" ,Christian Youth Channel
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Chutti TV
+#EXTINF:-1 group-title="Kids" ,Chutti TV
 http://87.255.35.150:18855/
-#EXTINF:-1 logo="" group-title="Kids" ,Clan
+#EXTINF:-1 group-title="Kids" ,Clan
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,ČT:D/ČT art
+#EXTINF:-1 group-title="Kids" ,ČT:D/ČT art
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Dios Te Ve Kids
+#EXTINF:-1 group-title="Kids" ,Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Disney Channel
+#EXTINF:-1 group-title="Kids" ,Disney Channel
 https://fl30.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Disney Channel
+#EXTINF:-1 group-title="Kids" ,Disney Channel
 http://185.236.229.62:9981/play/a07d
-#EXTINF:-1 logo="" group-title="Kids" ,Disney Channel
+#EXTINF:-1 group-title="Kids" ,Disney Channel
 https://e5.thetvapp.to/hls/DisneyChannelEast/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Disney Channel
+#EXTINF:-1 group-title="Kids" ,Disney Channel
 http://116.90.120.149:8000/play/a0bx/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Disney Channel Latin America
+#EXTINF:-1 group-title="Kids" ,Disney Channel Latin America
 http://201.230.121.186:8000/play/a0fb/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Disney International HD
+#EXTINF:-1 group-title="Kids" ,Disney International HD
 http://116.90.120.149:8000/play/a0e9/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Disney Jr. Latin America South
+#EXTINF:-1 group-title="Kids" ,Disney Jr. Latin America South
 http://38.183.182.166:8000/play/a0j9/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Disney Junior
+#EXTINF:-1 group-title="Kids" ,Disney Junior
 http://116.90.120.149:8000/play/a0b3/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Disney Junior
+#EXTINF:-1 group-title="Kids" ,Disney Junior
 https://fl30.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Disney Junior
+#EXTINF:-1 group-title="Kids" ,Disney Junior
 http://185.236.229.62:9981/play/a06n
-#EXTINF:-1 logo="" group-title="Kids" ,Disney Junior East
+#EXTINF:-1 group-title="Kids" ,Disney Junior East
 https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Disney XD
+#EXTINF:-1 group-title="Kids" ,Disney XD
 http://185.236.229.62:9981/play/a07c
-#EXTINF:-1 logo="" group-title="Kids" ,Ducktv
+#EXTINF:-1 group-title="Kids" ,Ducktv
 https://jmp2.uk/stvp-ESBC4700001GR
-#EXTINF:-1 logo="" group-title="Kids" ,Duronto TV
+#EXTINF:-1 group-title="Kids" ,Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,EBS kids (400p) [Not 24/7]
+#EXTINF:-1 group-title="Kids" ,EBS kids (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,EnerGeek [Not 24/7]
+#EXTINF:-1 group-title="Kids" ,EnerGeek [Not 24/7]
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 logo="" group-title="Kids" ,Extrema Kids TV [Not 24/7]
+#EXTINF:-1 group-title="Kids" ,Extrema Kids TV [Not 24/7]
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Garfield and Friends
+#EXTINF:-1 group-title="Kids" ,Garfield and Friends
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f176-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68c3c9ce-0e68-43fa-ade2-43491d9d88e2
-#EXTINF:-1 logo="" group-title="Kids" ,Geekdot
+#EXTINF:-1 group-title="Kids" ,Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,GEM Junior
+#EXTINF:-1 group-title="Kids" ,GEM Junior
 https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemjunior/index-0.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,GEM Kids
+#EXTINF:-1 group-title="Kids" ,GEM Kids
 https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemkids/index-0.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Golden Eagle Cartoon
+#EXTINF:-1 group-title="Kids" ,Golden Eagle Cartoon
 http://1.24.190.98:10080/hls/51/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Gubbare
+#EXTINF:-1 group-title="Kids" ,Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Hungama TV
+#EXTINF:-1 group-title="Kids" ,Hungama TV
 http://87.255.35.150:18811/
-#EXTINF:-1 logo="" group-title="Kids" ,Iunior TV
+#EXTINF:-1 group-title="Kids" ,Iunior TV
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Japanim TV
+#EXTINF:-1 group-title="Kids" ,Japanim TV
 https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Kanade
+#EXTINF:-1 group-title="Kids" ,Kanade
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 logo="" group-title="Kids" ,Kartoon Channel
+#EXTINF:-1 group-title="Kids" ,Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Ketchup TV
+#EXTINF:-1 group-title="Kids" ,Ketchup TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
-#EXTINF:-1 logo="" group-title="Kids" ,Kids TV
+#EXTINF:-1 group-title="Kids" ,Kids TV
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Kochu TV
+#EXTINF:-1 group-title="Kids" ,Kochu TV
 http://87.255.35.150:18212
-#EXTINF:-1 logo="" group-title="Kids" ,LEGO Kids TV
+#EXTINF:-1 group-title="Kids" ,LEGO Kids TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536
-#EXTINF:-1 logo="" group-title="Kids" ,Logos TV Kids [Not 24/7]
+#EXTINF:-1 group-title="Kids" ,Logos TV Kids [Not 24/7]
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,M-Net Kids
+#EXTINF:-1 group-title="Kids" ,M-Net Kids
 http://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Magic Kids (486p)
+#EXTINF:-1 group-title="Kids" ,Magic Kids (486p)
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,MCN6 Music Channel [Not 24/7]
+#EXTINF:-1 group-title="Kids" ,MCN6 Music Channel [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Minimax
+#EXTINF:-1 group-title="Kids" ,Minimax
 http://88.212.15.19/live/test_minimax/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Moonbug Kids
+#EXTINF:-1 group-title="Kids" ,Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Naruto
+#EXTINF:-1 group-title="Kids" ,Naruto
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642be2939189ce0008916c21/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f03-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f83fe69-e624-47e7-9e5e-670cb73840f2
-#EXTINF:-1 logo="" group-title="Kids" ,Nei Monggol TV Children Channel
+#EXTINF:-1 group-title="Kids" ,Nei Monggol TV Children Channel
 http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Nick Jr. East
+#EXTINF:-1 group-title="Kids" ,Nick Jr. East
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Nickelodeon
+#EXTINF:-1 group-title="Kids" ,Nickelodeon
 http://185.236.229.62:9981/play/a067
-#EXTINF:-1 logo="" group-title="Kids" ,Nickelodeon
+#EXTINF:-1 group-title="Kids" ,Nickelodeon
 http://195.64.140.147:10121/121
-#EXTINF:-1 logo="" group-title="Kids" ,Nickelodeon
+#EXTINF:-1 group-title="Kids" ,Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Nicktoons
+#EXTINF:-1 group-title="Kids" ,Nicktoons
 http://94.232.127.28:8080/nicktoons/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,NickToons
+#EXTINF:-1 group-title="Kids" ,NickToons
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
-#EXTINF:-1 logo="" group-title="Kids" ,One Piece
+#EXTINF:-1 group-title="Kids" ,One Piece
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6380c94947c72b0007ee9a13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d815-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=011422f0-e50a-4334-9bb5-b01fe7684ef5
-#EXTINF:-1 logo="" group-title="Kids" ,PBS Kids Eastern/Central
+#EXTINF:-1 group-title="Kids" ,PBS Kids Eastern/Central
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,PBS Kids Pacific
+#EXTINF:-1 group-title="Kids" ,PBS Kids Pacific
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Persiana Junior
+#EXTINF:-1 group-title="Kids" ,Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Persiana Teen
+#EXTINF:-1 group-title="Kids" ,Persiana Teen
 https://kphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Pluto TV Junior
+#EXTINF:-1 group-title="Kids" ,Pluto TV Junior
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc43-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39cb1f02-1907-4cc7-8224-1bd6adfb09bc
-#EXTINF:-1 logo="" group-title="Kids" ,Pluto TV Kids Animation
+#EXTINF:-1 group-title="Kids" ,Pluto TV Kids Animation
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc42-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1894d5d0-76ab-4321-9f74-30abda806f6e
-#EXTINF:-1 logo="" group-title="Kids" ,Pluto TV Kids Gaming
+#EXTINF:-1 group-title="Kids" ,Pluto TV Kids Gaming
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6ddc7fcd580007d1eb5f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c9-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e5e05ce9-206e-4e18-bc1a-aeaae6cc75d3
-#EXTINF:-1 logo="" group-title="Kids" ,Pluto TV Retro Toons
+#EXTINF:-1 group-title="Kids" ,Pluto TV Retro Toons
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c8-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3784c13-5aeb-4c18-bd31-9334376945c6
-#EXTINF:-1 logo="" group-title="Kids" ,Pokémon
+#EXTINF:-1 group-title="Kids" ,Pokémon
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
-#EXTINF:-1 logo="" group-title="Kids" ,Polsat JimJam
+#EXTINF:-1 group-title="Kids" ,Polsat JimJam
 http://185.236.229.62:9981/play/a07e
-#EXTINF:-1 logo="" group-title="Kids" ,RiC
+#EXTINF:-1 group-title="Kids" ,RiC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Sabrina la série animée
+#EXTINF:-1 group-title="Kids" ,Sabrina la série animée
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e78c4954f250007ef7b84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d91f8235-755b-4e9c-8062-05d444de314d
-#EXTINF:-1 logo="" group-title="Kids" ,Sat 7 Kids
+#EXTINF:-1 group-title="Kids" ,Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,SKWAD
+#EXTINF:-1 group-title="Kids" ,SKWAD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
-#EXTINF:-1 logo="" group-title="Kids" ,Smile TV (360p) [Geo-blocked]
+#EXTINF:-1 group-title="Kids" ,Smile TV (360p) [Geo-blocked]
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Sonic
+#EXTINF:-1 group-title="Kids" ,Sonic
 http://116.90.120.149:8000/play/a0cc/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,STS kids
+#EXTINF:-1 group-title="Kids" ,STS kids
 http://31.148.48.15/STS_Kids_HD/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Super! Brothers and Sisters Italy
+#EXTINF:-1 group-title="Kids" ,Super! Brothers and Sisters Italy
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 logo="" group-title="Kids" ,Super! iCarly Italy
+#EXTINF:-1 group-title="Kids" ,Super! iCarly Italy
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 logo="" group-title="Kids" ,Super! Pop Italy
+#EXTINF:-1 group-title="Kids" ,Super! Pop Italy
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 logo="" group-title="Kids" ,Taha TV
+#EXTINF:-1 group-title="Kids" ,Taha TV
 https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Team Spirit
+#EXTINF:-1 group-title="Kids" ,Team Spirit
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2b8fbc7f-29d9-4732-92d1-24f50c0be761
-#EXTINF:-1 logo="" group-title="Kids" ,Tiguerito TV [Not 24/7]
+#EXTINF:-1 group-title="Kids" ,Tiguerito TV [Not 24/7]
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Tom And Jerry
+#EXTINF:-1 group-title="Kids" ,Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,TV Bahoriston
+#EXTINF:-1 group-title="Kids" ,TV Bahoriston
 https://live.teleradiocom.tj/3/3m.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,TVCARiB Kids & Teens [Not 24/7]
+#EXTINF:-1 group-title="Kids" ,TVCARiB Kids & Teens [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,TVS Hi Tops
+#EXTINF:-1 group-title="Kids" ,TVS Hi Tops
 https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,YAAAS! [Geo-blocked]
+#EXTINF:-1 group-title="Kids" ,YAAAS! [Geo-blocked]
 https://jmp2.uk/stvp-GB340000289
-#EXTINF:-1 logo="" group-title="Kids" ,ZB Cartoon
+#EXTINF:-1 group-title="Kids" ,ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Zoo Moo (Australia)
+#EXTINF:-1 group-title="Kids" ,Zoo Moo (Australia)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Карусель International
+#EXTINF:-1 group-title="Kids" ,Карусель International
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Карусель
+#EXTINF:-1 group-title="Kids" ,Карусель
 http://31.148.48.15/Karusel_HD/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Карусель
+#EXTINF:-1 group-title="Kids" ,Карусель
 https://streaming.televizor-24-tochka.ru/live/11.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Мама
+#EXTINF:-1 group-title="Kids" ,Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Мульт и музыка
+#EXTINF:-1 group-title="Kids" ,Мульт и музыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Мульт
+#EXTINF:-1 group-title="Kids" ,Мульт
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Радость моя
+#EXTINF:-1 group-title="Kids" ,Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Рыжий
+#EXTINF:-1 group-title="Kids" ,Рыжий
 http://31.148.48.15/Rizhiy/index.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Солнце
+#EXTINF:-1 group-title="Kids" ,Солнце
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,Тамыр (Уфа)
+#EXTINF:-1 group-title="Kids" ,Тамыр (Уфа)
 https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Kids" ,韓國EBS兒童
+#EXTINF:-1 group-title="Kids" ,韓國EBS兒童
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 logo="" group-title="臺灣" ,CH5
+#EXTINF:-1 group-title="臺灣" ,CH5
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,CH8
+#EXTINF:-1 group-title="臺灣" ,CH8
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,CHU
+#EXTINF:-1 group-title="臺灣" ,CHU
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,MOMO TV
+#EXTINF:-1 group-title="臺灣" ,MOMO TV
 rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 logo="" group-title="臺灣" ,TVBS亞洲
+#EXTINF:-1 group-title="臺灣" ,TVBS亞洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,TVBS亞洲
+#EXTINF:-1 group-title="臺灣" ,TVBS亞洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,TVBS亞洲
+#EXTINF:-1 group-title="臺灣" ,TVBS亞洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,TVBS新聞台
+#EXTINF:-1 group-title="臺灣" ,TVBS新聞台
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,三立戲劇
+#EXTINF:-1 group-title="臺灣" ,三立戲劇
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,中天娛樂
+#EXTINF:-1 group-title="臺灣" ,中天娛樂
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,中視
+#EXTINF:-1 group-title="臺灣" ,中視
 rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 logo="" group-title="臺灣" ,人間衛視
+#EXTINF:-1 group-title="臺灣" ,人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 logo="" group-title="臺灣" ,人間衛視
+#EXTINF:-1 group-title="臺灣" ,人間衛視
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,八度空間
+#EXTINF:-1 group-title="臺灣" ,八度空間
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,台視
+#EXTINF:-1 group-title="臺灣" ,台視
 rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 logo="" group-title="臺灣" ,台視新聞
+#EXTINF:-1 group-title="臺灣" ,台視新聞
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,台視新聞
+#EXTINF:-1 group-title="臺灣" ,台視新聞
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,大立電視台
+#EXTINF:-1 group-title="臺灣" ,大立電視台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,東森美洲2
+#EXTINF:-1 group-title="臺灣" ,東森美洲2
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,東森美洲2
+#EXTINF:-1 group-title="臺灣" ,東森美洲2
 http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,東森超視
+#EXTINF:-1 group-title="臺灣" ,東森超視
 http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,東森超視
+#EXTINF:-1 group-title="臺灣" ,東森超視
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,東森超視
+#EXTINF:-1 group-title="臺灣" ,東森超視
 rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 logo="" group-title="臺灣" ,民視
+#EXTINF:-1 group-title="臺灣" ,民視
 rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1 logo="" group-title="臺灣" ,民視新聞
+#EXTINF:-1 group-title="臺灣" ,民視新聞
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,民視新聞
+#EXTINF:-1 group-title="臺灣" ,民視新聞
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,民視新聞
+#EXTINF:-1 group-title="臺灣" ,民視新聞
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,民視新聞
+#EXTINF:-1 group-title="臺灣" ,民視新聞
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,生命電視
+#EXTINF:-1 group-title="臺灣" ,生命電視
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,番薯台
+#EXTINF:-1 group-title="臺灣" ,番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,番薯台
+#EXTINF:-1 group-title="臺灣" ,番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,番薯台
+#EXTINF:-1 group-title="臺灣" ,番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,緯來日本
+#EXTINF:-1 group-title="臺灣" ,緯來日本
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 logo="" group-title="臺灣" ,緯來精采
+#EXTINF:-1 group-title="臺灣" ,緯來精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,緯來育樂
+#EXTINF:-1 group-title="臺灣" ,緯來育樂
 rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 logo="" group-title="臺灣" ,華視
+#EXTINF:-1 group-title="臺灣" ,華視
 rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 logo="" group-title="臺灣" ,非凡新聞
+#EXTINF:-1 group-title="臺灣" ,非凡新聞
 rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 logo="" group-title="臺灣" ,龍華偶像
+#EXTINF:-1 group-title="臺灣" ,龍華偶像
 http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,龍華卡通
+#EXTINF:-1 group-title="臺灣" ,龍華卡通
 http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,龍華戲劇
+#EXTINF:-1 group-title="臺灣" ,龍華戲劇
 http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,龍華日韓
+#EXTINF:-1 group-title="臺灣" ,龍華日韓
 http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,龍華洋片
+#EXTINF:-1 group-title="臺灣" ,龍華洋片
 http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,龍華經典
+#EXTINF:-1 group-title="臺灣" ,龍華經典
 http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,龍華電影
+#EXTINF:-1 group-title="臺灣" ,龍華電影
 http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
 
-#EXTINF:-1 logo="" group-title="中國港澳" ,astro-QJ
+#EXTINF:-1 group-title="中國港澳" ,astro-QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 logo="" group-title="中國港澳" ,astroAod
+#EXTINF:-1 group-title="中國港澳" ,astroAod
 http://php.jdshipin.com/smt.php?id=Aodhd
-#EXTINF:-1 logo="" group-title="中國港澳" ,astro歡喜
+#EXTINF:-1 group-title="中國港澳" ,astro歡喜
 http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 logo="" group-title="中國港澳" ,CCTV1港澳版
+#EXTINF:-1 group-title="中國港澳" ,CCTV1港澳版
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,HOY77
+#EXTINF:-1 group-title="中國港澳" ,HOY77
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,HOY77
+#EXTINF:-1 group-title="中國港澳" ,HOY77
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,HOY77
+#EXTINF:-1 group-title="中國港澳" ,HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 logo="" group-title="中國港澳" ,HOY77
+#EXTINF:-1 group-title="中國港澳" ,HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-#EXTINF:-1 logo="" group-title="中國港澳" ,NOW新聞
+#EXTINF:-1 group-title="中國港澳" ,NOW新聞
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,NOW新聞
+#EXTINF:-1 group-title="中國港澳" ,NOW新聞
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK-31
+#EXTINF:-1 group-title="中國港澳" ,RTHK-31
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK-31
+#EXTINF:-1 group-title="中國港澳" ,RTHK-31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK-32
+#EXTINF:-1 group-title="中國港澳" ,RTHK-32
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK-32
+#EXTINF:-1 group-title="中國港澳" ,RTHK-32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK-33(CCTV1)
+#EXTINF:-1 group-title="中國港澳" ,RTHK-33(CCTV1)
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK-33(CCTV1)
+#EXTINF:-1 group-title="中國港澳" ,RTHK-33(CCTV1)
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK-34(CGTN-D)
+#EXTINF:-1 group-title="中國港澳" ,RTHK-34(CGTN-D)
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK-35(CGTN)
+#EXTINF:-1 group-title="中國港澳" ,RTHK-35(CGTN)
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB J1
+#EXTINF:-1 group-title="中國港澳" ,TVB J1
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB Plus
+#EXTINF:-1 group-title="中國港澳" ,TVB Plus
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB Plus
+#EXTINF:-1 group-title="中國港澳" ,TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB Plus
+#EXTINF:-1 group-title="中國港澳" ,TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 千禧經典
+#EXTINF:-1 group-title="中國港澳" ,TVB 千禧經典
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 明珠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 明珠台
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 明珠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 明珠台
 http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 明珠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 星河
+#EXTINF:-1 group-title="中國港澳" ,TVB 星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 無線新聞
+#EXTINF:-1 group-title="中國港澳" ,TVB 無線新聞
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 無線新聞
+#EXTINF:-1 group-title="中國港澳" ,TVB 無線新聞
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 無線新聞
+#EXTINF:-1 group-title="中國港澳" ,TVB 無線新聞
 https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 無線華麗
+#EXTINF:-1 group-title="中國港澳" ,TVB 無線華麗
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 無線華麗
+#EXTINF:-1 group-title="中國港澳" ,TVB 無線華麗
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠劇集台
+#EXTINF:-1 group-title="中國港澳" ,TVB 翡翠劇集台
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 翡翠台
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
+#EXTINF:-1 group-title="中國港澳" ,TVB 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台4K
+#EXTINF:-1 group-title="中國港澳" ,TVB 翡翠台4K
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB1
+#EXTINF:-1 group-title="中國港澳" ,TVB1
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,ViuTV
+#EXTINF:-1 group-title="中國港澳" ,ViuTV
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,ViuTV
+#EXTINF:-1 group-title="中國港澳" ,ViuTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 logo="" group-title="中國港澳" ,ViuTV
+#EXTINF:-1 group-title="中國港澳" ,ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-#EXTINF:-1 logo="" group-title="中國港澳" ,ViuTVSix
+#EXTINF:-1 group-title="中國港澳" ,ViuTVSix
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-#EXTINF:-1 logo="" group-title="中國港澳" ,亞洲衛視
+#EXTINF:-1 group-title="中國港澳" ,亞洲衛視
 https://fenghuang.tv12.xyz/173.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,天映經典
+#EXTINF:-1 group-title="中國港澳" ,天映經典
 http://php.jdshipin.com/smt.php?id=Celestial2
-#EXTINF:-1 logo="" group-title="中國港澳" ,星空衛視
+#EXTINF:-1 group-title="中國港澳" ,星空衛視
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳" ,澳視澳門
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳" ,澳視澳門
 http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳" ,澳視澳門
 http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳" ,澳視澳門
 http://php.jdshipin.com/PLTV/iptv.php?id=asam
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳" ,澳視澳門
 https://fenghuang.tv12.xyz/181.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視綜藝
+#EXTINF:-1 group-title="中國港澳" ,澳視綜藝
 http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視綜藝
+#EXTINF:-1 group-title="中國港澳" ,澳視綜藝
 https://fenghuang.tv12.xyz/186.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視葡語
+#EXTINF:-1 group-title="中國港澳" ,澳視葡語
 http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視葡語
+#EXTINF:-1 group-title="中國港澳" ,澳視葡語
 http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視葡語
+#EXTINF:-1 group-title="中國港澳" ,澳視葡語
 https://fenghuang.tv12.xyz/182.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視衛星
+#EXTINF:-1 group-title="中國港澳" ,澳視衛星
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視衛星
+#EXTINF:-1 group-title="中國港澳" ,澳視衛星
 http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視衛星
+#EXTINF:-1 group-title="中國港澳" ,澳視衛星
 https://fenghuang.tv12.xyz/183.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視資訊
+#EXTINF:-1 group-title="中國港澳" ,澳視資訊
 http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視資訊
+#EXTINF:-1 group-title="中國港澳" ,澳視資訊
 https://fenghuang.tv12.xyz/185.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視體育
+#EXTINF:-1 group-title="中國港澳" ,澳視體育
 http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視體育
+#EXTINF:-1 group-title="中國港澳" ,澳視體育
 https://fenghuang.tv12.xyz/184.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳門Mac
+#EXTINF:-1 group-title="中國港澳" ,澳門Mac
 http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳門資訊
+#EXTINF:-1 group-title="中國港澳" ,澳門資訊
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳門體育
+#EXTINF:-1 group-title="中國港澳" ,澳門體育
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,環球電視
+#EXTINF:-1 group-title="中國港澳" ,環球電視
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,美亞C+
+#EXTINF:-1 group-title="中國港澳" ,美亞C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,美亞C+
+#EXTINF:-1 group-title="中國港澳" ,美亞C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,美亞C+
+#EXTINF:-1 group-title="中國港澳" ,美亞C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,耀才財經
+#EXTINF:-1 group-title="中國港澳" ,耀才財經
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,耀才財經
+#EXTINF:-1 group-title="中國港澳" ,耀才財經
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,蓮花衛視
+#EXTINF:-1 group-title="中國港澳" ,蓮花衛視
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,鳳凰中文
+#EXTINF:-1 group-title="中國港澳" ,鳳凰中文
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,鳳凰衛視
+#EXTINF:-1 group-title="中國港澳" ,鳳凰衛視
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 logo="" group-title="中國港澳" ,鳳凰資訊
+#EXTINF:-1 group-title="中國港澳" ,鳳凰資訊
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,鳳凰資訊
+#EXTINF:-1 group-title="中國港澳" ,鳳凰資訊
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 logo="" group-title="中國港澳" ,鳳凰電影
+#EXTINF:-1 group-title="中國港澳" ,鳳凰電影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,鳳凰香港
+#EXTINF:-1 group-title="中國港澳" ,鳳凰香港
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
 
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV1
+#EXTINF:-1 group-title="中國官媒" ,CCTV1
 http://172.168.1.254:5080/migu720p.php?id=608807420
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV1
+#EXTINF:-1 group-title="中國官媒" ,CCTV1
 http://112.132.10.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV1
+#EXTINF:-1 group-title="中國官媒" ,CCTV1
 http://112.27.235.94:8000/hls/1/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV1
+#EXTINF:-1 group-title="中國官媒" ,CCTV1
 http://112.46.105.20:8009/hls/501/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV2
+#EXTINF:-1 group-title="中國官媒" ,CCTV2
 http://172.168.1.254:5080/migu720p.php?id=631780532
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV2
+#EXTINF:-1 group-title="中國官媒" ,CCTV2
 http://112.132.10.54:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV2
+#EXTINF:-1 group-title="中國官媒" ,CCTV2
 http://112.27.235.94:8000/hls/2/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV2
+#EXTINF:-1 group-title="中國官媒" ,CCTV2
 http://112.46.105.20:8009/hls/502/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV3
+#EXTINF:-1 group-title="中國官媒" ,CCTV3
 http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV3
+#EXTINF:-1 group-title="中國官媒" ,CCTV3
 http://112.27.235.94:8000/hls/3/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV3
+#EXTINF:-1 group-title="中國官媒" ,CCTV3
 http://112.46.105.20:8009/hls/3/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV3
+#EXTINF:-1 group-title="中國官媒" ,CCTV3
 http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV4
+#EXTINF:-1 group-title="中國官媒" ,CCTV4
 http://172.168.1.254:5080/migu720p.php?id=631780421
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV4
+#EXTINF:-1 group-title="中國官媒" ,CCTV4
 http://112.132.10.54:9901/tsfile/live/0004_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV4
+#EXTINF:-1 group-title="中國官媒" ,CCTV4
 http://112.27.235.94:8000/hls/4/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV4
+#EXTINF:-1 group-title="中國官媒" ,CCTV4
 http://112.46.105.20:8009/hls/4/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV4
+#EXTINF:-1 group-title="中國官媒" ,CCTV4
 http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV4欧洲
+#EXTINF:-1 group-title="中國官媒" ,CCTV4欧洲
 http://172.168.1.254:5080/migu720p.php?id=608807419
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV4美洲
+#EXTINF:-1 group-title="中國官媒" ,CCTV4美洲
 http://172.168.1.254:5080/migu720p.php?id=608807416
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5
+#EXTINF:-1 group-title="中國官媒" ,CCTV5
 http://172.168.1.254:5080/migu720p.php?id=641886683
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5
+#EXTINF:-1 group-title="中國官媒" ,CCTV5
 http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5
+#EXTINF:-1 group-title="中國官媒" ,CCTV5
 http://112.27.235.94:8000/hls/5/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5
+#EXTINF:-1 group-title="中國官媒" ,CCTV5
 http://112.46.105.20:8009/hls/503/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5+
+#EXTINF:-1 group-title="中國官媒" ,CCTV5+
 http://112.27.235.94:8000/hls/6/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV6
+#EXTINF:-1 group-title="中國官媒" ,CCTV6
 http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV6
+#EXTINF:-1 group-title="中國官媒" ,CCTV6
 http://112.27.235.94:8000/hls/7/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV7
+#EXTINF:-1 group-title="中國官媒" ,CCTV7
 http://172.168.1.254:5080/migu720p.php?id=673168121
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV7
+#EXTINF:-1 group-title="中國官媒" ,CCTV7
 http://112.132.10.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV7
+#EXTINF:-1 group-title="中國官媒" ,CCTV7
 http://112.27.235.94:8000/hls/8/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV7
+#EXTINF:-1 group-title="中國官媒" ,CCTV7
 http://112.46.105.20:8009/hls/504/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV8
+#EXTINF:-1 group-title="中國官媒" ,CCTV8
 http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV8
+#EXTINF:-1 group-title="中國官媒" ,CCTV8
 http://112.27.235.94:8000/hls/9/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV8
+#EXTINF:-1 group-title="中國官媒" ,CCTV8
 http://112.46.105.20:8009/hls/8/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV8
+#EXTINF:-1 group-title="中國官媒" ,CCTV8
 http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV9
+#EXTINF:-1 group-title="中國官媒" ,CCTV9
 http://112.132.10.54:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV9
+#EXTINF:-1 group-title="中國官媒" ,CCTV9
 http://112.27.235.94:8000/hls/10/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV9
+#EXTINF:-1 group-title="中國官媒" ,CCTV9
 http://112.46.105.20:8009/hls/509/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV9
+#EXTINF:-1 group-title="中國官媒" ,CCTV9
 http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV10
+#EXTINF:-1 group-title="中國官媒" ,CCTV10
 http://172.168.1.254:5080/migu720p.php?id=624878405
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV10
+#EXTINF:-1 group-title="中國官媒" ,CCTV10
 http://112.132.10.54:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV10
+#EXTINF:-1 group-title="中國官媒" ,CCTV10
 http://112.27.235.94:8000/hls/11/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV10
+#EXTINF:-1 group-title="中國官媒" ,CCTV10
 http://112.46.105.20:8009/hls/506/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV10
+#EXTINF:-1 group-title="中國官媒" ,CCTV10
 http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV11
+#EXTINF:-1 group-title="中國官媒" ,CCTV11
 http://172.168.1.254:5080/migu720p.php?id=667987558
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV11
+#EXTINF:-1 group-title="中國官媒" ,CCTV11
 http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV11
+#EXTINF:-1 group-title="中國官媒" ,CCTV11
 http://112.27.235.94:8000/hls/12/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV11
+#EXTINF:-1 group-title="中國官媒" ,CCTV11
 http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV12
+#EXTINF:-1 group-title="中國官媒" ,CCTV12
 http://112.132.10.54:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV12
+#EXTINF:-1 group-title="中國官媒" ,CCTV12
 http://112.27.235.94:8000/hls/13/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV12
+#EXTINF:-1 group-title="中國官媒" ,CCTV12
 http://112.46.105.20:8009/hls/507/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV12
+#EXTINF:-1 group-title="中國官媒" ,CCTV12
 http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV13
+#EXTINF:-1 group-title="中國官媒" ,CCTV13
 http://112.27.235.94:8000/hls/14/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV13
+#EXTINF:-1 group-title="中國官媒" ,CCTV13
 http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV14
+#EXTINF:-1 group-title="中國官媒" ,CCTV14
 http://112.132.10.54:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV14
+#EXTINF:-1 group-title="中國官媒" ,CCTV14
 http://112.27.235.94:8000/hls/15/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV14
+#EXTINF:-1 group-title="中國官媒" ,CCTV14
 http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV15
+#EXTINF:-1 group-title="中國官媒" ,CCTV15
 http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV15
+#EXTINF:-1 group-title="中國官媒" ,CCTV15
 http://112.27.235.94:8000/hls/16/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV15
+#EXTINF:-1 group-title="中國官媒" ,CCTV15
 http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV世界地理
+#EXTINF:-1 group-title="中國官媒" ,CCTV世界地理
 http://111.61.236.247:9081/hls/62/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV世界地理
+#EXTINF:-1 group-title="中國官媒" ,CCTV世界地理
 http://sh.lnott.top:880/dx72.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV兵器科技
+#EXTINF:-1 group-title="中國官媒" ,CCTV兵器科技
 http://sh.lnott.top:880/dx81.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV女性時尚
+#EXTINF:-1 group-title="中國官媒" ,CCTV女性時尚
 http://sh.lnott.top:880/dx105.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV文化精品
+#EXTINF:-1 group-title="中國官媒" ,CCTV文化精品
 http://sh.lnott.top:880/dx104.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV風雲足球
+#EXTINF:-1 group-title="中國官媒" ,CCTV風雲足球
 http://111.61.236.247:9081/hls/58/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV風雲音樂
+#EXTINF:-1 group-title="中國官媒" ,CCTV風雲音樂
 http://sh.lnott.top:880/dx73.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV高爾夫網球
+#EXTINF:-1 group-title="中國官媒" ,CCTV高爾夫網球
 http://sh.lnott.top:880/dx98.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CGTN
+#EXTINF:-1 group-title="中國官媒" ,CGTN
 http://172.168.1.254:5080/migu720p.php?id=609017205
-#EXTINF:-1 logo="" group-title="中國官媒" ,CGTN
+#EXTINF:-1 group-title="中國官媒" ,CGTN
 http://112.27.235.94:8000/hls/17/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CGTN西班牙语
+#EXTINF:-1 group-title="中國官媒" ,CGTN西班牙语
 http://172.168.1.254:5080/migu720p.php?id=609006450
-#EXTINF:-1 logo="" group-title="中國官媒" ,CGTN阿拉伯语
+#EXTINF:-1 group-title="中國官媒" ,CGTN阿拉伯语
 http://172.168.1.254:5080/migu720p.php?id=609154345
 
-#EXTINF:-1 logo="" group-title="中國衛視" ,上海衛視
+#EXTINF:-1 group-title="中國衛視" ,上海衛視
 http://112.27.235.94:8000/hls/28/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,內蒙古衛視
+#EXTINF:-1 group-title="中國衛視" ,內蒙古衛視
 http://112.27.235.94:8000/hls/49/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,兵團衛視
+#EXTINF:-1 group-title="中國衛視" ,兵團衛視
 http://172.168.1.254:5080/migu720p.php?id=956923145
-#EXTINF:-1 logo="" group-title="中國衛視" ,北京衛視
+#EXTINF:-1 group-title="中國衛視" ,北京衛視
 http://112.27.235.94:8000/hls/27/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,北京衛視
+#EXTINF:-1 group-title="中國衛視" ,北京衛視
 http://153.0.171.163:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,北京衛視
+#EXTINF:-1 group-title="中國衛視" ,北京衛視
 http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,北京衛視
+#EXTINF:-1 group-title="中國衛視" ,北京衛視
 http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,吉林衛視
+#EXTINF:-1 group-title="中國衛視" ,吉林衛視
 http://172.168.1.254:5080/migu720p.php?id=947472500
-#EXTINF:-1 logo="" group-title="中國衛視" ,吉林衛視
+#EXTINF:-1 group-title="中國衛視" ,吉林衛視
 http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,四川衛視
+#EXTINF:-1 group-title="中國衛視" ,四川衛視
 http://112.27.235.94:8000/hls/35/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,四川衛視
+#EXTINF:-1 group-title="中國衛視" ,四川衛視
 http://iptv.huuc.edu.cn/hls/schd.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,大灣區衛視
+#EXTINF:-1 group-title="中國衛視" ,大灣區衛視
 http://172.168.1.254:5080/migu720p.php?id=608917627
-#EXTINF:-1 logo="" group-title="中國衛視" ,大灣區衛視
+#EXTINF:-1 group-title="中國衛視" ,大灣區衛視
 http://222.128.55.152:9080/live/dwq.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,天津衛視
+#EXTINF:-1 group-title="中國衛視" ,天津衛視
 http://112.27.235.94:8000/hls/42/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,天津衛視
+#EXTINF:-1 group-title="中國衛視" ,天津衛視
 http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,天津衛視
+#EXTINF:-1 group-title="中國衛視" ,天津衛視
 http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,安徽衛視
+#EXTINF:-1 group-title="中國衛視" ,安徽衛視
 http://112.27.235.94:8000/hls/26/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,安徽衛視
+#EXTINF:-1 group-title="中國衛視" ,安徽衛視
 http://153.0.171.163:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,安徽衛視
+#EXTINF:-1 group-title="中國衛視" ,安徽衛視
 http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,安徽衛視
+#EXTINF:-1 group-title="中國衛視" ,安徽衛視
 http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,寧夏衛視
+#EXTINF:-1 group-title="中國衛視" ,寧夏衛視
 http://153.0.171.163:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,山東衛視
+#EXTINF:-1 group-title="中國衛視" ,山東衛視
 http://112.27.235.94:8000/hls/34/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,山東衛視
+#EXTINF:-1 group-title="中國衛視" ,山東衛視
 http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,山東衛視
+#EXTINF:-1 group-title="中國衛視" ,山東衛視
 http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,山東衛視
+#EXTINF:-1 group-title="中國衛視" ,山東衛視
 http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,山西衛視
+#EXTINF:-1 group-title="中國衛視" ,山西衛視
 http://112.27.235.94:8000/hls/45/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,山西衛視
+#EXTINF:-1 group-title="中國衛視" ,山西衛視
 http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,廣東衛視
+#EXTINF:-1 group-title="中國衛視" ,廣東衛視
 http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,東南衛視
+#EXTINF:-1 group-title="中國衛視" ,東南衛視
 http://112.27.235.94:8000/hls/38/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,東南衛視
+#EXTINF:-1 group-title="中國衛視" ,東南衛視
 http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,東南衛視
+#EXTINF:-1 group-title="中國衛視" ,東南衛視
 http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,東南衛視
+#EXTINF:-1 group-title="中國衛視" ,東南衛視
 http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,東方衛視
+#EXTINF:-1 group-title="中國衛視" ,東方衛視
 http://153.0.171.163:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,東方衛視
+#EXTINF:-1 group-title="中國衛視" ,東方衛視
 http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,東方衛視
+#EXTINF:-1 group-title="中國衛視" ,東方衛視
 http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,江蘇衛視
+#EXTINF:-1 group-title="中國衛視" ,江蘇衛視
 http://172.168.1.254:5080/migu720p.php?id=623899368
-#EXTINF:-1 logo="" group-title="中國衛視" ,江蘇衛視
+#EXTINF:-1 group-title="中國衛視" ,江蘇衛視
 http://112.27.235.94:8000/hls/32/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,江蘇衛視
+#EXTINF:-1 group-title="中國衛視" ,江蘇衛視
 http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,江蘇衛視
+#EXTINF:-1 group-title="中國衛視" ,江蘇衛視
 http://iptv.huuc.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,江西衛視
+#EXTINF:-1 group-title="中國衛視" ,江西衛視
 http://112.27.235.94:8000/hls/44/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,江西衛視
+#EXTINF:-1 group-title="中國衛視" ,江西衛視
 http://153.0.171.163:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,河北衛視
+#EXTINF:-1 group-title="中國衛視" ,河北衛視
 http://112.27.235.94:8000/hls/39/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,河北衛視
+#EXTINF:-1 group-title="中國衛視" ,河北衛視
 http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,河北衛視
+#EXTINF:-1 group-title="中國衛視" ,河北衛視
 http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,河南衛視
+#EXTINF:-1 group-title="中國衛視" ,河南衛視
 http://172.168.1.254:5080/migu720p.php?id=790187291
-#EXTINF:-1 logo="" group-title="中國衛視" ,河南衛視
+#EXTINF:-1 group-title="中國衛視" ,河南衛視
 http://112.27.235.94:8000/hls/37/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,河南衛視
+#EXTINF:-1 group-title="中國衛視" ,河南衛視
 http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,浙江衛視
+#EXTINF:-1 group-title="中國衛視" ,浙江衛視
 http://112.27.235.94:8000/hls/29/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,浙江衛視
+#EXTINF:-1 group-title="中國衛視" ,浙江衛視
 http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,浙江衛視
+#EXTINF:-1 group-title="中國衛視" ,浙江衛視
 http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,浙江衛視
+#EXTINF:-1 group-title="中國衛視" ,浙江衛視
 http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,深圳衛視
+#EXTINF:-1 group-title="中國衛視" ,深圳衛視
 http://112.27.235.94:8000/hls/33/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,深圳衛視
+#EXTINF:-1 group-title="中國衛視" ,深圳衛視
 http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,深圳衛視
+#EXTINF:-1 group-title="中國衛視" ,深圳衛視
 http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,深圳衛視
+#EXTINF:-1 group-title="中國衛視" ,深圳衛視
 http://iptv.huuc.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,湖北衛視
+#EXTINF:-1 group-title="中國衛視" ,湖北衛視
 http://172.168.1.254:5080/migu720p.php?id=947472496
-#EXTINF:-1 logo="" group-title="中國衛視" ,湖北衛視
+#EXTINF:-1 group-title="中國衛視" ,湖北衛視
 http://112.27.235.94:8000/hls/41/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,湖北衛視
+#EXTINF:-1 group-title="中國衛視" ,湖北衛視
 http://153.0.171.163:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,湖北衛視
+#EXTINF:-1 group-title="中國衛視" ,湖北衛視
 http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,湖北衛視
+#EXTINF:-1 group-title="中國衛視" ,湖北衛視
 http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,湖北衛視
+#EXTINF:-1 group-title="中國衛視" ,湖北衛視
 http://www.745612.xyz:7788/rtp/235.254.198.72:1564
-#EXTINF:-1 logo="" group-title="中國衛視" ,湖南衛視
+#EXTINF:-1 group-title="中國衛視" ,湖南衛視
 http://112.27.235.94:8000/hls/31/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,湖南衛視
+#EXTINF:-1 group-title="中國衛視" ,湖南衛視
 http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,貴州衛視
+#EXTINF:-1 group-title="中國衛視" ,貴州衛視
 http://112.27.235.94:8000/hls/46/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,貴州衛視
+#EXTINF:-1 group-title="中國衛視" ,貴州衛視
 http://153.0.171.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,貴州衛視
+#EXTINF:-1 group-title="中國衛視" ,貴州衛視
 http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,遼寧衛視
+#EXTINF:-1 group-title="中國衛視" ,遼寧衛視
 http://172.168.1.254:5080/migu720p.php?id=630291707
-#EXTINF:-1 logo="" group-title="中國衛視" ,遼寧衛視
+#EXTINF:-1 group-title="中國衛視" ,遼寧衛視
 http://112.27.235.94:8000/hls/47/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,遼寧衛視
+#EXTINF:-1 group-title="中國衛視" ,遼寧衛視
 http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,遼寧衛視
+#EXTINF:-1 group-title="中國衛視" ,遼寧衛視
 http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,遼寧衛視
+#EXTINF:-1 group-title="中國衛視" ,遼寧衛視
 http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,重慶衛視
+#EXTINF:-1 group-title="中國衛視" ,重慶衛視
 http://112.27.235.94:8000/hls/36/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,重慶衛視
+#EXTINF:-1 group-title="中國衛視" ,重慶衛視
 http://153.0.171.163:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,重慶衛視
+#EXTINF:-1 group-title="中國衛視" ,重慶衛視
 http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,重慶衛視
+#EXTINF:-1 group-title="中國衛視" ,重慶衛視
 http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,陝西衛視
+#EXTINF:-1 group-title="中國衛視" ,陝西衛視
 http://112.27.235.94:8000/hls/43/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,陝西衛視
+#EXTINF:-1 group-title="中國衛視" ,陝西衛視
 http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,雲南衛視
+#EXTINF:-1 group-title="中國衛視" ,雲南衛視
 http://112.27.235.94:8000/hls/40/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,雲南衛視
+#EXTINF:-1 group-title="中國衛視" ,雲南衛視
 http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,青海衛視
+#EXTINF:-1 group-title="中國衛視" ,青海衛視
 http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,黑龍江衛視
+#EXTINF:-1 group-title="中國衛視" ,黑龍江衛視
 http://112.27.235.94:8000/hls/48/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,黑龍江衛視
+#EXTINF:-1 group-title="中國衛視" ,黑龍江衛視
 http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,黑龍江衛視
+#EXTINF:-1 group-title="中國衛視" ,黑龍江衛視
 http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 
-#EXTINF:-1 logo="" group-title="中國廣東" ,南國都市
+#EXTINF:-1 group-title="中國廣東" ,南國都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-#EXTINF:-1 logo="" group-title="中國廣東" ,廣州南國都市
+#EXTINF:-1 group-title="中國廣東" ,廣州南國都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46
-#EXTINF:-1 logo="" group-title="中國廣東" ,廣州新聞
+#EXTINF:-1 group-title="中國廣東" ,廣州新聞
 http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-#EXTINF:-1 logo="" group-title="中國廣東" ,廣州新聞
+#EXTINF:-1 group-title="中國廣東" ,廣州新聞
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
-#EXTINF:-1 logo="" group-title="中國廣東" ,廣州法治
+#EXTINF:-1 group-title="中國廣東" ,廣州法治
 http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
-#EXTINF:-1 logo="" group-title="中國廣東" ,廣州法治
+#EXTINF:-1 group-title="中國廣東" ,廣州法治
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=31e9eb294789e59e351fc1f0ab3178bc&txTime=18d00acf487
-#EXTINF:-1 logo="" group-title="中國廣東" ,廣州競賽
+#EXTINF:-1 group-title="中國廣東" ,廣州競賽
 http://8.138.7.223/tv/gzjs.m3u8
-#EXTINF:-1 logo="" group-title="中國廣東" ,廣州綜合
+#EXTINF:-1 group-title="中國廣東" ,廣州綜合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-#EXTINF:-1 logo="" group-title="中國廣東" ,廣州綜合
+#EXTINF:-1 group-title="中國廣東" ,廣州綜合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
-#EXTINF:-1 logo="" group-title="中國廣東" ,東莞新聞綜合
+#EXTINF:-1 group-title="中國廣東" ,東莞新聞綜合
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
-#EXTINF:-1 logo="" group-title="中國廣東" ,東莞生活資訊
+#EXTINF:-1 group-title="中國廣東" ,東莞生活資訊
 https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
-#EXTINF:-1 logo="" group-title="中國廣東" ,河源公共
+#EXTINF:-1 group-title="中國廣東" ,河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 logo="" group-title="中國廣東" ,河源綜合
+#EXTINF:-1 group-title="中國廣東" ,河源綜合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 logo="" group-title="中國廣東" ,番禺綜合
+#EXTINF:-1 group-title="中國廣東" ,番禺綜合
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-#EXTINF:-1 logo="" group-title="中國廣東" ,陽江-1
+#EXTINF:-1 group-title="中國廣東" ,陽江-1
 https://live.yjtvw.com:8081/live/yjtv1.m3u8
-#EXTINF:-1 logo="" group-title="中國廣東" ,陽江-2
+#EXTINF:-1 group-title="中國廣東" ,陽江-2
 https://live.yjtvw.com:8081/live/yjtv2.m3u8
 
-#EXTINF:-1 logo="" group-title="中國上海" ,新聞綜合
+#EXTINF:-1 group-title="中國上海" ,新聞綜合
 http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
-#EXTINF:-1 logo="" group-title="中國上海" ,新聞綜合
+#EXTINF:-1 group-title="中國上海" ,新聞綜合
 http://sh.lnott.top:880/dx28.m3u8
-#EXTINF:-1 logo="" group-title="中國上海" ,新聞綜合
+#EXTINF:-1 group-title="中國上海" ,新聞綜合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-#EXTINF:-1 logo="" group-title="中國上海" ,新聞綜合
+#EXTINF:-1 group-title="中國上海" ,新聞綜合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國上海" ,新聞綜合
+#EXTINF:-1 group-title="中國上海" ,新聞綜合
 https://stream1.freetv.fun/xin-wen-zong-he-13.m3u8
-#EXTINF:-1 logo="" group-title="中國上海" ,新聞綜合
+#EXTINF:-1 group-title="中國上海" ,新聞綜合
 https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
-#EXTINF:-1 logo="" group-title="中國上海" ,新聞綜合
+#EXTINF:-1 group-title="中國上海" ,新聞綜合
 https://xatv-yt.xiancity.cn/live/1/index.m3u8
-#EXTINF:-1 logo="" group-title="中國上海" ,第一財經
+#EXTINF:-1 group-title="中國上海" ,第一財經
 https://cdn3.163189.xyz/163189/dycj
 
-#EXTINF:-1 logo="" group-title="中國浙江" ,之江紀錄
+#EXTINF:-1 group-title="中國浙江" ,之江紀錄
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,文成新聞綜合
+#EXTINF:-1 group-title="中國浙江" ,文成新聞綜合
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江World
+#EXTINF:-1 group-title="中國浙江" ,浙江World
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江少兒
+#EXTINF:-1 group-title="中國浙江" ,浙江少兒
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江教科
+#EXTINF:-1 group-title="中國浙江" ,浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江新聞
+#EXTINF:-1 group-title="中國浙江" ,浙江新聞
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江民生
+#EXTINF:-1 group-title="中國浙江" ,浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江經濟
+#EXTINF:-1 group-title="中國浙江" ,浙江經濟
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江錢江
+#EXTINF:-1 group-title="中國浙江" ,浙江錢江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,蕭山綜合
+#EXTINF:-1 group-title="中國浙江" ,蕭山綜合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,象山新聞綜合
+#EXTINF:-1 group-title="中國浙江" ,象山新聞綜合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,雲和新聞綜合
+#EXTINF:-1 group-title="中國浙江" ,雲和新聞綜合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,青田電視台
+#EXTINF:-1 group-title="中國浙江" ,青田電視台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
-#EXTINF:-1 logo="" group-title="中國江蘇" ,蘇州文化生活
+#EXTINF:-1 group-title="中國江蘇" ,蘇州文化生活
 https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-#EXTINF:-1 logo="" group-title="中國江蘇" ,蘇州生活資訊
+#EXTINF:-1 group-title="中國江蘇" ,蘇州生活資訊
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-#EXTINF:-1 logo="" group-title="中國江蘇" ,蘇州社會經濟
+#EXTINF:-1 group-title="中國江蘇" ,蘇州社會經濟
 https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 
-#EXTINF:-1 logo="" group-title="華文體育" ,五星體育
+#EXTINF:-1 group-title="華文體育" ,五星體育
 http://172.168.1.254:5080/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
-#EXTINF:-1 logo="" group-title="華文體育" ,五星體育
+#EXTINF:-1 group-title="華文體育" ,五星體育
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
-#EXTINF:-1 logo="" group-title="華文體育" ,五星體育
+#EXTINF:-1 group-title="華文體育" ,五星體育
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/index.m3u8
-#EXTINF:-1 logo="" group-title="華文體育" ,五星體育
+#EXTINF:-1 group-title="華文體育" ,五星體育
 https://migu.188766.xyz/?migutoken=60b58d0ddca033294fc224b9549608c7&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
-#EXTINF:-1 logo="" group-title="華文體育" ,五星體育
+#EXTINF:-1 group-title="華文體育" ,五星體育
 https://stream1.freetv.fun/wu-xing-ti-yu-8.m3u8
-#EXTINF:-1 logo="" group-title="華文體育" ,勁爆體育
+#EXTINF:-1 group-title="華文體育" ,勁爆體育
 http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
-#EXTINF:-1 logo="" group-title="華文體育" ,勁爆體育
+#EXTINF:-1 group-title="華文體育" ,勁爆體育
 http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-#EXTINF:-1 logo="" group-title="華文體育" ,勁爆體育
+#EXTINF:-1 group-title="華文體育" ,勁爆體育
 http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="華文體育" ,央視撞球
+#EXTINF:-1 group-title="華文體育" ,央視撞球
 http://183.11.239.36:808/hls/73/index.m3u8
-#EXTINF:-1 logo="" group-title="華文體育" ,央視撞球
+#EXTINF:-1 group-title="華文體育" ,央視撞球
 http://sh.lnott.top:880/dx82.m3u8
-#EXTINF:-1 logo="" group-title="華文體育" ,廣東體育
+#EXTINF:-1 group-title="華文體育" ,廣東體育
 http://172.168.1.254:5080/mytv.php?url=http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-#EXTINF:-1 logo="" group-title="華文體育" ,廣東體育
+#EXTINF:-1 group-title="華文體育" ,廣東體育
 http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
-#EXTINF:-1 logo="" group-title="華文體育" ,廣東體育
+#EXTINF:-1 group-title="華文體育" ,廣東體育
 http://183.11.239.36:808/hls/2/index.m3u8
-#EXTINF:-1 logo="" group-title="華文體育" ,廣東體育
+#EXTINF:-1 group-title="華文體育" ,廣東體育
 http://pa.kuangdeng.top:8081/hls/68/index.m3u8
-#EXTINF:-1 logo="" group-title="華文體育" ,廣東體育
+#EXTINF:-1 group-title="華文體育" ,廣東體育
 https://stream1.freetv.fun/yan-dong-ti-yu-29.ctv
-#EXTINF:-1 logo="" group-title="華文體育" ,快樂釣魚
+#EXTINF:-1 group-title="華文體育" ,快樂釣魚
 http://111.196.133.168:8012/rtp/239.3.1.164:8001
-#EXTINF:-1 logo="" group-title="華文體育" ,緯來體育
+#EXTINF:-1 group-title="華文體育" ,緯來體育
 rtmp://f13h.mine.nu:1935/sat/tv721
-#EXTINF:-1 logo="" group-title="華文體育" ,緯來體育
+#EXTINF:-1 group-title="華文體育" ,緯來體育
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 logo="" group-title="華文體育" ,緯來體育
+#EXTINF:-1 group-title="華文體育" ,緯來體育
 http://zb.xmzb.xyz/123.php?id=⚽馬上oppppp一緯來體育
-#EXTINF:-1 logo="" group-title="華文體育" ,風雲足球
+#EXTINF:-1 group-title="華文體育" ,風雲足球
 http://183.11.239.36:808/hls/133/index.m3u8
-#EXTINF:-1 logo="" group-title="華文體育" ,風雲足球
+#EXTINF:-1 group-title="華文體育" ,風雲足球
 http://61.184.46.85:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="華文體育" ,風雲足球
+#EXTINF:-1 group-title="華文體育" ,風雲足球
 http://sh.lnott.top:880/dx71.m3u8
-#EXTINF:-1 logo="" group-title="華文體育" ,風雲足球
+#EXTINF:-1 group-title="華文體育" ,風雲足球
 https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 
-#EXTINF:-1 logo="" group-title="YY連播" ,【周星驰】搞笑电影
+#EXTINF:-1 group-title="YY連播" ,【周星驰】搞笑电影
 http://172.168.1.254:5080/yy.php?id=38670875
-#EXTINF:-1 logo="" group-title="YY連播" ,【新三国】萌儿陪看
+#EXTINF:-1 group-title="YY連播" ,【新三国】萌儿陪看
 http://172.168.1.254:5080/yy.php?id=29216766
-#EXTINF:-1 logo="" group-title="YY連播" ,【林正英经典】玄幻电影
+#EXTINF:-1 group-title="YY連播" ,【林正英经典】玄幻电影
 http://172.168.1.254:5080/yy.php?id=1462895099
-#EXTINF:-1 logo="" group-title="YY連播" ,【水浒传】24h
+#EXTINF:-1 group-title="YY連播" ,【水浒传】24h
 http://172.168.1.254:5080/yy.php?id=1382702247
-#EXTINF:-1 logo="" group-title="YY連播" ,【狂飙2老默】首播
+#EXTINF:-1 group-title="YY連播" ,【狂飙2老默】首播
 http://172.168.1.254:5080/yy.php?id=1354790484
-#EXTINF:-1 logo="" group-title="YY連播" ,【破案悬疑港剧】
+#EXTINF:-1 group-title="YY連播" ,【破案悬疑港剧】
 http://172.168.1.254:5080/yy.php?id=1382800083
-#EXTINF:-1 logo="" group-title="YY連播" ,【经典港片】佟瑶
+#EXTINF:-1 group-title="YY連播" ,【经典港片】佟瑶
 http://172.168.1.254:5080/yy.php?id=23531261
-#EXTINF:-1 logo="" group-title="YY連播" ,【谅剑】
+#EXTINF:-1 group-title="YY連播" ,【谅剑】
 http://172.168.1.254:5080/yy.php?id=1508456184
-#EXTINF:-1 logo="" group-title="YY連播" ,【靓剑】乐乐陪看
+#EXTINF:-1 group-title="YY連播" ,【靓剑】乐乐陪看
 http://172.168.1.254:5080/yy.php?id=1352946111
-#EXTINF:-1 logo="" group-title="YY連播" ,【鹿鼎记】金庸经典
+#EXTINF:-1 group-title="YY連播" ,【鹿鼎记】金庸经典
 http://172.168.1.254:5080/yy.php?id=28265277
-#EXTINF:-1 logo="" group-title="YY連播" ,1930年代经典电影
+#EXTINF:-1 group-title="YY連播" ,1930年代经典电影
 http://172.168.1.254:5080/yy.php?id=1356363815
-#EXTINF:-1 logo="" group-title="YY連播" ,24h
+#EXTINF:-1 group-title="YY連播" ,24h
 http://172.168.1.254:5080/yy.php?id=1355171231
-#EXTINF:-1 logo="" group-title="YY連播" ,24h七星鲁王宫
+#EXTINF:-1 group-title="YY連播" ,24h七星鲁王宫
 http://172.168.1.254:5080/yy.php?id=1355171357
-#EXTINF:-1 logo="" group-title="YY連播" ,24h唐朝诡实录
+#EXTINF:-1 group-title="YY連播" ,24h唐朝诡实录
 http://172.168.1.254:5080/yy.php?id=1353913646
-#EXTINF:-1 logo="" group-title="YY連播" ,24h我爱我家纯音频
+#EXTINF:-1 group-title="YY連播" ,24h我爱我家纯音频
 http://172.168.1.254:5080/yy.php?id=1356212303
-#EXTINF:-1 logo="" group-title="YY連播" ,24小时循环播电视剧
+#EXTINF:-1 group-title="YY連播" ,24小时循环播电视剧
 http://172.168.1.254:5080/yy.php?id=53320802
-#EXTINF:-1 logo="" group-title="YY連播" ,8090.电影一哥
+#EXTINF:-1 group-title="YY連播" ,8090.电影一哥
 http://172.168.1.254:5080/yy.php?id=29197808
-#EXTINF:-1 logo="" group-title="YY連播" ,83射雕英雄传
+#EXTINF:-1 group-title="YY連播" ,83射雕英雄传
 http://172.168.1.254:5080/yy.php?id=1354210357
-#EXTINF:-1 logo="" group-title="YY連播" ,90年代爱情经典必看
+#EXTINF:-1 group-title="YY連播" ,90年代爱情经典必看
 http://172.168.1.254:5080/yy.php?id=1382736893
-#EXTINF:-1 logo="" group-title="YY連播" ,Blingbling
+#EXTINF:-1 group-title="YY連播" ,Blingbling
 http://172.168.1.254:5080/yy.php?id=1382851598
-#EXTINF:-1 logo="" group-title="YY連播" ,TVB收视爆剧-溏心风暴
+#EXTINF:-1 group-title="YY連播" ,TVB收视爆剧-溏心风暴
 http://172.168.1.254:5080/yy.php?id=1382736916
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382735545
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382735572
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382735578
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382735579
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382736805
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382736807
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382736808
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382736818
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382736819
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382736834
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382736852
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382736869
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382736888
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382745084
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382745093
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382745110
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382745113
-#EXTINF:-1 logo="" group-title="YY連播" ,YY用户
+#EXTINF:-1 group-title="YY連播" ,YY用户
 http://172.168.1.254:5080/yy.php?id=1382745117
-#EXTINF:-1 logo="" group-title="YY連播" ,一分钟学道菜
+#EXTINF:-1 group-title="YY連播" ,一分钟学道菜
 http://172.168.1.254:5080/yy.php?id=1382736901
-#EXTINF:-1 logo="" group-title="YY連播" ,一条狗的使命1
+#EXTINF:-1 group-title="YY連播" ,一条狗的使命1
 http://172.168.1.254:5080/yy.php?id=1382745092
-#EXTINF:-1 logo="" group-title="YY連播" ,一笑倾城
+#EXTINF:-1 group-title="YY連播" ,一笑倾城
 http://172.168.1.254:5080/yy.php?id=1382735553
-#EXTINF:-1 logo="" group-title="YY連播" ,一起来笑吧
+#EXTINF:-1 group-title="YY連播" ,一起来笑吧
 http://172.168.1.254:5080/yy.php?id=1454859415
-#EXTINF:-1 logo="" group-title="YY連播" ,七色小彩虹
+#EXTINF:-1 group-title="YY連播" ,七色小彩虹
 http://172.168.1.254:5080/yy.php?id=1382851601
-#EXTINF:-1 logo="" group-title="YY連播" ,三国演义【1994】
+#EXTINF:-1 group-title="YY連播" ,三国演义【1994】
 http://172.168.1.254:5080/yy.php?id=1354930932
-#EXTINF:-1 logo="" group-title="YY連播" ,三国演义94年经典版
+#EXTINF:-1 group-title="YY連播" ,三国演义94年经典版
 http://172.168.1.254:5080/yy.php?id=1354936241
-#EXTINF:-1 logo="" group-title="YY連播" ,上海滩
+#EXTINF:-1 group-title="YY連播" ,上海滩
 http://172.168.1.254:5080/yy.php?id=1382745184
-#EXTINF:-1 logo="" group-title="YY連播" ,不一样的花木兰传奇
+#EXTINF:-1 group-title="YY連播" ,不一样的花木兰传奇
 http://172.168.1.254:5080/yy.php?id=1354930903
-#EXTINF:-1 logo="" group-title="YY連播" ,不可能的任务-碟中谍4
+#EXTINF:-1 group-title="YY連播" ,不可能的任务-碟中谍4
 http://172.168.1.254:5080/yy.php?id=1354930967
-#EXTINF:-1 logo="" group-title="YY連播" ,不日成婚：婚恋喜剧
+#EXTINF:-1 group-title="YY連播" ,不日成婚：婚恋喜剧
 http://172.168.1.254:5080/yy.php?id=1354936214
-#EXTINF:-1 logo="" group-title="YY連播" ,不用加班真开心
+#EXTINF:-1 group-title="YY連播" ,不用加班真开心
 http://172.168.1.254:5080/yy.php?id=1354930924
-#EXTINF:-1 logo="" group-title="YY連播" ,不良街区-边缘生存记
+#EXTINF:-1 group-title="YY連播" ,不良街区-边缘生存记
 http://172.168.1.254:5080/yy.php?id=1382749890
-#EXTINF:-1 logo="" group-title="YY連播" ,东北奇缘：江湖情缘
+#EXTINF:-1 group-title="YY連播" ,东北奇缘：江湖情缘
 http://172.168.1.254:5080/yy.php?id=1354936238
-#EXTINF:-1 logo="" group-title="YY連播" ,东方超级英雄：西游之双圣战神
+#EXTINF:-1 group-title="YY連播" ,东方超级英雄：西游之双圣战神
 http://172.168.1.254:5080/yy.php?id=1382736825
-#EXTINF:-1 logo="" group-title="YY連播" ,东海龙棺
+#EXTINF:-1 group-title="YY連播" ,东海龙棺
 http://172.168.1.254:5080/yy.php?id=1354930968
-#EXTINF:-1 logo="" group-title="YY連播" ,中国味道第4季-美食纪录片
+#EXTINF:-1 group-title="YY連播" ,中国味道第4季-美食纪录片
 http://172.168.1.254:5080/yy.php?id=1382736845
-#EXTINF:-1 logo="" group-title="YY連播" ,丸子
+#EXTINF:-1 group-title="YY連播" ,丸子
 http://172.168.1.254:5080/yy.php?id=1382851588
-#EXTINF:-1 logo="" group-title="YY連播" ,九层妖塔
+#EXTINF:-1 group-title="YY連播" ,九层妖塔
 http://172.168.1.254:5080/yy.php?id=1354936116
-#EXTINF:-1 logo="" group-title="YY連播" ,九龙不败-警匪动作片
+#EXTINF:-1 group-title="YY連播" ,九龙不败-警匪动作片
 http://172.168.1.254:5080/yy.php?id=1354933556
-#EXTINF:-1 logo="" group-title="YY連播" ,二号交通站
+#EXTINF:-1 group-title="YY連播" ,二号交通站
 http://172.168.1.254:5080/yy.php?id=1354930965
-#EXTINF:-1 logo="" group-title="YY連播" ,二号交通站
+#EXTINF:-1 group-title="YY連播" ,二号交通站
 http://172.168.1.254:5080/yy.php?id=1382735582
-#EXTINF:-1 logo="" group-title="YY連播" ,互换身份-成龙主演电影双龙会
+#EXTINF:-1 group-title="YY連播" ,互换身份-成龙主演电影双龙会
 http://172.168.1.254:5080/yy.php?id=1382735625
-#EXTINF:-1 logo="" group-title="YY連播" ,五号特工组和平ff
+#EXTINF:-1 group-title="YY連播" ,五号特工组和平ff
 http://172.168.1.254:5080/yy.php?id=1414967772
-#EXTINF:-1 logo="" group-title="YY連播" ,亲爱的热爱的
+#EXTINF:-1 group-title="YY連播" ,亲爱的热爱的
 http://172.168.1.254:5080/yy.php?id=1354932433
-#EXTINF:-1 logo="" group-title="YY連播" ,人生必看的科幻片
+#EXTINF:-1 group-title="YY連播" ,人生必看的科幻片
 http://172.168.1.254:5080/yy.php?id=1382745114
-#EXTINF:-1 logo="" group-title="YY連播" ,什么会让你快乐
+#EXTINF:-1 group-title="YY連播" ,什么会让你快乐
 http://172.168.1.254:5080/yy.php?id=54886912
-#EXTINF:-1 logo="" group-title="YY連播" ,今晚80后脱口秀
+#EXTINF:-1 group-title="YY連播" ,今晚80后脱口秀
 http://172.168.1.254:5080/yy.php?id=1382745098
-#EXTINF:-1 logo="" group-title="YY連播" ,仙剑奇侠传-神仙姐姐驾到
+#EXTINF:-1 group-title="YY連播" ,仙剑奇侠传-神仙姐姐驾到
 http://172.168.1.254:5080/yy.php?id=1382749903
-#EXTINF:-1 logo="" group-title="YY連播" ,仙灵儿
+#EXTINF:-1 group-title="YY連播" ,仙灵儿
 http://172.168.1.254:5080/yy.php?id=1382736887
-#EXTINF:-1 logo="" group-title="YY連播" ,以家人之名
+#EXTINF:-1 group-title="YY連播" ,以家人之名
 http://172.168.1.254:5080/yy.php?id=1382736908
-#EXTINF:-1 logo="" group-title="YY連播" ,传奇之王-影视剧
+#EXTINF:-1 group-title="YY連播" ,传奇之王-影视剧
 http://172.168.1.254:5080/yy.php?id=1354926735
-#EXTINF:-1 logo="" group-title="YY連播" ,伪装者
+#EXTINF:-1 group-title="YY連播" ,伪装者
 http://172.168.1.254:5080/yy.php?id=1354936244
-#EXTINF:-1 logo="" group-title="YY連播" ,伯爵的复仇之旅
+#EXTINF:-1 group-title="YY連播" ,伯爵的复仇之旅
 http://172.168.1.254:5080/yy.php?id=1382735581
-#EXTINF:-1 logo="" group-title="YY連播" ,体验另一种生活！
+#EXTINF:-1 group-title="YY連播" ,体验另一种生活！
 http://172.168.1.254:5080/yy.php?id=1354936229
-#EXTINF:-1 logo="" group-title="YY連播" ,你最爱的宋小宝
+#EXTINF:-1 group-title="YY連播" ,你最爱的宋小宝
 http://172.168.1.254:5080/yy.php?id=1354936198
-#EXTINF:-1 logo="" group-title="YY連播" ,你最爱的小龙女-神雕侠侣
+#EXTINF:-1 group-title="YY連播" ,你最爱的小龙女-神雕侠侣
 http://172.168.1.254:5080/yy.php?id=1354926637
-#EXTINF:-1 logo="" group-title="YY連播" ,你是最美的风景
+#EXTINF:-1 group-title="YY連播" ,你是最美的风景
 http://172.168.1.254:5080/yy.php?id=1382851599
-#EXTINF:-1 logo="" group-title="YY連播" ,你的回忆有我吗
+#EXTINF:-1 group-title="YY連播" ,你的回忆有我吗
 http://172.168.1.254:5080/yy.php?id=1354889024
-#EXTINF:-1 logo="" group-title="YY連播" ,保护我家蓉儿
+#EXTINF:-1 group-title="YY連播" ,保护我家蓉儿
 http://172.168.1.254:5080/yy.php?id=1370293254
-#EXTINF:-1 logo="" group-title="YY連播" ,俺娘田小草
+#EXTINF:-1 group-title="YY連播" ,俺娘田小草
 http://172.168.1.254:5080/yy.php?id=1382741638
-#EXTINF:-1 logo="" group-title="YY連播" ,倚天屠龙记
+#EXTINF:-1 group-title="YY連播" ,倚天屠龙记
 http://172.168.1.254:5080/yy.php?id=33300793
-#EXTINF:-1 logo="" group-title="YY連播" ,先锋之那时青春-热血年代
+#EXTINF:-1 group-title="YY連播" ,先锋之那时青春-热血年代
 http://172.168.1.254:5080/yy.php?id=1382736833
-#EXTINF:-1 logo="" group-title="YY連播" ,公主嫁到
+#EXTINF:-1 group-title="YY連播" ,公主嫁到
 http://172.168.1.254:5080/yy.php?id=1382736915
-#EXTINF:-1 logo="" group-title="YY連播" ,内在美-伊人有约
+#EXTINF:-1 group-title="YY連播" ,内在美-伊人有约
 http://172.168.1.254:5080/yy.php?id=1382737892
-#EXTINF:-1 logo="" group-title="YY連播" ,再写武林传奇
+#EXTINF:-1 group-title="YY連播" ,再写武林传奇
 http://172.168.1.254:5080/yy.php?id=1354932407
-#EXTINF:-1 logo="" group-title="YY連播" ,再现吴道子：画圣
+#EXTINF:-1 group-title="YY連播" ,再现吴道子：画圣
 http://172.168.1.254:5080/yy.php?id=1354932365
-#EXTINF:-1 logo="" group-title="YY連播" ,最佳下饭小甜剧，暖心暖胃
+#EXTINF:-1 group-title="YY連播" ,最佳下饭小甜剧，暖心暖胃
 http://172.168.1.254:5080/yy.php?id=1382741637
-#EXTINF:-1 logo="" group-title="YY連播" ,最后的武士（普通话）
+#EXTINF:-1 group-title="YY連播" ,最后的武士（普通话）
 http://172.168.1.254:5080/yy.php?id=1382851148
-#EXTINF:-1 logo="" group-title="YY連播" ,最美的青春
+#EXTINF:-1 group-title="YY連播" ,最美的青春
 http://172.168.1.254:5080/yy.php?id=1382745116
-#EXTINF:-1 logo="" group-title="YY連播" ,最美的青春
+#EXTINF:-1 group-title="YY連播" ,最美的青春
 http://172.168.1.254:5080/yy.php?id=1382851530
-#EXTINF:-1 logo="" group-title="YY連播" ,农家小菜
+#EXTINF:-1 group-title="YY連播" ,农家小菜
 http://172.168.1.254:5080/yy.php?id=1382736894
-#EXTINF:-1 logo="" group-title="YY連播" ,冰层覆盖地球，人类如何生存
+#EXTINF:-1 group-title="YY連播" ,冰层覆盖地球，人类如何生存
 http://172.168.1.254:5080/yy.php?id=1382735573
-#EXTINF:-1 logo="" group-title="YY連播" ,分手木马计
+#EXTINF:-1 group-title="YY連播" ,分手木马计
 http://172.168.1.254:5080/yy.php?id=1354936228
-#EXTINF:-1 logo="" group-title="YY連播" ,刘旸教主脱口秀合集
+#EXTINF:-1 group-title="YY連播" ,刘旸教主脱口秀合集
 http://172.168.1.254:5080/yy.php?id=1354930189
-#EXTINF:-1 logo="" group-title="YY連播" ,初恋脸
+#EXTINF:-1 group-title="YY連播" ,初恋脸
 http://172.168.1.254:5080/yy.php?id=1382851597
-#EXTINF:-1 logo="" group-title="YY連播" ,前任攻略：爱情喜剧
+#EXTINF:-1 group-title="YY連播" ,前任攻略：爱情喜剧
 http://172.168.1.254:5080/yy.php?id=1354932409
-#EXTINF:-1 logo="" group-title="YY連播" ,加勒比海盗系列
+#EXTINF:-1 group-title="YY連播" ,加勒比海盗系列
 http://172.168.1.254:5080/yy.php?id=1382749914
-#EXTINF:-1 logo="" group-title="YY連播" ,动作大片-热血开打
+#EXTINF:-1 group-title="YY連播" ,动作大片-热血开打
 http://172.168.1.254:5080/yy.php?id=1354936168
-#EXTINF:-1 logo="" group-title="YY連播" ,动作大片
+#EXTINF:-1 group-title="YY連播" ,动作大片
 http://172.168.1.254:5080/yy.php?id=1354888739
-#EXTINF:-1 logo="" group-title="YY連播" ,动漫
+#EXTINF:-1 group-title="YY連播" ,动漫
 http://172.168.1.254:5080/yy.php?id=1354143938
-#EXTINF:-1 logo="" group-title="YY連播" ,动漫
+#EXTINF:-1 group-title="YY連播" ,动漫
 http://172.168.1.254:5080/yy.php?id=1354768831
-#EXTINF:-1 logo="" group-title="YY連播" ,动漫
+#EXTINF:-1 group-title="YY連播" ,动漫
 http://172.168.1.254:5080/yy.php?id=26664495
-#EXTINF:-1 logo="" group-title="YY連播" ,动漫《火影疾风传》
+#EXTINF:-1 group-title="YY連播" ,动漫《火影疾风传》
 http://172.168.1.254:5080/yy.php?id=1459675153
-#EXTINF:-1 logo="" group-title="YY連播" ,动物世界-领略原始野性
+#EXTINF:-1 group-title="YY連播" ,动物世界-领略原始野性
 http://172.168.1.254:5080/yy.php?id=1382743138
-#EXTINF:-1 logo="" group-title="YY連播" ,动物宝宝大盘点-大波可爱动物来袭
+#EXTINF:-1 group-title="YY連播" ,动物宝宝大盘点-大波可爱动物来袭
 http://172.168.1.254:5080/yy.php?id=1382736723
-#EXTINF:-1 logo="" group-title="YY連播" ,勇敢的心：战火爱情
+#EXTINF:-1 group-title="YY連播" ,勇敢的心：战火爱情
 http://172.168.1.254:5080/yy.php?id=1354932405
-#EXTINF:-1 logo="" group-title="YY連播" ,勇敢的心~24经典好剧
+#EXTINF:-1 group-title="YY連播" ,勇敢的心~24经典好剧
 http://172.168.1.254:5080/yy.php?id=1354744544
-#EXTINF:-1 logo="" group-title="YY連播" ,北京爱情故事，心动不打烊
+#EXTINF:-1 group-title="YY連播" ,北京爱情故事，心动不打烊
 http://172.168.1.254:5080/yy.php?id=1382744423
-#EXTINF:-1 logo="" group-title="YY連播" ,华子系列
+#EXTINF:-1 group-title="YY連播" ,华子系列
 http://172.168.1.254:5080/yy.php?id=1354888726
-#EXTINF:-1 logo="" group-title="YY連播" ,单挑荒野第一季
+#EXTINF:-1 group-title="YY連播" ,单挑荒野第一季
 http://172.168.1.254:5080/yy.php?id=1354933535
-#EXTINF:-1 logo="" group-title="YY連播" ,原始人大挑战
+#EXTINF:-1 group-title="YY連播" ,原始人大挑战
 http://172.168.1.254:5080/yy.php?id=1382736884
-#EXTINF:-1 logo="" group-title="YY連播" ,双月之城-国漫
+#EXTINF:-1 group-title="YY連播" ,双月之城-国漫
 http://172.168.1.254:5080/yy.php?id=1382736907
-#EXTINF:-1 logo="" group-title="YY連播" ,反斗谜局等你破-反斗神偷
+#EXTINF:-1 group-title="YY連播" ,反斗谜局等你破-反斗神偷
 http://172.168.1.254:5080/yy.php?id=1382736917
-#EXTINF:-1 logo="" group-title="YY連播" ,发哥系列
+#EXTINF:-1 group-title="YY連播" ,发哥系列
 http://172.168.1.254:5080/yy.php?id=1354888733
-#EXTINF:-1 logo="" group-title="YY連播" ,变形金刚
+#EXTINF:-1 group-title="YY連播" ,变形金刚
 http://172.168.1.254:5080/yy.php?id=1382736803
-#EXTINF:-1 logo="" group-title="YY連播" ,叛逆者
+#EXTINF:-1 group-title="YY連播" ,叛逆者
 http://172.168.1.254:5080/yy.php?id=1382736868
-#EXTINF:-1 logo="" group-title="YY連播" ,古人踢足球，爆笑仙球大战
+#EXTINF:-1 group-title="YY連播" ,古人踢足球，爆笑仙球大战
 http://172.168.1.254:5080/yy.php?id=1354930945
-#EXTINF:-1 logo="" group-title="YY連播" ,古惑仔
+#EXTINF:-1 group-title="YY連播" ,古惑仔
 http://172.168.1.254:5080/yy.php?id=1458015189
-#EXTINF:-1 logo="" group-title="YY連播" ,古装剧
+#EXTINF:-1 group-title="YY連播" ,古装剧
 http://172.168.1.254:5080/yy.php?id=1356158015
-#EXTINF:-1 logo="" group-title="YY連播" ,史密斯夫妇-婚姻生活的童话演绎
+#EXTINF:-1 group-title="YY連播" ,史密斯夫妇-婚姻生活的童话演绎
 http://172.168.1.254:5080/yy.php?id=1382736874
-#EXTINF:-1 logo="" group-title="YY連播" ,史诗级科幻电影-阿凡达
+#EXTINF:-1 group-title="YY連播" ,史诗级科幻电影-阿凡达
 http://172.168.1.254:5080/yy.php?id=1382735577
-#EXTINF:-1 logo="" group-title="YY連播" ,名不虚传-韩剧
+#EXTINF:-1 group-title="YY連播" ,名不虚传-韩剧
 http://172.168.1.254:5080/yy.php?id=1382749904
-#EXTINF:-1 logo="" group-title="YY連播" ,名媛望族-精彩港剧
+#EXTINF:-1 group-title="YY連播" ,名媛望族-精彩港剧
 http://172.168.1.254:5080/yy.php?id=1354932431
-#EXTINF:-1 logo="" group-title="YY連播" ,向日葵的爱恋-泰剧
+#EXTINF:-1 group-title="YY連播" ,向日葵的爱恋-泰剧
 http://172.168.1.254:5080/yy.php?id=1382749898
-#EXTINF:-1 logo="" group-title="YY連播" ,周星星系列
+#EXTINF:-1 group-title="YY連播" ,周星星系列
 http://172.168.1.254:5080/yy.php?id=1354888671
-#EXTINF:-1 logo="" group-title="YY連播" ,周星驰搞笑在线
+#EXTINF:-1 group-title="YY連播" ,周星驰搞笑在线
 http://172.168.1.254:5080/yy.php?id=1351537467
-#EXTINF:-1 logo="" group-title="YY連播" ,和你不见不散
+#EXTINF:-1 group-title="YY連播" ,和你不见不散
 http://172.168.1.254:5080/yy.php?id=1355635293
-#EXTINF:-1 logo="" group-title="YY連播" ,咸鱼动漫
+#EXTINF:-1 group-title="YY連播" ,咸鱼动漫
 http://172.168.1.254:5080/yy.php?id=1354076248
-#EXTINF:-1 logo="" group-title="YY連播" ,哈利波特全集
+#EXTINF:-1 group-title="YY連播" ,哈利波特全集
 http://172.168.1.254:5080/yy.php?id=1382745105
-#EXTINF:-1 logo="" group-title="YY連播" ,哑巴竟然会说话
+#EXTINF:-1 group-title="YY連播" ,哑巴竟然会说话
 http://172.168.1.254:5080/yy.php?id=1354932427
-#EXTINF:-1 logo="" group-title="YY連播" ,啊咧
+#EXTINF:-1 group-title="YY連播" ,啊咧
 http://172.168.1.254:5080/yy.php?id=1459243913
-#EXTINF:-1 logo="" group-title="YY連播" ,喜剧小品：兴风作浪
+#EXTINF:-1 group-title="YY連播" ,喜剧小品：兴风作浪
 http://172.168.1.254:5080/yy.php?id=1382745094
-#EXTINF:-1 logo="" group-title="YY連播" ,喜剧爱情电影：不期而遇
+#EXTINF:-1 group-title="YY連播" ,喜剧爱情电影：不期而遇
 http://172.168.1.254:5080/yy.php?id=1382745181
-#EXTINF:-1 logo="" group-title="YY連播" ,喜剧电影：冒牌天神1-2
+#EXTINF:-1 group-title="YY連播" ,喜剧电影：冒牌天神1-2
 http://172.168.1.254:5080/yy.php?id=1354936210
-#EXTINF:-1 logo="" group-title="YY連播" ,喜剧闹翻天
+#EXTINF:-1 group-title="YY連播" ,喜剧闹翻天
 http://172.168.1.254:5080/yy.php?id=1382735548
-#EXTINF:-1 logo="" group-title="YY連播" ,嘻嘻哈哈又一天
+#EXTINF:-1 group-title="YY連播" ,嘻嘻哈哈又一天
 http://172.168.1.254:5080/yy.php?id=1414817779
-#EXTINF:-1 logo="" group-title="YY連播" ,嘻嘻熙熙
+#EXTINF:-1 group-title="YY連播" ,嘻嘻熙熙
 http://172.168.1.254:5080/yy.php?id=1382735585
-#EXTINF:-1 logo="" group-title="YY連播" ,回家的诱惑
+#EXTINF:-1 group-title="YY連播" ,回家的诱惑
 http://172.168.1.254:5080/yy.php?id=1354658043
-#EXTINF:-1 logo="" group-title="YY連播" ,国产动作电影
+#EXTINF:-1 group-title="YY連播" ,国产动作电影
 http://172.168.1.254:5080/yy.php?id=1382736858
-#EXTINF:-1 logo="" group-title="YY連播" ,国产喜剧
+#EXTINF:-1 group-title="YY連播" ,国产喜剧
 http://172.168.1.254:5080/yy.php?id=1382735584
-#EXTINF:-1 logo="" group-title="YY連播" ,国产大片电影
+#EXTINF:-1 group-title="YY連播" ,国产大片电影
 http://172.168.1.254:5080/yy.php?id=1354926655
-#EXTINF:-1 logo="" group-title="YY連播" ,国产家庭电视剧-如果岁月可回头
+#EXTINF:-1 group-title="YY連播" ,国产家庭电视剧-如果岁月可回头
 http://172.168.1.254:5080/yy.php?id=1382736883
-#EXTINF:-1 logo="" group-title="YY連播" ,国产电影-就是闹着玩的
+#EXTINF:-1 group-title="YY連播" ,国产电影-就是闹着玩的
 http://172.168.1.254:5080/yy.php?id=1354931503
-#EXTINF:-1 logo="" group-title="YY連播" ,国内动作大片
+#EXTINF:-1 group-title="YY連播" ,国内动作大片
 http://172.168.1.254:5080/yy.php?id=1382745176
-#EXTINF:-1 logo="" group-title="YY連播" ,国内动作大片
+#EXTINF:-1 group-title="YY連播" ,国内动作大片
 http://172.168.1.254:5080/yy.php?id=1382749917
-#EXTINF:-1 logo="" group-title="YY連播" ,国内喜剧
+#EXTINF:-1 group-title="YY連播" ,国内喜剧
 http://172.168.1.254:5080/yy.php?id=1382735563
-#EXTINF:-1 logo="" group-title="YY連播" ,国内喜剧
+#EXTINF:-1 group-title="YY連播" ,国内喜剧
 http://172.168.1.254:5080/yy.php?id=1382736862
-#EXTINF:-1 logo="" group-title="YY連播" ,国内玄幻电影-林正英
+#EXTINF:-1 group-title="YY連播" ,国内玄幻电影-林正英
 http://172.168.1.254:5080/yy.php?id=1354932444
-#EXTINF:-1 logo="" group-title="YY連播" ,国内科幻片来袭
+#EXTINF:-1 group-title="YY連播" ,国内科幻片来袭
 http://172.168.1.254:5080/yy.php?id=1354930821
-#EXTINF:-1 logo="" group-title="YY連播" ,国内经典动作电影
+#EXTINF:-1 group-title="YY連播" ,国内经典动作电影
 http://172.168.1.254:5080/yy.php?id=1382851522
-#EXTINF:-1 logo="" group-title="YY連播" ,国内高分悬疑剧-风筝
+#EXTINF:-1 group-title="YY連播" ,国内高分悬疑剧-风筝
 http://172.168.1.254:5080/yy.php?id=1354931585
-#EXTINF:-1 logo="" group-title="YY連播" ,国外动作大片
+#EXTINF:-1 group-title="YY連播" ,国外动作大片
 http://172.168.1.254:5080/yy.php?id=1382735540
-#EXTINF:-1 logo="" group-title="YY連播" ,国外科幻
+#EXTINF:-1 group-title="YY連播" ,国外科幻
 http://172.168.1.254:5080/yy.php?id=1382736800
-#EXTINF:-1 logo="" group-title="YY連播" ,国外经典—小鬼当家
+#EXTINF:-1 group-title="YY連播" ,国外经典—小鬼当家
 http://172.168.1.254:5080/yy.php?id=1354658064
-#EXTINF:-1 logo="" group-title="YY連播" ,国外院线动作大片
+#EXTINF:-1 group-title="YY連播" ,国外院线动作大片
 http://172.168.1.254:5080/yy.php?id=1382735570
-#EXTINF:-1 logo="" group-title="YY連播" ,国外高分大片
+#EXTINF:-1 group-title="YY連播" ,国外高分大片
 http://172.168.1.254:5080/yy.php?id=1382736867
-#EXTINF:-1 logo="" group-title="YY連播" ,国外黑色喜剧：冷幽默小剧场
+#EXTINF:-1 group-title="YY連播" ,国外黑色喜剧：冷幽默小剧场
 http://172.168.1.254:5080/yy.php?id=1382745175
-#EXTINF:-1 logo="" group-title="YY連播" ,国漫动漫
+#EXTINF:-1 group-title="YY連播" ,国漫动漫
 http://172.168.1.254:5080/yy.php?id=1354768828
-#EXTINF:-1 logo="" group-title="YY連播" ,地下交通站
+#EXTINF:-1 group-title="YY連播" ,地下交通站
 http://172.168.1.254:5080/yy.php?id=1382736795
-#EXTINF:-1 logo="" group-title="YY連播" ,士兵突击
+#EXTINF:-1 group-title="YY連播" ,士兵突击
 http://172.168.1.254:5080/yy.php?id=1382851600
-#EXTINF:-1 logo="" group-title="YY連播" ,复仇者联盟全季
+#EXTINF:-1 group-title="YY連播" ,复仇者联盟全季
 http://172.168.1.254:5080/yy.php?id=1354936167
-#EXTINF:-1 logo="" group-title="YY連播" ,夏洛特烦恼-国内电影-喜剧
+#EXTINF:-1 group-title="YY連播" ,夏洛特烦恼-国内电影-喜剧
 http://172.168.1.254:5080/yy.php?id=1354936201
-#EXTINF:-1 logo="" group-title="YY連播" ,外国科幻大片
+#EXTINF:-1 group-title="YY連播" ,外国科幻大片
 http://172.168.1.254:5080/yy.php?id=1382747628
-#EXTINF:-1 logo="" group-title="YY連播" ,多力特的奇幻冒险-和动物对话
+#EXTINF:-1 group-title="YY連播" ,多力特的奇幻冒险-和动物对话
 http://172.168.1.254:5080/yy.php?id=1354930927
-#EXTINF:-1 logo="" group-title="YY連播" ,大唐双龙传
+#EXTINF:-1 group-title="YY連播" ,大唐双龙传
 http://172.168.1.254:5080/yy.php?id=1354930979
-#EXTINF:-1 logo="" group-title="YY連播" ,大家车言论
+#EXTINF:-1 group-title="YY連播" ,大家车言论
 http://172.168.1.254:5080/yy.php?id=1382570702
-#EXTINF:-1 logo="" group-title="YY連播" ,大家都在看的电视剧
+#EXTINF:-1 group-title="YY連播" ,大家都在看的电视剧
 http://172.168.1.254:5080/yy.php?id=1354930964
-#EXTINF:-1 logo="" group-title="YY連播" ,大明王朝
+#EXTINF:-1 group-title="YY連播" ,大明王朝
 http://172.168.1.254:5080/yy.php?id=1382736879
-#EXTINF:-1 logo="" group-title="YY連播" ,大汉贤后卫子夫
+#EXTINF:-1 group-title="YY連播" ,大汉贤后卫子夫
 http://172.168.1.254:5080/yy.php?id=1382735569
-#EXTINF:-1 logo="" group-title="YY連播" ,大江大河-高分影视推荐
+#EXTINF:-1 group-title="YY連播" ,大江大河-高分影视推荐
 http://172.168.1.254:5080/yy.php?id=1382736806
-#EXTINF:-1 logo="" group-title="YY連播" ,大江大河2-高分影视推荐
+#EXTINF:-1 group-title="YY連播" ,大江大河2-高分影视推荐
 http://172.168.1.254:5080/yy.php?id=1382736797
-#EXTINF:-1 logo="" group-title="YY連播" ,大进军全集：红色系列电影
+#EXTINF:-1 group-title="YY連播" ,大进军全集：红色系列电影
 http://172.168.1.254:5080/yy.php?id=1382745083
-#EXTINF:-1 logo="" group-title="YY連播" ,天道-9.2高分好剧
+#EXTINF:-1 group-title="YY連播" ,天道-9.2高分好剧
 http://172.168.1.254:5080/yy.php?id=1382735574
-#EXTINF:-1 logo="" group-title="YY連播" ,天龙八部
+#EXTINF:-1 group-title="YY連播" ,天龙八部
 http://172.168.1.254:5080/yy.php?id=1351814644
-#EXTINF:-1 logo="" group-title="YY連播" ,天龙八部（国语版）
+#EXTINF:-1 group-title="YY連播" ,天龙八部（国语版）
 http://172.168.1.254:5080/yy.php?id=1382736855
-#EXTINF:-1 logo="" group-title="YY連播" ,天龙神雕金庸
+#EXTINF:-1 group-title="YY連播" ,天龙神雕金庸
 http://172.168.1.254:5080/yy.php?id=1356043609
-#EXTINF:-1 logo="" group-title="YY連播" ,太空生命？高分科幻电影开播
+#EXTINF:-1 group-title="YY連播" ,太空生命？高分科幻电影开播
 http://172.168.1.254:5080/yy.php?id=1382851586
-#EXTINF:-1 logo="" group-title="YY連播" ,太空荒野求生记-火星救援
+#EXTINF:-1 group-title="YY連播" ,太空荒野求生记-火星救援
 http://172.168.1.254:5080/yy.php?id=1354930957
-#EXTINF:-1 logo="" group-title="YY連播" ,奇缘港台影院
+#EXTINF:-1 group-title="YY連播" ,奇缘港台影院
 http://172.168.1.254:5080/yy.php?id=1354889234
-#EXTINF:-1 logo="" group-title="YY連播" ,女医明妃传
+#EXTINF:-1 group-title="YY連播" ,女医明妃传
 http://172.168.1.254:5080/yy.php?id=1382736861
-#EXTINF:-1 logo="" group-title="YY連播" ,好先生
+#EXTINF:-1 group-title="YY連播" ,好先生
 http://172.168.1.254:5080/yy.php?id=79382500
-#EXTINF:-1 logo="" group-title="YY連播" ,如沐春风
+#EXTINF:-1 group-title="YY連播" ,如沐春风
 http://172.168.1.254:5080/yy.php?id=1382736810
-#EXTINF:-1 logo="" group-title="YY連播" ,妖神记-全集
+#EXTINF:-1 group-title="YY連播" ,妖神记-全集
 http://172.168.1.254:5080/yy.php?id=1382735551
-#EXTINF:-1 logo="" group-title="YY連播" ,妖神记
+#EXTINF:-1 group-title="YY連播" ,妖神记
 http://172.168.1.254:5080/yy.php?id=1382745171
-#EXTINF:-1 logo="" group-title="YY連播" ,妖神记之黑狱篇
+#EXTINF:-1 group-title="YY連播" ,妖神记之黑狱篇
 http://172.168.1.254:5080/yy.php?id=1382745173
-#EXTINF:-1 logo="" group-title="YY連播" ,娘亲舅大
+#EXTINF:-1 group-title="YY連播" ,娘亲舅大
 http://172.168.1.254:5080/yy.php?id=1354932360
-#EXTINF:-1 logo="" group-title="YY連播" ,嫌疑人X的献身-悬疑
+#EXTINF:-1 group-title="YY連播" ,嫌疑人X的献身-悬疑
 http://172.168.1.254:5080/yy.php?id=1382749953
-#EXTINF:-1 logo="" group-title="YY連播" ,孙红雷古天乐主演犯罪动作片
+#EXTINF:-1 group-title="YY連播" ,孙红雷古天乐主演犯罪动作片
 http://172.168.1.254:5080/yy.php?id=1382735552
-#EXTINF:-1 logo="" group-title="YY連播" ,学生兵
+#EXTINF:-1 group-title="YY連播" ,学生兵
 http://172.168.1.254:5080/yy.php?id=1354658003
-#EXTINF:-1 logo="" group-title="YY連播" ,宇宙护卫队--国漫
+#EXTINF:-1 group-title="YY連播" ,宇宙护卫队--国漫
 http://172.168.1.254:5080/yy.php?id=1382736837
-#EXTINF:-1 logo="" group-title="YY連播" ,宋小宝春晚小品合集
+#EXTINF:-1 group-title="YY連播" ,宋小宝春晚小品合集
 http://172.168.1.254:5080/yy.php?id=1382736866
-#EXTINF:-1 logo="" group-title="YY連播" ,宝莲灯前传
+#EXTINF:-1 group-title="YY連播" ,宝莲灯前传
 http://172.168.1.254:5080/yy.php?id=1354931631
-#EXTINF:-1 logo="" group-title="YY連播" ,宫心计-港剧-古装
+#EXTINF:-1 group-title="YY連播" ,宫心计-港剧-古装
 http://172.168.1.254:5080/yy.php?id=1354933540
-#EXTINF:-1 logo="" group-title="YY連播" ,宫心计
+#EXTINF:-1 group-title="YY連播" ,宫心计
 http://172.168.1.254:5080/yy.php?id=1354932429
-#EXTINF:-1 logo="" group-title="YY連播" ,宫心计
+#EXTINF:-1 group-title="YY連播" ,宫心计
 http://172.168.1.254:5080/yy.php?id=1382828769
-#EXTINF:-1 logo="" group-title="YY連播" ,宫锁珠帘
+#EXTINF:-1 group-title="YY連播" ,宫锁珠帘
 http://172.168.1.254:5080/yy.php?id=1354926666
-#EXTINF:-1 logo="" group-title="YY連播" ,宰相刘罗锅
+#EXTINF:-1 group-title="YY連播" ,宰相刘罗锅
 http://172.168.1.254:5080/yy.php?id=1382745191
-#EXTINF:-1 logo="" group-title="YY連播" ,密子君
+#EXTINF:-1 group-title="YY連播" ,密子君
 http://172.168.1.254:5080/yy.php?id=1382736717
-#EXTINF:-1 logo="" group-title="YY連播" ,寻秦记-穿越剧经典
+#EXTINF:-1 group-title="YY連播" ,寻秦记-穿越剧经典
 http://172.168.1.254:5080/yy.php?id=1382749900
-#EXTINF:-1 logo="" group-title="YY連播" ,寻秦记
+#EXTINF:-1 group-title="YY連播" ,寻秦记
 http://172.168.1.254:5080/yy.php?id=1354658048
-#EXTINF:-1 logo="" group-title="YY連播" ,小儿难养-影视剧
+#EXTINF:-1 group-title="YY連播" ,小儿难养-影视剧
 http://172.168.1.254:5080/yy.php?id=1382735559
-#EXTINF:-1 logo="" group-title="YY連播" ,小兵张嘎
+#EXTINF:-1 group-title="YY連播" ,小兵张嘎
 http://172.168.1.254:5080/yy.php?id=1354930225
-#EXTINF:-1 logo="" group-title="YY連播" ,小太阳正在直播
+#EXTINF:-1 group-title="YY連播" ,小太阳正在直播
 http://172.168.1.254:5080/yy.php?id=29067083
-#EXTINF:-1 logo="" group-title="YY連播" ,小师妹rua
+#EXTINF:-1 group-title="YY連播" ,小师妹rua
 http://172.168.1.254:5080/yy.php?id=1382736975
-#EXTINF:-1 logo="" group-title="YY連播" ,小惠_郭德纲相声迷
+#EXTINF:-1 group-title="YY連播" ,小惠_郭德纲相声迷
 http://172.168.1.254:5080/yy.php?id=1382851593
-#EXTINF:-1 logo="" group-title="YY連播" ,小敏
+#EXTINF:-1 group-title="YY連播" ,小敏
 http://172.168.1.254:5080/yy.php?id=1382736890
-#EXTINF:-1 logo="" group-title="YY連播" ,小朋友可爱到家了
+#EXTINF:-1 group-title="YY連播" ,小朋友可爱到家了
 http://172.168.1.254:5080/yy.php?id=1354930887
-#EXTINF:-1 logo="" group-title="YY連播" ,小米粒Mili
+#EXTINF:-1 group-title="YY連播" ,小米粒Mili
 http://172.168.1.254:5080/yy.php?id=1382736842
-#EXTINF:-1 logo="" group-title="YY連播" ,小美美正在直播
+#EXTINF:-1 group-title="YY連播" ,小美美正在直播
 http://172.168.1.254:5080/yy.php?id=1354143966
-#EXTINF:-1 logo="" group-title="YY連播" ,小鬼当家-童年回忆
+#EXTINF:-1 group-title="YY連播" ,小鬼当家-童年回忆
 http://172.168.1.254:5080/yy.php?id=1382745104
-#EXTINF:-1 logo="" group-title="YY連播" ,少年包青天
+#EXTINF:-1 group-title="YY連播" ,少年包青天
 http://172.168.1.254:5080/yy.php?id=1356043677
-#EXTINF:-1 logo="" group-title="YY連播" ,少年包青天
+#EXTINF:-1 group-title="YY連播" ,少年包青天
 http://172.168.1.254:5080/yy.php?id=1414846486
-#EXTINF:-1 logo="" group-title="YY連播" ,少年包青天第三部
+#EXTINF:-1 group-title="YY連播" ,少年包青天第三部
 http://172.168.1.254:5080/yy.php?id=1382736814
-#EXTINF:-1 logo="" group-title="YY連播" ,少年包青天第三部
+#EXTINF:-1 group-title="YY連播" ,少年包青天第三部
 http://172.168.1.254:5080/yy.php?id=1382851540
-#EXTINF:-1 logo="" group-title="YY連播" ,少年包青天美黑之旅
+#EXTINF:-1 group-title="YY連播" ,少年包青天美黑之旅
 http://172.168.1.254:5080/yy.php?id=1354936141
-#EXTINF:-1 logo="" group-title="YY連播" ,少年四大名捕
+#EXTINF:-1 group-title="YY連播" ,少年四大名捕
 http://172.168.1.254:5080/yy.php?id=1354936203
-#EXTINF:-1 logo="" group-title="YY連播" ,少年歌行
+#EXTINF:-1 group-title="YY連播" ,少年歌行
 http://172.168.1.254:5080/yy.php?id=1450556636
-#EXTINF:-1 logo="" group-title="YY連播" ,岳云鹏宋小宝也来演电影了？
+#EXTINF:-1 group-title="YY連播" ,岳云鹏宋小宝也来演电影了？
 http://172.168.1.254:5080/yy.php?id=1354926612
-#EXTINF:-1 logo="" group-title="YY連播" ,巩汉林春晚小品合集
+#EXTINF:-1 group-title="YY連播" ,巩汉林春晚小品合集
 http://172.168.1.254:5080/yy.php?id=1354889035
-#EXTINF:-1 logo="" group-title="YY連播" ,巾帼枭雄之义海豪情
+#EXTINF:-1 group-title="YY連播" ,巾帼枭雄之义海豪情
 http://172.168.1.254:5080/yy.php?id=1382736859
-#EXTINF:-1 logo="" group-title="YY連播" ,带你领略四季的变化
+#EXTINF:-1 group-title="YY連播" ,带你领略四季的变化
 http://172.168.1.254:5080/yy.php?id=1354930816
-#EXTINF:-1 logo="" group-title="YY連播" ,康熙微服私访记
+#EXTINF:-1 group-title="YY連播" ,康熙微服私访记
 http://172.168.1.254:5080/yy.php?id=1352811698
-#EXTINF:-1 logo="" group-title="YY連播" ,开心小泡芙
+#EXTINF:-1 group-title="YY連播" ,开心小泡芙
 http://172.168.1.254:5080/yy.php?id=1382851578
-#EXTINF:-1 logo="" group-title="YY連播" ,张国荣与周润发的兄弟情
+#EXTINF:-1 group-title="YY連播" ,张国荣与周润发的兄弟情
 http://172.168.1.254:5080/yy.php?id=1354930961
-#EXTINF:-1 logo="" group-title="YY連播" ,张涵予主演犯罪动作大片
+#EXTINF:-1 group-title="YY連播" ,张涵予主演犯罪动作大片
 http://172.168.1.254:5080/yy.php?id=1382736865
-#EXTINF:-1 logo="" group-title="YY連播" ,弹幕天团下饭神剧
+#EXTINF:-1 group-title="YY連播" ,弹幕天团下饭神剧
 http://172.168.1.254:5080/yy.php?id=23512910
-#EXTINF:-1 logo="" group-title="YY連播" ,强悍“杀猪婆”的励志人生
+#EXTINF:-1 group-title="YY連播" ,强悍“杀猪婆”的励志人生
 http://172.168.1.254:5080/yy.php?id=1354658062
-#EXTINF:-1 logo="" group-title="YY連播" ,当旺爸爸-港剧
+#EXTINF:-1 group-title="YY連播" ,当旺爸爸-港剧
 http://172.168.1.254:5080/yy.php?id=1354936208
-#EXTINF:-1 logo="" group-title="YY連播" ,当爸爸变成我兄弟？
+#EXTINF:-1 group-title="YY連播" ,当爸爸变成我兄弟？
 http://172.168.1.254:5080/yy.php?id=1382749912
-#EXTINF:-1 logo="" group-title="YY連播" ,影视小艺
+#EXTINF:-1 group-title="YY連播" ,影视小艺
 http://172.168.1.254:5080/yy.php?id=1382737886
-#EXTINF:-1 logo="" group-title="YY連播" ,心中的白月光
+#EXTINF:-1 group-title="YY連播" ,心中的白月光
 http://172.168.1.254:5080/yy.php?id=1382851580
-#EXTINF:-1 logo="" group-title="YY連播" ,心理追凶-烧脑港剧
+#EXTINF:-1 group-title="YY連播" ,心理追凶-烧脑港剧
 http://172.168.1.254:5080/yy.php?id=1354936207
-#EXTINF:-1 logo="" group-title="YY連播" ,忠烈杨家将
+#EXTINF:-1 group-title="YY連播" ,忠烈杨家将
 http://172.168.1.254:5080/yy.php?id=1382749909
-#EXTINF:-1 logo="" group-title="YY連播" ,快来呀好剧在等你
+#EXTINF:-1 group-title="YY連播" ,快来呀好剧在等你
 http://172.168.1.254:5080/yy.php?id=1331686180
-#EXTINF:-1 logo="" group-title="YY連播" ,怪医文三块-影视剧
+#EXTINF:-1 group-title="YY連播" ,怪医文三块-影视剧
 http://172.168.1.254:5080/yy.php?id=1354936154
-#EXTINF:-1 logo="" group-title="YY連播" ,恋歌
+#EXTINF:-1 group-title="YY連播" ,恋歌
 http://172.168.1.254:5080/yy.php?id=1382746276
-#EXTINF:-1 logo="" group-title="YY連播" ,恋歌
+#EXTINF:-1 group-title="YY連播" ,恋歌
 http://172.168.1.254:5080/yy.php?id=1382851594
-#EXTINF:-1 logo="" group-title="YY連播" ,恐怖诡异墓穴
+#EXTINF:-1 group-title="YY連播" ,恐怖诡异墓穴
 http://172.168.1.254:5080/yy.php?id=1382748585
-#EXTINF:-1 logo="" group-title="YY連播" ,悬疑剧-河神
+#EXTINF:-1 group-title="YY連播" ,悬疑剧-河神
 http://172.168.1.254:5080/yy.php?id=1353413683
-#EXTINF:-1 logo="" group-title="YY連播" ,情满四合院-高分电视剧
+#EXTINF:-1 group-title="YY連播" ,情满四合院-高分电视剧
 http://172.168.1.254:5080/yy.php?id=1382735541
-#EXTINF:-1 logo="" group-title="YY連播" ,情满四合院
+#EXTINF:-1 group-title="YY連播" ,情满四合院
 http://172.168.1.254:5080/yy.php?id=1382736848
-#EXTINF:-1 logo="" group-title="YY連播" ,情满四合院
+#EXTINF:-1 group-title="YY連播" ,情满四合院
 http://172.168.1.254:5080/yy.php?id=1382851524
-#EXTINF:-1 logo="" group-title="YY連播" ,惊恐盗暮鬼怪
+#EXTINF:-1 group-title="YY連播" ,惊恐盗暮鬼怪
 http://172.168.1.254:5080/yy.php?id=1382749525
-#EXTINF:-1 logo="" group-title="YY連播" ,憨豆先生-经典喜剧
+#EXTINF:-1 group-title="YY連播" ,憨豆先生-经典喜剧
 http://172.168.1.254:5080/yy.php?id=1354936239
-#EXTINF:-1 logo="" group-title="YY連播" ,成龙大哥火爆力作
+#EXTINF:-1 group-title="YY連播" ,成龙大哥火爆力作
 http://172.168.1.254:5080/yy.php?id=1382736841
-#EXTINF:-1 logo="" group-title="YY連播" ,成龙系列
+#EXTINF:-1 group-title="YY連播" ,成龙系列
 http://172.168.1.254:5080/yy.php?id=1354888751
-#EXTINF:-1 logo="" group-title="YY連播" ,我爱我家
+#EXTINF:-1 group-title="YY連播" ,我爱我家
 http://172.168.1.254:5080/yy.php?id=1382735557
-#EXTINF:-1 logo="" group-title="YY連播" ,我的体育老师
+#EXTINF:-1 group-title="YY連播" ,我的体育老师
 http://172.168.1.254:5080/yy.php?id=1382745169
-#EXTINF:-1 logo="" group-title="YY連播" ,我的前半生
+#EXTINF:-1 group-title="YY連播" ,我的前半生
 http://172.168.1.254:5080/yy.php?id=1382735564
-#EXTINF:-1 logo="" group-title="YY連播" ,我的父亲我的兵
+#EXTINF:-1 group-title="YY連播" ,我的父亲我的兵
 http://172.168.1.254:5080/yy.php?id=1353413714
-#EXTINF:-1 logo="" group-title="YY連播" ,打王者看电影
+#EXTINF:-1 group-title="YY連播" ,打王者看电影
 http://172.168.1.254:5080/yy.php?id=1460889796
-#EXTINF:-1 logo="" group-title="YY連播" ,抗日神片，燃爆抗战热血魂
+#EXTINF:-1 group-title="YY連播" ,抗日神片，燃爆抗战热血魂
 http://172.168.1.254:5080/yy.php?id=1354926600
-#EXTINF:-1 logo="" group-title="YY連播" ,抹茶少女
+#EXTINF:-1 group-title="YY連播" ,抹茶少女
 http://172.168.1.254:5080/yy.php?id=1382737888
-#EXTINF:-1 logo="" group-title="YY連播" ,探案！探案！
+#EXTINF:-1 group-title="YY連播" ,探案！探案！
 http://172.168.1.254:5080/yy.php?id=1382829413
-#EXTINF:-1 logo="" group-title="YY連播" ,探秘中华美食
+#EXTINF:-1 group-title="YY連播" ,探秘中华美食
 http://172.168.1.254:5080/yy.php?id=1354930954
-#EXTINF:-1 logo="" group-title="YY連播" ,探秘自然奇境-纪录片合集
+#EXTINF:-1 group-title="YY連播" ,探秘自然奇境-纪录片合集
 http://172.168.1.254:5080/yy.php?id=1382749913
-#EXTINF:-1 logo="" group-title="YY連播" ,揭秘！经典传奇背后的未解之谜
+#EXTINF:-1 group-title="YY連播" ,揭秘！经典传奇背后的未解之谜
 http://172.168.1.254:5080/yy.php?id=1382736912
-#EXTINF:-1 logo="" group-title="YY連播" ,新世界
+#EXTINF:-1 group-title="YY連播" ,新世界
 http://172.168.1.254:5080/yy.php?id=1382736850
-#EXTINF:-1 logo="" group-title="YY連播" ,新白娘子4K高清观看
+#EXTINF:-1 group-title="YY連播" ,新白娘子4K高清观看
 http://172.168.1.254:5080/yy.php?id=1508902755
-#EXTINF:-1 logo="" group-title="YY連播" ,新白娘子传奇-女神赵雅芝
+#EXTINF:-1 group-title="YY連播" ,新白娘子传奇-女神赵雅芝
 http://172.168.1.254:5080/yy.php?id=1354930969
-#EXTINF:-1 logo="" group-title="YY連播" ,新白娘子传奇
+#EXTINF:-1 group-title="YY連播" ,新白娘子传奇
 http://172.168.1.254:5080/yy.php?id=1354490667
-#EXTINF:-1 logo="" group-title="YY連播" ,施公奇案1-欧阳震华
+#EXTINF:-1 group-title="YY連播" ,施公奇案1-欧阳震华
 http://172.168.1.254:5080/yy.php?id=1382749918
-#EXTINF:-1 logo="" group-title="YY連播" ,施公奇案2-欧阳震华
+#EXTINF:-1 group-title="YY連播" ,施公奇案2-欧阳震华
 http://172.168.1.254:5080/yy.php?id=1382736824
-#EXTINF:-1 logo="" group-title="YY連播" ,无厘头的出处
+#EXTINF:-1 group-title="YY連播" ,无厘头的出处
 http://172.168.1.254:5080/yy.php?id=1354930891
-#EXTINF:-1 logo="" group-title="YY連播" ,无敌县令
+#EXTINF:-1 group-title="YY連播" ,无敌县令
 http://172.168.1.254:5080/yy.php?id=1354932390
-#EXTINF:-1 logo="" group-title="YY連播" ,无敌燕双鹰
+#EXTINF:-1 group-title="YY連播" ,无敌燕双鹰
 http://172.168.1.254:5080/yy.php?id=1354825244
-#EXTINF:-1 logo="" group-title="YY連播" ,无限复活-张柏芝主演爱情电影
+#EXTINF:-1 group-title="YY連播" ,无限复活-张柏芝主演爱情电影
 http://172.168.1.254:5080/yy.php?id=1382745190
-#EXTINF:-1 logo="" group-title="YY連播" ,时代剧，黄土高天
+#EXTINF:-1 group-title="YY連播" ,时代剧，黄土高天
 http://172.168.1.254:5080/yy.php?id=1414864180
-#EXTINF:-1 logo="" group-title="YY連播" ,时光的海
+#EXTINF:-1 group-title="YY連播" ,时光的海
 http://172.168.1.254:5080/yy.php?id=1382736885
-#EXTINF:-1 logo="" group-title="YY連播" ,时光的海
+#EXTINF:-1 group-title="YY連播" ,时光的海
 http://172.168.1.254:5080/yy.php?id=1382851579
-#EXTINF:-1 logo="" group-title="YY連播" ,明天和你-韩剧
+#EXTINF:-1 group-title="YY連播" ,明天和你-韩剧
 http://172.168.1.254:5080/yy.php?id=1382749905
-#EXTINF:-1 logo="" group-title="YY連播" ,明日战记-科幻战争片
+#EXTINF:-1 group-title="YY連播" ,明日战记-科幻战争片
 http://172.168.1.254:5080/yy.php?id=1354936221
-#EXTINF:-1 logo="" group-title="YY連播" ,易中天品三国
+#EXTINF:-1 group-title="YY連播" ,易中天品三国
 http://172.168.1.254:5080/yy.php?id=1354931498
-#EXTINF:-1 logo="" group-title="YY連播" ,晨晨的影视小窝
+#EXTINF:-1 group-title="YY連播" ,晨晨的影视小窝
 http://172.168.1.254:5080/yy.php?id=1382851576
-#EXTINF:-1 logo="" group-title="YY連播" ,智取威虎山
+#EXTINF:-1 group-title="YY連播" ,智取威虎山
 http://172.168.1.254:5080/yy.php?id=1382736843
-#EXTINF:-1 logo="" group-title="YY連播" ,暖暖1999
+#EXTINF:-1 group-title="YY連播" ,暖暖1999
 http://172.168.1.254:5080/yy.php?id=1382851591
-#EXTINF:-1 logo="" group-title="YY連播" ,末日系列-外国电影合集
+#EXTINF:-1 group-title="YY連播" ,末日系列-外国电影合集
 http://172.168.1.254:5080/yy.php?id=1354889019
-#EXTINF:-1 logo="" group-title="YY連播" ,本山快乐营-爆笑小品
+#EXTINF:-1 group-title="YY連播" ,本山快乐营-爆笑小品
 http://172.168.1.254:5080/yy.php?id=1354930948
-#EXTINF:-1 logo="" group-title="YY連播" ,本山快乐营
+#EXTINF:-1 group-title="YY連播" ,本山快乐营
 http://172.168.1.254:5080/yy.php?id=1354933529
-#EXTINF:-1 logo="" group-title="YY連播" ,本山快乐营1
+#EXTINF:-1 group-title="YY連播" ,本山快乐营1
 http://172.168.1.254:5080/yy.php?id=1354936209
-#EXTINF:-1 logo="" group-title="YY連播" ,本山快乐营2
+#EXTINF:-1 group-title="YY連播" ,本山快乐营2
 http://172.168.1.254:5080/yy.php?id=1382736718
-#EXTINF:-1 logo="" group-title="YY連播" ,本山选谁上-喜剧人选拔
+#EXTINF:-1 group-title="YY連播" ,本山选谁上-喜剧人选拔
 http://172.168.1.254:5080/yy.php?id=1382749878
-#EXTINF:-1 logo="" group-title="YY連播" ,朵宝陪你看狄仁杰
+#EXTINF:-1 group-title="YY連播" ,朵宝陪你看狄仁杰
 http://172.168.1.254:5080/yy.php?id=1353753252
-#EXTINF:-1 logo="" group-title="YY連播" ,李连杰功夫经典武侠
+#EXTINF:-1 group-title="YY連播" ,李连杰功夫经典武侠
 http://172.168.1.254:5080/yy.php?id=74613175
-#EXTINF:-1 logo="" group-title="YY連播" ,来看修牛蹄
+#EXTINF:-1 group-title="YY連播" ,来看修牛蹄
 http://172.168.1.254:5080/yy.php?id=1382749887
-#EXTINF:-1 logo="" group-title="YY連播" ,来自星星的你
+#EXTINF:-1 group-title="YY連播" ,来自星星的你
 http://172.168.1.254:5080/yy.php?id=1354930976
-#EXTINF:-1 logo="" group-title="YY連播" ,杨门少年-少年英雄梦
+#EXTINF:-1 group-title="YY連播" ,杨门少年-少年英雄梦
 http://172.168.1.254:5080/yy.php?id=1354936178
-#EXTINF:-1 logo="" group-title="YY連播" ,杭小妞
+#EXTINF:-1 group-title="YY連播" ,杭小妞
 http://172.168.1.254:5080/yy.php?id=1382736910
-#EXTINF:-1 logo="" group-title="YY連播" ,杭小妞
+#EXTINF:-1 group-title="YY連播" ,杭小妞
 http://172.168.1.254:5080/yy.php?id=1382851590
-#EXTINF:-1 logo="" group-title="YY連播" ,林正英-经典电影
+#EXTINF:-1 group-title="YY連播" ,林正英-经典电影
 http://172.168.1.254:5080/yy.php?id=34229877
-#EXTINF:-1 logo="" group-title="YY連播" ,林正英经典
+#EXTINF:-1 group-title="YY連播" ,林正英经典
 http://172.168.1.254:5080/yy.php?id=1351505899
-#EXTINF:-1 logo="" group-title="YY連播" ,果酱熊的萌愈之力-帕丁顿熊2
+#EXTINF:-1 group-title="YY連播" ,果酱熊的萌愈之力-帕丁顿熊2
 http://172.168.1.254:5080/yy.php?id=1382735627
-#EXTINF:-1 logo="" group-title="YY連播" ,欢乐一起看
+#EXTINF:-1 group-title="YY連播" ,欢乐一起看
 http://172.168.1.254:5080/yy.php?id=1354930926
-#EXTINF:-1 logo="" group-title="YY連播" ,欢乐集结号-每天笑不停
+#EXTINF:-1 group-title="YY連播" ,欢乐集结号-每天笑不停
 http://172.168.1.254:5080/yy.php?id=1382741642
-#EXTINF:-1 logo="" group-title="YY連播" ,欢乐集结号
+#EXTINF:-1 group-title="YY連播" ,欢乐集结号
 http://172.168.1.254:5080/yy.php?id=1354931582
-#EXTINF:-1 logo="" group-title="YY連播" ,欢乐集结号
+#EXTINF:-1 group-title="YY連播" ,欢乐集结号
 http://172.168.1.254:5080/yy.php?id=1382735550
-#EXTINF:-1 logo="" group-title="YY連播" ,欢乐集结号2
+#EXTINF:-1 group-title="YY連播" ,欢乐集结号2
 http://172.168.1.254:5080/yy.php?id=1354930919
-#EXTINF:-1 logo="" group-title="YY連播" ,欢乐集结号3
+#EXTINF:-1 group-title="YY連播" ,欢乐集结号3
 http://172.168.1.254:5080/yy.php?id=1382736822
-#EXTINF:-1 logo="" group-title="YY連播" ,欢乐集结号4
+#EXTINF:-1 group-title="YY連播" ,欢乐集结号4
 http://172.168.1.254:5080/yy.php?id=1382736889
-#EXTINF:-1 logo="" group-title="YY連播" ,欢乐集结号58-70
+#EXTINF:-1 group-title="YY連播" ,欢乐集结号58-70
 http://172.168.1.254:5080/yy.php?id=1382745119
-#EXTINF:-1 logo="" group-title="YY連播" ,欢乐颂
+#EXTINF:-1 group-title="YY連播" ,欢乐颂
 http://172.168.1.254:5080/yy.php?id=1382735624
-#EXTINF:-1 logo="" group-title="YY連播" ,欢乐颂
+#EXTINF:-1 group-title="YY連播" ,欢乐颂
 http://172.168.1.254:5080/yy.php?id=1382851577
-#EXTINF:-1 logo="" group-title="YY連播" ,欢喜冤家的爱情-夏日乐悠悠
+#EXTINF:-1 group-title="YY連播" ,欢喜冤家的爱情-夏日乐悠悠
 http://172.168.1.254:5080/yy.php?id=1354936191
-#EXTINF:-1 logo="" group-title="YY連播" ,正阳门下
+#EXTINF:-1 group-title="YY連播" ,正阳门下
 http://172.168.1.254:5080/yy.php?id=1354931580
-#EXTINF:-1 logo="" group-title="YY連播" ,武林外传
+#EXTINF:-1 group-title="YY連播" ,武林外传
 http://172.168.1.254:5080/yy.php?id=1355652820
-#EXTINF:-1 logo="" group-title="YY連播" ,每天都等你
+#EXTINF:-1 group-title="YY連播" ,每天都等你
 http://172.168.1.254:5080/yy.php?id=1353215589
-#EXTINF:-1 logo="" group-title="YY連播" ,每天都要快乐哦！
+#EXTINF:-1 group-title="YY連播" ,每天都要快乐哦！
 http://172.168.1.254:5080/yy.php?id=1354930909
-#EXTINF:-1 logo="" group-title="YY連播" ,毒液：致命守护者
+#EXTINF:-1 group-title="YY連播" ,毒液：致命守护者
 http://172.168.1.254:5080/yy.php?id=1382745095
-#EXTINF:-1 logo="" group-title="YY連播" ,水浒传
+#EXTINF:-1 group-title="YY連播" ,水浒传
 http://172.168.1.254:5080/yy.php?id=1353873252
-#EXTINF:-1 logo="" group-title="YY連播" ,永远的经典系列
+#EXTINF:-1 group-title="YY連播" ,永远的经典系列
 http://172.168.1.254:5080/yy.php?id=1354930204
-#EXTINF:-1 logo="" group-title="YY連播" ,沉睡魔咒-不一样的童话视觉
+#EXTINF:-1 group-title="YY連播" ,沉睡魔咒-不一样的童话视觉
 http://172.168.1.254:5080/yy.php?id=1382736849
-#EXTINF:-1 logo="" group-title="YY連播" ,河伯的新娘：奇幻爱情
+#EXTINF:-1 group-title="YY連播" ,河伯的新娘：奇幻爱情
 http://172.168.1.254:5080/yy.php?id=1354936249
-#EXTINF:-1 logo="" group-title="YY連播" ,河山
+#EXTINF:-1 group-title="YY連播" ,河山
 http://172.168.1.254:5080/yy.php?id=1382749952
-#EXTINF:-1 logo="" group-title="YY連播" ,治愈电影阳光小美女-一家人的寻梦之旅
+#EXTINF:-1 group-title="YY連播" ,治愈电影阳光小美女-一家人的寻梦之旅
 http://172.168.1.254:5080/yy.php?id=1382736920
-#EXTINF:-1 logo="" group-title="YY連播" ,法证先锋
+#EXTINF:-1 group-title="YY連播" ,法证先锋
 http://172.168.1.254:5080/yy.php?id=1354930939
-#EXTINF:-1 logo="" group-title="YY連播" ,法证先锋2
+#EXTINF:-1 group-title="YY連播" ,法证先锋2
 http://172.168.1.254:5080/yy.php?id=1382736870
-#EXTINF:-1 logo="" group-title="YY連播" ,法证先锋Ⅱ
+#EXTINF:-1 group-title="YY連播" ,法证先锋Ⅱ
 http://172.168.1.254:5080/yy.php?id=1354888736
-#EXTINF:-1 logo="" group-title="YY連播" ,法证先锋Ⅲ
+#EXTINF:-1 group-title="YY連播" ,法证先锋Ⅲ
 http://172.168.1.254:5080/yy.php?id=1382736802
-#EXTINF:-1 logo="" group-title="YY連播" ,法证先锋Ⅳ
+#EXTINF:-1 group-title="YY連播" ,法证先锋Ⅳ
 http://172.168.1.254:5080/yy.php?id=1354932426
-#EXTINF:-1 logo="" group-title="YY連播" ,洪大哥系列
+#EXTINF:-1 group-title="YY連播" ,洪大哥系列
 http://172.168.1.254:5080/yy.php?id=1354888743
-#EXTINF:-1 logo="" group-title="YY連播" ,洪金宝福星系列
+#EXTINF:-1 group-title="YY連播" ,洪金宝福星系列
 http://172.168.1.254:5080/yy.php?id=1354924839
-#EXTINF:-1 logo="" group-title="YY連播" ,洪金宝福星系列
+#EXTINF:-1 group-title="YY連播" ,洪金宝福星系列
 http://172.168.1.254:5080/yy.php?id=1382851602
-#EXTINF:-1 logo="" group-title="YY連播" ,洪金宝经典喜剧电影
+#EXTINF:-1 group-title="YY連播" ,洪金宝经典喜剧电影
 http://172.168.1.254:5080/yy.php?id=1354889042
-#EXTINF:-1 logo="" group-title="YY連播" ,活力满满
+#EXTINF:-1 group-title="YY連播" ,活力满满
 http://172.168.1.254:5080/yy.php?id=1382851585
-#EXTINF:-1 logo="" group-title="YY連播" ,活宝夫妻-笑闹日常
+#EXTINF:-1 group-title="YY連播" ,活宝夫妻-笑闹日常
 http://172.168.1.254:5080/yy.php?id=1382745124
-#EXTINF:-1 logo="" group-title="YY連播" ,流行古装剧—知否知否应是绿肥红瘦
+#EXTINF:-1 group-title="YY連播" ,流行古装剧—知否知否应是绿肥红瘦
 http://172.168.1.254:5080/yy.php?id=1354936134
-#EXTINF:-1 logo="" group-title="YY連播" ,流金岁月-经典港剧
+#EXTINF:-1 group-title="YY連播" ,流金岁月-经典港剧
 http://172.168.1.254:5080/yy.php?id=1382736891
-#EXTINF:-1 logo="" group-title="YY連播" ,济公
+#EXTINF:-1 group-title="YY連播" ,济公
 http://172.168.1.254:5080/yy.php?id=1355265814
-#EXTINF:-1 logo="" group-title="YY連播" ,海洋幻梦-泰剧
+#EXTINF:-1 group-title="YY連播" ,海洋幻梦-泰剧
 http://172.168.1.254:5080/yy.php?id=1382749889
-#EXTINF:-1 logo="" group-title="YY連播" ,海王-院线大片
+#EXTINF:-1 group-title="YY連播" ,海王-院线大片
 http://172.168.1.254:5080/yy.php?id=1354936142
-#EXTINF:-1 logo="" group-title="YY連播" ,深海利剑
+#EXTINF:-1 group-title="YY連播" ,深海利剑
 http://172.168.1.254:5080/yy.php?id=1382736906
-#EXTINF:-1 logo="" group-title="YY連播" ,清风入梦
+#EXTINF:-1 group-title="YY連播" ,清风入梦
 http://172.168.1.254:5080/yy.php?id=1382745103
-#EXTINF:-1 logo="" group-title="YY連播" ,港剧-守护神之保险调查
+#EXTINF:-1 group-title="YY連播" ,港剧-守护神之保险调查
 http://172.168.1.254:5080/yy.php?id=1354936160
-#EXTINF:-1 logo="" group-title="YY連播" ,港剧-警犬巴打
+#EXTINF:-1 group-title="YY連播" ,港剧-警犬巴打
 http://172.168.1.254:5080/yy.php?id=1354932397
-#EXTINF:-1 logo="" group-title="YY連播" ,港剧里的生活哲学-好日子
+#EXTINF:-1 group-title="YY連播" ,港剧里的生活哲学-好日子
 http://172.168.1.254:5080/yy.php?id=1354936217
-#EXTINF:-1 logo="" group-title="YY連播" ,港片喜剧动作
+#EXTINF:-1 group-title="YY連播" ,港片喜剧动作
 http://172.168.1.254:5080/yy.php?id=1355480591
-#EXTINF:-1 logo="" group-title="YY連播" ,渴望
+#EXTINF:-1 group-title="YY連播" ,渴望
 http://172.168.1.254:5080/yy.php?id=1354930963
-#EXTINF:-1 logo="" group-title="YY連播" ,溏心风暴之家好月圆
+#EXTINF:-1 group-title="YY連播" ,溏心风暴之家好月圆
 http://172.168.1.254:5080/yy.php?id=1354888747
-#EXTINF:-1 logo="" group-title="YY連播" ,漫威十年老粉福利来了
+#EXTINF:-1 group-title="YY連播" ,漫威十年老粉福利来了
 http://172.168.1.254:5080/yy.php?id=1354930233
-#EXTINF:-1 logo="" group-title="YY連播" ,漫威超级英雄系列
+#EXTINF:-1 group-title="YY連播" ,漫威超级英雄系列
 http://172.168.1.254:5080/yy.php?id=1354932402
-#EXTINF:-1 logo="" group-title="YY連播" ,漫才合集-轻松一笑
+#EXTINF:-1 group-title="YY連播" ,漫才合集-轻松一笑
 http://172.168.1.254:5080/yy.php?id=1382745099
-#EXTINF:-1 logo="" group-title="YY連播" ,漫画解说
+#EXTINF:-1 group-title="YY連播" ,漫画解说
 http://172.168.1.254:5080/yy.php?id=1382735568
-#EXTINF:-1 logo="" group-title="YY連播" ,灌篮高手
+#EXTINF:-1 group-title="YY連播" ,灌篮高手
 http://172.168.1.254:5080/yy.php?id=1382735626
-#EXTINF:-1 logo="" group-title="YY連播" ,炊事班的故事
+#EXTINF:-1 group-title="YY連播" ,炊事班的故事
 http://172.168.1.254:5080/yy.php?id=1382749901
-#EXTINF:-1 logo="" group-title="YY連播" ,炊事班的故事III
+#EXTINF:-1 group-title="YY連播" ,炊事班的故事III
 http://172.168.1.254:5080/yy.php?id=1382736716
-#EXTINF:-1 logo="" group-title="YY連播" ,热度榜1.包青天
+#EXTINF:-1 group-title="YY連播" ,热度榜1.包青天
 http://172.168.1.254:5080/yy.php?id=22701868
-#EXTINF:-1 logo="" group-title="YY連播" ,热烈的玫瑰
+#EXTINF:-1 group-title="YY連播" ,热烈的玫瑰
 http://172.168.1.254:5080/yy.php?id=1382736798
-#EXTINF:-1 logo="" group-title="YY連播" ,热血动作电影
+#EXTINF:-1 group-title="YY連播" ,热血动作电影
 http://172.168.1.254:5080/yy.php?id=1382736804
-#EXTINF:-1 logo="" group-title="YY連播" ,热血战争巨作
+#EXTINF:-1 group-title="YY連播" ,热血战争巨作
 http://172.168.1.254:5080/yy.php?id=1382745087
-#EXTINF:-1 logo="" group-title="YY連播" ,热血抗日电影
+#EXTINF:-1 group-title="YY連播" ,热血抗日电影
 http://172.168.1.254:5080/yy.php?id=1382749907
-#EXTINF:-1 logo="" group-title="YY連播" ,热门喜剧
+#EXTINF:-1 group-title="YY連播" ,热门喜剧
 http://172.168.1.254:5080/yy.php?id=1354931495
-#EXTINF:-1 logo="" group-title="YY連播" ,烽火巾帼，谍血燃烧
+#EXTINF:-1 group-title="YY連播" ,烽火巾帼，谍血燃烧
 http://172.168.1.254:5080/yy.php?id=1354930984
-#EXTINF:-1 logo="" group-title="YY連播" ,熊出没之探险日记-森林探险记
+#EXTINF:-1 group-title="YY連播" ,熊出没之探险日记-森林探险记
 http://172.168.1.254:5080/yy.php?id=1382745122
-#EXTINF:-1 logo="" group-title="YY連播" ,熊出没之探险日记S1-国漫
+#EXTINF:-1 group-title="YY連播" ,熊出没之探险日记S1-国漫
 http://172.168.1.254:5080/yy.php?id=1354930977
-#EXTINF:-1 logo="" group-title="YY連播" ,燃爆动作片
+#EXTINF:-1 group-title="YY連播" ,燃爆动作片
 http://172.168.1.254:5080/yy.php?id=1382736801
-#EXTINF:-1 logo="" group-title="YY連播" ,燕双鹰
+#EXTINF:-1 group-title="YY連播" ,燕双鹰
 http://172.168.1.254:5080/yy.php?id=1352227153
-#EXTINF:-1 logo="" group-title="YY連播" ,燕双鹰
+#EXTINF:-1 group-title="YY連播" ,燕双鹰
 http://172.168.1.254:5080/yy.php?id=1354143942
-#EXTINF:-1 logo="" group-title="YY連播" ,爆笑小品大合集
+#EXTINF:-1 group-title="YY連播" ,爆笑小品大合集
 http://172.168.1.254:5080/yy.php?id=1382736821
-#EXTINF:-1 logo="" group-title="YY連播" ,爆笑来袭-小品欢乐集结号
+#EXTINF:-1 group-title="YY連播" ,爆笑来袭-小品欢乐集结号
 http://172.168.1.254:5080/yy.php?id=1382735558
-#EXTINF:-1 logo="" group-title="YY連播" ,爆笑电影！王牌大贱谍2-3
+#EXTINF:-1 group-title="YY連播" ,爆笑电影！王牌大贱谍2-3
 http://172.168.1.254:5080/yy.php?id=1354936169
-#EXTINF:-1 logo="" group-title="YY連播" ,爆笑电影！王牌大贱谍2-3
+#EXTINF:-1 group-title="YY連播" ,爆笑电影！王牌大贱谍2-3
 http://172.168.1.254:5080/yy.php?id=1382735556
-#EXTINF:-1 logo="" group-title="YY連播" ,爱情呼叫等待：相亲奇缘
+#EXTINF:-1 group-title="YY連播" ,爱情呼叫等待：相亲奇缘
 http://172.168.1.254:5080/yy.php?id=1382851137
-#EXTINF:-1 logo="" group-title="YY連播" ,爱情片合集-童梦奇缘
+#EXTINF:-1 group-title="YY連播" ,爱情片合集-童梦奇缘
 http://172.168.1.254:5080/yy.php?id=1354926622
-#EXTINF:-1 logo="" group-title="YY連播" ,爱笑仙子
+#EXTINF:-1 group-title="YY連播" ,爱笑仙子
 http://172.168.1.254:5080/yy.php?id=1382736838
-#EXTINF:-1 logo="" group-title="YY連播" ,父母爱情
+#EXTINF:-1 group-title="YY連播" ,父母爱情
 http://172.168.1.254:5080/yy.php?id=1354926650
-#EXTINF:-1 logo="" group-title="YY連播" ,父母的爱情
+#EXTINF:-1 group-title="YY連播" ,父母的爱情
 http://172.168.1.254:5080/yy.php?id=1382768483
-#EXTINF:-1 logo="" group-title="YY連播" ,狂飙
+#EXTINF:-1 group-title="YY連播" ,狂飙
 http://172.168.1.254:5080/yy.php?id=1382627144
-#EXTINF:-1 logo="" group-title="YY連播" ,狄仁杰
+#EXTINF:-1 group-title="YY連播" ,狄仁杰
 http://172.168.1.254:5080/yy.php?id=1351755386
-#EXTINF:-1 logo="" group-title="YY連播" ,猩球崛起-怪兽片合集
+#EXTINF:-1 group-title="YY連播" ,猩球崛起-怪兽片合集
 http://172.168.1.254:5080/yy.php?id=1354930181
-#EXTINF:-1 logo="" group-title="YY連播" ,王牌特工：特工学院
+#EXTINF:-1 group-title="YY連播" ,王牌特工：特工学院
 http://172.168.1.254:5080/yy.php?id=1354936195
-#EXTINF:-1 logo="" group-title="YY連播" ,珍珠港-电影
+#EXTINF:-1 group-title="YY連播" ,珍珠港-电影
 http://172.168.1.254:5080/yy.php?id=1354936234
-#EXTINF:-1 logo="" group-title="YY連播" ,甜甜的恋爱这狗粮我吃了
+#EXTINF:-1 group-title="YY連播" ,甜甜的恋爱这狗粮我吃了
 http://172.168.1.254:5080/yy.php?id=1354932438
-#EXTINF:-1 logo="" group-title="YY連播" ,生存大战，尽显人性
+#EXTINF:-1 group-title="YY連播" ,生存大战，尽显人性
 http://172.168.1.254:5080/yy.php?id=1414864186
-#EXTINF:-1 logo="" group-title="YY連播" ,田园生活
+#EXTINF:-1 group-title="YY連播" ,田园生活
 http://172.168.1.254:5080/yy.php?id=1382736898
-#EXTINF:-1 logo="" group-title="YY連播" ,电影
+#EXTINF:-1 group-title="YY連播" ,电影
 http://172.168.1.254:5080/yy.php?id=37454459
-#EXTINF:-1 logo="" group-title="YY連播" ,电影兴风作浪系列播放
+#EXTINF:-1 group-title="YY連播" ,电影兴风作浪系列播放
 http://172.168.1.254:5080/yy.php?id=1382736857
-#EXTINF:-1 logo="" group-title="YY連播" ,电影百团大战
+#EXTINF:-1 group-title="YY連播" ,电影百团大战
 http://172.168.1.254:5080/yy.php?id=1382736871
-#EXTINF:-1 logo="" group-title="YY連播" ,电影黑豹
+#EXTINF:-1 group-title="YY連播" ,电影黑豹
 http://172.168.1.254:5080/yy.php?id=1382736816
-#EXTINF:-1 logo="" group-title="YY連播" ,电波传情-生死密电
+#EXTINF:-1 group-title="YY連播" ,电波传情-生死密电
 http://172.168.1.254:5080/yy.php?id=1382735571
-#EXTINF:-1 logo="" group-title="YY連播" ,电视剧-流金岁月
+#EXTINF:-1 group-title="YY連播" ,电视剧-流金岁月
 http://172.168.1.254:5080/yy.php?id=1382749906
-#EXTINF:-1 logo="" group-title="YY連播" ,电视剧老酒馆-一坛老酒品百态人生
+#EXTINF:-1 group-title="YY連播" ,电视剧老酒馆-一坛老酒品百态人生
 http://172.168.1.254:5080/yy.php?id=1382736872
-#EXTINF:-1 logo="" group-title="YY連播" ,疯狂一家秀
+#EXTINF:-1 group-title="YY連播" ,疯狂一家秀
 http://172.168.1.254:5080/yy.php?id=1382736715
-#EXTINF:-1 logo="" group-title="YY連播" ,疯狂动漫正在直播
+#EXTINF:-1 group-title="YY連播" ,疯狂动漫正在直播
 http://172.168.1.254:5080/yy.php?id=1353937086
-#EXTINF:-1 logo="" group-title="YY連播" ,白鹿原-国内经典战争片
+#EXTINF:-1 group-title="YY連播" ,白鹿原-国内经典战争片
 http://172.168.1.254:5080/yy.php?id=1354931488
-#EXTINF:-1 logo="" group-title="YY連播" ,百家讲坛-之女皇武则天
+#EXTINF:-1 group-title="YY連播" ,百家讲坛-之女皇武则天
 http://172.168.1.254:5080/yy.php?id=1354889015
-#EXTINF:-1 logo="" group-title="YY連播" ,百家讲坛-红楼梦篇
+#EXTINF:-1 group-title="YY連播" ,百家讲坛-红楼梦篇
 http://172.168.1.254:5080/yy.php?id=1382741639
-#EXTINF:-1 logo="" group-title="YY連播" ,百家讲坛――之明太祖朱元璋
+#EXTINF:-1 group-title="YY連播" ,百家讲坛――之明太祖朱元璋
 http://172.168.1.254:5080/yy.php?id=1354936149
-#EXTINF:-1 logo="" group-title="YY連播" ,的直播间
+#EXTINF:-1 group-title="YY連播" ,的直播间
 http://172.168.1.254:5080/yy.php?id=1354129442
-#EXTINF:-1 logo="" group-title="YY連播" ,真实案件系列
+#EXTINF:-1 group-title="YY連播" ,真实案件系列
 http://172.168.1.254:5080/yy.php?id=1382671124
-#EXTINF:-1 logo="" group-title="YY連播" ,真心想让你幸福
+#EXTINF:-1 group-title="YY連播" ,真心想让你幸福
 http://172.168.1.254:5080/yy.php?id=1382736876
-#EXTINF:-1 logo="" group-title="YY連播" ,神医喜来乐
+#EXTINF:-1 group-title="YY連播" ,神医喜来乐
 http://172.168.1.254:5080/yy.php?id=1382714119
-#EXTINF:-1 logo="" group-title="YY連播" ,神厨小福贵
+#EXTINF:-1 group-title="YY連播" ,神厨小福贵
 http://172.168.1.254:5080/yy.php?id=1382736860
-#EXTINF:-1 logo="" group-title="YY連播" ,神探狄仁杰1
+#EXTINF:-1 group-title="YY連播" ,神探狄仁杰1
 http://172.168.1.254:5080/yy.php?id=1354930934
-#EXTINF:-1 logo="" group-title="YY連播" ,神探狄仁杰1
+#EXTINF:-1 group-title="YY連播" ,神探狄仁杰1
 http://172.168.1.254:5080/yy.php?id=1382851575
-#EXTINF:-1 logo="" group-title="YY連播" ,神探狄仁杰2
+#EXTINF:-1 group-title="YY連播" ,神探狄仁杰2
 http://172.168.1.254:5080/yy.php?id=1382828767
-#EXTINF:-1 logo="" group-title="YY連播" ,神探狄仁杰2
+#EXTINF:-1 group-title="YY連播" ,神探狄仁杰2
 http://172.168.1.254:5080/yy.php?id=1382851146
-#EXTINF:-1 logo="" group-title="YY連播" ,神雕侠侣
+#EXTINF:-1 group-title="YY連播" ,神雕侠侣
 http://172.168.1.254:5080/yy.php?id=1351762426
-#EXTINF:-1 logo="" group-title="YY連播" ,福贵
+#EXTINF:-1 group-title="YY連播" ,福贵
 http://172.168.1.254:5080/yy.php?id=1354926537
-#EXTINF:-1 logo="" group-title="YY連播" ,科幻佳片-银翼杀手2049
+#EXTINF:-1 group-title="YY連播" ,科幻佳片-银翼杀手2049
 http://172.168.1.254:5080/yy.php?id=1354936136
-#EXTINF:-1 logo="" group-title="YY連播" ,科幻惊悚片-异形
+#EXTINF:-1 group-title="YY連播" ,科幻惊悚片-异形
 http://172.168.1.254:5080/yy.php?id=1382735543
-#EXTINF:-1 logo="" group-title="YY連播" ,科幻片：来看神奇的地球
+#EXTINF:-1 group-title="YY連播" ,科幻片：来看神奇的地球
 http://172.168.1.254:5080/yy.php?id=1354930897
-#EXTINF:-1 logo="" group-title="YY連播" ,科幻电影-环太平洋
+#EXTINF:-1 group-title="YY連播" ,科幻电影-环太平洋
 http://172.168.1.254:5080/yy.php?id=1354936170
-#EXTINF:-1 logo="" group-title="YY連播" ,科幻电影
+#EXTINF:-1 group-title="YY連播" ,科幻电影
 http://172.168.1.254:5080/yy.php?id=1354930209
-#EXTINF:-1 logo="" group-title="YY連播" ,空谷幽兰
+#EXTINF:-1 group-title="YY連播" ,空谷幽兰
 http://172.168.1.254:5080/yy.php?id=1382745182
-#EXTINF:-1 logo="" group-title="YY連播" ,穿越大吉岭-三个男人的心灵之旅
+#EXTINF:-1 group-title="YY連播" ,穿越大吉岭-三个男人的心灵之旅
 http://172.168.1.254:5080/yy.php?id=1382749950
-#EXTINF:-1 logo="" group-title="YY連播" ,穿越时空的爱恋
+#EXTINF:-1 group-title="YY連播" ,穿越时空的爱恋
 http://172.168.1.254:5080/yy.php?id=1382735567
-#EXTINF:-1 logo="" group-title="YY連播" ,笑中带泪-开心鬼上身
+#EXTINF:-1 group-title="YY連播" ,笑中带泪-开心鬼上身
 http://172.168.1.254:5080/yy.php?id=1382736844
-#EXTINF:-1 logo="" group-title="YY連播" ,笑傲帮
+#EXTINF:-1 group-title="YY連播" ,笑傲帮
 http://172.168.1.254:5080/yy.php?id=1382735555
-#EXTINF:-1 logo="" group-title="YY連播" ,笑傲江湖-电视剧
+#EXTINF:-1 group-title="YY連播" ,笑傲江湖-电视剧
 http://172.168.1.254:5080/yy.php?id=1354936128
-#EXTINF:-1 logo="" group-title="YY連播" ,笑傲江湖4K超清
+#EXTINF:-1 group-title="YY連播" ,笑傲江湖4K超清
 http://172.168.1.254:5080/yy.php?id=1354282410
-#EXTINF:-1 logo="" group-title="YY連播" ,笑傲江湖第1季
+#EXTINF:-1 group-title="YY連播" ,笑傲江湖第1季
 http://172.168.1.254:5080/yy.php?id=1382749896
-#EXTINF:-1 logo="" group-title="YY連播" ,笑傲江湖第2季
+#EXTINF:-1 group-title="YY連播" ,笑傲江湖第2季
 http://172.168.1.254:5080/yy.php?id=1382736914
-#EXTINF:-1 logo="" group-title="YY連播" ,笑声传奇
+#EXTINF:-1 group-title="YY連播" ,笑声传奇
 http://172.168.1.254:5080/yy.php?id=1382736880
-#EXTINF:-1 logo="" group-title="YY連播" ,笨贼一箩筐，笑出腹肌！
+#EXTINF:-1 group-title="YY連播" ,笨贼一箩筐，笑出腹肌！
 http://172.168.1.254:5080/yy.php?id=1382741640
-#EXTINF:-1 logo="" group-title="YY連播" ,第8号当铺
+#EXTINF:-1 group-title="YY連播" ,第8号当铺
 http://172.168.1.254:5080/yy.php?id=1382736905
-#EXTINF:-1 logo="" group-title="YY連播" ,粟裕大将-影视
+#EXTINF:-1 group-title="YY連播" ,粟裕大将-影视
 http://172.168.1.254:5080/yy.php?id=1354926542
-#EXTINF:-1 logo="" group-title="YY連播" ,精彩动作电影
+#EXTINF:-1 group-title="YY連播" ,精彩动作电影
 http://172.168.1.254:5080/yy.php?id=1382736823
-#EXTINF:-1 logo="" group-title="YY連播" ,精彩动作电影享不停
+#EXTINF:-1 group-title="YY連播" ,精彩动作电影享不停
 http://172.168.1.254:5080/yy.php?id=1382736809
-#EXTINF:-1 logo="" group-title="YY連播" ,精彩动漫
+#EXTINF:-1 group-title="YY連播" ,精彩动漫
 http://172.168.1.254:5080/yy.php?id=1420843376
-#EXTINF:-1 logo="" group-title="YY連播" ,精武英雄-李连杰主演经典动作片
+#EXTINF:-1 group-title="YY連播" ,精武英雄-李连杰主演经典动作片
 http://172.168.1.254:5080/yy.php?id=1382736873
-#EXTINF:-1 logo="" group-title="YY連播" ,红河谷-爱恨交响曲
+#EXTINF:-1 group-title="YY連播" ,红河谷-爱恨交响曲
 http://172.168.1.254:5080/yy.php?id=1354936181
-#EXTINF:-1 logo="" group-title="YY連播" ,纪录片-最美中国1
+#EXTINF:-1 group-title="YY連播" ,纪录片-最美中国1
 http://172.168.1.254:5080/yy.php?id=1382745189
-#EXTINF:-1 logo="" group-title="YY連播" ,纪晓岚
+#EXTINF:-1 group-title="YY連播" ,纪晓岚
 http://172.168.1.254:5080/yy.php?id=1352227227
-#EXTINF:-1 logo="" group-title="YY連播" ,纪晓岚
+#EXTINF:-1 group-title="YY連播" ,纪晓岚
 http://172.168.1.254:5080/yy.php?id=1354143978
-#EXTINF:-1 logo="" group-title="YY連播" ,纯纯纯儿
+#EXTINF:-1 group-title="YY連播" ,纯纯纯儿
 http://172.168.1.254:5080/yy.php?id=1382851589
-#EXTINF:-1 logo="" group-title="YY連播" ,经典大片合集
+#EXTINF:-1 group-title="YY連播" ,经典大片合集
 http://172.168.1.254:5080/yy.php?id=1382749895
-#EXTINF:-1 logo="" group-title="YY連播" ,经典抗战剧
+#EXTINF:-1 group-title="YY連播" ,经典抗战剧
 http://172.168.1.254:5080/yy.php?id=1354555195
-#EXTINF:-1 logo="" group-title="YY連播" ,经典武侠电影-如来神掌
+#EXTINF:-1 group-title="YY連播" ,经典武侠电影-如来神掌
 http://172.168.1.254:5080/yy.php?id=1382749944
-#EXTINF:-1 logo="" group-title="YY連播" ,经典港片动作搞笑
+#EXTINF:-1 group-title="YY連播" ,经典港片动作搞笑
 http://172.168.1.254:5080/yy.php?id=1459869766
-#EXTINF:-1 logo="" group-title="YY連播" ,经典电影重温
+#EXTINF:-1 group-title="YY連播" ,经典电影重温
 http://172.168.1.254:5080/yy.php?id=1382793140
-#EXTINF:-1 logo="" group-title="YY連播" ,经典科幻电影-2001漫游太空
+#EXTINF:-1 group-title="YY連播" ,经典科幻电影-2001漫游太空
 http://172.168.1.254:5080/yy.php?id=1354926671
-#EXTINF:-1 logo="" group-title="YY連播" ,经典鬼片3000部
+#EXTINF:-1 group-title="YY連播" ,经典鬼片3000部
 http://172.168.1.254:5080/yy.php?id=29460894
-#EXTINF:-1 logo="" group-title="YY連播" ,缉魂-科幻悬疑电影
+#EXTINF:-1 group-title="YY連播" ,缉魂-科幻悬疑电影
 http://172.168.1.254:5080/yy.php?id=1382745090
-#EXTINF:-1 logo="" group-title="YY連播" ,编辑部的故事
+#EXTINF:-1 group-title="YY連播" ,编辑部的故事
 http://172.168.1.254:5080/yy.php?id=1354936120
-#EXTINF:-1 logo="" group-title="YY連播" ,缺宅男女-精彩港剧
+#EXTINF:-1 group-title="YY連播" ,缺宅男女-精彩港剧
 http://172.168.1.254:5080/yy.php?id=1382745088
-#EXTINF:-1 logo="" group-title="YY連播" ,缺宅男女
+#EXTINF:-1 group-title="YY連播" ,缺宅男女
 http://172.168.1.254:5080/yy.php?id=1354930937
-#EXTINF:-1 logo="" group-title="YY連播" ,美国队长史蒂夫
+#EXTINF:-1 group-title="YY連播" ,美国队长史蒂夫
 http://172.168.1.254:5080/yy.php?id=1382736813
-#EXTINF:-1 logo="" group-title="YY連播" ,老夫少妻搞笑忘年恋
+#EXTINF:-1 group-title="YY連播" ,老夫少妻搞笑忘年恋
 http://172.168.1.254:5080/yy.php?id=1354932391
-#EXTINF:-1 logo="" group-title="YY連播" ,老妖私影院
+#EXTINF:-1 group-title="YY連播" ,老妖私影院
 http://172.168.1.254:5080/yy.php?id=1354952229
-#EXTINF:-1 logo="" group-title="YY連播" ,老广的味道-美食之旅
+#EXTINF:-1 group-title="YY連播" ,老广的味道-美食之旅
 http://172.168.1.254:5080/yy.php?id=1354932375
-#EXTINF:-1 logo="" group-title="YY連播" ,老广的味道第3季-美食纪录片
+#EXTINF:-1 group-title="YY連播" ,老广的味道第3季-美食纪录片
 http://172.168.1.254:5080/yy.php?id=1382735565
-#EXTINF:-1 logo="" group-title="YY連播" ,能耐大了！德云社演技爆棚
+#EXTINF:-1 group-title="YY連播" ,能耐大了！德云社演技爆棚
 http://172.168.1.254:5080/yy.php?id=1354930915
-#EXTINF:-1 logo="" group-title="YY連播" ,能耐大了第1季
+#EXTINF:-1 group-title="YY連播" ,能耐大了第1季
 http://172.168.1.254:5080/yy.php?id=1354930195
-#EXTINF:-1 logo="" group-title="YY連播" ,致敬不屈的抗日英雄
+#EXTINF:-1 group-title="YY連播" ,致敬不屈的抗日英雄
 http://172.168.1.254:5080/yy.php?id=1382736817
-#EXTINF:-1 logo="" group-title="YY連播" ,致敬星爷致敬经典
+#EXTINF:-1 group-title="YY連播" ,致敬星爷致敬经典
 http://172.168.1.254:5080/yy.php?id=1354889048
-#EXTINF:-1 logo="" group-title="YY連播" ,致敬民族气节！
+#EXTINF:-1 group-title="YY連播" ,致敬民族气节！
 http://172.168.1.254:5080/yy.php?id=1354926643
-#EXTINF:-1 logo="" group-title="YY連播" ,舌尖上的中国第2季
+#EXTINF:-1 group-title="YY連播" ,舌尖上的中国第2季
 http://172.168.1.254:5080/yy.php?id=1354930943
-#EXTINF:-1 logo="" group-title="YY連播" ,舌尖上的中国第一季
+#EXTINF:-1 group-title="YY連播" ,舌尖上的中国第一季
 http://172.168.1.254:5080/yy.php?id=1354930952
-#EXTINF:-1 logo="" group-title="YY連播" ,苦乐村官
+#EXTINF:-1 group-title="YY連播" ,苦乐村官
 http://172.168.1.254:5080/yy.php?id=1382736864
-#EXTINF:-1 logo="" group-title="YY連播" ,英伦犯罪喜剧-两杆大烟枪
+#EXTINF:-1 group-title="YY連播" ,英伦犯罪喜剧-两杆大烟枪
 http://172.168.1.254:5080/yy.php?id=1354658051
-#EXTINF:-1 logo="" group-title="YY連播" ,莉萨
+#EXTINF:-1 group-title="YY連播" ,莉萨
 http://172.168.1.254:5080/yy.php?id=1382736918
-#EXTINF:-1 logo="" group-title="YY連播" ,萌鸡小队S1-国漫
+#EXTINF:-1 group-title="YY連播" ,萌鸡小队S1-国漫
 http://172.168.1.254:5080/yy.php?id=1382736904
-#EXTINF:-1 logo="" group-title="YY連播" ,蔡明春晚小品
+#EXTINF:-1 group-title="YY連播" ,蔡明春晚小品
 http://172.168.1.254:5080/yy.php?id=1354936177
-#EXTINF:-1 logo="" group-title="YY連播" ,薛仁贵传奇
+#EXTINF:-1 group-title="YY連播" ,薛仁贵传奇
 http://172.168.1.254:5080/yy.php?id=1355260662
-#EXTINF:-1 logo="" group-title="YY連播" ,蚁人-微观世界大冒险
+#EXTINF:-1 group-title="YY連播" ,蚁人-微观世界大冒险
 http://172.168.1.254:5080/yy.php?id=1382736913
-#EXTINF:-1 logo="" group-title="YY連播" ,蝙蝠侠：侠影之谜
+#EXTINF:-1 group-title="YY連播" ,蝙蝠侠：侠影之谜
 http://172.168.1.254:5080/yy.php?id=1382736719
-#EXTINF:-1 logo="" group-title="YY連播" ,血色浪漫
+#EXTINF:-1 group-title="YY連播" ,血色浪漫
 http://172.168.1.254:5080/yy.php?id=1354926676
-#EXTINF:-1 logo="" group-title="YY連播" ,西游记后传
+#EXTINF:-1 group-title="YY連播" ,西游记后传
 http://172.168.1.254:5080/yy.php?id=1382736846
-#EXTINF:-1 logo="" group-title="YY連播" ,西游记后传蓝光
+#EXTINF:-1 group-title="YY連播" ,西游记后传蓝光
 http://172.168.1.254:5080/yy.php?id=1353392400
-#EXTINF:-1 logo="" group-title="YY連播" ,西游记张卫健版
+#EXTINF:-1 group-title="YY連播" ,西游记张卫健版
 http://172.168.1.254:5080/yy.php?id=1354936155
-#EXTINF:-1 logo="" group-title="YY連播" ,许多多
+#EXTINF:-1 group-title="YY連播" ,许多多
 http://172.168.1.254:5080/yy.php?id=1382851583
-#EXTINF:-1 logo="" group-title="YY連播" ,请回答1988
+#EXTINF:-1 group-title="YY連播" ,请回答1988
 http://172.168.1.254:5080/yy.php?id=1354932362
-#EXTINF:-1 logo="" group-title="YY連播" ,诺兰影片-敦刻尔克大撤退
+#EXTINF:-1 group-title="YY連播" ,诺兰影片-敦刻尔克大撤退
 http://172.168.1.254:5080/yy.php?id=1382749910
-#EXTINF:-1 logo="" group-title="YY連播" ,读心神探
+#EXTINF:-1 group-title="YY連播" ,读心神探
 http://172.168.1.254:5080/yy.php?id=1382736875
-#EXTINF:-1 logo="" group-title="YY連播" ,调音师-旋律奇遇
+#EXTINF:-1 group-title="YY連播" ,调音师-旋律奇遇
 http://172.168.1.254:5080/yy.php?id=1382749911
-#EXTINF:-1 logo="" group-title="YY連播" ,谈判专家
+#EXTINF:-1 group-title="YY連播" ,谈判专家
 http://172.168.1.254:5080/yy.php?id=1382735560
-#EXTINF:-1 logo="" group-title="YY連播" ,豪哥带我们发财
+#EXTINF:-1 group-title="YY連播" ,豪哥带我们发财
 http://172.168.1.254:5080/yy.php?id=23402146
-#EXTINF:-1 logo="" group-title="YY連播" ,贫民窟的百万富翁
+#EXTINF:-1 group-title="YY連播" ,贫民窟的百万富翁
 http://172.168.1.254:5080/yy.php?id=1382735561
-#EXTINF:-1 logo="" group-title="YY連播" ,贾玲春晚小品
+#EXTINF:-1 group-title="YY連播" ,贾玲春晚小品
 http://172.168.1.254:5080/yy.php?id=1382736720
-#EXTINF:-1 logo="" group-title="YY連播" ,赌神-发哥
+#EXTINF:-1 group-title="YY連播" ,赌神-发哥
 http://172.168.1.254:5080/yy.php?id=1354889044
-#EXTINF:-1 logo="" group-title="YY連播" ,赌神港片喜剧
+#EXTINF:-1 group-title="YY連播" ,赌神港片喜剧
 http://172.168.1.254:5080/yy.php?id=1355112116
-#EXTINF:-1 logo="" group-title="YY連播" ,超喜剧地下交通站男神贾贵
+#EXTINF:-1 group-title="YY連播" ,超喜剧地下交通站男神贾贵
 http://172.168.1.254:5080/yy.php?id=1353428972
-#EXTINF:-1 logo="" group-title="YY連播" ,超清鬼片港片
+#EXTINF:-1 group-title="YY連播" ,超清鬼片港片
 http://172.168.1.254:5080/yy.php?id=1335509613
-#EXTINF:-1 logo="" group-title="YY連播" ,超炫科幻大片
+#EXTINF:-1 group-title="YY連播" ,超炫科幻大片
 http://172.168.1.254:5080/yy.php?id=1382736840
-#EXTINF:-1 logo="" group-title="YY連播" ,超燃科幻大片：明日边缘
+#EXTINF:-1 group-title="YY連播" ,超燃科幻大片：明日边缘
 http://172.168.1.254:5080/yy.php?id=1382736835
-#EXTINF:-1 logo="" group-title="YY連播" ,超燃警匪片
+#EXTINF:-1 group-title="YY連播" ,超燃警匪片
 http://172.168.1.254:5080/yy.php?id=1382735576
-#EXTINF:-1 logo="" group-title="YY連播" ,超精彩！系列动作电影
+#EXTINF:-1 group-title="YY連播" ,超精彩！系列动作电影
 http://172.168.1.254:5080/yy.php?id=1382745096
-#EXTINF:-1 logo="" group-title="YY連播" ,超精彩武打场景
+#EXTINF:-1 group-title="YY連播" ,超精彩武打场景
 http://172.168.1.254:5080/yy.php?id=1354936131
-#EXTINF:-1 logo="" group-title="YY連播" ,超能疯人院
+#EXTINF:-1 group-title="YY連播" ,超能疯人院
 http://172.168.1.254:5080/yy.php?id=1354932441
-#EXTINF:-1 logo="" group-title="YY連播" ,超英集结
+#EXTINF:-1 group-title="YY連播" ,超英集结
 http://172.168.1.254:5080/yy.php?id=1382745091
-#EXTINF:-1 logo="" group-title="YY連播" ,超越种族的爱恋-暮光之城
+#EXTINF:-1 group-title="YY連播" ,超越种族的爱恋-暮光之城
 http://172.168.1.254:5080/yy.php?id=1382745179
-#EXTINF:-1 logo="" group-title="YY連播" ,越越爱影视
+#EXTINF:-1 group-title="YY連播" ,越越爱影视
 http://172.168.1.254:5080/yy.php?id=1382736886
-#EXTINF:-1 logo="" group-title="YY連播" ,趣味小品合集
+#EXTINF:-1 group-title="YY連播" ,趣味小品合集
 http://172.168.1.254:5080/yy.php?id=1382736853
-#EXTINF:-1 logo="" group-title="YY連播" ,转角遇到爱
+#EXTINF:-1 group-title="YY連播" ,转角遇到爱
 http://172.168.1.254:5080/yy.php?id=1382745085
-#EXTINF:-1 logo="" group-title="YY連播" ,辉煌或疯狂-韩剧
+#EXTINF:-1 group-title="YY連播" ,辉煌或疯狂-韩剧
 http://172.168.1.254:5080/yy.php?id=1382749902
-#EXTINF:-1 logo="" group-title="YY連播" ,这部剧你居然没看过？
+#EXTINF:-1 group-title="YY連播" ,这部剧你居然没看过？
 http://172.168.1.254:5080/yy.php?id=1354932355
-#EXTINF:-1 logo="" group-title="YY連播" ,进来陪你看动漫
+#EXTINF:-1 group-title="YY連播" ,进来陪你看动漫
 http://172.168.1.254:5080/yy.php?id=1352866135
-#EXTINF:-1 logo="" group-title="YY連播" ,进来陪你看电视
+#EXTINF:-1 group-title="YY連播" ,进来陪你看电视
 http://172.168.1.254:5080/yy.php?id=1353518742
-#EXTINF:-1 logo="" group-title="YY連播" ,远去的飞鹰-影视剧
+#EXTINF:-1 group-title="YY連播" ,远去的飞鹰-影视剧
 http://172.168.1.254:5080/yy.php?id=1354930912
-#EXTINF:-1 logo="" group-title="YY連播" ,迷糊不迷糊正在直播
+#EXTINF:-1 group-title="YY連播" ,迷糊不迷糊正在直播
 http://172.168.1.254:5080/yy.php?id=1461931969
-#EXTINF:-1 logo="" group-title="YY連播" ,速度与激情全集
+#EXTINF:-1 group-title="YY連播" ,速度与激情全集
 http://172.168.1.254:5080/yy.php?id=1382749892
-#EXTINF:-1 logo="" group-title="YY連播" ,速度与激情系列！-精彩大片
+#EXTINF:-1 group-title="YY連播" ,速度与激情系列！-精彩大片
 http://172.168.1.254:5080/yy.php?id=1382736911
-#EXTINF:-1 logo="" group-title="YY連播" ,郑恺主演运动喜剧-超越
+#EXTINF:-1 group-title="YY連播" ,郑恺主演运动喜剧-超越
 http://172.168.1.254:5080/yy.php?id=1382736863
-#EXTINF:-1 logo="" group-title="YY連播" ,郝蕾演绎-情满四合院
+#EXTINF:-1 group-title="YY連播" ,郝蕾演绎-情满四合院
 http://172.168.1.254:5080/yy.php?id=1382745089
-#EXTINF:-1 logo="" group-title="YY連播" ,郭德纲-坑王驾到
+#EXTINF:-1 group-title="YY連播" ,郭德纲-坑王驾到
 http://172.168.1.254:5080/yy.php?id=1382745111
-#EXTINF:-1 logo="" group-title="YY連播" ,都市情感剧-那些我爱过的人
+#EXTINF:-1 group-title="YY連播" ,都市情感剧-那些我爱过的人
 http://172.168.1.254:5080/yy.php?id=1382736820
-#EXTINF:-1 logo="" group-title="YY連播" ,都挺好-电视剧
+#EXTINF:-1 group-title="YY連播" ,都挺好-电视剧
 http://172.168.1.254:5080/yy.php?id=1382736892
-#EXTINF:-1 logo="" group-title="YY連播" ,重生之超级赛亚人
+#EXTINF:-1 group-title="YY連播" ,重生之超级赛亚人
 http://172.168.1.254:5080/yy.php?id=1354936124
-#EXTINF:-1 logo="" group-title="YY連播" ,重返青春-回到过去拥抱你
+#EXTINF:-1 group-title="YY連播" ,重返青春-回到过去拥抱你
 http://172.168.1.254:5080/yy.php?id=1382749940
-#EXTINF:-1 logo="" group-title="YY連播" ,野山鹰-影视剧
+#EXTINF:-1 group-title="YY連播" ,野山鹰-影视剧
 http://172.168.1.254:5080/yy.php?id=1354932395
-#EXTINF:-1 logo="" group-title="YY連播" ,金婚
+#EXTINF:-1 group-title="YY連播" ,金婚
 http://172.168.1.254:5080/yy.php?id=1382736832
-#EXTINF:-1 logo="" group-title="YY連播" ,金婚
+#EXTINF:-1 group-title="YY連播" ,金婚
 http://172.168.1.254:5080/yy.php?id=1382828768
-#EXTINF:-1 logo="" group-title="YY連播" ,金牌喜剧班
+#EXTINF:-1 group-title="YY連播" ,金牌喜剧班
 http://172.168.1.254:5080/yy.php?id=1354889009
-#EXTINF:-1 logo="" group-title="YY連播" ,金牌配角达叔系列
+#EXTINF:-1 group-title="YY連播" ,金牌配角达叔系列
 http://172.168.1.254:5080/yy.php?id=1354888728
-#EXTINF:-1 logo="" group-title="YY連播" ,金玉满堂：精彩港剧
+#EXTINF:-1 group-title="YY連播" ,金玉满堂：精彩港剧
 http://172.168.1.254:5080/yy.php?id=1382736881
-#EXTINF:-1 logo="" group-title="YY連播" ,钟馗传说
+#EXTINF:-1 group-title="YY連播" ,钟馗传说
 http://172.168.1.254:5080/yy.php?id=1382736839
-#EXTINF:-1 logo="" group-title="YY連播" ,铁齿铜牙纪晓岚
+#EXTINF:-1 group-title="YY連播" ,铁齿铜牙纪晓岚
 http://172.168.1.254:5080/yy.php?id=1382626335
-#EXTINF:-1 logo="" group-title="YY連播" ,铁齿铜牙纪晓岚
+#EXTINF:-1 group-title="YY連播" ,铁齿铜牙纪晓岚
 http://172.168.1.254:5080/yy.php?id=1382781415
-#EXTINF:-1 logo="" group-title="YY連播" ,银河护卫队-国外科幻巨作
+#EXTINF:-1 group-title="YY連播" ,银河护卫队-国外科幻巨作
 http://172.168.1.254:5080/yy.php?id=1382736815
-#EXTINF:-1 logo="" group-title="YY連播" ,锦衣卫之残阳如血-血色使命
+#EXTINF:-1 group-title="YY連播" ,锦衣卫之残阳如血-血色使命
 http://172.168.1.254:5080/yy.php?id=1382736882
-#EXTINF:-1 logo="" group-title="YY連播" ,闫妮主演-轻松都市喜剧
+#EXTINF:-1 group-title="YY連播" ,闫妮主演-轻松都市喜剧
 http://172.168.1.254:5080/yy.php?id=1382749888
-#EXTINF:-1 logo="" group-title="YY連播" ,闲暇观看综艺
+#EXTINF:-1 group-title="YY連播" ,闲暇观看综艺
 http://172.168.1.254:5080/yy.php?id=1354932379
-#EXTINF:-1 logo="" group-title="YY連播" ,陈情令
+#EXTINF:-1 group-title="YY連播" ,陈情令
 http://172.168.1.254:5080/yy.php?id=1382745121
-#EXTINF:-1 logo="" group-title="YY連播" ,降魔传-神魔大战
+#EXTINF:-1 group-title="YY連播" ,降魔传-神魔大战
 http://172.168.1.254:5080/yy.php?id=1354932371
-#EXTINF:-1 logo="" group-title="YY連播" ,院线动作大片
+#EXTINF:-1 group-title="YY連播" ,院线动作大片
 http://172.168.1.254:5080/yy.php?id=1382736900
-#EXTINF:-1 logo="" group-title="YY連播" ,陪你一起看好剧
+#EXTINF:-1 group-title="YY連播" ,陪你一起看好剧
 http://172.168.1.254:5080/yy.php?id=1354932359
-#EXTINF:-1 logo="" group-title="YY連播" ,隋唐英雄传
+#EXTINF:-1 group-title="YY連播" ,隋唐英雄传
 http://172.168.1.254:5080/yy.php?id=1352475619
-#EXTINF:-1 logo="" group-title="YY連播" ,雍正王朝
+#EXTINF:-1 group-title="YY連播" ,雍正王朝
 http://172.168.1.254:5080/yy.php?id=1356043620
-#EXTINF:-1 logo="" group-title="YY連播" ,雯子：港剧
+#EXTINF:-1 group-title="YY連播" ,雯子：港剧
 http://172.168.1.254:5080/yy.php?id=1456829119
-#EXTINF:-1 logo="" group-title="YY連播" ,震撼！国内功夫大片
+#EXTINF:-1 group-title="YY連播" ,震撼！国内功夫大片
 http://172.168.1.254:5080/yy.php?id=1382736902
-#EXTINF:-1 logo="" group-title="YY連播" ,霹雳火：速度与激情
+#EXTINF:-1 group-title="YY連播" ,霹雳火：速度与激情
 http://172.168.1.254:5080/yy.php?id=1382736895
-#EXTINF:-1 logo="" group-title="YY連播" ,靓剑
+#EXTINF:-1 group-title="YY連播" ,靓剑
 http://172.168.1.254:5080/yy.php?id=1356043643
-#EXTINF:-1 logo="" group-title="YY連播" ,非常保镖-经典港剧
+#EXTINF:-1 group-title="YY連播" ,非常保镖-经典港剧
 http://172.168.1.254:5080/yy.php?id=1382736903
-#EXTINF:-1 logo="" group-title="YY連播" ,非诚勿扰
+#EXTINF:-1 group-title="YY連播" ,非诚勿扰
 http://172.168.1.254:5080/yy.php?id=1382735583
-#EXTINF:-1 logo="" group-title="YY連播" ,非诚勿扰
+#EXTINF:-1 group-title="YY連播" ,非诚勿扰
 http://172.168.1.254:5080/yy.php?id=1382745100
-#EXTINF:-1 logo="" group-title="YY連播" ,非诚勿扰
+#EXTINF:-1 group-title="YY連播" ,非诚勿扰
 http://172.168.1.254:5080/yy.php?id=1382745106
-#EXTINF:-1 logo="" group-title="YY連播" ,章子怡主演-浮生如梦
+#EXTINF:-1 group-title="YY連播" ,章子怡主演-浮生如梦
 http://172.168.1.254:5080/yy.php?id=1382735566
-#EXTINF:-1 logo="" group-title="YY連播" ,颜值永远在线
+#EXTINF:-1 group-title="YY連播" ,颜值永远在线
 http://172.168.1.254:5080/yy.php?id=1382851582
-#EXTINF:-1 logo="" group-title="YY連播" ,风味原产地潮汕
+#EXTINF:-1 group-title="YY連播" ,风味原产地潮汕
 http://172.168.1.254:5080/yy.php?id=1382745178
-#EXTINF:-1 logo="" group-title="YY連播" ,风筝
+#EXTINF:-1 group-title="YY連播" ,风筝
 http://172.168.1.254:5080/yy.php?id=1382828770
-#EXTINF:-1 logo="" group-title="YY連播" ,飓风营救
+#EXTINF:-1 group-title="YY連播" ,飓风营救
 http://172.168.1.254:5080/yy.php?id=1382735547
-#EXTINF:-1 logo="" group-title="YY連播" ,飞虎之潜行极战
+#EXTINF:-1 group-title="YY連播" ,飞虎之潜行极战
 http://172.168.1.254:5080/yy.php?id=1354932420
-#EXTINF:-1 logo="" group-title="YY連播" ,香港院线大片-最新
+#EXTINF:-1 group-title="YY連播" ,香港院线大片-最新
 http://172.168.1.254:5080/yy.php?id=1354936242
-#EXTINF:-1 logo="" group-title="YY連播" ,马丽主演戏剧片-东北虎
+#EXTINF:-1 group-title="YY連播" ,马丽主演戏剧片-东北虎
 http://172.168.1.254:5080/yy.php?id=1354936199
-#EXTINF:-1 logo="" group-title="YY連播" ,高分动作大片-热血出击
+#EXTINF:-1 group-title="YY連播" ,高分动作大片-热血出击
 http://172.168.1.254:5080/yy.php?id=1382736909
-#EXTINF:-1 logo="" group-title="YY連播" ,高分喜剧-横冲直撞出重围
+#EXTINF:-1 group-title="YY連播" ,高分喜剧-横冲直撞出重围
 http://172.168.1.254:5080/yy.php?id=1354936157
-#EXTINF:-1 logo="" group-title="YY連播" ,高分港剧合集
+#EXTINF:-1 group-title="YY連播" ,高分港剧合集
 http://172.168.1.254:5080/yy.php?id=1382735542
-#EXTINF:-1 logo="" group-title="YY連播" ,高分科幻动作片
+#EXTINF:-1 group-title="YY連播" ,高分科幻动作片
 http://172.168.1.254:5080/yy.php?id=1382749948
-#EXTINF:-1 logo="" group-title="YY連播" ,鬼片恐怖私家影院
+#EXTINF:-1 group-title="YY連播" ,鬼片恐怖私家影院
 http://172.168.1.254:5080/yy.php?id=1354209316
-#EXTINF:-1 logo="" group-title="YY連播" ,鬼经典老片
+#EXTINF:-1 group-title="YY連播" ,鬼经典老片
 http://172.168.1.254:5080/yy.php?id=1463783198
-#EXTINF:-1 logo="" group-title="YY連播" ,魔幻手机
+#EXTINF:-1 group-title="YY連播" ,魔幻手机
 http://172.168.1.254:5080/yy.php?id=1382735544
-#EXTINF:-1 logo="" group-title="YY連播" ,魔幻手机
+#EXTINF:-1 group-title="YY連播" ,魔幻手机
 http://172.168.1.254:5080/yy.php?id=1382851541
-#EXTINF:-1 logo="" group-title="YY連播" ,鱼美美隋唐英雄传
+#EXTINF:-1 group-title="YY連播" ,鱼美美隋唐英雄传
 http://172.168.1.254:5080/yy.php?id=1355102749
-#EXTINF:-1 logo="" group-title="YY連播" ,鲛珠传-奇幻之旅
+#EXTINF:-1 group-title="YY連播" ,鲛珠传-奇幻之旅
 http://172.168.1.254:5080/yy.php?id=1354936231
-#EXTINF:-1 logo="" group-title="YY連播" ,鸭子天空-翱翔于篮球的梦想
+#EXTINF:-1 group-title="YY連播" ,鸭子天空-翱翔于篮球的梦想
 http://172.168.1.254:5080/yy.php?id=1354930894
-#EXTINF:-1 logo="" group-title="YY連播" ,鹿鼎记-周星驰版
+#EXTINF:-1 group-title="YY連播" ,鹿鼎记-周星驰版
 http://172.168.1.254:5080/yy.php?id=1354658049
-#EXTINF:-1 logo="" group-title="YY連播" ,鹿鼎记-高清全集
+#EXTINF:-1 group-title="YY連播" ,鹿鼎记-高清全集
 http://172.168.1.254:5080/yy.php?id=1382704650
-#EXTINF:-1 logo="" group-title="YY連播" ,黄大妮-电视剧
+#EXTINF:-1 group-title="YY連播" ,黄大妮-电视剧
 http://172.168.1.254:5080/yy.php?id=1354930904
-#EXTINF:-1 logo="" group-title="YY連播" ,黑衣人1、2—动作喜剧大片
+#EXTINF:-1 group-title="YY連播" ,黑衣人1、2—动作喜剧大片
 http://172.168.1.254:5080/yy.php?id=1354930936
