@@ -52,10 +52,6 @@ https://fl30.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 https://fl30.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 group-title="World",DISCOVERY Science
 https://fl30.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="World",DISNEY CHANNEL
-https://fl30.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 group-title="World",DISNEY JR
-https://fl30.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 group-title="World",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="World",Eurosport 4K
@@ -182,32 +178,30 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="World",半島新聞
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 group-title="Sports",:Šport (1080p)
+#EXTINF:-1 group-title="Sports",:Šport
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Sports",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 group-title="Sports",4 Sport
 https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 1 (1080p)
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 1
 http://213.57.91.138:8000/play/a057
-#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 2 (1080p)
+#EXTINF:-1 group-title="Sports",Abu Dhabi Sports 2
 http://213.57.91.138:8000/play/a058
-#EXTINF:-1 group-title="Sports",Alkass Three (720p)
+#EXTINF:-1 group-title="Sports",Alkass Three
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Alkass Two (720p)
+#EXTINF:-1 group-title="Sports",Alkass Two
 https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Sports",AntenaSport (720p) [Not 24/7]
+#EXTINF:-1 group-title="Sports",AntenaSport [Not 24/7]
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
-#EXTINF:-1 group-title="Sports",CDN Deportes (720p)
+#EXTINF:-1 group-title="Sports",CDN Deportes
 http://200.125.170.122:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Sports",ColimdoT TV (720p)
+#EXTINF:-1 group-title="Sports",ColimdoT TV
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 group-title="Sports",ČT Sport (720p)
+#EXTINF:-1 group-title="Sports",ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 group-title="Sports",DirecTV Sports (1080p)
+#EXTINF:-1 group-title="Sports",DirecTV Sports
 http://38.183.182.166:8000/play/a125/index.m3u8
-#EXTINF:-1 group-title="Sports",Eleven Sports 1 (2160p)
-http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
 #EXTINF:-1 group-title="Sports",ELEVEN體育1
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 group-title="Sports",ELEVEN體育2
@@ -216,39 +210,39 @@ rtmp://f13h.mine.nu/sat/tv741
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 group-title="Sports",FanDuel Racing
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
-#EXTINF:-1 group-title="Sports",FanDuel TV (720p)
+#EXTINF:-1 group-title="Sports",FanDuel TV
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
-#EXTINF:-1 group-title="Sports",Futbol (1080p)
+#EXTINF:-1 group-title="Sports",Futbol
 https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 group-title="Sports",FUTV (1080p)
+#EXTINF:-1 group-title="Sports",FUTV
 https://live20.bozztv.com/akamaissh101/ssh101/livefutvcr/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Game+ (720p)
+#EXTINF:-1 group-title="Sports",Game+
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",GEM Fit
 https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemfit/index-0.m3u8
-#EXTINF:-1 group-title="Sports",Geo Super (1080p)
+#EXTINF:-1 group-title="Sports",Geo Super
 http://116.90.120.149:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="Sports",Gol Peru (1080p)
+#EXTINF:-1 group-title="Sports",Gol Peru
 http://38.183.182.166:8000/play/a120/index.m3u8
-#EXTINF:-1 group-title="Sports",Horse TV (720p)
+#EXTINF:-1 group-title="Sports",Horse TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",KHL Prime
 http://194.143.148.28:8080/KHL_HD/index.m3u8
-#EXTINF:-1 group-title="Sports",L1 Max (1080p)
+#EXTINF:-1 group-title="Sports",L1 Max
 http://38.183.182.166:8000/play/a12t/index.m3u8
-#EXTINF:-1 group-title="Sports",M-Net Sport (720p)
+#EXTINF:-1 group-title="Sports",M-Net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 group-title="Sports",MadeinBO TV (1080p)
+#EXTINF:-1 group-title="Sports",MadeinBO TV
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 group-title="Sports",NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 #EXTINF:-1 group-title="Sports",NBA TV
 https://stream1.freetv.fun/nba-tv-3.ctv
-#EXTINF:-1 group-title="Sports",NBC Sports Bay Area (720p) [Not 24/7]
+#EXTINF:-1 group-title="Sports",NBC Sports Bay Area [Not 24/7]
 https://tvpass.org/live/nbc-sports-bay-area/hd
-#EXTINF:-1 group-title="Sports",NBC Sports Boston (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Sports",NBC Sports Boston [Not 24/7]
 https://tvpass.org/live/nbc-sports-boston/hd
-#EXTINF:-1 group-title="Sports",Ovacion TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="Sports",Ovacion TV [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
@@ -256,21 +250,21 @@ https://fighthls.persiana.live/hls/stream.m3u8
 http://187.120.222.37:721
 #EXTINF:-1 group-title="Sports",PRO Sport International
 https://proshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Sports",RightNow TV (720p)
+#EXTINF:-1 group-title="Sports",RightNow TV
 https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Solh Sports
 https://wo.cma.footballii.ir/hls2/solh.m3u8
-#EXTINF:-1 group-title="Sports",SportsNet New York (540p)
+#EXTINF:-1 group-title="Sports",SportsNet New York
 https://fl7.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 group-title="Sports",Star Sports 1 Hindi HD (1080p)
+#EXTINF:-1 group-title="Sports",Star Sports 1 Hindi HD
 http://116.90.120.149:8000/play/a0bv/index.m3u8
-#EXTINF:-1 group-title="Sports",Star Sports 2 Hindi (1080p)
+#EXTINF:-1 group-title="Sports",Star Sports 2 Hindi
 http://116.90.120.149:8000/play/a0cs/index.m3u8
-#EXTINF:-1 group-title="Sports",Star Sports Select 1 HD (1080p)
+#EXTINF:-1 group-title="Sports",Star Sports Select 1 HD
 http://116.90.120.149:8000/play/a0cl/index.m3u8
-#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD (1080p)
+#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
 http://116.90.120.149:8000/play/a0cm/index.m3u8
-#EXTINF:-1 group-title="Sports",TDM Sports Ch. 93 (720p)
+#EXTINF:-1 group-title="Sports",TDM Sports Ch. 93
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="Sports",VITAL Basketball [Not 24/7]
 https://vslive.pw/stream/48684/index.m3u8
@@ -282,19 +276,19 @@ https://vslive.pw/stream/48685/index.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kids",4 Fun Kids (576i) [[Not 24/7]]
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
-#EXTINF:-1 group-title="Kids",ABC Entertains (720p)
+#EXTINF:-1 group-title="Kids",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 group-title="Kids",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 group-title="Kids",ADN TV+
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-#EXTINF:-1 group-title="Kids",Afarin Baxcha (1080p)
+#EXTINF:-1 group-title="Kids",Afarin Baxcha
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Afarin TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="Kids",Afarin TV [Not 24/7]
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Aghapy Kids (1080p)
+#EXTINF:-1 group-title="Kids",Aghapy Kids
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Amou Yazid TV (576p)
+#EXTINF:-1 group-title="Kids",Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Angela Anaconda
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e73687fcd580007d1f052/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28121508-e373-4b45-8f21-c48bbc48ecda
@@ -302,13 +296,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Anime All Day
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
-#EXTINF:-1 group-title="Kids",Anime Vision (1080p)
+#EXTINF:-1 group-title="Kids",Anime Vision
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1 group-title="Kids",Anime Vision Classics (1080p)
+#EXTINF:-1 group-title="Kids",Anime Vision Classics
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 group-title="Kids",ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 group-title="Kids",Atfal & Mawaheb TV (1080p)
+#EXTINF:-1 group-title="Kids",Atfal & Mawaheb TV
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Avatar
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca060-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c480aed6-08b6-4f7d-9964-40220005ecb8
@@ -316,7 +310,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5690-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f0f2f9f0-a766-421f-b28e-f13232bf4b9f
 #EXTINF:-1 group-title="Kids",Avatar
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4c17a81e29300071d3a39/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=640a4092-5016-4d01-bcbf-d66e4f7aa21d
-#EXTINF:-1 group-title="Kids",Baby Shark TV (720p)
+#EXTINF:-1 group-title="Kids",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Baby Shark TV
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
@@ -326,73 +320,77 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 group-title="Kids",Bebecito Bum y sus amigos
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85e80dc7-d7c2-49ee-b346-20b976b1db9b
-#EXTINF:-1 group-title="Kids",BeJoy.kids (1080p)
+#EXTINF:-1 group-title="Kids",BeJoy.kids
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Big Time Rush
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663385cd06839f0008e00e93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b885ec0-86a3-4a1e-b3cb-90a1f041ddf9
-#EXTINF:-1 group-title="Kids",Biznet Kids (1080p)
+#EXTINF:-1 group-title="Kids",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
 #EXTINF:-1 group-title="Kids",Blues TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Bravo! Kids TV (1080p)
+#EXTINF:-1 group-title="Kids",Bravo! Kids TV
 https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
-#EXTINF:-1 group-title="Kids",Camp Spoopy (576p)
+#EXTINF:-1 group-title="Kids",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 group-title="Kids",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
-#EXTINF:-1 group-title="Kids",Chinola TV (480p)
+#EXTINF:-1 group-title="Kids",Chinola TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#EXTINF:-1 group-title="Kids",Christian Youth Channel (CYC) (1080p)
+#EXTINF:-1 group-title="Kids",Christian Youth Channel
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Chutti TV (576p)
+#EXTINF:-1 group-title="Kids",Chutti TV
 http://87.255.35.150:18855/
-#EXTINF:-1 group-title="Kids",Clan (1280p)
+#EXTINF:-1 group-title="Kids",Clan
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
-#EXTINF:-1 group-title="Kids",ČT:D/ČT art (1080p)
+#EXTINF:-1 group-title="Kids",ČT:D/ČT art
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Dios Te Ve Kids (720p)
+#EXTINF:-1 group-title="Kids",Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 group-title="Kids",Disney Channel (1080p)
+#EXTINF:-1 group-title="Kids",Disney Channel
+https://fl30.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 group-title="Kids",Disney Channel
 http://185.236.229.62:9981/play/a07d
-#EXTINF:-1 group-title="Kids",Disney Channel (360p)
+#EXTINF:-1 group-title="Kids",Disney Channel
 https://e5.thetvapp.to/hls/DisneyChannelEast/index.m3u8
-#EXTINF:-1 group-title="Kids",Disney Channel (576p) [Not 24/7]
+#EXTINF:-1 group-title="Kids",Disney Channel
 http://116.90.120.149:8000/play/a0bx/index.m3u8
-#EXTINF:-1 group-title="Kids",Disney Channel (576p)
+#EXTINF:-1 group-title="Kids",Disney Channel
 http://84.54.128.52:9090/play/3006/index.m3u8
-#EXTINF:-1 group-title="Kids",Disney Channel Latin America (1080p)
+#EXTINF:-1 group-title="Kids",Disney Channel Latin America
 http://201.230.121.186:8000/play/a0fb/index.m3u8
-#EXTINF:-1 group-title="Kids",Disney International HD (1080p)
+#EXTINF:-1 group-title="Kids",Disney International HD
 http://116.90.120.149:8000/play/a0e9/index.m3u8
-#EXTINF:-1 group-title="Kids",Disney Jr. Latin America South (480p)
+#EXTINF:-1 group-title="Kids",Disney Jr. Latin America South
 http://38.183.182.166:8000/play/a0j9/index.m3u8
-#EXTINF:-1 group-title="Kids",Disney Junior (576p)
+#EXTINF:-1 group-title="Kids",Disney Junior
 http://116.90.120.149:8000/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="Kids",Disney Junior
+https://fl30.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="Kids",Disney Junior
+http://185.236.229.62:9981/play/a06n
 #EXTINF:-1 group-title="Kids",Disney Junior East
 https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://www.lysvc.cc/TVlogo/img/Disney2.png",Disney Junior
-http://185.236.229.62:9981/play/a06n
-#EXTINF:-1 group-title="Kids",Disney XD (576p)
+#EXTINF:-1 group-title="Kids",Disney XD
 http://185.236.229.62:9981/play/a07c
 #EXTINF:-1 group-title="Kids",Dora TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050350-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c938e920-2111-4877-9e36-97d7a0a0d005
 #EXTINF:-1 group-title="Kids",Dora TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e951258a26d40007b3034c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0687-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=697806d6-afc8-4125-a899-6ef54b8526fc
-#EXTINF:-1 group-title="Kids",ducktv (720p)
+#EXTINF:-1 group-title="Kids",Ducktv
 https://jmp2.uk/stvp-ESBC4700001GR
-#EXTINF:-1 group-title="Kids",Duronto TV (720p)
+#EXTINF:-1 group-title="Kids",Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 group-title="Kids",EBS kids (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Kids",EnerGeek (720p) [Not 24/7]
+#EXTINF:-1 group-title="Kids",EnerGeek [Not 24/7]
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 group-title="Kids",ETV2 (720p)
+#EXTINF:-1 group-title="Kids",ETV2
 https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 group-title="Kids",Extrema Kids TV [Not 24/7]
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Garfield and Friends
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f176-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68c3c9ce-0e68-43fa-ade2-43491d9d88e2
-#EXTINF:-1 group-title="Kids",Geekdot (720p)
+#EXTINF:-1 group-title="Kids",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 group-title="Kids",GEM Junior
 https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemjunior/index-0.m3u8
@@ -400,37 +398,37 @@ https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.a
 https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemkids/index-0.m3u8
 #EXTINF:-1 group-title="Kids",Golden Eagle Cartoon
 http://1.24.190.98:10080/hls/51/index.m3u8
-#EXTINF:-1 group-title="Kids",Gubbare (1080p)
+#EXTINF:-1 group-title="Kids",Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-#EXTINF:-1 group-title="Kids",Hungama TV (576p)
+#EXTINF:-1 group-title="Kids",Hungama TV
 http://87.255.35.150:18811/
-#EXTINF:-1 group-title="Kids",Iunior TV (1080p)
+#EXTINF:-1 group-title="Kids",Iunior TV
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
-#EXTINF:-1 group-title="Kids",Japanim TV (1080p)
+#EXTINF:-1 group-title="Kids",Japanim TV
 https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:-1 group-title="Kids",Kanade (1080p)
+#EXTINF:-1 group-title="Kids",Kanade
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 group-title="Kids",Kartoon Channel (1080p)
+#EXTINF:-1 group-title="Kids",Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Ketchup TV (720p)
+#EXTINF:-1 group-title="Kids",Ketchup TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
 #EXTINF:-1 group-title="Kids",Kids TV
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
-#EXTINF:-1 group-title="Kids",Kochu TV (576p)
+#EXTINF:-1 group-title="Kids",Kochu TV
 http://87.255.35.150:18212
 #EXTINF:-1 group-title="Kids",LEGO Kids TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536
-#EXTINF:-1 group-title="Kids",Logos TV Kids (720p) [Not 24/7]
+#EXTINF:-1 group-title="Kids",Logos TV Kids [Not 24/7]
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:-1 group-title="Kids",M-Net Kids (720p)
+#EXTINF:-1 group-title="Kids",M-Net Kids
 http://ares.mnet.mk/hls/mnet-kids.m3u8
 #EXTINF:-1 group-title="Kids",Magic Kids (486p)
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 group-title="Kids",MCN6 Music Channel (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Kids",MCN6 Music Channel [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-#EXTINF:-1 group-title="Kids",Minimax (576p) (576p)
+#EXTINF:-1 group-title="Kids",Minimax
 http://88.212.15.19/live/test_minimax/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Moonbug Kids (1080p)
+#EXTINF:-1 group-title="Kids",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Movies for Gamers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0
@@ -438,27 +436,27 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642be2939189ce0008916c21/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f03-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f83fe69-e624-47e7-9e5e-670cb73840f2
 #EXTINF:-1 group-title="Kids",Nei Monggol TV Children Channel
 http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
-#EXTINF:-1 group-title="Kids",Nick Jr. East (720p)
+#EXTINF:-1 group-title="Kids",Nick Jr. East
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 group-title="Kids",Nick Jr. Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb75c3afd1200079146a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f07-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08e1ba5b-febb-444b-927d-f017f608e57e
 #EXTINF:-1 group-title="Kids",Nick Pluto TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&profilesFromStream=true&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291
-#EXTINF:-1 group-title="Kids",Nickelodeon (576p)
+#EXTINF:-1 group-title="Kids",Nickelodeon
 http://185.236.229.62:9981/play/a067
-#EXTINF:-1 group-title="Kids",Nickelodeon (576p)
+#EXTINF:-1 group-title="Kids",Nickelodeon
 http://195.64.140.147:10121/121
 #EXTINF:-1 group-title="Kids",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Kids",Nicktoons (576p)
+#EXTINF:-1 group-title="Kids",Nicktoons
 http://94.232.127.28:8080/nicktoons/index.m3u8
 #EXTINF:-1 group-title="Kids",NickToons
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
 #EXTINF:-1 group-title="Kids",One Piece
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6380c94947c72b0007ee9a13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d815-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=011422f0-e50a-4334-9bb5-b01fe7684ef5
-#EXTINF:-1 group-title="Kids",PBS Kids Eastern/Central (720p)
+#EXTINF:-1 group-title="Kids",PBS Kids Eastern/Central
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 group-title="Kids",PBS Kids Pacific (1080p)
+#EXTINF:-1 group-title="Kids",PBS Kids Pacific
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 #EXTINF:-1 group-title="Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
@@ -476,55 +474,55 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c8-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3784c13-5aeb-4c18-bd31-9334376945c6
 #EXTINF:-1 group-title="Kids",Pluto TV Rugrats Crecidos (240p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="Kids",Pluto TV Turma da Mônica (720p)
+#EXTINF:-1 group-title="Kids",Pluto TV Turma da Mônica
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Kids",Pokémon
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
 #EXTINF:-1 group-title="Kids",Polsat JimJam
 http://185.236.229.62:9981/play/a07e
-#EXTINF:-1 group-title="Kids",RiC (1080p)
+#EXTINF:-1 group-title="Kids",RiC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Sabrina la série animée
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e78c4954f250007ef7b84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d91f8235-755b-4e9c-8062-05d444de314d
-#EXTINF:-1 group-title="Kids",Sat 7 Kids (1080p)
+#EXTINF:-1 group-title="Kids",Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Kids",SKWAD (1080p)
+#EXTINF:-1 group-title="Kids",SKWAD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 #EXTINF:-1 group-title="Kids",Smile TV (360p) [Geo-blocked]
 https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Sonic (576p)
+#EXTINF:-1 group-title="Kids",Sonic
 http://116.90.120.149:8000/play/a0cc/index.m3u8
 #EXTINF:-1 group-title="Kids",STS kids
 http://31.148.48.15/STS_Kids_HD/index.m3u8
-#EXTINF:-1 group-title="Kids",Super! Brothers and Sisters Italy (720p)
+#EXTINF:-1 group-title="Kids",Super! Brothers and Sisters Italy
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Kids",Super! iCarly Italy (720p)
+#EXTINF:-1 group-title="Kids",Super! iCarly Italy
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Kids",Super! Pop Italy (720p)
+#EXTINF:-1 group-title="Kids",Super! Pop Italy
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Kids",Taha TV
 https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Team Spirit
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2b8fbc7f-29d9-4732-92d1-24f50c0be761
-#EXTINF:-1 group-title="Kids",Tiguerito TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="Kids",Tiguerito TV [Not 24/7]
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 group-title="Kids",TV Bahoriston (1080p)
+#EXTINF:-1 group-title="Kids",TV Bahoriston
 https://live.teleradiocom.tj/3/3m.m3u8
-#EXTINF:-1 group-title="Kids",TVCARiB Kids & Teens (720p) [Not 24/7]
+#EXTINF:-1 group-title="Kids",TVCARiB Kids & Teens [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
-#EXTINF:-1 group-title="Kids",TVS Hi Tops (720p)
+#EXTINF:-1 group-title="Kids",TVS Hi Tops
 https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
-#EXTINF:-1 group-title="Kids",XilamTV (1080p)
+#EXTINF:-1 group-title="Kids",XilamTV
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Kids",YAAAS! (720p) [Geo-blocked]
+#EXTINF:-1 group-title="Kids",YAAAS! [Geo-blocked]
 https://jmp2.uk/stvp-GB340000289
 #EXTINF:-1 group-title="Kids",Yu-Gi-Oh!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21d081-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ca5a27f-794c-41ee-b51a-6fbe1b093d0b
-#EXTINF:-1 group-title="Kids",ZB Cartoon (1080p)
+#EXTINF:-1 group-title="Kids",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 group-title="Kids",Zoo Moo (Australia) (1080p)
+#EXTINF:-1 group-title="Kids",Zoo Moo (Australia)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Карусель International
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
@@ -554,8 +552,6 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
 #EXTINF:-1 group-title="臺灣",CHU
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
-#EXTINF:-1 group-title="臺灣",ELEVEN體育1
-https://stream1.freetv.fun/eltaai-er-da-ti-yu--1--wj-1.ctv
 #EXTINF:-1 group-title="臺灣",MOMO TV
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 group-title="臺灣",TVBS亞洲
