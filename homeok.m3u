@@ -805,21 +805,25 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/
 #EXTINF:-1 group-title="中國官媒",CCTV1
 http://172.168.1.254:5080/migu720p.php?id=608807420
 #EXTINF:-1 group-title="中國官媒",CCTV1
+http://172.168.1.254:5080/cctvnewsapp.php?id=cctv1
+#EXTINF:-1 group-title="中國官媒",CCTV1
 http://112.132.10.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV1
 http://112.27.235.94:8000/hls/1/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV1
 http://112.46.105.20:8009/hls/501/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV2
-http://172.168.1.254:5080/cctvnewsapp.php?id=cctv2
-#EXTINF:-1 group-title="中國官媒",CCTV2
 http://172.168.1.254:5080/migu720p.php?id=631780532
+#EXTINF:-1 group-title="中國官媒",CCTV2
+http://172.168.1.254:5080/cctvnewsapp.php?id=cctv2
 #EXTINF:-1 group-title="中國官媒",CCTV2
 http://112.132.10.54:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV2
 http://112.27.235.94:8000/hls/2/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV2
 http://112.46.105.20:8009/hls/502/index.m3u8
+#EXTINF:-1 group-title="中國官媒",CCTV3
+http://172.168.1.254:5080/migu720p.php?id=624878271
 #EXTINF:-1 group-title="中國官媒",CCTV3
 http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV3
@@ -829,9 +833,9 @@ http://112.46.105.20:8009/hls/3/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV3
 http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV4
-http://172.168.1.254:5080/cctvnewsapp.php?id=cctv4
-#EXTINF:-1 group-title="中國官媒",CCTV4
 http://172.168.1.254:5080/migu720p.php?id=631780421
+#EXTINF:-1 group-title="中國官媒",CCTV4
+http://172.168.1.254:5080/cctvnewsapp.php?id=cctv4
 #EXTINF:-1 group-title="中國官媒",CCTV4
 http://112.132.10.54:9901/tsfile/live/0004_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV4
@@ -853,7 +857,11 @@ http://112.27.235.94:8000/hls/5/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV5
 http://112.46.105.20:8009/hls/503/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV5+
+http://172.168.1.254:5080/migu720p.php?id=641886773
+#EXTINF:-1 group-title="中國官媒",CCTV5+
 http://112.27.235.94:8000/hls/6/index.m3u8
+#EXTINF:-1 group-title="中國官媒",CCTV6
+http://172.168.1.254:5080/migu720p.php?id=624878396
 #EXTINF:-1 group-title="中國官媒",CCTV6
 http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV6
@@ -861,11 +869,15 @@ http://112.27.235.94:8000/hls/7/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV7
 http://172.168.1.254:5080/migu720p.php?id=673168121
 #EXTINF:-1 group-title="中國官媒",CCTV7
+http://172.168.1.254:5080/cctvnewsapp.php?id=cctv7
+#EXTINF:-1 group-title="中國官媒",CCTV7
 http://112.132.10.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV7
 http://112.27.235.94:8000/hls/8/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV7
 http://112.46.105.20:8009/hls/504/index.m3u8
+#EXTINF:-1 group-title="中國官媒",CCTV8
+http://172.168.1.254:5080/migu720p.php?id=624878356
 #EXTINF:-1 group-title="中國官媒",CCTV8
 http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV8
@@ -874,6 +886,10 @@ http://112.27.235.94:8000/hls/9/index.m3u8
 http://112.46.105.20:8009/hls/8/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV8
 http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="中國官媒",CCTV9
+http://172.168.1.254:5080/migu720p.php?id=673168140
+#EXTINF:-1 group-title="中國官媒",CCTV9
+http://172.168.1.254:5080/cctvnewsapp.php?id=cctv9
 #EXTINF:-1 group-title="中國官媒",CCTV9
 http://112.132.10.54:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV9
@@ -884,6 +900,8 @@ http://112.46.105.20:8009/hls/509/index.m3u8
 http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV10
 http://172.168.1.254:5080/migu720p.php?id=624878405
+#EXTINF:-1 group-title="中國官媒",CCTV10
+http://172.168.1.254:5080/cctvnewsapp.php?id=cctv10
 #EXTINF:-1 group-title="中國官媒",CCTV10
 http://112.132.10.54:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV10
@@ -901,6 +919,10 @@ http://112.27.235.94:8000/hls/12/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV11
 http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV12
+http://172.168.1.254:5080/migu720p.php?id=673168185
+#EXTINF:-1 group-title="中國官媒",CCTV12
+http://172.168.1.254:5080/cctvnewsapp.php?id=cctv12
+#EXTINF:-1 group-title="中國官媒",CCTV12
 http://112.132.10.54:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV12
 http://112.27.235.94:8000/hls/13/index.m3u8
@@ -909,9 +931,15 @@ http://112.46.105.20:8009/hls/507/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV12
 http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV13
+http://172.168.1.254:5080/migu720p.php?id=608807423
+#EXTINF:-1 group-title="中國官媒",CCTV13
+http://172.168.1.254:5080/cctvnewsapp.php?id=cctv13
+#EXTINF:-1 group-title="中國官媒",CCTV13
 http://112.27.235.94:8000/hls/14/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV13
 http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="中國官媒",CCTV14
+http://172.168.1.254:5080/migu720p.php?id=624878440
 #EXTINF:-1 group-title="中國官媒",CCTV14
 http://112.132.10.54:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV14
@@ -919,11 +947,19 @@ http://112.27.235.94:8000/hls/15/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV14
 http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV15
+http://172.168.1.254:5080/migu720p.php?id=673168223
+#EXTINF:-1 group-title="中國官媒",CCTV15
 http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV15
 http://112.27.235.94:8000/hls/16/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV15
 http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="中國官媒",CCTV17
+http://172.168.1.254:5080/migu720p.php?id=673168256
+#EXTINF:-1 group-title="中國官媒",CCTV17
+http://172.168.1.254:5080/cctvnewsapp.php?id=cctv17
+#EXTINF:-1 group-title="中國官媒",CCTV-4k
+http://172.168.1.254:5080/cctvnewsapp.php?id=cctv4k
 #EXTINF:-1 group-title="中國官媒",CCTV世界地理
 http://111.61.236.247:9081/hls/62/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV世界地理
@@ -1003,7 +1039,11 @@ http://112.27.235.94:8000/hls/45/index.m3u8
 #EXTINF:-1 group-title="中國衛視",山西衛視
 http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國衛視",廣東衛視
+http://172.168.1.254:5080/migu720p.php?id=608831231
+#EXTINF:-1 group-title="中國衛視",廣東衛視
 http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
+#EXTINF:-1 group-title="中國衛視",東南衛視
+http://172.168.1.254:5080/migu720p.php?id=849116810
 #EXTINF:-1 group-title="中國衛視",東南衛視
 http://112.27.235.94:8000/hls/38/index.m3u8
 #EXTINF:-1 group-title="中國衛視",東南衛視
@@ -1012,6 +1052,8 @@ http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
 #EXTINF:-1 group-title="中國衛視",東南衛視
 http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 group-title="中國衛視",東方衛視
+http://172.168.1.254:5080/migu720p.php?id=651632648
 #EXTINF:-1 group-title="中國衛視",東方衛視
 http://153.0.171.163:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國衛視",東方衛視
