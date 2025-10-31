@@ -642,6 +642,10 @@ http://php.jdshipin.com/smt.php?id=Aodhd
 http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 group-title="中國港澳",CCTV1港澳版
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+#EXTINF:-1 group-title="中國港澳",HOY76
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 group-title="中國港澳",HOY77
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY77
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY77
@@ -650,6 +654,8 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="中國港澳",HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="中國港澳",HOY78
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 group-title="中國港澳",NOW新聞
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",NOW新聞
