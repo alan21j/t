@@ -642,10 +642,6 @@ http://php.jdshipin.com/smt.php?id=Aodhd
 http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 group-title="中國港澳",CCTV1港澳版
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
-#EXTINF:-1 group-title="中國港澳",HOY74
-https://hoytv-live-stream.hoy.tv/ch74/index-fhd.m3u8
-#EXTINF:-1 group-title="中國港澳",HOY75
-https://hoytv-live-stream.hoy.tv/ch75/index-fhd.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY76
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY77
