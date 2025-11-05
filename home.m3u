@@ -1252,8 +1252,6 @@ http://111.196.133.168:8012/rtp/239.3.1.164:8001
 rtmp://f13h.mine.nu:1935/sat/tv721
 #EXTINF:-1 group-title="華文體育",緯來體育
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 group-title="華文體育",緯來體育
-http://zb.xmzb.xyz/123.php?id=⚽馬上oppppp一緯來體育
 #EXTINF:-1 group-title="華文體育",風雲足球
 http://183.11.239.36:808/hls/133/index.m3u8
 #EXTINF:-1 group-title="華文體育",風雲足球
