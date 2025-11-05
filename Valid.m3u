@@ -975,12 +975,6 @@ https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 
 #EXTINF:-1 group-title="華文體育" ,五星體育
 http://172.168.1.254:5080/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
-#EXTINF:-1 group-title="華文體育" ,五星體育
-http://i.iill.top:12838/sh/wxty
-#EXTINF:-1 group-title="華文體育" ,五星體育
-https://migu.188766.xyz/?migutoken=60b58d0ddca033294fc224b9549608c7&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
-#EXTINF:-1 group-title="華文體育" ,五星體育
-https://stream1.freetv.fun/wu-xing-ti-yu-8.m3u8
 #EXTINF:-1 group-title="華文體育" ,勁爆體育
 http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="華文體育" ,勁爆體育
@@ -988,15 +982,11 @@ http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
 #EXTINF:-1 group-title="華文體育" ,勁爆體育
 http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="華文體育" ,央視撞球
-http://183.11.239.36:808/hls/73/index.m3u8
-#EXTINF:-1 group-title="華文體育" ,央視撞球
 http://sh.lnott.top:880/dx82.m3u8
 #EXTINF:-1 group-title="華文體育" ,廣東體育
 http://172.168.1.254:5080/mytv.php?url=http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
 #EXTINF:-1 group-title="華文體育" ,廣東體育
 http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
-#EXTINF:-1 group-title="華文體育" ,廣東體育
-http://183.11.239.36:808/hls/2/index.m3u8
 #EXTINF:-1 group-title="華文體育" ,廣東體育
 http://pa.kuangdeng.top:8081/hls/68/index.m3u8
 #EXTINF:-1 group-title="華文體育" ,廣東體育
