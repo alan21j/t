@@ -645,8 +645,6 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/
 #EXTINF:-1 group-title="中國港澳",HOY76
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY77
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 group-title="中國港澳",HOY77
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY77
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
@@ -654,6 +652,8 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="中國港澳",HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 group-title="中國港澳",HOY77
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY78
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 group-title="中國港澳",NOW新聞
@@ -705,7 +705,13 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/
 #EXTINF:-1 group-title="中國港澳",TVB 無線新聞
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="中國港澳",TVB 無線新聞
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 group-title="中國港澳",TVB 無線新聞
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 group-title="中國港澳",TVB 無線新聞
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+#EXTINF:-1 group-title="中國港澳",TVB 無線新聞
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 #EXTINF:-1 group-title="中國港澳",TVB 無線新聞
 https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 group-title="中國港澳",TVB 無線華麗
@@ -717,11 +723,21 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/
 #EXTINF:-1 group-title="中國港澳",TVB 翡翠台
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",TVB 翡翠台
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 group-title="中國港澳",TVB 翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 group-title="中國港澳",TVB 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 group-title="中國港澳",TVB 翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
+#EXTINF:-1 group-title="中國港澳",TVB 翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="中國港澳",TVB 翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 group-title="中國港澳",TVB 翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="中國港澳",TVB 翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 group-title="中國港澳",TVB 翡翠台4K
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",TVB1
@@ -730,6 +746,8 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",ViuTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 group-title="中國港澳",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 group-title="中國港澳",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 group-title="中國港澳",ViuTVSix
@@ -741,15 +759,13 @@ http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:-1 group-title="中國港澳",星空衛視
 http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 #EXTINF:-1 group-title="中國港澳",澳視澳門
-http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
-#EXTINF:-1 group-title="中國港澳",澳視澳門
 http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="中國港澳",澳視澳門
-http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
-#EXTINF:-1 group-title="中國港澳",澳視澳門
-http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",澳視澳門
 http://php.jdshipin.com/PLTV/iptv.php?id=asam
+#EXTINF:-1 group-title="中國港澳",澳視澳門
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 group-title="中國港澳",澳視澳門
 https://fenghuang.tv12.xyz/181.m3u8
 #EXTINF:-1 group-title="中國港澳",澳視綜藝
@@ -763,9 +779,11 @@ http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
 #EXTINF:-1 group-title="中國港澳",澳視葡語
 https://fenghuang.tv12.xyz/182.m3u8
 #EXTINF:-1 group-title="中國港澳",澳視衛星
+http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="中國港澳",澳視衛星
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",澳視衛星
-http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 group-title="中國港澳",澳視衛星
 https://fenghuang.tv12.xyz/183.m3u8
 #EXTINF:-1 group-title="中國港澳",澳視資訊
@@ -798,16 +816,24 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1 group-title="中國港澳",鳳凰中文
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
-#EXTINF:-1 group-title="中國港澳",鳳凰衛視
+#EXTINF:-1 group-title="中國港澳",鳳凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="中國港澳",鳳凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 #EXTINF:-1 group-title="中國港澳",鳳凰資訊
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",鳳凰資訊
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="中國港澳",鳳凰資訊
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 #EXTINF:-1 group-title="中國港澳",鳳凰電影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #EXTINF:-1 group-title="中國港澳",鳳凰香港
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+#EXTINF:-1 group-title="中國港澳",鳳凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="中國港澳",鳳凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 group-title="中國官媒",CCTV1
 http://172.168.1.254:5080/migu720p.php?id=608807420
 #EXTINF:-1 group-title="中國官媒",CCTV1
