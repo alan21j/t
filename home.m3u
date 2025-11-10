@@ -546,12 +546,18 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 group-title="Kids",韓國EBS兒童
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="臺灣",CH5
+#EXTINF:-1 group-title="臺灣",Channel 5
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
-#EXTINF:-1 group-title="臺灣",CH8
+#EXTINF:-1 group-title="臺灣",Channel 5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 group-title="臺灣",Channel 8
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
-#EXTINF:-1 group-title="臺灣",CHU
+#EXTINF:-1 group-title="臺灣",Channel 8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 group-title="臺灣",Channel U
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+#EXTINF:-1 group-title="臺灣",Channel U
+http://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 group-title="臺灣",MOMO TV
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 group-title="臺灣",TVBS亞洲
@@ -574,6 +580,8 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 group-title="臺灣",八度空間
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+#EXTINF:-1 group-title="臺灣",八度空間
+http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 group-title="臺灣",台視
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 group-title="臺灣",台視新聞
@@ -1298,6 +1306,10 @@ https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 #EXTINF:-1 group-title="華文體育",五星體育
 http://172.168.1.254:5080/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
+#EXTINF:-1 group-title="華文體育",五星體育
+https://cdn3.163189.xyz/163189/wxty
+#EXTINF:-1 group-title="華文體育",五星體育
+http://i.iill.top:12838/sh/wxty
 #EXTINF:-1 group-title="華文體育",勁爆體育
 http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="華文體育",勁爆體育
@@ -1318,6 +1330,8 @@ http://183.11.239.36:808/hls/2/index.m3u8
 http://pa.kuangdeng.top:8081/hls/68/index.m3u8
 #EXTINF:-1 group-title="華文體育",廣東體育
 https://stream1.freetv.fun/yan-dong-ti-yu-29.ctv
+#EXTINF:-1 group-title="華文體育",廣東體育
+http://r.jdshipin.com/LiYdg
 #EXTINF:-1 group-title="華文體育",快樂釣魚
 http://111.196.133.168:8012/rtp/239.3.1.164:8001
 #EXTINF:-1 group-title="華文體育",緯來體育
