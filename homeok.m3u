@@ -11,9 +11,19 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="World",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 group-title="World",BBC News
+https://l.lioncdn.net/BBC-News/index.m3u8
+#EXTINF:-1 group-title="World",BBC News
 https://jmp2.uk/stvp-US4000033L
 #EXTINF:-1 group-title="World",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="World",BBC One
+https://l.lioncdn.net/BBC-1/index.m3u8
+#EXTINF:-1 group-title="World",BBC Two
+https://l.lioncdn.net/BBC-2/index.m3u8
+#EXTINF:-1 group-title="World",BBC Three
+https://l.lioncdn.net/BBC-Three/index.m3u8
+#EXTINF:-1 group-title="World",BBC FOUR
+https://l.lioncdn.net/BBC-FOUR/index.m3u8
 #EXTINF:-1 group-title="World",BET HER
 https://fl30.moveonjoy.com/BET_HER/index.m3u8
 #EXTINF:-1 group-title="World",BET
@@ -26,16 +36,20 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 https://fl30.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 group-title="World",Buzzr
 https://fl30.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1 group-title="World",CARTOON NETWORK
+#EXTINF:-1 group-title="World",Cartoon Network
+https://l.lioncdn.net/UK-Cartoon-Network/index.m3u8
+#EXTINF:-1 group-title="World",Cartoon Network
 https://fl30.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="World",Cheddar News
 https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
-#EXTINF:-1 group-title="World",CINEMAX MOREMAX
+#EXTINF:-1 group-title="World",Cinemax Moremax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 group-title="World",CMT
 https://fl30.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 group-title="World",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="World",CNBC
+https://l.lioncdn.net/CNBC/index.m3u8
 #EXTINF:-1 group-title="World",CNBC
 https://fl30.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="World",CNN
@@ -46,11 +60,15 @@ https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/
 https://fl30.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="World",Crave 3
 http://fortv.cc:8080/q8KuDU/354945/57322
-#EXTINF:-1 group-title="World",DISCOVERY FAMILY CHANNEL
+#EXTINF:-1 group-title="World",Discovery
+https://l.lioncdn.net/Discovery-Channel/index.m3u8
+#EXTINF:-1 group-title="World",Discovery Family
 https://fl30.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="World",DISCOVERY LIFE
+#EXTINF:-1 group-title="World",Discovery Life
+https://l.lioncdn.net/Discovery-Life/index.m3u8
+#EXTINF:-1 group-title="World",Discovery Life
 https://fl30.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 group-title="World",DISCOVERY Science
+#EXTINF:-1 group-title="World",Discovery Science
 https://fl30.moveonjoy.com/Discovery_Science/index.m3u8
 #EXTINF:-1 group-title="World",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
@@ -62,7 +80,9 @@ http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="World",FOOD NETWORK
 https://fl30.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 group-title="World",FOX News Channel
+#EXTINF:-1 group-title="World",FOX News
+https://l.lioncdn.net/FOX-NEWS/index.m3u8
+#EXTINF:-1 group-title="World",FOX News
 https://fl30.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="World",FoxBusiness
 http://41.205.93.154/FOXBUSINESS/index.m3u8
@@ -78,6 +98,14 @@ https://fl30.moveonjoy.com/HBO/index.m3u8
 https://fl30.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 group-title="World",HollyWire
 https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
+#EXTINF:-1 group-title="World",ITV 1
+https://l.lioncdn.net/ITV-1/index.m3u8
+#EXTINF:-1 group-title="World",ITV 2
+https://l.lioncdn.net/ITV-2/index.m3u8
+#EXTINF:-1 group-title="World",ITV 3
+https://l.lioncdn.net/ITV-3/index.m3u8
+#EXTINF:-1 group-title="World",ITV 4
+https://l.lioncdn.net/ITV-4/index.m3u8
 #EXTINF:-1 group-title="World",Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="World",LG 1 Film
@@ -96,6 +124,8 @@ https://fl30.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 https://fl30.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="World",NBA TV
 https://fl30.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="World",NBC
+https://l.lioncdn.net/NBC-UNIVERSO/index.m3u8
 #EXTINF:-1 group-title="World",NBC
 https://d4whmvwm0rdvi.cloudfront.net/10007/99992212/hls/master.m3u8?ads.xumo_channelId=99992212&ads.asnw=169843&ads.afid=137704898&ads.sfid=16373024&ads.csid=lgchannels_us_nbcnewsnow_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99992212&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 group-title="World",New Kmovies
@@ -650,6 +680,8 @@ http://php.jdshipin.com/smt.php?id=Huahee
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY76
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 group-title="中國港澳",HOY77
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY77
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY77
@@ -1396,42 +1428,6 @@ http://172.168.1.254:5080/yy.php?id=1382736893
 http://172.168.1.254:5080/yy.php?id=1382851598
 #EXTINF:-1 group-title="YY連播",TVB收视爆剧-溏心风暴
 http://172.168.1.254:5080/yy.php?id=1382736916
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382735545
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382735572
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382735578
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382735579
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382736805
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382736807
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382736808
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382736818
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382736819
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382736834
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382736852
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382736869
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382736888
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382745084
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382745093
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382745110
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382745113
-#EXTINF:-1 group-title="YY連播",YY用户
-http://172.168.1.254:5080/yy.php?id=1382745117
 #EXTINF:-1 group-title="YY連播",一分钟学道菜
 http://172.168.1.254:5080/yy.php?id=1382736901
 #EXTINF:-1 group-title="YY連播",一剑开天门
