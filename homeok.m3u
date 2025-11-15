@@ -1343,6 +1343,7 @@ http://112.27.235.94:8000/hls/48/index.m3u8
 #EXTINF:-1 group-title="中國衛視",黑龍江衛視
 http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
 #EXTINF:-1 group-title="中國衛視",黑龍江衛視
+http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 #EXTINF:-1 group-title="中國廣東",南國都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 group-title="中國廣東",廣州南國都市
