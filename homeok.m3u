@@ -1125,6 +1125,8 @@ http://112.27.235.94:8000/hls/49/index.m3u8
 #EXTINF:-1 group-title="中國衛視",兵團衛視
 http://172.168.1.254:5080/migu720p.php?id=956923145
 #EXTINF:-1 group-title="中國衛視",北京衛視
+http://172.168.1.254:5080/zb.php?id=北京卫视
+#EXTINF:-1 group-title="中國衛視",北京衛視
 http://112.27.235.94:8000/hls/27/index.m3u8
 #EXTINF:-1 group-title="中國衛視",北京衛視
 http://153.0.171.163:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1135,7 +1137,11 @@ http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 #EXTINF:-1 group-title="中國衛視",吉林衛視
 http://172.168.1.254:5080/migu720p.php?id=947472500
 #EXTINF:-1 group-title="中國衛視",吉林衛視
+http://172.168.1.254:5080/zb.php?id=吉林卫视
+#EXTINF:-1 group-title="中國衛視",吉林衛視
 http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="中國衛視",四川衛視
+http://172.168.1.254:5080/zb.php?id=四川卫视
 #EXTINF:-1 group-title="中國衛視",四川衛視
 http://112.27.235.94:8000/hls/35/index.m3u8
 #EXTINF:-1 group-title="中國衛視",四川衛視
@@ -1145,11 +1151,15 @@ http://172.168.1.254:5080/migu720p.php?id=608917627
 #EXTINF:-1 group-title="中國衛視",大灣區衛視
 http://222.128.55.152:9080/live/dwq.m3u8
 #EXTINF:-1 group-title="中國衛視",天津衛視
+http://172.168.1.254:5080/zb.php?id=天津卫视
+#EXTINF:-1 group-title="中國衛視",天津衛視
 http://112.27.235.94:8000/hls/42/index.m3u8
 #EXTINF:-1 group-title="中國衛視",天津衛視
 http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國衛視",天津衛視
 http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
+#EXTINF:-1 group-title="中國衛視",安徽衛視
+http://172.168.1.254:5080/zb.php?id=安徽卫视
 #EXTINF:-1 group-title="中國衛視",安徽衛視
 http://112.27.235.94:8000/hls/26/index.m3u8
 #EXTINF:-1 group-title="中國衛視",安徽衛視
@@ -1160,6 +1170,8 @@ http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
 http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 group-title="中國衛視",寧夏衛視
 http://153.0.171.163:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="中國衛視",山東衛視
+http://172.168.1.254:5080/zb.php?id=山东卫视
 #EXTINF:-1 group-title="中國衛視",山東衛視
 http://112.27.235.94:8000/hls/34/index.m3u8
 #EXTINF:-1 group-title="中國衛視",山東衛視
@@ -1175,7 +1187,13 @@ http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國衛視",廣東衛視
 http://172.168.1.254:5080/migu720p.php?id=608831231
 #EXTINF:-1 group-title="中國衛視",廣東衛視
+http://172.168.1.254:5080/zb.php?id=广东卫视
+#EXTINF:-1 group-title="中國衛視",廣東衛視
 http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
+#EXTINF:-1 group-title="中國衛視",廣西衛視
+http://172.168.1.254:5080/zb.php?id=广西卫视
+#EXTINF:-1 group-title="中國衛視",東南衛視
+http://172.168.1.254:5080/zb.php?id=东南卫视
 #EXTINF:-1 group-title="中國衛視",東南衛視
 http://172.168.1.254:5080/migu720p.php?id=849116810
 #EXTINF:-1 group-title="中國衛視",東南衛視
@@ -1189,6 +1207,8 @@ http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 #EXTINF:-1 group-title="中國衛視",東方衛視
 http://172.168.1.254:5080/migu720p.php?id=651632648
 #EXTINF:-1 group-title="中國衛視",東方衛視
+http://172.168.1.254:5080/zb.php?id=上海东方卫视
+#EXTINF:-1 group-title="中國衛視",東方衛視
 http://153.0.171.163:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國衛視",東方衛視
 http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
@@ -1197,15 +1217,21 @@ http://iptv.huuc.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1 group-title="中國衛視",江蘇衛視
 http://172.168.1.254:5080/migu720p.php?id=623899368
 #EXTINF:-1 group-title="中國衛視",江蘇衛視
+http://172.168.1.254:5080/zb.php?id=江苏卫视
+#EXTINF:-1 group-title="中國衛視",江蘇衛視
 http://112.27.235.94:8000/hls/32/index.m3u8
 #EXTINF:-1 group-title="中國衛視",江蘇衛視
 http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
 #EXTINF:-1 group-title="中國衛視",江蘇衛視
 http://iptv.huuc.edu.cn/hls/jshd.m3u8
 #EXTINF:-1 group-title="中國衛視",江西衛視
+http://172.168.1.254:5080/zb.php?id=江西卫视
+#EXTINF:-1 group-title="中國衛視",江西衛視
 http://112.27.235.94:8000/hls/44/index.m3u8
 #EXTINF:-1 group-title="中國衛視",江西衛視
 http://153.0.171.163:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="中國衛視",河北衛視
+http://172.168.1.254:5080/zb.php?id=河北卫视
 #EXTINF:-1 group-title="中國衛視",河北衛視
 http://112.27.235.94:8000/hls/39/index.m3u8
 #EXTINF:-1 group-title="中國衛視",河北衛視
@@ -1215,9 +1241,13 @@ http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
 #EXTINF:-1 group-title="中國衛視",河南衛視
 http://172.168.1.254:5080/migu720p.php?id=790187291
 #EXTINF:-1 group-title="中國衛視",河南衛視
+http://172.168.1.254:5080/zb.php?id=河南卫视
+#EXTINF:-1 group-title="中國衛視",河南衛視
 http://112.27.235.94:8000/hls/37/index.m3u8
 #EXTINF:-1 group-title="中國衛視",河南衛視
 http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="中國衛視",浙江衛視
+http://172.168.1.254:5080/zb.php?id=浙江卫视
 #EXTINF:-1 group-title="中國衛視",浙江衛視
 http://112.27.235.94:8000/hls/29/index.m3u8
 #EXTINF:-1 group-title="中國衛視",浙江衛視
@@ -1227,6 +1257,8 @@ http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 #EXTINF:-1 group-title="中國衛視",浙江衛視
 http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1 group-title="中國衛視",深圳衛視
+http://172.168.1.254:5080/zb.php?id=深圳卫视
+#EXTINF:-1 group-title="中國衛視",深圳衛視
 http://112.27.235.94:8000/hls/33/index.m3u8
 #EXTINF:-1 group-title="中國衛視",深圳衛視
 http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1234,8 +1266,12 @@ http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
 #EXTINF:-1 group-title="中國衛視",深圳衛視
 http://iptv.huuc.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 group-title="中國衛視",甘肅衛視
+http://172.168.1.254:5080/zb.php?id=甘肃卫视
 #EXTINF:-1 group-title="中國衛視",湖北衛視
 http://172.168.1.254:5080/migu720p.php?id=947472496
+#EXTINF:-1 group-title="中國衛視",湖北衛視
+http://172.168.1.254:5080/zb.php?id=湖北卫视
 #EXTINF:-1 group-title="中國衛視",湖北衛視
 http://112.27.235.94:8000/hls/41/index.m3u8
 #EXTINF:-1 group-title="中國衛視",湖北衛視
@@ -1247,11 +1283,15 @@ http://iptv.huuc.edu.cn/hls/hbhd.m3u8
 #EXTINF:-1 group-title="中國衛視",湖北衛視
 http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 #EXTINF:-1 group-title="中國衛視",湖南衛視
+http://172.168.1.254:5080/zb.php?id=湖南卫视
+#EXTINF:-1 group-title="中國衛視",湖南衛視
 http://112.27.235.94:8000/hls/31/index.m3u8
 #EXTINF:-1 group-title="中國衛視",湖南衛視
 http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
 #EXTINF:-1 group-title="中國衛視",湖南衛視
 http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 group-title="中國衛視",貴州衛視
+http://172.168.1.254:5080/zb.php?id=贵州卫视
 #EXTINF:-1 group-title="中國衛視",貴州衛視
 http://112.27.235.94:8000/hls/46/index.m3u8
 #EXTINF:-1 group-title="中國衛視",貴州衛視
@@ -1261,6 +1301,8 @@ http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
 #EXTINF:-1 group-title="中國衛視",遼寧衛視
 http://172.168.1.254:5080/migu720p.php?id=630291707
 #EXTINF:-1 group-title="中國衛視",遼寧衛視
+http://172.168.1.254:5080/zb.php?id=辽宁卫视
+#EXTINF:-1 group-title="中國衛視",遼寧衛視
 http://112.27.235.94:8000/hls/47/index.m3u8
 #EXTINF:-1 group-title="中國衛視",遼寧衛視
 http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1269,6 +1311,8 @@ http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
 #EXTINF:-1 group-title="中國衛視",遼寧衛視
 http://iptv.huuc.edu.cn/hls/lnhd.m3u8
 #EXTINF:-1 group-title="中國衛視",重慶衛視
+http://172.168.1.254:5080/zb.php?id=重庆卫视
+#EXTINF:-1 group-title="中國衛視",重慶衛視
 http://112.27.235.94:8000/hls/36/index.m3u8
 #EXTINF:-1 group-title="中國衛視",重慶衛視
 http://153.0.171.163:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1276,22 +1320,29 @@ http://153.0.171.163:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
 #EXTINF:-1 group-title="中國衛視",重慶衛視
 http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 group-title="中國衛視",海南衛視
+http://172.168.1.254:5080/zb.php?id=海南卫视
 #EXTINF:-1 group-title="中國衛視",陝西衛視
 http://112.27.235.94:8000/hls/43/index.m3u8
 #EXTINF:-1 group-title="中國衛視",陝西衛視
 http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國衛視",雲南衛視
+http://172.168.1.254:5080/zb.php?id=云南卫视
+#EXTINF:-1 group-title="中國衛視",雲南衛視
 http://112.27.235.94:8000/hls/40/index.m3u8
 #EXTINF:-1 group-title="中國衛視",雲南衛視
 http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國衛視",青海衛視
+http://172.168.1.254:5080/zb.php?id=青海卫视
+#EXTINF:-1 group-title="中國衛視",青海衛視
 http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="中國衛視",黑龍江衛視
+http://172.168.1.254:5080/zb.php?id=黑龙江卫视
 #EXTINF:-1 group-title="中國衛視",黑龍江衛視
 http://112.27.235.94:8000/hls/48/index.m3u8
 #EXTINF:-1 group-title="中國衛視",黑龍江衛視
 http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
 #EXTINF:-1 group-title="中國衛視",黑龍江衛視
-http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 #EXTINF:-1 group-title="中國廣東",南國都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 group-title="中國廣東",廣州南國都市
