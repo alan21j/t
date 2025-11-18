@@ -3,8 +3,6 @@
 
 #EXTINF:-1 group-title="全球綜合",4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
-#EXTINF:-1 group-title="全球綜合",ABC News Australia
-https://stream1.freetv.fun/abc-news-australia-2.ctv
 #EXTINF:-1 group-title="全球綜合",Action Movies
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 group-title="全球綜合",Al Jazeera
@@ -234,8 +232,6 @@ https://l.lioncdn.net/MLB-Network/index.m3u8
 https://l.lioncdn.net/MUTV/index.m3u8
 #EXTINF:-1 group-title="體育賽事",NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-#EXTINF:-1 group-title="體育賽事",NBA TV
-https://stream1.freetv.fun/nba-tv-3.ctv
 #EXTINF:-1 group-title="體育賽事",NBC Sports Bay Area [Not 24/7]
 https://tvpass.org/live/nbc-sports-bay-area/hd
 #EXTINF:-1 group-title="體育賽事",NBC Sports Boston [Not 24/7]
@@ -1504,10 +1500,6 @@ https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 group-title="中國上海",新聞綜合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 #EXTINF:-1 group-title="中國上海",新聞綜合
-https://stream1.freetv.fun/xin-wen-zong-he-13.m3u8
-#EXTINF:-1 group-title="中國上海",新聞綜合
-https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
-#EXTINF:-1 group-title="中國上海",新聞綜合
 https://xatv-yt.xiancity.cn/live/1/index.m3u8
 #EXTINF:-1 group-title="中國上海",第一財經
 https://cdn3.163189.xyz/163189/dycj
@@ -1570,8 +1562,6 @@ http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
 http://183.11.239.36:808/hls/2/index.m3u8
 #EXTINF:-1 group-title="中國體育",廣東體育
 http://pa.kuangdeng.top:8081/hls/68/index.m3u8
-#EXTINF:-1 group-title="中國體育",廣東體育
-https://stream1.freetv.fun/yan-dong-ti-yu-29.ctv
 #EXTINF:-1 group-title="中國體育",廣東體育
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1 group-title="中國體育",快樂釣魚
