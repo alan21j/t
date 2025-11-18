@@ -135,7 +135,6 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="全球綜合",半島新聞
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-
 #EXTINF:-1 group-title="體育賽事",:Šport
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 group-title="體育賽事",30A Golf Kingdom
@@ -330,7 +329,6 @@ https://l.lioncdn.net/Willow-Cricket/index.m3u8
 https://l.lioncdn.net/WWE/index.m3u8
 #EXTINF:-1 group-title="體育賽事",杜拜體育2
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="臺灣",BLOOMBERG TV
 http://8.iptv543.com:50009/4gtv-live059/index.m3u8
 #EXTINF:-1 group-title="臺灣",Channel 5
@@ -569,7 +567,6 @@ http://8.iptv543.com:50009/litv-longturn21/index.m3u8
 http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
 #EXTINF:-1 group-title="臺灣",龍華電影
 http://8.iptv543.com:50009/litv-longturn03/index.m3u8
-
 #EXTINF:-1 group-title="兒童卡通",LiveABC 互動英語台
 http://8.iptv543.com:50009/4gtv-live030/index.m3u8
 #EXTINF:-1 group-title="兒童卡通",Nick Jr.
@@ -814,7 +811,6 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 group-title="兒童卡通",韓國EBS兒童
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-
 #EXTINF:-1 group-title="中國港澳",Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
 #EXTINF:-1 group-title="中國港澳",Astro AOD
@@ -1051,7 +1047,6 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="中國港澳",鳳凰香港
 http://r.jdshipin.com/yDoTN
-
 #EXTINF:-1 group-title="中國官媒",CCTV1
 http://172.168.1.254:5080/migu720p.php?id=608807420
 #EXTINF:-1 group-title="中國官媒",CCTV1
@@ -1240,7 +1235,6 @@ http://112.27.235.94:8000/hls/17/index.m3u8
 http://172.168.1.254:5080/migu720p.php?id=609006450
 #EXTINF:-1 group-title="中國官媒",CGTN阿拉伯语
 http://172.168.1.254:5080/migu720p.php?id=609154345
-
 #EXTINF:-1 group-title="中國衛視",上海衛視
 http://112.27.235.94:8000/hls/28/index.m3u8
 #EXTINF:-1 group-title="中國衛視",內蒙古衛視
@@ -1461,7 +1455,6 @@ http://112.27.235.94:8000/hls/48/index.m3u8
 http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
 #EXTINF:-1 group-title="中國衛視",黑龍江衛視
 http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-
 #EXTINF:-1 group-title="中國廣東",南國都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 group-title="中國廣東",廣州南國都市
@@ -1494,7 +1487,6 @@ http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 https://live.yjtvw.com:8081/live/yjtv1.m3u8
 #EXTINF:-1 group-title="中國廣東",陽江-2
 https://live.yjtvw.com:8081/live/yjtv2.m3u8
-
 #EXTINF:-1 group-title="中國上海",新聞綜合
 http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
 #EXTINF:-1 group-title="中國上海",新聞綜合
@@ -1511,7 +1503,6 @@ https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
 https://xatv-yt.xiancity.cn/live/1/index.m3u8
 #EXTINF:-1 group-title="中國上海",第一財經
 https://cdn3.163189.xyz/163189/dycj
-
 #EXTINF:-1 group-title="中國浙江",之江紀錄
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 group-title="中國浙江",文成新聞綜合
@@ -1538,14 +1529,12 @@ http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 #EXTINF:-1 group-title="中國浙江",青田電視台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-
 #EXTINF:-1 group-title="中國江蘇",蘇州文化生活
 https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 #EXTINF:-1 group-title="中國江蘇",蘇州生活資訊
 https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 #EXTINF:-1 group-title="中國江蘇",蘇州社會經濟
 https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-
 #EXTINF:-1 group-title="中國體育",五星體育
 http://172.168.1.254:5080/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
 #EXTINF:-1 group-title="中國體育",五星體育
