@@ -371,6 +371,8 @@ http://8.iptv543.com:50009/4gtv-live121/index.m3u8
 http://8.iptv543.com:50009/4gtv-live123/index.m3u8
 #EXTINF:-1 group-title="臺灣",MOMO TV
 rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="臺灣",MOMO TV
+rtmp://f13h.mine.nu:1935/sat/tv761
 #EXTINF:-1 group-title="臺灣",MTV Live
 http://8.iptv543.com:50009/4gtv-live025/index.m3u8
 #EXTINF:-1 group-title="臺灣",ROCK Action
@@ -441,6 +443,8 @@ http://8.iptv543.com:50009/4gtv-4gtv051/index.m3u8
 https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv051
 #EXTINF:-1 group-title="臺灣",國會頻道1
 http://8.iptv543.com:50009/of-4gtv-4gtv084/index.m3u8
+#EXTINF:-1 group-title="臺灣",國會頻道1
+http://61.58.60.230:9319/live/123.m3u8
 #EXTINF:-1 group-title="臺灣",國會頻道2
 http://8.iptv543.com:50009/of-4gtv-4gtv085/index.m3u8
 #EXTINF:-1 group-title="臺灣",大愛二台
@@ -527,6 +531,8 @@ http://8.iptv543.com:50009/of-4gtv-4gtv041/index.m3u8
 https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv041
 #EXTINF:-1 group-title="臺灣",華視
 rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="臺灣",華視
+rtmp://f13h.mine.nu:1935/sat/tv111
 #EXTINF:-1 group-title="臺灣",華視新聞
 https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv052
 #EXTINF:-1 group-title="臺灣",車迷 TV
@@ -931,6 +937,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 group-title="中國港澳",TVB 翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="中國港澳",TVB 翡翠台
+http://php.jdshipin.com/smt.php?id=Tvbjade
 #EXTINF:-1 group-title="中國港澳",TVB 翡翠台
 https://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 group-title="中國港澳",TVB 翡翠台4K
