@@ -569,6 +569,48 @@ http://8.iptv543.com:50009/litv-longturn21/index.m3u8
 http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
 #EXTINF:-1 group-title="臺灣",龍華電影
 http://8.iptv543.com:50009/litv-longturn03/index.m3u8
+#EXTINF:-1 group-title="日本",NHKG
+http://us1001.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="日本",NHKE
+http://us1001.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="日本",日テレ
+http://us1001.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="日本",TBS
+http://us1001.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="日本",Fujiテレビ
+http://us1001.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="日本",テレビ朝日
+http://us1001.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="日本",テレビ東京
+http://us1001.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="日本",Tokyo MX1
+http://us1001.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="日本",Tokyo MX2
+http://us1001.utako.moe/Tokyo_MX2/index.m3u8
+#EXTINF:-1 group-title="日本",MBS
+http://us1001.utako.moe/mbs/index.m3u8
+#EXTINF:-1 group-title="日本",ABC
+http://us1001.utako.moe/abc/index.m3u8
+#EXTINF:-1 group-title="日本",Kansai TV
+http://us1001.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 group-title="日本",Yomiuri TV
+http://us1001.utako.moe/ytv/index.m3u8
+#EXTINF:-1 group-title="日本",TV Osaka
+http://us1001.utako.moe/tvo/index.m3u8
+#EXTINF:-1 group-title="日本",KBS京都
+http://us1001.utako.moe/kbs/index.m3u8
+#EXTINF:-1 group-title="日本",SUN TV
+http://us1001.utako.moe/suntv/index.m3u8
+#EXTINF:-1 group-title="日本" tvg-logo=" https://www.lysvc.cc/TVlogo/img/NHKWorld.png",NHK World
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1 group-title="日本",NHK Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="日本",NHK BS
+http://us1001.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="日本",NHK BSP 4K
+http://us1001.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 group-title="日本",BSテレ東 4K
+http://us1001.utako.moe/bstx4k/index.m3u8
 #EXTINF:-1 group-title="兒童卡通",LiveABC 互動英語台
 http://8.iptv543.com:50009/4gtv-live030/index.m3u8
 #EXTINF:-1 group-title="兒童卡通",Nick Jr.
