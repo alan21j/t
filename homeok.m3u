@@ -650,328 +650,148 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/
 #EXTINF:-1 group-title="臺灣",龍華電影
 http://8.iptv543.com:50009/litv-longturn03/index.m3u8
 
-#EXTINF:-1 group-title="日本",ABC
-http://us1001.utako.moe/abc/index.m3u8
-#EXTINF:-1 group-title="日本",ABC
-https://mt01.utako.moe/abc/index.m3u8
-#EXTINF:-1 group-title="日本",ABC
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx02
-#EXTINF:-1 group-title="日本",Animal Planet
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs24
-#EXTINF:-1 group-title="日本",Animax
-https://ca01.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="日本",Animax
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs15
-#EXTINF:-1 group-title="日本",AT-X
-https://mt01.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 group-title="日本",BBC News
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs15
-#EXTINF:-1 group-title="日本",BS 10 Star Channel
-https://mt01.utako.moe/bs10_star/index.m3u8
-#EXTINF:-1 group-title="日本",BS 10 Star Channel
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs08
-#EXTINF:-1 group-title="日本",BS Asahi
-https://mt01.utako.moe/bsasahi/index.m3u8
-#EXTINF:-1 group-title="日本",BS Asahi
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs03
-#EXTINF:-1 group-title="日本",BS Fuji
-https://mt01.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 group-title="日本",BS Fuji
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs06
-#EXTINF:-1 group-title="日本",BS NTV
-https://mt01.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 group-title="日本",BS NTV
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs02
-#EXTINF:-1 group-title="日本",BS TBS
-https://mt01.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 group-title="日本",BS TBS
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs04
-#EXTINF:-1 group-title="日本",BS TV Tokyo
-https://mt01.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 group-title="日本",BS TV Tokyo
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs05
-#EXTINF:-1 group-title="日本",BS11
-https://mt01.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="日本",BSテレ東 4K
-http://us1001.utako.moe/bstx4k/index.m3u8
-#EXTINF:-1 group-title="日本",Cartoon Network Japan
-https://ca01.utako.moe/cartoon_network/index.m3u8
-#EXTINF:-1 group-title="日本",Cartoon Network
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs25
-#EXTINF:-1 group-title="日本",Channel Ginga
-https://ca01.utako.moe/gingach/index.m3u8
-#EXTINF:-1 group-title="日本",Channel Ginga
-https://proxyv2.utako.moe/ph.php?&isp=2&id=cs29
-#EXTINF:-1 group-title="日本",CNNj
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs16
-#EXTINF:-1 group-title="日本",Discovery Channel
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs08
-#EXTINF:-1 group-title="日本",Disney Channel
-https://ca01.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 group-title="日本",Disney Channel
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs24
-#EXTINF:-1 group-title="日本" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Disney2.png",Disney Junior
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs23
-#EXTINF:-1 group-title="日本",Dlife
-https://ca01.utako.moe/dlife/index.m3u8
-#EXTINF:-1 group-title="日本",Eisei Gekijo
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs22
-#EXTINF:-1 group-title="日本",Entermei Tele
-https://ca01.utako.moe/entermei_tele/index.m3u8
-#EXTINF:-1 group-title="日本",Family Gekijyo
-https://ca01.utako.moe/familygeki/index.m3u8
-#EXTINF:-1 group-title="日本",Family Gekijyo
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs20
-#EXTINF:-1 group-title="日本",Fighting TV Samurai
-https://ca01.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 group-title="日本",Fishing Vision
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs25
-#EXTINF:-1 group-title="日本",Fuji TV HD
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd05
-#EXTINF:-1 group-title="日本",Fuji TV Next
-https://ca01.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 group-title="日本",Fuji TV Next
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs26
-#EXTINF:-1 group-title="日本",Fuji TV ONE
-https://ca01.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 group-title="日本",Fuji TV TWO
-https://ca01.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 group-title="日本",Fuji TV
-https://mt01.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="日本",Fuji TV
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd05
-#EXTINF:-1 group-title="日本",Fujiテレビ
-http://us1001.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="日本",Gaora Sports
-https://mt01.utako.moe/gaora/index.m3u8
-#EXTINF:-1 group-title="日本",GAORA SPORTS
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs17
-#EXTINF:-1 group-title="日本",Golf Network
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs03
-#EXTINF:-1 group-title="日本",Green Channel
-https://mt01.utako.moe/green/index.m3u8
-#EXTINF:-1 group-title="日本",Green Channel
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs14
-#EXTINF:-1 group-title="日本" tvg-logo=" https://www.lysvc.cc/TVlogo/img/History1.png",History
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs09
-#EXTINF:-1 group-title="日本",Home Drama Channel
-https://ca01.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 group-title="日本",Home Drama Channel
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs05
-#EXTINF:-1 group-title="日本",JCOM BS
-https://proxyv2.utako.moe/ph.php?&isp=2&id=bs31
-#EXTINF:-1 group-title="日本",Jidaigeki Senmon
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs04
-#EXTINF:-1 group-title="日本",JSport 1
-https://mt01.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="日本",JSport 1
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs18
-#EXTINF:-1 group-title="日本",JSport 2
-https://mt01.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="日本",JSport 2
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs19
-#EXTINF:-1 group-title="日本",JSport 3
-https://mt01.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="日本",JSport 3
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs21
-#EXTINF:-1 group-title="日本",JSport 4
-https://mt01.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="日本",JSport 4
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs22
-#EXTINF:-1 group-title="日本",Kansai TV
-http://us1001.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 group-title="日本",Kansai TV
-https://mt01.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 group-title="日本",Kansai TV
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx03
-#EXTINF:-1 group-title="日本",Kayo Pops
-https://ca01.utako.moe/kayopops/index.m3u8
-#EXTINF:-1 group-title="日本",Kayo Pops
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs13
-#EXTINF:-1 group-title="日本",KBS
-https://mt01.utako.moe/kbs/index.m3u8
-#EXTINF:-1 group-title="日本",KBS京都
-http://us1001.utako.moe/kbs/index.m3u8
-#EXTINF:-1 group-title="日本",Kids Staton TV
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs07
-#EXTINF:-1 group-title="日本",LaLa TV
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs19
-#EXTINF:-1 group-title="日本",MBS
-http://us1001.utako.moe/mbs/index.m3u8
-#EXTINF:-1 group-title="日本",MBS
-https://mt01.utako.moe/mbs/index.m3u8
-#EXTINF:-1 group-title="日本",MBS
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx01
-#EXTINF:-1 group-title="日本",Mnet
-https://ca01.utako.moe/mnet/index.m3u8
-#EXTINF:-1 group-title="日本",Mondo TV
-https://ca01.utako.moe/mondo/index.m3u8
-#EXTINF:-1 group-title="日本",Mondo TV
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs21
-#EXTINF:-1 group-title="日本",Movie Plus
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs14
-#EXTINF:-1 group-title="日本",MTV
-https://ca01.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="日本",MTV
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs18
-#EXTINF:-1 group-title="日本",Music Japan TV
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs06
-#EXTINF:-1 group-title="日本",National Geographic Japan
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs10
-#EXTINF:-1 group-title="日本",Neco Channel
-https://ca01.utako.moe/neco/index.m3u8
-#EXTINF:-1 group-title="日本",NHK BS
-http://us1001.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="日本",NHK BS
-https://mt01.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="日本",NHK BS
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs11
-#EXTINF:-1 group-title="日本",NHK BS4K
-https://mt01.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 group-title="日本",NHK BS4K
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs01
-#EXTINF:-1 group-title="日本",NHK BSP 4K
-http://us1001.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 group-title="日本",NHK E HD
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd02
-#EXTINF:-1 group-title="日本",NHK E
-https://mt01.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="日本",NHK E
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd02
-#EXTINF:-1 group-title="日本",NHK G HD
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd01
-#EXTINF:-1 group-title="日本",NHK G Osaka
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx06
-#EXTINF:-1 group-title="日本",NHK G
-https://mt01.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="日本",NHK G
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd01
 #EXTINF:-1 group-title="日本",NHK Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="日本",NHK Premium
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=25-mp4a_380800_jpn=28.m3u8
 #EXTINF:-1 group-title="日本" tvg-logo=" https://www.lysvc.cc/TVlogo/img/NHKWorld.png",NHK World
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1 group-title="日本",NHKE
-http://us1001.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="日本",NHKG
-http://us1001.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="日本",Nihon Eiga Senmon
-https://ca01.utako.moe/nihoneiga/index.m3u8
-#EXTINF:-1 group-title="日本",Nihon Eiga Senmon
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs23
-#EXTINF:-1 group-title="日本",Nittele G+
-https://ca01.utako.moe/ntvgplus/index.m3u8
-#EXTINF:-1 group-title="日本",Nittele G+
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs02
-#EXTINF:-1 group-title="日本",NTV HD
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd03
+#EXTINF:-1 group-title="日本",NHK G
+https://nl.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="日本",NHK E
+https://nl.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 group-title="日本",NTV
-https://mt01.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="日本",NTV
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd03
-#EXTINF:-1 group-title="日本",Pigoo (NSFW)
-https://ca01.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="日本",Sky A
-https://ca01.utako.moe/skya/index.m3u8
-#EXTINF:-1 group-title="日本",Sky A
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs01
-#EXTINF:-1 group-title="日本",Space Shower TV
-https://ca01.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="日本",Space Shower TV
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs26
-#EXTINF:-1 group-title="日本",Sport Live Plus
-https://ca01.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 group-title="日本",SUN TV
-http://us1001.utako.moe/suntv/index.m3u8
-#EXTINF:-1 group-title="日本",SUN
-https://mt01.utako.moe/suntv/index.m3u8
-#EXTINF:-1 group-title="日本",SUN
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx07
-#EXTINF:-1 group-title="日本",Tabi Channel
-https://ca01.utako.moe/tabi/index.m3u8
-#EXTINF:-1 group-title="日本",Tabi Channel
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs12
-#EXTINF:-1 group-title="日本",Takarazuka Sky Stage
-https://proxyv2.utako.moe/ph.php?&isp=2&id=cs28
-#EXTINF:-1 group-title="日本",TBS Channel 1
-https://ca01.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 group-title="日本",TBS Channel 2
-https://ca01.utako.moe/tbsch2/index.m3u8
-#EXTINF:-1 group-title="日本",TBS HD
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd04
-#EXTINF:-1 group-title="日本",TBS News
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs11
+https://nl.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 group-title="日本",TBS
-http://us1001.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="日本",TBS
-https://mt01.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="日本",TBS
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd04
-#EXTINF:-1 group-title="日本",Toei Channel
-https://ca01.utako.moe/toei/index.m3u8
-#EXTINF:-1 group-title="日本",Toei Channel
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs27
-#EXTINF:-1 group-title="日本",TOKYO MX1 HD
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd08
-#EXTINF:-1 group-title="日本",Tokyo MX1
-http://us1001.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="日本",TOKYO MX1
-https://mt01.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="日本",TOKYO MX1
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd08
-#EXTINF:-1 group-title="日本",Tokyo MX2
-http://us1001.utako.moe/Tokyo_MX2/index.m3u8
-#EXTINF:-1 group-title="日本",TOKYO MX2
-https://mt01.utako.moe/Tokyo_MX2/index.m3u8
-#EXTINF:-1 group-title="日本",TV Asahi (NSFW)
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd06
-#EXTINF:-1 group-title="日本",TV Asahi Channel 1
-https://ca01.utako.moe/ex_ch1/index.m3u8
-#EXTINF:-1 group-title="日本",TV Asahi Channel 2
-https://ca01.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 group-title="日本",TV Asahi HD
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd06
+https://nl.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="日本",富士電視台
+https://nl.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="日本",TV Asahi
-https://mt01.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="日本",TV Osaka
-http://us1001.utako.moe/tvo/index.m3u8
-#EXTINF:-1 group-title="日本",TV Osaka
-https://mt01.utako.moe/tvo/index.m3u8
-#EXTINF:-1 group-title="日本",TV Osaka
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx05
-#EXTINF:-1 group-title="日本",TV Tokyo HD
-https://proxyv2.utako.moe/ph.php?&isp=1&id=hdgd07
+https://nl.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="日本",TV Tokyo
-https://mt01.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="日本",TV Tokyo
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gd07
-#EXTINF:-1 group-title="日本",V Paradise (NSFW)
-https://ca01.utako.moe/v_paradise/index.m3u8
-#EXTINF:-1 group-title="日本",WOWOW Cinema
-https://mt01.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 group-title="日本",WOWOW Cinema
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs07
-#EXTINF:-1 group-title="日本",WOWOW Live
-https://mt01.utako.moe/wlive/index.m3u8
-#EXTINF:-1 group-title="日本",WOWOW Live
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs20
+https://nl.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="日本",東京MX1
+https://nl.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="日本",東京MX2
+https://nl.utako.moe/Tokyo_MX2/index.m3u8
+#EXTINF:-1 group-title="日本",MBS
+https://nl.utako.moe/mbs/index.m3u8
+#EXTINF:-1 group-title="日本",ABC
+https://nl.utako.moe/abc/index.m3u8
+#EXTINF:-1 group-title="日本",TV Osaka
+https://nl.utako.moe/tvo/index.m3u8
+#EXTINF:-1 group-title="日本",關西電視台
+https://nl.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 group-title="日本",YTV
+https://nl.utako.moe/ytv/index.m3u8
+#EXTINF:-1 group-title="日本",KBS
+https://nl.utako.moe/KBS/index.M3U8
+#EXTINF:-1 group-title="日本",SUN
+https://nl.utako.moe/suntv/index.m3u8
+#EXTINF:-1 group-title="日本",NHK BS
+https://nl.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="日本",BS NTV
+https://nl.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 group-title="日本",BS Asahi
+https://nl.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 group-title="日本",BS TBS
+https://nl.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 group-title="日本",BS東京電視台
+https://nl.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 group-title="日本",BS 富士
+https://nl.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 group-title="日本",BS11
+https://nl.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="日本",NHK BS4K
+https://nl.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 group-title="日本",WOWOW Prime
-https://mt01.utako.moe/wprime/index.m3u8
-#EXTINF:-1 group-title="日本",WOWOW Prime
-https://proxyv2.utako.moe/ph.php?&isp=1&id=bs12
-#EXTINF:-1 group-title="日本",Yomiuri TV
-http://us1001.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="日本",ytv
-https://mt01.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="日本",ytv
-https://proxyv2.utako.moe/ph.php?&isp=1&id=gx04
-#EXTINF:-1 group-title="日本",テレビ朝日
-http://us1001.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="日本",テレビ東京
-http://us1001.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="日本",日テレ
-http://us1001.utako.moe/Nippon_TV/index.m3u8
+https://nl.utako.moe/wprime/index.m3u8
+#EXTINF:-1 group-title="日本",WOWOW 電影院
+https://nl.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 group-title="日本",WOWOW Live
+https://nl.utako.moe/wlive/index.m3u8
+#EXTINF:-1 group-title="日本",BS 10 Premium
+https://nl.utako.moe/bs10_star/index.m3u8
+#EXTINF:-1 group-title="日本",JSport 1
+https://nl.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="日本",JSport 2
+https://nl.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="日本",JSport 3
+https://nl.utako.moe/js3/index.m3u8
+#EXTINF:-1 group-title="日本",JSport 4
+https://nl.utako.moe/js4/index.m3u8
+#EXTINF:-1 group-title="日本",綠色頻道
+https://nl.utako.moe/green/index.m3u8
+#EXTINF:-1 group-title="日本",Animax
+https://nl.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="日本",日本 Eiga Senmon
+https://nl.utako.moe/nihoneiga/index.m3u8
+#EXTINF:-1 group-title="日本",Sky A
+https://nl.utako.moe/skya/index.m3u8
+#EXTINF:-1 group-title="日本",Gaora Sports
+https://nl.utako.moe/gaora/index.m3u8
+#EXTINF:-1 group-title="日本",AT-X
+https://nl.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="日本",Space Shower TV
+https://nl.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="日本",MTV
+https://nl.utako.moe/mtv/index.m3u8
+#EXTINF:-1 group-title="日本",Kayo Pops
+https://nl.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 group-title="日本",Kids Staton
+https://nl.utako.moe/kids_station/index.m3u8
+#EXTINF:-1 group-title="日本",迪士尼頻道
+https://nl.utako.moe/disneychan/index.m3u8
+#EXTINF:-1 group-title="日本",卡通頻道
+https://nl.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 group-title="日本",Nittele G+
+https://nl.utako.moe/ntvgplus/index.m3u8
+#EXTINF:-1 group-title="日本",Family Gekijyo
+https://nl.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 group-title="日本",Mondo TV
+https://nl.utako.moe/mondo/index.m3u8
+#EXTINF:-1 group-title="日本",電視音樂
+https://nl.utako.moe/musicon/index.m3u8
+#EXTINF:-1 group-title="日本",Golf Network
+https://nl.utako.moe/golf_network/index.m3u8
+#EXTINF:-1 group-title="日本",電影院
+https://nl.utako.moe/the_cinema/index.m3u8
+#EXTINF:-1 group-title="日本",TBS 頻道 1
+https://nl.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 group-title="日本",TBS 頻道 2
+https://nl.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 group-title="日本",TV Asahi 頻道1
+https://nl.utako.moe/ex_ch1/index.m3u8
+#EXTINF:-1 group-title="日本",朝日電視台 頻道2
+https://nl.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 group-title="日本",富士電視台 ONE
+https://nl.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 group-title="日本",富士電視台 TWO
+https://nl.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 group-title="日本",富士電視台 NEXT
+https://nl.utako.moe/fuji_next/index.m3u8
+#EXTINF:-1 group-title="日本",Neco 頻道
+https://nl.utako.moe/neco/index.m3u8
+#EXTINF:-1 group-title="日本",Dlife
+https://nl.utako.moe/dlife/index.m3u8
+#EXTINF:-1 group-title="日本",東映頻道
+https://nl.utako.moe/toei/index.m3u8
+#EXTINF:-1 group-title="日本",格鬥電視武士
+https://nl.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 group-title="日本",Entermei Tele
+https://nl.utako.moe/entermei_tele/index.m3u8
+#EXTINF:-1 group-title="日本",Sport Live Plus
+https://nl.utako.moe/sport_live_plus/index.m3u8
+#EXTINF:-1 group-title="日本",家庭戲劇頻道
+https://nl.utako.moe/homedrama/index.m3u8
+#EXTINF:-1 group-title="日本",頻道 Ginga
+https://nl.utako.moe/gingach/index.m3u8
+#EXTINF:-1 group-title="日本",Tabi 頻道
+https://nl.utako.moe/tabi/index.m3u8
+#EXTINF:-1 group-title="日本",Pigoo（NSFW)
+https://nl.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="日本",V Paradise（NSFW)
+https://nl.utako.moe/v_paradise/index.m3u8
 
 #EXTINF:-1 group-title="兒童卡通",LiveABC 互動英語台
 http://8.iptv543.com:50009/4gtv-live030/index.m3u8
