@@ -788,6 +788,10 @@ https://nl.utako.moe/homedrama/index.m3u8
 https://nl.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="日本",Tabi Channel
 https://nl.utako.moe/tabi/index.m3u8
+#EXTINF:-1 group-title="日本",Pigoo (NSFW)
+https://nl.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="日本",V Paradise (NSFW)
+https://nl.utako.moe/v_paradise/index.m3u8
 
 #EXTINF:-1 group-title="兒童卡通",LiveABC 互動英語台
 http://8.iptv543.com:50009/4gtv-live030/index.m3u8
