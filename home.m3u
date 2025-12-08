@@ -664,15 +664,15 @@ https://nl.utako.moe/NHK_E/index.m3u8
 https://nl.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 group-title="日本",TBS
 https://nl.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="日本",富士電視台
+#EXTINF:-1 group-title="日本",Fuji TV
 https://nl.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="日本",TV Asahi
 https://nl.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="日本",TV Tokyo
 https://nl.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="日本",東京MX1
+#EXTINF:-1 group-title="日本",TOKYO MX1
 https://nl.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="日本",東京MX2
+#EXTINF:-1 group-title="日本",TOKYO MX2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1 group-title="日本",MBS
 https://nl.utako.moe/mbs/index.m3u8
@@ -680,12 +680,12 @@ https://nl.utako.moe/mbs/index.m3u8
 https://nl.utako.moe/abc/index.m3u8
 #EXTINF:-1 group-title="日本",TV Osaka
 https://nl.utako.moe/tvo/index.m3u8
-#EXTINF:-1 group-title="日本",關西電視台
+#EXTINF:-1 group-title="日本",Kansai TV
 https://nl.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 group-title="日本",YTV
+#EXTINF:-1 group-title="日本",ytv
 https://nl.utako.moe/ytv/index.m3u8
 #EXTINF:-1 group-title="日本",KBS
-https://nl.utako.moe/KBS/index.M3U8
+https://nl.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="日本",SUN
 https://nl.utako.moe/suntv/index.m3u8
 #EXTINF:-1 group-title="日本",NHK BS
@@ -696,9 +696,9 @@ https://nl.utako.moe/bsntv/index.m3u8
 https://nl.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1 group-title="日本",BS TBS
 https://nl.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 group-title="日本",BS東京電視台
+#EXTINF:-1 group-title="日本",BS TV Tokyo
 https://nl.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 group-title="日本",BS 富士
+#EXTINF:-1 group-title="日本",BS Fuji
 https://nl.utako.moe/bsfuji/index.m3u8
 #EXTINF:-1 group-title="日本",BS11
 https://nl.utako.moe/BS11/index.m3u8
@@ -706,7 +706,7 @@ https://nl.utako.moe/BS11/index.m3u8
 https://nl.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 group-title="日本",WOWOW Prime
 https://nl.utako.moe/wprime/index.m3u8
-#EXTINF:-1 group-title="日本",WOWOW 電影院
+#EXTINF:-1 group-title="日本",WOWOW Cinema
 https://nl.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 group-title="日本",WOWOW Live
 https://nl.utako.moe/wlive/index.m3u8
@@ -720,11 +720,11 @@ https://nl.utako.moe/js2/index.m3u8
 https://nl.utako.moe/js3/index.m3u8
 #EXTINF:-1 group-title="日本",JSport 4
 https://nl.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="日本",綠色頻道
+#EXTINF:-1 group-title="日本",Green Channel
 https://nl.utako.moe/green/index.m3u8
 #EXTINF:-1 group-title="日本",Animax
 https://nl.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="日本",日本 Eiga Senmon
+#EXTINF:-1 group-title="日本",Nihon Eiga Senmon
 https://nl.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 group-title="日本",Sky A
 https://nl.utako.moe/skya/index.m3u8
@@ -740,9 +740,9 @@ https://nl.utako.moe/mtv/index.m3u8
 https://nl.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 group-title="日本",Kids Staton
 https://nl.utako.moe/kids_station/index.m3u8
-#EXTINF:-1 group-title="日本",迪士尼頻道
+#EXTINF:-1 group-title="日本",Disney Channel
 https://nl.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 group-title="日本",卡通頻道
+#EXTINF:-1 group-title="日本",Cartoon Network
 https://nl.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="日本",Nittele G+
 https://nl.utako.moe/ntvgplus/index.m3u8
@@ -750,48 +750,44 @@ https://nl.utako.moe/ntvgplus/index.m3u8
 https://nl.utako.moe/familygeki/index.m3u8
 #EXTINF:-1 group-title="日本",Mondo TV
 https://nl.utako.moe/mondo/index.m3u8
-#EXTINF:-1 group-title="日本",電視音樂
+#EXTINF:-1 group-title="日本",Music ON TV
 https://nl.utako.moe/musicon/index.m3u8
 #EXTINF:-1 group-title="日本",Golf Network
 https://nl.utako.moe/golf_network/index.m3u8
-#EXTINF:-1 group-title="日本",電影院
+#EXTINF:-1 group-title="日本",The Cinema
 https://nl.utako.moe/the_cinema/index.m3u8
-#EXTINF:-1 group-title="日本",TBS 頻道 1
+#EXTINF:-1 group-title="日本",TBS Channel 1
 https://nl.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 group-title="日本",TBS 頻道 2
+#EXTINF:-1 group-title="日本",TBS Channel 2
 https://nl.utako.moe/tbsch2/index.m3u8
-#EXTINF:-1 group-title="日本",TV Asahi 頻道1
+#EXTINF:-1 group-title="日本",TV Asahi Channel 1
 https://nl.utako.moe/ex_ch1/index.m3u8
-#EXTINF:-1 group-title="日本",朝日電視台 頻道2
+#EXTINF:-1 group-title="日本",TV Asahi Channel 2
 https://nl.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 group-title="日本",富士電視台 ONE
+#EXTINF:-1 group-title="日本",Fuji TV ONE
 https://nl.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 group-title="日本",富士電視台 TWO
+#EXTINF:-1 group-title="日本",Fuji TV TWO
 https://nl.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 group-title="日本",富士電視台 NEXT
+#EXTINF:-1 group-title="日本",Fuji TV NEXT
 https://nl.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 group-title="日本",Neco 頻道
+#EXTINF:-1 group-title="日本",Neco Channel
 https://nl.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="日本",Dlife
 https://nl.utako.moe/dlife/index.m3u8
-#EXTINF:-1 group-title="日本",東映頻道
+#EXTINF:-1 group-title="日本",Toei Channel
 https://nl.utako.moe/toei/index.m3u8
-#EXTINF:-1 group-title="日本",格鬥電視武士
+#EXTINF:-1 group-title="日本",Fighting TV Samurai
 https://nl.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1 group-title="日本",Entermei Tele
 https://nl.utako.moe/entermei_tele/index.m3u8
 #EXTINF:-1 group-title="日本",Sport Live Plus
 https://nl.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 group-title="日本",家庭戲劇頻道
+#EXTINF:-1 group-title="日本",Home Drama Channel
 https://nl.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 group-title="日本",頻道 Ginga
+#EXTINF:-1 group-title="日本",Channel Ginga
 https://nl.utako.moe/gingach/index.m3u8
-#EXTINF:-1 group-title="日本",Tabi 頻道
+#EXTINF:-1 group-title="日本",Tabi Channel
 https://nl.utako.moe/tabi/index.m3u8
-#EXTINF:-1 group-title="日本",Pigoo（NSFW)
-https://nl.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="日本",V Paradise（NSFW)
-https://nl.utako.moe/v_paradise/index.m3u8
 
 #EXTINF:-1 group-title="兒童卡通",LiveABC 互動英語台
 http://8.iptv543.com:50009/4gtv-live030/index.m3u8
