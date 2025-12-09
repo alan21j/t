@@ -2,6 +2,8 @@
 
 #EXTINF:-1 logo="" group-title="全球綜合" ,4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
+#EXTINF:-1 logo="" group-title="全球綜合" ,Action Movies
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,Arirang
@@ -35,17 +37,19 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_14
 #EXTINF:-1 logo="" group-title="全球綜合" ,CNN News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,CNN
+https://jmp2.uk/stvp-GBBD8000016N
+#EXTINF:-1 logo="" group-title="全球綜合" ,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 logo="" group-title="全球綜合" ,Comedy TV
+https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,Eurosport 4K
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
-#EXTINF:-1 logo="" group-title="全球綜合" ,EZTV-1歐洲華文
-http://oh.eztv.vip/live/eztv1.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,Fashion Channel
 http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 logo="" group-title="全球綜合" ,GB News
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 logo="" group-title="全球綜合" ,Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,HBO亞洲
@@ -54,6 +58,8 @@ http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hbohd_twn&token
 https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,JET綜合台
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=jet&token=ffmking
+#EXTINF:-1 logo="" group-title="全球綜合" ,LG 1 Film
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
 #EXTINF:-1 logo="" group-title="全球綜合" ,LG 1 Spotlight
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
 #EXTINF:-1 logo="" group-title="全球綜合" ,Mediacorp華文娛樂臺
@@ -64,6 +70,8 @@ https://live.mnb.mn/hls/mnb_world.stream.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,MTV娛樂台
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=mtvhd_twn&token=ffmking
+#EXTINF:-1 logo="" group-title="全球綜合" ,NBC
+https://d4whmvwm0rdvi.cloudfront.net/10007/99992212/hls/master.m3u8?ads.xumo_channelId=99992212&ads.asnw=169843&ads.afid=137704898&ads.sfid=16373024&ads.csid=lgchannels_us_nbcnewsnow_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99992212&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 logo="" group-title="全球綜合" ,Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,Newsy
@@ -88,6 +96,18 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:-1 logo="" group-title="全球綜合" ,Sky News
+https://jmp2.uk/stvp-USBB52000022Q
+#EXTINF:-1 logo="" group-title="全球綜合" ,Sony One Comedy HITS
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+#EXTINF:-1 logo="" group-title="全球綜合" ,Sony One Dragons' Den
+https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
+#EXTINF:-1 logo="" group-title="全球綜合" ,Sony One FAVES
+https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
+#EXTINF:-1 logo="" group-title="全球綜合" ,TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 logo="" group-title="全球綜合" ,Thriller TV
+https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,Travel XP
@@ -100,6 +120,8 @@ http://nocable.cc:8080//OURTV/OURTV@4806/35244
 http://nocable.cc:8080//OURTV/OURTV@4806/35240
 #EXTINF:-1 logo="" group-title="全球綜合" ,UK: SKY SPORTS Main Event
 http://nocable.cc:8080//OURTV/OURTV@4806/137720
+#EXTINF:-1 logo="" group-title="全球綜合" ,Universal Monsters
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993044/hls/master.m3u8?ads.xumo_channelId=99993044&ads.asnw=169843&ads.afid=380753606&ads.sfid=17850336&ads.csid=lgchannels_us_nbcuuniversalmonsters_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.channelId=99993044&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 logo="" group-title="全球綜合" ,Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 logo="" group-title="全球綜合" ,WION
@@ -135,8 +157,8 @@ https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TV
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 #EXTINF:-1 logo="" group-title="體育賽事" ,Game+
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,GEM Fit
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemfit/index-0.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,Geo Super
+http://116.90.120.149:8000/play/a021/index.m3u8
 #EXTINF:-1 logo="" group-title="體育賽事" ,Horse TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 logo="" group-title="體育賽事" ,KHL Prime
@@ -295,6 +317,8 @@ http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 logo="" group-title="臺灣" ,台視新聞
 http://8.iptv543.com:50009/4gtv-4gtv051/index.m3u8
 #EXTINF:-1 logo="" group-title="臺灣" ,國會頻道1
+http://61.58.60.230:9319/live/123.m3u8
+#EXTINF:-1 logo="" group-title="臺灣" ,國會頻道1
 http://8.iptv543.com:50009/of-4gtv-4gtv084/index.m3u8
 #EXTINF:-1 logo="" group-title="臺灣" ,國會頻道2
 http://8.iptv543.com:50009/of-4gtv-4gtv085/index.m3u8
@@ -389,13 +413,9 @@ rtmp://f13h.mine.nu/sat/tv701
 #EXTINF:-1 logo="" group-title="臺灣" ,美亞電影台
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=meiyamovie_twn&token=ffmking
 #EXTINF:-1 logo="" group-title="臺灣" ,美亞電影台
-http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-#EXTINF:-1 logo="" group-title="臺灣" ,美亞電影台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 logo="" group-title="臺灣" ,華視
 http://8.iptv543.com:50009/of-4gtv-4gtv041/index.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,華視
-https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv041
 #EXTINF:-1 logo="" group-title="臺灣" ,華視
 rtmp://f13h.mine.nu:1935/sat/tv111
 #EXTINF:-1 logo="" group-title="臺灣" ,華視
@@ -436,7 +456,145 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/
 http://8.iptv543.com:50009/litv-longturn03/index.m3u8
 
 #EXTINF:-1 logo="" group-title="日本" ,NHK Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,NHK Premium
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=25-mp4a_380800_jpn=28.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,NHK G
+https://nl.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,NHK E
+https://nl.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,NTV
+https://nl.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TBS
+https://nl.utako.moe/TBS/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Fuji TV
+https://nl.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TV Asahi
+https://nl.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TV Tokyo
+https://nl.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TOKYO MX1
+https://nl.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TOKYO MX2
+https://nl.utako.moe/Tokyo_MX2/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,MBS
+https://nl.utako.moe/mbs/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,ABC
+https://nl.utako.moe/abc/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TV Osaka
+https://nl.utako.moe/tvo/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Kansai TV
+https://nl.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,ytv
+https://nl.utako.moe/ytv/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,KBS
+https://nl.utako.moe/kbs/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,SUN
+https://nl.utako.moe/suntv/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,NHK BS
+https://nl.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BS NTV
+https://nl.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BS Asahi
+https://nl.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BS TBS
+https://nl.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BS TV Tokyo
+https://nl.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BS Fuji
+https://nl.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BS11
+https://nl.utako.moe/BS11/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,NHK BS4K
+https://nl.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,WOWOW Prime
+https://nl.utako.moe/wprime/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,WOWOW Cinema
+https://nl.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,WOWOW Live
+https://nl.utako.moe/wlive/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BS 10 Premium
+https://nl.utako.moe/bs10_star/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,JSport 1
+https://nl.utako.moe/js1/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,JSport 2
+https://nl.utako.moe/js2/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,JSport 3
+https://nl.utako.moe/js3/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,JSport 4
+https://nl.utako.moe/js4/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Green Channel
+https://nl.utako.moe/green/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Animax
+https://nl.utako.moe/Animax/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Nihon Eiga Senmon
+https://nl.utako.moe/nihoneiga/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Sky A
+https://nl.utako.moe/skya/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Gaora Sports
+https://nl.utako.moe/gaora/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,AT-X
+https://nl.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Space Shower TV
+https://nl.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,MTV
+https://nl.utako.moe/mtv/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Kayo Pops
+https://nl.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Kids Staton
+https://nl.utako.moe/kids_station/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Disney Channel
+https://nl.utako.moe/disneychan/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Cartoon Network
+https://nl.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Nittele G+
+https://nl.utako.moe/ntvgplus/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Family Gekijyo
+https://nl.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Mondo TV
+https://nl.utako.moe/mondo/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Music ON TV
+https://nl.utako.moe/musicon/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Golf Network
+https://nl.utako.moe/golf_network/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,The Cinema
+https://nl.utako.moe/the_cinema/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TBS Channel 1
+https://nl.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TBS Channel 2
+https://nl.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TV Asahi Channel 1
+https://nl.utako.moe/ex_ch1/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TV Asahi Channel 2
+https://nl.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Fuji TV ONE
+https://nl.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Fuji TV TWO
+https://nl.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Fuji TV NEXT
+https://nl.utako.moe/fuji_next/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Neco Channel
+https://nl.utako.moe/neco/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Dlife
+https://nl.utako.moe/dlife/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Toei Channel
+https://nl.utako.moe/toei/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Fighting TV Samurai
+https://nl.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Entermei Tele
+https://nl.utako.moe/entermei_tele/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Sport Live Plus
+https://nl.utako.moe/sport_live_plus/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Home Drama Channel
+https://nl.utako.moe/homedrama/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Channel Ginga
+https://nl.utako.moe/gingach/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Tabi Channel
+https://nl.utako.moe/tabi/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Pigoo (NSFW)
+https://nl.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,V Paradise (NSFW)
+https://nl.utako.moe/v_paradise/index.m3u8
 
 #EXTINF:-1 logo="" group-title="兒童卡通" ,LiveABC 互動英語台
 http://8.iptv543.com:50009/4gtv-live030/index.m3u8
@@ -462,6 +620,8 @@ https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,ADN TV+
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Afarin Baxcha
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Afarin TV [Not 24/7]
@@ -470,10 +630,20 @@ https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Anime Vision
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,ARB Gunes
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Atfal & Mawaheb TV
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Avatar
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca060-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c480aed6-08b6-4f7d-9964-40220005ecb8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Avatar
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5690-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f0f2f9f0-a766-421f-b28e-f13232bf4b9f
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Avatar
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60b4c17a81e29300071d3a39/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=640a4092-5016-4d01-bcbf-d66e4f7aa21d
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Baby Shark TV
@@ -482,8 +652,12 @@ https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,BabyFirst
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Bebecito Bum y sus amigos
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85e80dc7-d7c2-49ee-b346-20b976b1db9b
 #EXTINF:-1 logo="" group-title="兒童卡通" ,BeJoy.kids
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Big Time Rush
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663385cd06839f0008e00e93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac7da3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b885ec0-86a3-4a1e-b3cb-90a1f041ddf9
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Blues TV
@@ -498,16 +672,26 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Chutti TV
 http://87.255.35.150:18855/
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Clan
+https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,ČT:D/ČT art
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Dios Te Ve Kids
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Disney Channel
 https://e5.thetvapp.to/hls/DisneyChannelEast/index.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Disney Channel
+http://84.54.128.52:9090/play/3006/index.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Disney Channel Latin America
 http://201.230.121.186:8000/play/a0fb/index.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Disney Junior East
 https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Dora TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050350-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c938e920-2111-4877-9e36-97d7a0a0d005
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Dora TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e951258a26d40007b3034c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0687-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=697806d6-afc8-4125-a899-6ef54b8526fc
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Ducktv
+https://jmp2.uk/stvp-ESBC4700001GR
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,EBS kids (400p) [Not 24/7]
@@ -518,6 +702,8 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Extrema Kids TV [Not 24/7]
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Garfield and Friends
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f176-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68c3c9ce-0e68-43fa-ade2-43491d9d88e2
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Hungama TV
@@ -556,8 +742,14 @@ http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Nick Jr. Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb75c3afd1200079146a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f07-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08e1ba5b-febb-444b-927d-f017f608e57e
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Nick Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&profilesFromStream=true&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,NickToons
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
+#EXTINF:-1 logo="" group-title="兒童卡通" ,One Piece
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6380c94947c72b0007ee9a13/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06d815-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=011422f0-e50a-4334-9bb5-b01fe7684ef5
 #EXTINF:-1 logo="" group-title="兒童卡通" ,PBS Kids Eastern/Central
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,PBS Kids Pacific
@@ -566,10 +758,20 @@ https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Pluto TV Junior
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc43-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39cb1f02-1907-4cc7-8224-1bd6adfb09bc
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Pluto TV Kids Animation
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc42-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1894d5d0-76ab-4321-9f74-30abda806f6e
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Pluto TV Retro Toons
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c8-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3784c13-5aeb-4c18-bd31-9334376945c6
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Pokémon
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23
 #EXTINF:-1 logo="" group-title="兒童卡通" ,RiC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Sabrina la série animée
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e78c4954f250007ef7b84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d91f8235-755b-4e9c-8062-05d444de314d
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Sat 7 Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,SKWAD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Smile TV (360p) [Geo-blocked]
@@ -590,10 +792,14 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,TV Bahoriston
 https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,TVCARiB Kids & Teens [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,TVS Hi Tops
 https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,XilamTV
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,YAAAS! [Geo-blocked]
+https://jmp2.uk/stvp-GB340000289
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Yu-Gi-Oh!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21d081-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ca5a27f-794c-41ee-b51a-6fbe1b093d0b
 #EXTINF:-1 logo="" group-title="兒童卡通" ,ZB Cartoon
@@ -602,10 +808,20 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Карусель International
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Мама
+http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Мульт и музыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Мульт
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Рыжий
 http://31.148.48.15/Rizhiy/index.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,Солнце
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Тамыр (Уфа)
+https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 logo="" group-title="兒童卡通" ,韓國EBS兒童
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
@@ -724,6 +940,8 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/
 #EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 #EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
 http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 #EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
@@ -731,6 +949,8 @@ http://mytv.cdn.loc.cc/o12.php?id=fct
 http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
 #EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
 http://php.jdshipin.com/smt.php?id=Tvbjade
 #EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
@@ -741,8 +961,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
 http://r.jdshipin.com/62WM7
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
-http://r.jdshipin.com/GeWKr
 #EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
 http://r.jdshipin.com/qrfbg
 #EXTINF:-1 logo="" group-title="中國港澳" ,TVB 翡翠台
@@ -755,8 +973,6 @@ https://cdn6.163189.xyz/163189/fct4k
 http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
 #EXTINF:-1 logo="" group-title="中國港澳" ,ViuTV
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,ViuTV
-http://beishan008.asuscomm.com:8889/bysid/99.m3u8
 #EXTINF:-1 logo="" group-title="中國港澳" ,ViuTV
 http://bziyunshao.synology.me:8889/bysid/99.m3u8
 #EXTINF:-1 logo="" group-title="中國港澳" ,ViuTV
@@ -927,8 +1143,6 @@ http://172.168.1.254:5080/migu720p.php?id=608807416
 #EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5
 http://172.168.1.254:5080/migu720p.php?id=641886683
 #EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5
-http://172.168.1.254:5080/zb.php?id=CCTV-5
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5
 http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5
 http://112.27.235.94:8000/hls/5/index.m3u8
@@ -936,8 +1150,6 @@ http://112.27.235.94:8000/hls/5/index.m3u8
 http://112.46.105.20:8009/hls/503/index.m3u8
 #EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5+
 http://172.168.1.254:5080/migu720p.php?id=641886773
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5+
-http://172.168.1.254:5080/zb.php?id=CCTV-5+
 #EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5+
 http://112.27.235.94:8000/hls/6/index.m3u8
 #EXTINF:-1 logo="" group-title="中國官媒" ,CCTV6
@@ -1131,8 +1343,6 @@ http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 http://112.27.235.94:8000/hls/45/index.m3u8
 #EXTINF:-1 logo="" group-title="中國衛視" ,山西衛視
 http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,廣東衛視
-http://172.168.1.254:5080/migu720p.php?id=608831231
 #EXTINF:-1 logo="" group-title="中國衛視" ,廣東衛視
 http://172.168.1.254:5080/zb.php?id=广东卫视
 #EXTINF:-1 logo="" group-title="中國衛視" ,廣東衛視
@@ -1392,6 +1602,8 @@ http://111.196.133.168:8012/rtp/239.3.1.164:8001
 rtmp://f13h.mine.nu:1935/sat/tv721
 #EXTINF:-1 logo="" group-title="中國體育" ,緯來體育
 rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 logo="" group-title="中國體育" ,風雲足球
+http://183.11.239.36:808/hls/133/index.m3u8
 #EXTINF:-1 logo="" group-title="中國體育" ,風雲足球
 http://61.184.46.85:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 logo="" group-title="中國體育" ,風雲足球
