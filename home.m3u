@@ -650,46 +650,20 @@ http://172.168.1.254:5080/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/
 #EXTINF:-1 group-title="臺灣",龍華電影
 http://8.iptv543.com:50009/litv-longturn03/index.m3u8
 
-#EXTINF:-1 group-title="日本",NHK Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 group-title="日本",NHK Premium
-https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=25-mp4a_380800_jpn=28.m3u8
-#EXTINF:-1 group-title="日本" tvg-logo=" https://www.lysvc.cc/TVlogo/img/NHKWorld.png",NHK World
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1 group-title="日本",NHK G
-https://nl.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="日本",NHK E
-https://nl.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="日本",NTV
-https://nl.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="日本",TBS
-https://nl.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="日本",Fuji TV
-https://nl.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="日本",TV Asahi
-https://nl.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="日本",TV Tokyo
-https://nl.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="日本",TOKYO MX1
-https://nl.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="日本",TOKYO MX2
-https://nl.utako.moe/Tokyo_MX2/index.m3u8
-#EXTINF:-1 group-title="日本",MBS
-https://nl.utako.moe/mbs/index.m3u8
+#EXTINF:-1 group-title="日本",ABC (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 #EXTINF:-1 group-title="日本",ABC
 https://nl.utako.moe/abc/index.m3u8
-#EXTINF:-1 group-title="日本",TV Osaka
-https://nl.utako.moe/tvo/index.m3u8
-#EXTINF:-1 group-title="日本",Kansai TV
-https://nl.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 group-title="日本",ytv
-https://nl.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="日本",KBS
-https://nl.utako.moe/kbs/index.m3u8
-#EXTINF:-1 group-title="日本",SUN
-https://nl.utako.moe/suntv/index.m3u8
-#EXTINF:-1 group-title="日本",NHK BS
-https://nl.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="日本",Animal Planet (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+#EXTINF:-1 group-title="日本",Animax (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 group-title="日本",Animax
+https://nl.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="日本",AT-X
+https://nl.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="日本",BBC News (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="日本",BS NTV
 https://nl.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 group-title="日本",BS Asahi
@@ -700,18 +674,90 @@ https://nl.utako.moe/bstbs/index.m3u8
 https://nl.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="日本",BS Fuji
 https://nl.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 group-title="日本",BS11
-https://nl.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="日本",NHK BS4K
-https://nl.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 group-title="日本",WOWOW Prime
-https://nl.utako.moe/wprime/index.m3u8
-#EXTINF:-1 group-title="日本",WOWOW Cinema
-https://nl.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 group-title="日本",WOWOW Live
-https://nl.utako.moe/wlive/index.m3u8
 #EXTINF:-1 group-title="日本",BS 10 Premium
 https://nl.utako.moe/bs10_star/index.m3u8
+#EXTINF:-1 group-title="日本",BS NTV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1 group-title="日本",BS Asahi (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1 group-title="日本",BS TBS (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 group-title="日本",BS TV Tokyo (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF:-1 group-title="日本",BS Fuji (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 group-title="日本",BS 10 Star Channel (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 group-title="日本",BS11
+https://nl.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="日本",Cartoon Network
+https://nl.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 group-title="日本",Cartoon Network (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 group-title="日本",Channel Ginga
+https://nl.utako.moe/gingach/index.m3u8
+#EXTINF:-1 group-title="日本",Channel Ginga (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF:-1 group-title="日本",CNNj (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+#EXTINF:-1 group-title="日本",Discovery Channel (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:-1 group-title="日本",Disney Channel (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 group-title="日本",Disney Channel
+https://nl.utako.moe/disneychan/index.m3u8
+#EXTINF:-1 group-title="日本",Disney Junior (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 group-title="日本",Dlife
+https://nl.utako.moe/dlife/index.m3u8
+#EXTINF:-1 group-title="日本",Eisei Gekijo (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:-1 group-title="日本",Entermei Tele
+https://nl.utako.moe/entermei_tele/index.m3u8
+#EXTINF:-1 group-title="日本",Family Gekijyo
+https://nl.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 group-title="日本",Family Gekijyo (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+#EXTINF:-1 group-title="日本",Fighting TV Samurai
+https://nl.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 group-title="日本",Fishing Vision (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:-1 group-title="日本",Fuji TV
+https://nl.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="日本",Fuji TV HD (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
+#EXTINF:-1 group-title="日本",Fuji TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 group-title="日本",Fuji TV ONE
+https://nl.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 group-title="日本",Fuji TV TWO
+https://nl.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 group-title="日本",Fuji TV NEXT
+https://nl.utako.moe/fuji_next/index.m3u8
+#EXTINF:-1 group-title="日本",Fuji TV Next (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+#EXTINF:-1 group-title="日本",Gaora Sports
+https://nl.utako.moe/gaora/index.m3u8
+#EXTINF:-1 group-title="日本",GAORA SPORTS (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 group-title="日本",Golf Network
+https://nl.utako.moe/golf_network/index.m3u8
+#EXTINF:-1 group-title="日本",Golf Network (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+#EXTINF:-1 group-title="日本",Green Channel
+https://nl.utako.moe/green/index.m3u8
+#EXTINF:-1 group-title="日本",Green Channel (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+#EXTINF:-1 group-title="日本",History (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1 group-title="日本",Home Drama Channel
+https://nl.utako.moe/homedrama/index.m3u8
+#EXTINF:-1 group-title="日本",Home Drama Channel (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+#EXTINF:-1 group-title="日本",JCOM BS (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+#EXTINF:-1 group-title="日本",Jidaigeki Senmon (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
 #EXTINF:-1 group-title="日本",JSport 1
 https://nl.utako.moe/js1/index.m3u8
 #EXTINF:-1 group-title="日本",JSport 2
@@ -720,78 +766,176 @@ https://nl.utako.moe/js2/index.m3u8
 https://nl.utako.moe/js3/index.m3u8
 #EXTINF:-1 group-title="日本",JSport 4
 https://nl.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="日本",Green Channel
-https://nl.utako.moe/green/index.m3u8
-#EXTINF:-1 group-title="日本",Animax
-https://nl.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="日本",Nihon Eiga Senmon
-https://nl.utako.moe/nihoneiga/index.m3u8
-#EXTINF:-1 group-title="日本",Sky A
-https://nl.utako.moe/skya/index.m3u8
-#EXTINF:-1 group-title="日本",Gaora Sports
-https://nl.utako.moe/gaora/index.m3u8
-#EXTINF:-1 group-title="日本",AT-X
-https://nl.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 group-title="日本",Space Shower TV
-https://nl.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="日本",MTV
-https://nl.utako.moe/mtv/index.m3u8
+#EXTINF:-1 group-title="日本",JSport 1 (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="日本",JSport 2 (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 group-title="日本",JSport 3 (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 group-title="日本",JSport 4 (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="日本",Kansai TV
+https://nl.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 group-title="日本",Kansai TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 #EXTINF:-1 group-title="日本",Kayo Pops
 https://nl.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 group-title="日本",Kayo Pops (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1 group-title="日本",KBS
+https://nl.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="日本",Kids Staton
 https://nl.utako.moe/kids_station/index.m3u8
-#EXTINF:-1 group-title="日本",Disney Channel
-https://nl.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 group-title="日本",Cartoon Network
-https://nl.utako.moe/cartoon_network/index.m3u8
-#EXTINF:-1 group-title="日本",Nittele G+
-https://nl.utako.moe/ntvgplus/index.m3u8
-#EXTINF:-1 group-title="日本",Family Gekijyo
-https://nl.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 group-title="日本",Kids Staton TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 group-title="日本",LaLa TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+#EXTINF:-1 group-title="日本",MBS (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-1 group-title="日本",MBS
+https://nl.utako.moe/mbs/index.m3u8
 #EXTINF:-1 group-title="日本",Mondo TV
 https://nl.utako.moe/mondo/index.m3u8
+#EXTINF:-1 group-title="日本",Mondo TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+#EXTINF:-1 group-title="日本",Movie Plus (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 group-title="日本",MTV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1 group-title="日本",MTV
+https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="日本",Music ON TV
 https://nl.utako.moe/musicon/index.m3u8
-#EXTINF:-1 group-title="日本",Golf Network
-https://nl.utako.moe/golf_network/index.m3u8
-#EXTINF:-1 group-title="日本",The Cinema
-https://nl.utako.moe/the_cinema/index.m3u8
+#EXTINF:-1 group-title="日本",Music Japan TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1 group-title="日本",National Geographic Japan (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 group-title="日本",Neco Channel
+https://nl.utako.moe/neco/index.m3u8
+#EXTINF:-1 group-title="日本",NHK G
+https://nl.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="日本",NHK E
+https://nl.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="日本",NHK G HD (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
+#EXTINF:-1 group-title="日本",NHK E HD (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
+#EXTINF:-1 group-title="日本",NHK G (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 group-title="日本",NHK E (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 group-title="日本",NHK G Osaka (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 group-title="日本",NHK BS
+https://nl.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="日本",NHK BS4K
+https://nl.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 group-title="日本",NHK BS (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 group-title="日本",NHK BS4K (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 group-title="日本",Nihon Eiga Senmon
+https://nl.utako.moe/nihoneiga/index.m3u8
+#EXTINF:-1 group-title="日本",Nihon Eiga Senmon (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 group-title="日本",Nittele G+
+https://nl.utako.moe/ntvgplus/index.m3u8
+#EXTINF:-1 group-title="日本",Nittele G+ (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:-1 group-title="日本",NTV HD (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
+#EXTINF:-1 group-title="日本",NTV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 group-title="日本",NTV
+https://nl.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="日本",Pigoo (NSFW)
+https://nl.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="日本",Sky A
+https://nl.utako.moe/skya/index.m3u8
+#EXTINF:-1 group-title="日本",Sky A (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 group-title="日本",Sky A  (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 group-title="日本",Space Shower TV
+https://nl.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="日本",Space Shower TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1 group-title="日本",Sport Live Plus
+https://nl.utako.moe/sport_live_plus/index.m3u8
+#EXTINF:-1 group-title="日本",SUN (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-1 group-title="日本",SUN
+https://nl.utako.moe/suntv/index.m3u8
+#EXTINF:-1 group-title="日本",Tabi Channel
+https://nl.utako.moe/tabi/index.m3u8
+#EXTINF:-1 group-title="日本",Tabi Channel (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+#EXTINF:-1 group-title="日本",Takarazuka Sky Stage (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+#EXTINF:-1 group-title="日本",TBS HD (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
+#EXTINF:-1 group-title="日本",TBS (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 #EXTINF:-1 group-title="日本",TBS Channel 1
 https://nl.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="日本",TBS Channel 2
 https://nl.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 group-title="日本",TBS News (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+#EXTINF:-1 group-title="日本",TBS
+https://nl.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="日本",The Cinema
+https://nl.utako.moe/the_cinema/index.m3u8
+#EXTINF:-1 group-title="日本",Toei Channel
+https://nl.utako.moe/toei/index.m3u8
+#EXTINF:-1 group-title="日本",Toei Channel (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 group-title="日本",TOKYO MX1
+https://nl.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="日本",TOKYO MX2
+https://nl.utako.moe/Tokyo_MX2/index.m3u8
+#EXTINF:-1 group-title="日本",TOKYO MX1 HD (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
+#EXTINF:-1 group-title="日本",TOKYO MX1 (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+#EXTINF:-1 group-title="日本",TV Asahi
+https://nl.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="日本",TV Tokyo
+https://nl.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="日本",TV Asahi HD (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+#EXTINF:-1 group-title="日本",TV Tokyo HD (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
+#EXTINF:-1 group-title="日本",TV Asahi (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 group-title="日本",TV Tokyo (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1 group-title="日本",TV Osaka
+https://nl.utako.moe/tvo/index.m3u8
+#EXTINF:-1 group-title="日本",TV Osaka (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 #EXTINF:-1 group-title="日本",TV Asahi Channel 1
 https://nl.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 group-title="日本",TV Asahi Channel 2
 https://nl.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 group-title="日本",Fuji TV ONE
-https://nl.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 group-title="日本",Fuji TV TWO
-https://nl.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 group-title="日本",Fuji TV NEXT
-https://nl.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 group-title="日本",Neco Channel
-https://nl.utako.moe/neco/index.m3u8
-#EXTINF:-1 group-title="日本",Dlife
-https://nl.utako.moe/dlife/index.m3u8
-#EXTINF:-1 group-title="日本",Toei Channel
-https://nl.utako.moe/toei/index.m3u8
-#EXTINF:-1 group-title="日本",Fighting TV Samurai
-https://nl.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 group-title="日本",Entermei Tele
-https://nl.utako.moe/entermei_tele/index.m3u8
-#EXTINF:-1 group-title="日本",Sport Live Plus
-https://nl.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 group-title="日本",Home Drama Channel
-https://nl.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 group-title="日本",Channel Ginga
-https://nl.utako.moe/gingach/index.m3u8
-#EXTINF:-1 group-title="日本",Tabi Channel
-https://nl.utako.moe/tabi/index.m3u8
-#EXTINF:-1 group-title="日本",Pigoo (NSFW)
-https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="日本",V Paradise (NSFW)
 https://nl.utako.moe/v_paradise/index.m3u8
+#EXTINF:-1 group-title="日本",WOWOW Prime
+https://nl.utako.moe/wprime/index.m3u8
+#EXTINF:-1 group-title="日本",WOWOW Cinema
+https://nl.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 group-title="日本",WOWOW Live
+https://nl.utako.moe/wlive/index.m3u8
+#EXTINF:-1 group-title="日本",WOWOW Prime (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:-1 group-title="日本",WOWOW Cinema (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 group-title="日本",WOWOW Live (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 group-title="日本",ytv (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+#EXTINF:-1 group-title="日本",ytv
+https://nl.utako.moe/ytv/index.m3u8
 
 #EXTINF:-1 group-title="兒童卡通",LiveABC 互動英語台
 http://8.iptv543.com:50009/4gtv-live030/index.m3u8
