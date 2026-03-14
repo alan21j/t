@@ -288,18 +288,6 @@ http://85.121.51.52:5080/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongyin
 #EXTINF:-1 group-title="日本",ytv
 http://85.121.51.52:5080/mytv.php?url=https://nl.utako.moe/ytv/index.m3u8
 
-#EXTINF:-1 group-title="中國港澳",Astro AEC
-http://85.121.51.52:5080/mytv.php?url=http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 group-title="中國港澳",Astro AOD
-http://85.121.51.52:5080/mytv.php?url=http://php.jdshipin.com/smt.php?id=Aodhd
-#EXTINF:-1 group-title="中國港澳",Astro AOD
-http://85.121.51.52:5080/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=aod
-#EXTINF:-1 group-title="中國港澳",Astro QJ
-http://85.121.51.52:5080/mytv.php?url=http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 group-title="中國港澳",Astro 歡喜
-http://85.121.51.52:5080/mytv.php?url=http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 group-title="中國港澳",Catchplay電影台
-http://85.121.51.52:5080/mytv.php?url=http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=catchplay_twn&token=ffmking
 #EXTINF:-1 group-title="中國港澳",CCTV1港澳版
 http://85.121.51.52:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY76
