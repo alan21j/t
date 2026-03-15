@@ -848,8 +848,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="日本",NTV
 https://nl.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="日本",Pigoo (NSFW)
-https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="日本",Sky A
 https://nl.utako.moe/skya/index.m3u8
 #EXTINF:-1 group-title="日本",Sky A (Primehome)
@@ -918,8 +916,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 https://nl.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 group-title="日本",TV Asahi Channel 2
 https://nl.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 group-title="日本",V Paradise (NSFW)
-https://nl.utako.moe/v_paradise/index.m3u8
 #EXTINF:-1 group-title="日本",WOWOW Prime
 https://nl.utako.moe/wprime/index.m3u8
 #EXTINF:-1 group-title="日本",WOWOW Cinema
@@ -936,6 +932,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 #EXTINF:-1 group-title="日本",ytv
 https://nl.utako.moe/ytv/index.m3u8
+#EXTINF:-1 group-title="日本",Pigoo (NSFW)
+https://nl.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="日本",V Paradise (NSFW)
+https://nl.utako.moe/v_paradise/index.m3u8
 
 #EXTINF:-1 group-title="兒童卡通",LiveABC 互動英語台
 http://8.iptv543.com:50009/4gtv-live030/index.m3u8
