@@ -1,0 +1,634 @@
+#EXTM3U
+
+#EXTINF:-1 logo="" group-title="国际" ,RT News
+https://xxg.laispot.com/mytv.php?url=https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,TRT World
+https://xxg.laispot.com/mytv.php?url=https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Global News
+https://xxg.laispot.com/mytv.php?url=https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8&backup=https://xxg.laispot.com/mytv.php?url=https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Discovery Channel
+https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Disney XD
+https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,ESPN
+https://xxg.laispot.com/mytv.php?url=http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,ESPN U
+https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Fox Sports 1
+https://xxg.laispot.com/mytv.php?url=http://mytvstream.net:8080/live/30550113/30550113/1846.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Fox Sports 2
+https://xxg.laispot.com/mytv.php?url=http://mytvstream.net:8080/live/30550113/30550113/1847.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,HBO
+https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,HBO 2
+https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,ION TV
+https://xxg.laispot.com/mytv.php?url=http://mytvstream.net:8080/live/30550113/30550113/9297.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Lifetime Movie Network
+https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,National Geographic
+https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Cartoon Network
+https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,C-Span
+https://xxg.laispot.com/mytv.php?url=http://mytvstream.net:8080/live/30550113/30550113/136589.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,CMT
+https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,RT Documentary
+https://xxg.laispot.com/mytv.php?url=https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Newsy
+https://xxg.laispot.com/mytv.php?url=https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Redbull
+https://xxg.laispot.com/mytv.php?url=http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,HollyWire
+https://xxg.laispot.com/mytv.php?url=https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Comedy Central
+https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Wild Earth
+https://xxg.laispot.com/mytv.php?url=https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Fashion Channel
+https://xxg.laispot.com/mytv.php?url=http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Cooking Channel
+https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Sky Sports Tennis
+https://xxg.laispot.com/mytv.php?url=https://7pal.short.gy/ssportstn
+#EXTINF:-1 logo="" group-title="国际" ,Sky Sports News
+https://xxg.laispot.com/mytv.php?url=https://7pal.short.gy/ssportsnw
+#EXTINF:-1 logo="" group-title="国际" ,EuroSport
+https://xxg.laispot.com/mytv.php?url=https://7pal.short.gy/eusport4k
+#EXTINF:-1 logo="" group-title="国际" ,Cinemax Moremax
+https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,CNN News
+https://xxg.laispot.com/mytv.php?url=https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8&backup=https://xxg.laispot.com/mytv.php?url=https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8,https://xxg.laispot.com/mytv.php?url=https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8,https://xxg.laispot.com/mytv.php?url=https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Eurosport 4K
+https://xxg.laispot.com/mytv.php?url=http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,EZTV-1歐洲華文
+https://xxg.laispot.com/mytv.php?url=http://oh.eztv.vip/live/eztv1.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,MNB World蒙古世界臺
+https://xxg.laispot.com/mytv.php?url=https://live.mnb.mn/hls/mnb_world.stream.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Red Bull TV
+https://xxg.laispot.com/mytv.php?url=http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,RT Arabic
+https://xxg.laispot.com/mytv.php?url=https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,RT Balkan
+https://xxg.laispot.com/mytv.php?url=https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,RT DE
+https://xxg.laispot.com/mytv.php?url=https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,RT Doc-Русский
+https://xxg.laispot.com/mytv.php?url=https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,RT Español
+https://xxg.laispot.com/mytv.php?url=https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,SEC Network
+https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Trace Sports
+https://xxg.laispot.com/mytv.php?url=https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,Travel XP
+https://xxg.laispot.com/mytv.php?url=http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
+#EXTINF:-1 logo="" group-title="国际" ,UK: SKY SPORTS F1
+https://xxg.laispot.com/mytv.php?url=http://nocable.cc:8080//OURTV/OURTV@4806/35244
+#EXTINF:-1 logo="" group-title="国际" ,UK: SKY SPORTS Golf
+https://xxg.laispot.com/mytv.php?url=http://nocable.cc:8080//OURTV/OURTV@4806/35240
+#EXTINF:-1 logo="" group-title="国际" ,UK: SKY SPORTS Main Event
+https://xxg.laispot.com/mytv.php?url=http://nocable.cc:8080//OURTV/OURTV@4806/137720
+
+#EXTINF:-1 logo="" group-title="體育賽事" ,:Šport
+https://xxg.laispot.com/mytv.php?url=http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,30A Golf Kingdom
+https://xxg.laispot.com/mytv.php?url=https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,AntenaSport [Not 24/7]
+https://xxg.laispot.com/mytv.php?url=https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,CDN Deportes
+https://xxg.laispot.com/mytv.php?url=http://200.125.170.122:8000/play/a03j/index.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,ColimdoT TV
+https://xxg.laispot.com/mytv.php?url=https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,ČT Sport
+https://xxg.laispot.com/mytv.php?url=http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,ESPN
+https://xxg.laispot.com/mytv.php?url=http://41.205.93.154/ESPN/index.m3u8&backup=https://xxg.laispot.com/mytv.php?url=https://l.lioncdn.net/ESPN/index.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,Game+
+https://xxg.laispot.com/mytv.php?url=https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,Horse TV
+https://xxg.laispot.com/mytv.php?url=https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,MadeinBO TV
+https://xxg.laispot.com/mytv.php?url=https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,NBA TV
+https://xxg.laispot.com/mytv.php?url=http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,NBC Sports Bay Area [Not 24/7]
+https://xxg.laispot.com/mytv.php?url=https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 logo="" group-title="體育賽事" ,NBC Sports Boston [Not 24/7]
+https://xxg.laispot.com/mytv.php?url=https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 logo="" group-title="體育賽事" ,Ovacion TV [Not 24/7]
+https://xxg.laispot.com/mytv.php?url=http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,Persiana Fight
+https://xxg.laispot.com/mytv.php?url=https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,PRO Sport International
+https://xxg.laispot.com/mytv.php?url=https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,RightNow TV
+https://xxg.laispot.com/mytv.php?url=https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+#EXTINF:-1 logo="" group-title="體育賽事" ,杜拜體育2
+https://xxg.laispot.com/mytv.php?url=https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:-1 logo="" group-title="臺灣" ,CCN TV
+https://xxg.laispot.com/mytv.php?url=https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="臺灣" ,Channel 5
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://cdn6.163189.xyz/163189/ch5,https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+#EXTINF:-1 logo="" group-title="臺灣" ,Channel 8
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://cdn6.163189.xyz/163189/ch8,https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+#EXTINF:-1 logo="" group-title="臺灣" ,Channel U
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://cdn6.163189.xyz/163189/chu,https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+#EXTINF:-1 logo="" group-title="臺灣" ,TVBS亞洲
+https://xxg.laispot.com/mytv.php?url=http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://38.64.72.148/hls/modn/list/4005/playlist.m3u8,https://xxg.laispot.com/mytv.php?url=http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 logo="" group-title="臺灣" ,人間衛視
+https://xxg.laispot.com/mytv.php?url=http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u&backup=https://xxg.laispot.com/mytv.php?url=http://8.iptv543.com:50009/4gtv-live008/index.m3u8,https://xxg.laispot.com/mytv.php?url=https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 logo="" group-title="臺灣" ,台視新聞
+https://xxg.laispot.com/mytv.php?url=http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8,https://xxg.laispot.com/mytv.php?url=http://8.iptv543.com:50009/4gtv-4gtv051/index.m3u8,https://xxg.laispot.com/mytv.php?url=https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv051
+#EXTINF:-1 logo="" group-title="臺灣" ,大立電視台
+https://xxg.laispot.com/mytv.php?url=http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 logo="" group-title="臺灣" ,富立電視台
+https://xxg.laispot.com/mytv.php?url=http://tv.fltvshow.com.tw/hls/fltv.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://tv.fltvshow.com.tw/hls/show.m3u8
+#EXTINF:-1 logo="" group-title="臺灣" ,東森美洲
+https://xxg.laispot.com/mytv.php?url=http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8,https://xxg.laispot.com/mytv.php?url=http://udnhls.skilldns.com:80/dsxw.m3u8,https://xxg.laispot.com/mytv.php?url=http://udnhls.skilldns.com/dsxw.m3u8
+#EXTINF:-1 logo="" group-title="臺灣" ,東森超視
+https://xxg.laispot.com/mytv.php?url=http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8,https://xxg.laispot.com/mytv.php?url=rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 logo="" group-title="臺灣" ,民視新聞
+https://xxg.laispot.com/mytv.php?url=http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8,https://xxg.laispot.com/mytv.php?url=http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8,https://xxg.laispot.com/mytv.php?url=http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 logo="" group-title="臺灣" ,生命電視
+https://xxg.laispot.com/mytv.php?url=http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 logo="" group-title="臺灣" ,緯來精采
+https://xxg.laispot.com/mytv.php?url=http://61.221.215.25:8800/hls/48/index.m3u8
+
+#EXTINF:-1 logo="" group-title="日本" ,ABC (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+#EXTINF:-1 logo="" group-title="日本" ,ABC
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/abc/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,AT-X
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BBC News (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1 logo="" group-title="日本" ,BS NTV
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BS Asahi
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BS TBS
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BS TV Tokyo
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BS Fuji
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BS 10 Premium
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/bs10_star/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,BS Asahi (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF:-1 logo="" group-title="日本" ,BS Fuji (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 logo="" group-title="日本" ,BS 10 Star Channel (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 logo="" group-title="日本" ,BS11
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/BS11/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Cartoon Network
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Cartoon Network (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 logo="" group-title="日本" ,Channel Ginga
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/gingach/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Channel Ginga (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF:-1 logo="" group-title="日本" ,CNNj (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+#EXTINF:-1 logo="" group-title="日本" ,Discovery Channel (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:-1 logo="" group-title="日本" ,Disney Channel (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 logo="" group-title="日本" ,Disney Junior (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 logo="" group-title="日本" ,Eisei Gekijo (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:-1 logo="" group-title="日本" ,Family Gekijyo
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Family Gekijyo (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+#EXTINF:-1 logo="" group-title="日本" ,Fighting TV Samurai
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Fishing Vision (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:-1 logo="" group-title="日本" ,Fuji TV
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Fuji TV HD (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
+#EXTINF:-1 logo="" group-title="日本" ,Fuji TV (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 logo="" group-title="日本" ,Fuji TV TWO
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Fuji TV NEXT
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/fuji_next/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Fuji TV Next (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+#EXTINF:-1 logo="" group-title="日本" ,Gaora Sports
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/gaora/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,GAORA SPORTS (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+#EXTINF:-1 logo="" group-title="日本" ,Golf Network
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/golf_network/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Green Channel
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/green/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Green Channel (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+#EXTINF:-1 logo="" group-title="日本" ,History (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1 logo="" group-title="日本" ,Home Drama Channel
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/homedrama/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Home Drama Channel (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+#EXTINF:-1 logo="" group-title="日本" ,JCOM BS (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+#EXTINF:-1 logo="" group-title="日本" ,Jidaigeki Senmon (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+#EXTINF:-1 logo="" group-title="日本" ,JSport 1
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/js1/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,JSport 2
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/js2/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,JSport 3
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/js3/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,JSport 1 (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 logo="" group-title="日本" ,Kansai TV (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+#EXTINF:-1 logo="" group-title="日本" ,Kayo Pops
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Kayo Pops (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1 logo="" group-title="日本" ,Kids Staton TV (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 logo="" group-title="日本" ,LaLa TV (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+#EXTINF:-1 logo="" group-title="日本" ,Mondo TV
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/mondo/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Mondo TV (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+#EXTINF:-1 logo="" group-title="日本" ,Movie Plus (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 logo="" group-title="日本" ,MTV (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1 logo="" group-title="日本" ,MTV
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/mtv/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Music ON TV
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/musicon/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Music Japan TV (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+#EXTINF:-1 logo="" group-title="日本" ,National Geographic Japan (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+#EXTINF:-1 logo="" group-title="日本" ,Neco Channel
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/neco/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,NHK G
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,NHK E
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,NHK E HD (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
+#EXTINF:-1 logo="" group-title="日本" ,NHK G (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 logo="" group-title="日本" ,NHK E (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 logo="" group-title="日本" ,NHK G Osaka (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 logo="" group-title="日本" ,NHK BS (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 logo="" group-title="日本" ,NHK BS4K (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 logo="" group-title="日本" ,Nihon Eiga Senmon
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/nihoneiga/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Nihon Eiga Senmon (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 logo="" group-title="日本" ,Nittele G+
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/ntvgplus/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,NTV HD (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
+#EXTINF:-1 logo="" group-title="日本" ,NTV (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 logo="" group-title="日本" ,NTV
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Sky A
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/skya/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Sky A  (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 logo="" group-title="日本" ,Space Shower TV
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Space Shower TV (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+#EXTINF:-1 logo="" group-title="日本" ,SUN (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-1 logo="" group-title="日本" ,SUN
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/suntv/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Tabi Channel (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+#EXTINF:-1 logo="" group-title="日本" ,Takarazuka Sky Stage (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+#EXTINF:-1 logo="" group-title="日本" ,TBS (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+#EXTINF:-1 logo="" group-title="日本" ,TBS Channel 1
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TBS Channel 2
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TBS News (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+#EXTINF:-1 logo="" group-title="日本" ,The Cinema
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/the_cinema/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Toei Channel
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/toei/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,Toei Channel (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 logo="" group-title="日本" ,TOKYO MX1
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TV Asahi
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TV Tokyo
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TV Asahi (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 logo="" group-title="日本" ,TV Osaka
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/tvo/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TV Osaka (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+#EXTINF:-1 logo="" group-title="日本" ,TV Asahi Channel 1
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/ex_ch1/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,TV Asahi Channel 2
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,WOWOW Prime
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/wprime/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,WOWOW Cinema
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,WOWOW Live
+https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/wlive/index.m3u8
+#EXTINF:-1 logo="" group-title="日本" ,WOWOW Prime (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+#EXTINF:-1 logo="" group-title="日本" ,WOWOW Cinema (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 logo="" group-title="日本" ,WOWOW Live (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+#EXTINF:-1 logo="" group-title="日本" ,ytv (Primehome)
+https://xxg.laispot.com/mytv.php?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+
+#EXTINF:-1 logo="" group-title="兒童卡通" ,4 Fun Kids (576i) [[Not 24/7]]
+https://xxg.laispot.com/mytv.php?url=https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Afarin TV [Not 24/7]
+https://xxg.laispot.com/mytv.php?url=https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Aghapy Kids
+https://xxg.laispot.com/mytv.php?url=https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,ARB Gunes
+https://xxg.laispot.com/mytv.php?url=https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Atfal & Mawaheb TV
+https://xxg.laispot.com/mytv.php?url=https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Baby Shark TV
+https://xxg.laispot.com/mytv.php?url=https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8&backup=https://xxg.laispot.com/mytv.php?url=https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,BeJoy.kids
+https://xxg.laispot.com/mytv.php?url=https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Biznet Kids
+https://xxg.laispot.com/mytv.php?url=http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Blues TV
+https://xxg.laispot.com/mytv.php?url=https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Chinola TV
+https://xxg.laispot.com/mytv.php?url=https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Christian Youth Channel
+https://xxg.laispot.com/mytv.php?url=http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,ČT:D/ČT art
+https://xxg.laispot.com/mytv.php?url=http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Dios Te Ve Kids
+https://xxg.laispot.com/mytv.php?url=https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,EBS kids (400p) [Not 24/7]
+https://xxg.laispot.com/mytv.php?url=https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,EnerGeek [Not 24/7]
+https://xxg.laispot.com/mytv.php?url=https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Extrema Kids TV [Not 24/7]
+https://xxg.laispot.com/mytv.php?url=https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Geekdot
+https://xxg.laispot.com/mytv.php?url=https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Iunior TV
+https://xxg.laispot.com/mytv.php?url=https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Japanim TV
+https://xxg.laispot.com/mytv.php?url=https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Kanade
+https://xxg.laispot.com/mytv.php?url=https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Logos TV Kids [Not 24/7]
+https://xxg.laispot.com/mytv.php?url=https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Minimax
+https://xxg.laispot.com/mytv.php?url=http://88.212.15.19/live/test_minimax/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,PBS Kids Eastern/Central
+https://xxg.laispot.com/mytv.php?url=https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,PBS Kids Pacific
+https://xxg.laispot.com/mytv.php?url=https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,PBS Kids
+https://xxg.laispot.com/mytv.php?url=https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Persiana Junior
+https://xxg.laispot.com/mytv.php?url=https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Persiana Teen
+https://xxg.laispot.com/mytv.php?url=https://kphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,RiC
+https://xxg.laispot.com/mytv.php?url=https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,STS kids
+https://xxg.laispot.com/mytv.php?url=http://31.148.48.15/STS_Kids_HD/index.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Tiguerito TV [Not 24/7]
+https://xxg.laispot.com/mytv.php?url=https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Tom And Jerry
+https://xxg.laispot.com/mytv.php?url=https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,TV Bahoriston
+https://xxg.laispot.com/mytv.php?url=https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,TVCARiB Kids & Teens [Not 24/7]
+https://xxg.laispot.com/mytv.php?url=https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,TVS Hi Tops
+https://xxg.laispot.com/mytv.php?url=https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Карусель International
+https://xxg.laispot.com/mytv.php?url=https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Рыжий
+https://xxg.laispot.com/mytv.php?url=http://31.148.48.15/Rizhiy/index.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,Солнце
+https://xxg.laispot.com/mytv.php?url=http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 logo="" group-title="兒童卡通" ,韓國EBS兒童
+https://xxg.laispot.com/mytv.php?url=http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 logo="" group-title="中國港澳" ,CCTV1港澳版
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,HOY76
+https://xxg.laispot.com/mytv.php?url=https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,HOY77
+https://xxg.laispot.com/mytv.php?url=https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8,https://xxg.laispot.com/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8,https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8,https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=hoytv,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 logo="" group-title="中國港澳" ,HOY78
+https://xxg.laispot.com/mytv.php?url=https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,NOW新聞
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8,https://xxg.laispot.com/mytv.php?url=http://cdn.163189.xyz/163189/now
+#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK-31
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk31,https://xxg.laispot.com/mytv.php?url=https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8,https://xxg.laispot.com/mytv.php?url=https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK-32
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk32,https://xxg.laispot.com/mytv.php?url=https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8,https://xxg.laispot.com/mytv.php?url=https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,TVB J1
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 logo="" group-title="中國港澳" ,TVB Plus
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=j2,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbp,https://xxg.laispot.com/mytv.php?url=http://r.jdshipin.com/ndGgS
+#EXTINF:-1 logo="" group-title="中國港澳" ,TVB 明珠台
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8,https://xxg.laispot.com/mytv.php?url=http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8,https://xxg.laispot.com/mytv.php?url=http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com:8880/smt.php?id=pearl_twn,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=mzt,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=mzt2,https://xxg.laispot.com/mytv.php?url=https://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 logo="" group-title="中國港澳" ,TVB1
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,ViuTV
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8,https://xxg.laispot.com/mytv.php?url=http://beishan008.asuscomm.com:8889/bysid/99.m3u8,https://xxg.laispot.com/mytv.php?url=http://bziyunshao.synology.me:8889/bysid/99.m3u8,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com:8880/smt.php?id=viu1_twn,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=viutv,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+#EXTINF:-1 logo="" group-title="中國港澳" ,ViuTVSix
+https://xxg.laispot.com/mytv.php?url=http://beishan008.asuscomm.com:8889/bysid/96.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://bziyunshao.synology.me:8889/bysid/96.m3u8,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 logo="" group-title="中國港澳" ,澳視澳門
+https://xxg.laispot.com/mytv.php?url=http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/PLTV/iptv.php?id=asam,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=asam,https://xxg.laispot.com/mytv.php?url=https://fenghuang.tv12.xyz/181.m3u8,https://xxg.laispot.com/mytv.php?url=https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,澳視綜藝
+https://xxg.laispot.com/mytv.php?url=http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8&backup=https://xxg.laispot.com/mytv.php?url=https://fenghuang.tv12.xyz/186.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,澳視葡語
+https://xxg.laispot.com/mytv.php?url=http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8,https://xxg.laispot.com/mytv.php?url=https://fenghuang.tv12.xyz/182.m3u8,https://xxg.laispot.com/mytv.php?url=https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,澳視衛星
+https://xxg.laispot.com/mytv.php?url=http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8,https://xxg.laispot.com/mytv.php?url=http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8,https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=as,https://xxg.laispot.com/mytv.php?url=https://fenghuang.tv12.xyz/183.m3u8,https://xxg.laispot.com/mytv.php?url=https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,澳視資訊
+https://xxg.laispot.com/mytv.php?url=http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8&backup=https://xxg.laispot.com/mytv.php?url=https://fenghuang.tv12.xyz/185.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,澳視體育
+https://xxg.laispot.com/mytv.php?url=http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8&backup=https://xxg.laispot.com/mytv.php?url=https://fenghuang.tv12.xyz/184.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,澳門綜藝
+https://xxg.laispot.com/mytv.php?url=https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,澳門資訊
+https://xxg.laispot.com/mytv.php?url=https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,澳門體育
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,環球電視
+https://xxg.laispot.com/mytv.php?url=http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,美亞C+
+https://xxg.laispot.com/mytv.php?url=http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8,https://xxg.laispot.com/mytv.php?url=http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 logo="" group-title="中國港澳" ,鳳凰中文
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzw,https://xxg.laispot.com/mytv.php?url=http://r.jdshipin.com/cCCzW
+#EXTINF:-1 logo="" group-title="中國港澳" ,鳳凰香港
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhhk,https://xxg.laispot.com/mytv.php?url=http://r.jdshipin.com/yDoTN
+
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV1
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=608807420&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=CCTV-1,https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/1/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/501/index.m3u8
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV2
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=631780532&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=CCTV-2,https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/2/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/502/index.m3u8
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV3
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=624878271&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=CCTV-3,https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/3/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/3/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV4
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=631780421&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=CCTV-4,https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0004_2.m3u8?key=txiptv&playlive=0&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/4/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/4/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV4欧洲
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=608807419
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV4美洲
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=608807416
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=641886683&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=CCTV-5,https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/5/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/503/index.m3u8
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5+
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=641886773&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=CCTV-5+,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/6/index.m3u8
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV6
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=624878396&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=CCTV-6,https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/7/index.m3u8
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV7
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=673168121&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=CCTV-7,https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/8/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/504/index.m3u8
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV8
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=624878356&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=CCTV-8,https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/9/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/8/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV9
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=673168140&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=CCTV-9,https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/10/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/509/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV10
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=624878405&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=CCTV-10,https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/11/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/506/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV11
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=667987558&backup=https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/12/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV12
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=673168185&backup=https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/13/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/507/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV13
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=608807423&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=CCTV-13,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/14/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV14
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=624878440&backup=https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/15/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV15
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=673168223&backup=https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/16/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV17
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=673168256
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV世界地理
+https://xxg.laispot.com/mytv.php?url=http://111.61.236.247:9081/hls/62/index.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://sh.lnott.top:880/dx72.m3u8
+#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV風雲足球
+https://xxg.laispot.com/mytv.php?url=http://111.61.236.247:9081/hls/58/index.m3u8
+#EXTINF:-1 logo="" group-title="中國官媒" ,CGTN
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=609017205&backup=https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/17/index.m3u8
+#EXTINF:-1 logo="" group-title="中國官媒" ,CGTN西班牙语
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=609006450
+#EXTINF:-1 logo="" group-title="中國官媒" ,CGTN阿拉伯语
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=609154345
+
+#EXTINF:-1 logo="" group-title="中國衛視" ,上海衛視
+https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/28/index.m3u8
+#EXTINF:-1 logo="" group-title="中國衛視" ,內蒙古衛視
+https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/49/index.m3u8
+#EXTINF:-1 logo="" group-title="中國衛視" ,兵團衛視
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=956923145
+#EXTINF:-1 logo="" group-title="中國衛視" ,北京衛視
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=北京卫视&backup=https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/27/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8,https://xxg.laispot.com/mytv.php?url=http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 logo="" group-title="中國衛視" ,吉林衛視
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=947472500&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=吉林卫视,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="中國衛視" ,大灣區衛視
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=608917627&backup=https://xxg.laispot.com/mytv.php?url=http://222.128.55.152:9080/live/dwq.m3u8
+#EXTINF:-1 logo="" group-title="中國衛視" ,安徽衛視
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=安徽卫视&backup=https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/26/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8,https://xxg.laispot.com/mytv.php?url=http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 logo="" group-title="中國衛視" ,山西衛視
+https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/45/index.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="中國衛視" ,廣東衛視
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=608831231&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=广东卫视,https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
+#EXTINF:-1 logo="" group-title="中國衛視" ,東方衛視
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=651632648&backup=https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0,https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8,https://xxg.laispot.com/mytv.php?url=http://iptv.huuc.edu.cn/hls/dfhd.m3u8,https://xxg.laispot.com/mytv.php?url=http://cdn.jdshipin.com/kkxw.php?id=1,https://xxg.laispot.com/mytv.php?url=http://yulang132.cn:58888/udp/239.94.0.119:5140
+#EXTINF:-1 logo="" group-title="中國衛視" ,江蘇衛視
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=623899368&backup=https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/32/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8,https://xxg.laispot.com/mytv.php?url=http://iptv.huuc.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 logo="" group-title="中國衛視" ,河南衛視
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=790187291&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=河南卫视,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/37/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 logo="" group-title="中國衛視" ,湖北衛視
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=947472496&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=湖北卫视,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/41/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0,https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8,https://xxg.laispot.com/mytv.php?url=http://iptv.huuc.edu.cn/hls/hbhd.m3u8,https://xxg.laispot.com/mytv.php?url=http://www.745612.xyz:7788/rtp/235.254.198.72:1564
+#EXTINF:-1 logo="" group-title="中國衛視" ,遼寧衛視
+https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/migu720p.php?id=630291707&backup=https://xxg.laispot.com/mytv.php?url=http://172.168.1.254:5080/zb.php?id=辽宁卫视,https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/47/index.m3u8,https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0,https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8,https://xxg.laispot.com/mytv.php?url=http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 logo="" group-title="中國衛視" ,陝西衛視
+https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/43/index.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 logo="" group-title="中國廣東" ,廣州競賽
+https://xxg.laispot.com/mytv.php?url=http://8.138.7.223/tv/gzjs.m3u8
+#EXTINF:-1 logo="" group-title="中國廣東" ,東莞新聞綜合
+https://xxg.laispot.com/mytv.php?url=https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1 logo="" group-title="中國廣東" ,東莞生活資訊
+https://xxg.laispot.com/mytv.php?url=https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+#EXTINF:-1 logo="" group-title="中國廣東" ,河源公共
+https://xxg.laispot.com/mytv.php?url=http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 logo="" group-title="中國廣東" ,河源綜合
+https://xxg.laispot.com/mytv.php?url=http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 logo="" group-title="中國廣東" ,番禺綜合
+https://xxg.laispot.com/mytv.php?url=http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+
+#EXTINF:-1 logo="" group-title="中國上海" ,新聞綜合
+https://xxg.laispot.com/mytv.php?url=http://p2.vzan.com/slowlive/596867413819827251/live.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://sh.lnott.top:880/dx28.m3u8,https://xxg.laispot.com/mytv.php?url=https://live-auth.51kandianshi.com/szgd/csztv1.m3u8,https://xxg.laispot.com/mytv.php?url=https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8,https://xxg.laispot.com/mytv.php?url=https://xatv-yt.xiancity.cn/live/1/index.m3u8
+
+#EXTINF:-1 logo="" group-title="中國浙江" ,之江紀錄
+https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 logo="" group-title="中國浙江" ,文成新聞綜合
+https://xxg.laispot.com/mytv.php?url=http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1 logo="" group-title="中國浙江" ,浙江World
+https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 logo="" group-title="中國浙江" ,浙江少兒
+https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 logo="" group-title="中國浙江" ,浙江教科
+https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 logo="" group-title="中國浙江" ,浙江新聞
+https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 logo="" group-title="中國浙江" ,浙江民生
+https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 logo="" group-title="中國浙江" ,浙江經濟
+https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 logo="" group-title="中國浙江" ,浙江錢江
+https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 logo="" group-title="中國浙江" ,蕭山綜合
+https://xxg.laispot.com/mytv.php?url=http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 logo="" group-title="中國浙江" ,象山新聞綜合
+https://xxg.laispot.com/mytv.php?url=http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 logo="" group-title="中國浙江" ,雲和新聞綜合
+https://xxg.laispot.com/mytv.php?url=http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1 logo="" group-title="中國浙江" ,青田電視台
+https://xxg.laispot.com/mytv.php?url=http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+
+#EXTINF:-1 logo="" group-title="中國江蘇" ,蘇州文化生活
+https://xxg.laispot.com/mytv.php?url=https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 logo="" group-title="中國江蘇" ,蘇州生活資訊
+https://xxg.laispot.com/mytv.php?url=https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1 logo="" group-title="中國江蘇" ,蘇州社會經濟
+https://xxg.laispot.com/mytv.php?url=https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+
+#EXTINF:-1 logo="" group-title="中國體育" ,央視撞球
+https://xxg.laispot.com/mytv.php?url=http://183.11.239.36:808/hls/73/index.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://sh.lnott.top:880/dx82.m3u8
+#EXTINF:-1 logo="" group-title="中國體育" ,風雲足球
+https://xxg.laispot.com/mytv.php?url=http://183.11.239.36:808/hls/133/index.m3u8&backup=https://xxg.laispot.com/mytv.php?url=http://61.184.46.85:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0,https://xxg.laispot.com/mytv.php?url=http://sh.lnott.top:880/dx71.m3u8,https://xxg.laispot.com/mytv.php?url=https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
