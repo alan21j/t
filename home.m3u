@@ -1228,6 +1228,8 @@ https://xxg.laispot.com/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/now
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 group-title="中國港澳",NOW新聞
 http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+#EXTINF:-1 group-title="中國港澳",NOW新聞TT
+https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
 #EXTINF:-1 group-title="中國港澳",RTHK-31
 http://172.168.1.254:5080/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",RTHK-31
