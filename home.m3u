@@ -1,173 +1,173 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
 
-#EXTINF:-1 group-title="全球綜合",4K Travel
+#EXTINF:-1 group-title="国际",4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
-#EXTINF:-1 group-title="全球綜合",Action Movies
+#EXTINF:-1 group-title="国际",Action Movies
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:-1 group-title="全球綜合",Al Jazeera
+#EXTINF:-1 group-title="国际",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="全球綜合" tvg-logo=" https://www.lysvc.cc/TVlogo/img/ArirangTV.png",Arirang
+#EXTINF:-1 group-title="国际" tvg-logo=" https://www.lysvc.cc/TVlogo/img/ArirangTV.png",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="全球綜合" tvg-logo=" https://www.lysvc.cc/TVlogo/img/ArirangTV.png",Arirang
+#EXTINF:-1 group-title="国际" tvg-logo=" https://www.lysvc.cc/TVlogo/img/ArirangTV.png",Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
-#EXTINF:-1 group-title="全球綜合" tvg-logo=" https://www.lysvc.cc/TVlogo/img/ArirangTV.png",Arirang
+#EXTINF:-1 group-title="国际" tvg-logo=" https://www.lysvc.cc/TVlogo/img/ArirangTV.png",Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="全球綜合" tvg-logo=" https://www.lysvc.cc/TVlogo/img/ArirangTV.png",Arirang
+#EXTINF:-1 group-title="国际" tvg-logo=" https://www.lysvc.cc/TVlogo/img/ArirangTV.png",Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b656000_sleng.m3u8
-#EXTINF:-1 group-title="全球綜合" tvg-logo=" https://www.lysvc.cc/TVlogo/img/ArirangTV.png",Arirang
+#EXTINF:-1 group-title="国际" tvg-logo=" https://www.lysvc.cc/TVlogo/img/ArirangTV.png",Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="全球綜合" tvg-logo=" https://www.lysvc.cc/TVlogo/img/ArirangTV.png",Arirang
+#EXTINF:-1 group-title="国际" tvg-logo=" https://www.lysvc.cc/TVlogo/img/ArirangTV.png",Arirang
 https://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="全球綜合",BBC FOUR
+#EXTINF:-1 group-title="国际",BBC FOUR
 https://l.lioncdn.net/BBC-FOUR/index.m3u8
-#EXTINF:-1 group-title="全球綜合",BBC News
+#EXTINF:-1 group-title="国际",BBC News
 https://jmp2.uk/stvp-US4000033L
-#EXTINF:-1 group-title="全球綜合",BBC News
+#EXTINF:-1 group-title="国际",BBC News
 https://l.lioncdn.net/BBC-News/index.m3u8
-#EXTINF:-1 group-title="全球綜合",BBC News
+#EXTINF:-1 group-title="国际",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 group-title="全球綜合",BBC News
+#EXTINF:-1 group-title="国际",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="全球綜合",BBC ONE
+#EXTINF:-1 group-title="国际",BBC ONE
 https://l.lioncdn.net/BBC-1/index.m3u8
-#EXTINF:-1 group-title="全球綜合",BBC THREE
+#EXTINF:-1 group-title="国际",BBC THREE
 https://l.lioncdn.net/BBC-Three/index.m3u8
-#EXTINF:-1 group-title="全球綜合",BBC TWO
+#EXTINF:-1 group-title="国际",BBC TWO
 https://l.lioncdn.net/BBC-2/index.m3u8
-#EXTINF:-1 group-title="全球綜合",Billiard TV
+#EXTINF:-1 group-title="国际",Billiard TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15270&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_us&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 group-title="全球綜合",Bloomberg
+#EXTINF:-1 group-title="国际",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 group-title="全球綜合",Cinemax Moremax
+#EXTINF:-1 group-title="国际",Cinemax Moremax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1 group-title="全球綜合",CNA
+#EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="全球綜合",CNA
+#EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="全球綜合",CNBC
+#EXTINF:-1 group-title="国际",CNBC
 https://l.lioncdn.net/CNBC/index.m3u8
-#EXTINF:-1 group-title="全球綜合",CNN News
+#EXTINF:-1 group-title="国际",CNN News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="全球綜合",CNN News
+#EXTINF:-1 group-title="国际",CNN News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 group-title="全球綜合",CNN News
+#EXTINF:-1 group-title="国际",CNN News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 group-title="全球綜合",CNN News
+#EXTINF:-1 group-title="国际",CNN News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:-1 group-title="全球綜合" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CNN.png",CNN
+#EXTINF:-1 group-title="国际" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CNN.png",CNN
 https://jmp2.uk/stvp-GBBD8000016N
-#EXTINF:-1 group-title="全球綜合" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CNN.png",CNN
+#EXTINF:-1 group-title="国际" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CNN.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="全球綜合",Comedy TV
+#EXTINF:-1 group-title="国际",Comedy TV
 https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="全球綜合",Discovery Life
+#EXTINF:-1 group-title="国际",Discovery Life
 https://l.lioncdn.net/Discovery-Life/index.m3u8
-#EXTINF:-1 group-title="全球綜合" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Discovery.png",Discovery
+#EXTINF:-1 group-title="国际" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Discovery.png",Discovery
 https://l.lioncdn.net/Discovery-Channel/index.m3u8
-#EXTINF:-1 group-title="全球綜合",DW News
+#EXTINF:-1 group-title="国际",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="全球綜合",Eurosport 4K
+#EXTINF:-1 group-title="国际",Eurosport 4K
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
-#EXTINF:-1 group-title="全球綜合",EZTV-1歐洲華文
+#EXTINF:-1 group-title="国际",EZTV-1歐洲華文
 http://oh.eztv.vip/live/eztv1.m3u8
-#EXTINF:-1 group-title="全球綜合",Fashion Channel
+#EXTINF:-1 group-title="国际",Fashion Channel
 http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="全球綜合",Fashion TV
+#EXTINF:-1 group-title="国际",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 group-title="全球綜合",FOX News
+#EXTINF:-1 group-title="国际",FOX News
 https://l.lioncdn.net/FOX-NEWS/index.m3u8
-#EXTINF:-1 group-title="全球綜合",GB News
+#EXTINF:-1 group-title="国际",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="全球綜合",Global News
+#EXTINF:-1 group-title="国际",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:-1 group-title="全球綜合",HBO亞洲
+#EXTINF:-1 group-title="国际",HBO亞洲
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hbohd_twn&token=ffmking
-#EXTINF:-1 group-title="全球綜合",HollyWire
+#EXTINF:-1 group-title="国际",HollyWire
 https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
-#EXTINF:-1 group-title="全球綜合",ITV 1
+#EXTINF:-1 group-title="国际",ITV 1
 https://l.lioncdn.net/ITV-1/index.m3u8
-#EXTINF:-1 group-title="全球綜合",ITV 2
+#EXTINF:-1 group-title="国际",ITV 2
 https://l.lioncdn.net/ITV-2/index.m3u8
-#EXTINF:-1 group-title="全球綜合",ITV 3
+#EXTINF:-1 group-title="国际",ITV 3
 https://l.lioncdn.net/ITV-3/index.m3u8
-#EXTINF:-1 group-title="全球綜合",ITV 4
+#EXTINF:-1 group-title="国际",ITV 4
 https://l.lioncdn.net/ITV-4/index.m3u8
-#EXTINF:-1 group-title="全球綜合",JET綜合台
+#EXTINF:-1 group-title="国际",JET綜合台
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=jet&token=ffmking
-#EXTINF:-1 group-title="全球綜合",LG 1 Film
+#EXTINF:-1 group-title="国际",LG 1 Film
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 group-title="全球綜合",LG 1 Spotlight
+#EXTINF:-1 group-title="国际",LG 1 Spotlight
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 group-title="全球綜合",Mediacorp華文娛樂臺
+#EXTINF:-1 group-title="国际",Mediacorp華文娛樂臺
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
-#EXTINF:-1 group-title="全球綜合",MNB World蒙古世界臺
+#EXTINF:-1 group-title="国际",MNB World蒙古世界臺
 https://live.mnb.mn/hls/mnb_world.stream.m3u8
-#EXTINF:-1 group-title="全球綜合",MovieSphere
+#EXTINF:-1 group-title="国际",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="全球綜合",MTV娛樂台
+#EXTINF:-1 group-title="国际",MTV娛樂台
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=mtvhd_twn&token=ffmking
-#EXTINF:-1 group-title="全球綜合",NBC
+#EXTINF:-1 group-title="国际",NBC
 https://d4whmvwm0rdvi.cloudfront.net/10007/99992212/hls/master.m3u8?ads.xumo_channelId=99992212&ads.asnw=169843&ads.afid=137704898&ads.sfid=16373024&ads.csid=lgchannels_us_nbcnewsnow_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99992212&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 group-title="全球綜合",NBC
+#EXTINF:-1 group-title="国际",NBC
 https://l.lioncdn.net/NBC-UNIVERSO/index.m3u8
-#EXTINF:-1 group-title="全球綜合",Newsmax
+#EXTINF:-1 group-title="国际",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="全球綜合",Newsy
+#EXTINF:-1 group-title="国际",Newsy
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
-#EXTINF:-1 group-title="全球綜合",PBS Kids
+#EXTINF:-1 group-title="国际",PBS Kids
 https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
-#EXTINF:-1 group-title="全球綜合",Red Bull TV
+#EXTINF:-1 group-title="国际",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="全球綜合",Redbull
+#EXTINF:-1 group-title="国际",Redbull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="全球綜合",RT Arabic
+#EXTINF:-1 group-title="国际",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="全球綜合",RT Balkan
+#EXTINF:-1 group-title="国际",RT Balkan
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="全球綜合",RT DE
+#EXTINF:-1 group-title="国际",RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="全球綜合",RT Doc-Русский
+#EXTINF:-1 group-title="国际",RT Doc-Русский
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 group-title="全球綜合",RT Español
+#EXTINF:-1 group-title="国际",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="全球綜合",RT News
+#EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="全球綜合",SEC Network
+#EXTINF:-1 group-title="国际",SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="全球綜合",Sky News
+#EXTINF:-1 group-title="国际",Sky News
 https://jmp2.uk/stvp-USBB52000022Q
-#EXTINF:-1 group-title="全球綜合",Sony One Comedy HITS
+#EXTINF:-1 group-title="国际",Sony One Comedy HITS
 https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="全球綜合",Sony One Dragons' Den
+#EXTINF:-1 group-title="国际",Sony One Dragons' Den
 https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="全球綜合",Sony One FAVES
+#EXTINF:-1 group-title="国际",Sony One FAVES
 https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="全球綜合",TBS Seoul
+#EXTINF:-1 group-title="国际",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 group-title="全球綜合",Thriller TV
+#EXTINF:-1 group-title="国际",Thriller TV
 https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="全球綜合",Trace Sports
+#EXTINF:-1 group-title="国际",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="全球綜合",Travel XP
+#EXTINF:-1 group-title="国际",Travel XP
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
-#EXTINF:-1 group-title="全球綜合",TRT World
+#EXTINF:-1 group-title="国际",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 group-title="全球綜合",UK: SKY SPORTS F1
+#EXTINF:-1 group-title="国际",UK: SKY SPORTS F1
 http://nocable.cc:8080//OURTV/OURTV@4806/35244
-#EXTINF:-1 group-title="全球綜合",UK: SKY SPORTS Golf
+#EXTINF:-1 group-title="国际",UK: SKY SPORTS Golf
 http://nocable.cc:8080//OURTV/OURTV@4806/35240
-#EXTINF:-1 group-title="全球綜合",UK: SKY SPORTS Main Event
+#EXTINF:-1 group-title="国际",UK: SKY SPORTS Main Event
 http://nocable.cc:8080//OURTV/OURTV@4806/137720
-#EXTINF:-1 group-title="全球綜合",Universal Monsters
+#EXTINF:-1 group-title="国际",Universal Monsters
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993044/hls/master.m3u8?ads.xumo_channelId=99993044&ads.asnw=169843&ads.afid=380753606&ads.sfid=17850336&ads.csid=lgchannels_us_nbcuuniversalmonsters_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.channelId=99993044&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 group-title="全球綜合",Wild Earth
+#EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="全球綜合",WION
+#EXTINF:-1 group-title="国际",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="全球綜合",半島新聞
+#EXTINF:-1 group-title="国际",半島新聞
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="全球綜合",半島新聞
+#EXTINF:-1 group-title="国际",半島新聞
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 group-title="體育賽事",:Šport
