@@ -1,69 +1,69 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="中國官媒",CCTV1
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/1/index.m3u8&backup=http://112.46.105.20:8009/hls/501/index.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/1/index.m3u8&backup=http://112.46.105.20:8009/hls/501/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV10
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/11/index.m3u8&backup=http://112.46.105.20:8009/hls/506/index.m3u8,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/11/index.m3u8&backup=http://112.46.105.20:8009/hls/506/index.m3u8,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV11
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/12/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/12/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV12
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/13/index.m3u8&backup=http://112.46.105.20:8009/hls/507/index.m3u8,http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/13/index.m3u8&backup=http://112.46.105.20:8009/hls/507/index.m3u8,http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV13
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/14/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/14/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV14
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/15/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/15/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV15
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/16/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/16/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV2
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/2/index.m3u8&backup=http://112.46.105.20:8009/hls/502/index.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/2/index.m3u8&backup=http://112.46.105.20:8009/hls/502/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV3
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV4
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/4/index.m3u8&backup=http://112.46.105.20:8009/hls/4/index.m3u8,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/4/index.m3u8&backup=http://112.46.105.20:8009/hls/4/index.m3u8,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV5
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV5+
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/6/index.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/6/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV6
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV7
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/8/index.m3u8&backup=http://112.46.105.20:8009/hls/504/index.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/8/index.m3u8&backup=http://112.46.105.20:8009/hls/504/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CCTV8
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV9
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/10/index.m3u8&backup=http://112.46.105.20:8009/hls/509/index.m3u8,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/10/index.m3u8&backup=http://112.46.105.20:8009/hls/509/index.m3u8,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國官媒",CCTV世界地理
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://111.61.236.247:9081/hls/62/index.m3u8
+https://v.ljz.qzz.io?url=http://111.61.236.247:9081/hls/62/index.m3u8
 #EXTINF:-1 group-title="中國官媒",CGTN
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/17/index.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/17/index.m3u8
 
 #EXTINF:-1 group-title="中國廣東",廣州競賽
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://8.138.7.223/tv/gzjs.m3u8
+https://v.ljz.qzz.io?url=http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1 group-title="中國廣東",東莞新聞綜合
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+https://v.ljz.qzz.io?url=https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 group-title="中國廣東",東莞生活資訊
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+https://v.ljz.qzz.io?url=https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 #EXTINF:-1 group-title="中國廣東",番禺綜合
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+https://v.ljz.qzz.io?url=http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
 #EXTINF:-1 group-title="中國江蘇",蘇州社會經濟
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+https://v.ljz.qzz.io?url=https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 
 #EXTINF:-1 group-title="中國浙江",浙江World
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+https://v.ljz.qzz.io?url=https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="中國浙江",浙江錢江
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+https://v.ljz.qzz.io?url=https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="中國浙江",青田電視台
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+https://v.ljz.qzz.io?url=http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
 #EXTINF:-1 group-title="中國港澳",CCTV1港澳版
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+https://v.ljz.qzz.io?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY76
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY77
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY77
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8&backup=http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+https://v.ljz.qzz.io?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8&backup=http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",HOY78
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 group-title="中國港澳",NOW新聞
@@ -83,104 +83,104 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPla
 #EXTINF:-1 group-title="中國港澳",RTHK-35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="中國港澳",TVB Plus
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
+https://v.ljz.qzz.io?url=http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",TVB 無線新聞
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8&backup=http://r.jdshipin.com/CkuBd
+https://v.ljz.qzz.io?url=http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8&backup=http://r.jdshipin.com/CkuBd
 #EXTINF:-1 group-title="中國港澳",TVB 翡翠劇集台
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+https://v.ljz.qzz.io?url=http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
 #EXTINF:-1 group-title="中國港澳",澳視澳門
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8&backup=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8,https://fenghuang.tv12.xyz/181.m3u8,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+https://v.ljz.qzz.io?url=http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8&backup=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8,https://fenghuang.tv12.xyz/181.m3u8,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="中國港澳",澳視綜藝
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8&backup=https://fenghuang.tv12.xyz/186.m3u8
+https://v.ljz.qzz.io?url=http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8&backup=https://fenghuang.tv12.xyz/186.m3u8
 #EXTINF:-1 group-title="中國港澳",澳視衛星
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8&backup=http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8,https://fenghuang.tv12.xyz/183.m3u8,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+https://v.ljz.qzz.io?url=http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8&backup=http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8,https://fenghuang.tv12.xyz/183.m3u8,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 group-title="中國港澳",澳視資訊
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8&backup=https://fenghuang.tv12.xyz/185.m3u8
+https://v.ljz.qzz.io?url=http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8&backup=https://fenghuang.tv12.xyz/185.m3u8
 #EXTINF:-1 group-title="中國港澳",澳視體育
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8&backup=https://fenghuang.tv12.xyz/184.m3u8
+https://v.ljz.qzz.io?url=http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8&backup=https://fenghuang.tv12.xyz/184.m3u8
 #EXTINF:-1 group-title="中國港澳",鳳凰資訊
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8&backup=http://r.jdshipin.com/0Rp07
+https://v.ljz.qzz.io?url=http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8&backup=http://r.jdshipin.com/0Rp07
 
 #EXTINF:-1 group-title="中國衛視",上海衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/28/index.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/28/index.m3u8
 #EXTINF:-1 group-title="中國衛視",內蒙古衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/49/index.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/49/index.m3u8
 #EXTINF:-1 group-title="中國衛視",北京衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/27/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/27/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 group-title="中國衛視",吉林衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國衛視",四川衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/35/index.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/35/index.m3u8
 #EXTINF:-1 group-title="中國衛視",大灣區衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://222.128.55.152:9080/live/dwq.m3u8
+https://v.ljz.qzz.io?url=http://222.128.55.152:9080/live/dwq.m3u8
 #EXTINF:-1 group-title="中國衛視",天津衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/42/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/42/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
 #EXTINF:-1 group-title="中國衛視",安徽衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/26/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/26/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
 #EXTINF:-1 group-title="中國衛視",山東衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/34/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/34/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
 #EXTINF:-1 group-title="中國衛視",山西衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/45/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/45/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國衛視",東南衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/38/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/38/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
 #EXTINF:-1 group-title="中國衛視",江西衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/44/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/44/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國衛視",河北衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/39/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/39/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
 #EXTINF:-1 group-title="中國衛視",河南衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/37/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/37/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國衛視",浙江衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/29/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/29/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 #EXTINF:-1 group-title="中國衛視",深圳衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/33/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/33/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
 #EXTINF:-1 group-title="中國衛視",湖北衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/41/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/41/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 #EXTINF:-1 group-title="中國衛視",貴州衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/46/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/46/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
 #EXTINF:-1 group-title="中國衛視",遼寧衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/47/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/47/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
 #EXTINF:-1 group-title="中國衛視",重慶衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/36/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/36/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
 #EXTINF:-1 group-title="中國衛視",陝西衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/43/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/43/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國衛視",雲南衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://112.27.235.94:8000/hls/40/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://112.27.235.94:8000/hls/40/index.m3u8&backup=http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="中國衛視",青海衛視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+https://v.ljz.qzz.io?url=http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="中國體育",勁爆體育
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://120.238.94.82:9901/tsfile/live/1086_1.m3u8&backup=http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
+https://v.ljz.qzz.io?url=http://120.238.94.82:9901/tsfile/live/1086_1.m3u8&backup=http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="中國體育",央視撞球
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://183.11.239.36:808/hls/73/index.m3u8
+https://v.ljz.qzz.io?url=http://183.11.239.36:808/hls/73/index.m3u8
 #EXTINF:-1 group-title="中國體育",廣東體育
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8&backup=http://120.238.94.82:9901/tsfile/live/1012_1.m3u8,http://183.11.239.36:808/hls/2/index.m3u8,http://r.jdshipin.com/LiYdg
+https://v.ljz.qzz.io?url=http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8&backup=http://120.238.94.82:9901/tsfile/live/1012_1.m3u8,http://183.11.239.36:808/hls/2/index.m3u8,http://r.jdshipin.com/LiYdg
 #EXTINF:-1 group-title="中國體育",風雲足球
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://183.11.239.36:808/hls/133/index.m3u8&backup=http://61.184.46.85:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
+https://v.ljz.qzz.io?url=http://183.11.239.36:808/hls/133/index.m3u8&backup=http://61.184.46.85:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 
 #EXTINF:-1 group-title="兒童卡通",4 Fun Kids (576i) [[Not 24/7]]
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+https://v.ljz.qzz.io?url=https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 group-title="兒童卡通",Chinola TV
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+https://v.ljz.qzz.io?url=https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 group-title="兒童卡通",Iunior TV
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+https://v.ljz.qzz.io?url=https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
 #EXTINF:-1 group-title="兒童卡通",Japanim TV
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://foxkidstv.be:3369/stream/play.m3u8
+https://v.ljz.qzz.io?url=https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 group-title="兒童卡通",MCN6 Music Channel [Not 24/7]
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+https://v.ljz.qzz.io?url=https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 group-title="兒童卡通",Minimax
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://88.212.15.19/live/test_minimax/playlist.m3u8
+https://v.ljz.qzz.io?url=http://88.212.15.19/live/test_minimax/playlist.m3u8
 #EXTINF:-1 group-title="兒童卡通",Nickelodeon
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+https://v.ljz.qzz.io?url=http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="兒童卡通",Persiana Junior
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://junhls.persiana.live/hls/stream.m3u8
+https://v.ljz.qzz.io?url=https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="兒童卡通",Persiana Teen
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://kphls.persiana.live/hls/stream.m3u8
+https://v.ljz.qzz.io?url=https://kphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="兒童卡通",STS kids
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://31.148.48.15/STS_Kids_HD/index.m3u8
+https://v.ljz.qzz.io?url=http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 group-title="兒童卡通",ČT:D/ČT art
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+https://v.ljz.qzz.io?url=http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="兒童卡通",Рыжий
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://31.148.48.15/Rizhiy/index.m3u8
+https://v.ljz.qzz.io?url=http://31.148.48.15/Rizhiy/index.m3u8
 
 #EXTINF:-1 group-title="国际",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
@@ -197,19 +197,19 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 group-title="国际",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="国际",CNA
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+https://v.ljz.qzz.io?url=https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="国际",EuroSport
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://7pal.short.gy/eusport4k
+https://v.ljz.qzz.io?url=https://7pal.short.gy/eusport4k
 #EXTINF:-1 group-title="国际",EZTV-1歐洲華文
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://oh.eztv.vip/live/eztv1.m3u8
+https://v.ljz.qzz.io?url=http://oh.eztv.vip/live/eztv1.m3u8
 #EXTINF:-1 group-title="国际",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="国际",NEWSMAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 #EXTINF:-1 group-title="国际",Newsy
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
+https://v.ljz.qzz.io?url=https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
 #EXTINF:-1 group-title="国际",PBS Kids
 https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
 #EXTINF:-1 group-title="国际",Red Bull TV
@@ -217,50 +217,50 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="国际",Redbull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="国际",RT Balkan
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
+https://v.ljz.qzz.io?url=https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",Sky Sports Tennis
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://7pal.short.gy/ssportstn
+https://v.ljz.qzz.io?url=https://7pal.short.gy/ssportstn
 
 #EXTINF:-1 group-title="日本",BS Asahi
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://nl.utako.moe/bsasahi/index.m3u8
+https://v.ljz.qzz.io?url=https://nl.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1 group-title="日本",BS Asahi (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 #EXTINF:-1 group-title="日本",BS TBS
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://nl.utako.moe/bstbs/index.m3u8
+https://v.ljz.qzz.io?url=https://nl.utako.moe/bstbs/index.m3u8
 #EXTINF:-1 group-title="日本",BS TV Tokyo (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 group-title="日本",Fuji TV  (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
 #EXTINF:-1 group-title="日本",Fuji TV (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 #EXTINF:-1 group-title="日本",Home Drama Channel
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://nl.utako.moe/homedrama/index.m3u8
+https://v.ljz.qzz.io?url=https://nl.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 group-title="日本",JCOM BS (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 #EXTINF:-1 group-title="日本",Jidaigeki Senmon (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
 #EXTINF:-1 group-title="日本",JSport 2 (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 #EXTINF:-1 group-title="日本",Music ON TV
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://nl.utako.moe/musicon/index.m3u8
+https://v.ljz.qzz.io?url=https://nl.utako.moe/musicon/index.m3u8
 #EXTINF:-1 group-title="日本",NHK BS4K (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 group-title="日本",Nittele G+ (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 #EXTINF:-1 group-title="日本",NTV  (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
 #EXTINF:-1 group-title="日本",SUN (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 #EXTINF:-1 group-title="日本",TBS  (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
 #EXTINF:-1 group-title="日本",TV Asahi  (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
 #EXTINF:-1 group-title="日本",TV Asahi Channel 2
-https://long-haze-8246.laialan-uk7884.workers.dev?url=https://nl.utako.moe/ex_ch2/index.m3u8
+https://v.ljz.qzz.io?url=https://nl.utako.moe/ex_ch2/index.m3u8
 #EXTINF:-1 group-title="日本",TV Tokyo (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 group-title="日本",WOWOW Live (Primehome)
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+https://v.ljz.qzz.io?url=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 
 #EXTINF:-1 group-title="臺灣",Channel 5
 http://cdn6.163189.xyz/163189/ch5
@@ -271,25 +271,25 @@ http://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 group-title="臺灣",八度空間
 http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 group-title="臺灣",台視新聞
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8&backup=http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+https://v.ljz.qzz.io?url=http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8&backup=http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="臺灣",富立電視台
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://tv.fltvshow.com.tw/hls/fltv.m3u8
+https://v.ljz.qzz.io?url=http://tv.fltvshow.com.tw/hls/fltv.m3u8
 #EXTINF:-1 group-title="臺灣",東森美洲
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8&backup=http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+https://v.ljz.qzz.io?url=http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8&backup=http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 #EXTINF:-1 group-title="臺灣",東森超視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8&backup=http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8,rtmp://f13h.mine.nu/sat/tv331
+https://v.ljz.qzz.io?url=http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8&backup=http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8,rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 group-title="臺灣",民視新聞
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8&backup=http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+https://v.ljz.qzz.io?url=http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8&backup=http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="臺灣",生命電視
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+https://v.ljz.qzz.io?url=http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 #EXTINF:-1 group-title="臺灣",緯來精采
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://61.221.215.25:8800/hls/48/index.m3u8
+https://v.ljz.qzz.io?url=http://61.221.215.25:8800/hls/48/index.m3u8
 
 #EXTINF:-1 group-title="體育賽事",:Šport
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
+https://v.ljz.qzz.io?url=http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 group-title="體育賽事",CDN Deportes
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://200.125.170.122:8000/play/a03j/index.m3u8
+https://v.ljz.qzz.io?url=http://200.125.170.122:8000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="體育賽事",ESPN
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://41.205.93.154/ESPN/index.m3u8
+https://v.ljz.qzz.io?url=http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 group-title="體育賽事",ČT Sport
-https://long-haze-8246.laialan-uk7884.workers.dev?url=http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+https://v.ljz.qzz.io?url=http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
