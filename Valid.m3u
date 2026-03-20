@@ -1,110 +1,110 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="国际",Arirang
+#EXTINF:-1 group-title="國際",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="国际",Arirang
+#EXTINF:-1 group-title="國際",Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",Arirang
+#EXTINF:-1 group-title="國際",Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="国际",Arirang
+#EXTINF:-1 group-title="國際",Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b656000_sleng.m3u8
-#EXTINF:-1 group-title="国际",Arirang
+#EXTINF:-1 group-title="國際",Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",Arirang
+#EXTINF:-1 group-title="國際",Arirang
 https://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="国际",BBC News
+#EXTINF:-1 group-title="國際",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 group-title="国际",BBC News
+#EXTINF:-1 group-title="國際",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="国际",Billiard TV
+#EXTINF:-1 group-title="國際",Billiard TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15270&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_us&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 group-title="国际",Bloomberg
+#EXTINF:-1 group-title="國際",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 group-title="国际",Cinemax Moremax
+#EXTINF:-1 group-title="國際",Cinemax Moremax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1 group-title="国际",CNA
+#EXTINF:-1 group-title="國際",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="国际",CNA
+#EXTINF:-1 group-title="國際",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",CNN
+#EXTINF:-1 group-title="國際",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="国际",CNN
+#EXTINF:-1 group-title="國際",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 group-title="国际",CNN
+#EXTINF:-1 group-title="國際",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 group-title="国际",CNN
+#EXTINF:-1 group-title="國際",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:-1 group-title="国际",CNN
+#EXTINF:-1 group-title="國際",CNN
 https://jmp2.uk/stvp-GBBD8000016N
-#EXTINF:-1 group-title="国际",CNN
+#EXTINF:-1 group-title="國際",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="国际",Comedy TV
+#EXTINF:-1 group-title="國際",Comedy TV
 https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="国际",DW News
+#EXTINF:-1 group-title="國際",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="国际",Eurosport 4K
+#EXTINF:-1 group-title="國際",Eurosport 4K
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
-#EXTINF:-1 group-title="国际",EZTV-1歐洲華文
+#EXTINF:-1 group-title="國際",EZTV-1歐洲華文
 http://oh.eztv.vip/live/eztv1.m3u8
-#EXTINF:-1 group-title="国际",Fashion Channel
+#EXTINF:-1 group-title="國際",Fashion Channel
 http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="国际",GB News
+#EXTINF:-1 group-title="國際",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="国际",Global News
+#EXTINF:-1 group-title="國際",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:-1 group-title="国际",HollyWire
+#EXTINF:-1 group-title="國際",HollyWire
 https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
-#EXTINF:-1 group-title="国际",LG 1 Film
+#EXTINF:-1 group-title="國際",LG 1 Film
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 group-title="国际",LG 1 Spotlight
+#EXTINF:-1 group-title="國際",LG 1 Spotlight
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 group-title="国际",MNB World蒙古世界臺
+#EXTINF:-1 group-title="國際",MNB World蒙古世界臺
 https://live.mnb.mn/hls/mnb_world.stream.m3u8
-#EXTINF:-1 group-title="国际",MovieSphere
+#EXTINF:-1 group-title="國際",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Newsmax
+#EXTINF:-1 group-title="國際",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="国际",Newsy
+#EXTINF:-1 group-title="國際",Newsy
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
-#EXTINF:-1 group-title="国际",PBS Kids
+#EXTINF:-1 group-title="國際",PBS Kids
 https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
-#EXTINF:-1 group-title="国际",Red Bull TV
+#EXTINF:-1 group-title="國際",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="国际",Redbull
+#EXTINF:-1 group-title="國際",Redbull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="国际",RT Arabic
+#EXTINF:-1 group-title="國際",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",RT Balkan
+#EXTINF:-1 group-title="國際",RT Balkan
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",RT DE
+#EXTINF:-1 group-title="國際",RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",RT Doc-Русский
+#EXTINF:-1 group-title="國際",RT Doc-Русский
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 group-title="国际",RT Español
+#EXTINF:-1 group-title="國際",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",RT News
+#EXTINF:-1 group-title="國際",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",SEC Network
+#EXTINF:-1 group-title="國際",SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",Sony One Comedy HITS
+#EXTINF:-1 group-title="國際",Sony One Comedy HITS
 https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="国际",Sony One Dragons' Den
+#EXTINF:-1 group-title="國際",Sony One Dragons' Den
 https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="国际",Sony One FAVES
+#EXTINF:-1 group-title="國際",Sony One FAVES
 https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="国际",TBS Seoul
+#EXTINF:-1 group-title="國際",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",Thriller TV
+#EXTINF:-1 group-title="國際",Thriller TV
 https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
-#EXTINF:-1 group-title="国际",Trace Sports
+#EXTINF:-1 group-title="國際",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="国际",Travel XP
+#EXTINF:-1 group-title="國際",Travel XP
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
-#EXTINF:-1 group-title="国际",TRT World
+#EXTINF:-1 group-title="國際",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 group-title="国际",Wild Earth
+#EXTINF:-1 group-title="國際",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="国际",WION
+#EXTINF:-1 group-title="國際",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 #EXTINF:-1 group-title="體育賽事",:Šport
