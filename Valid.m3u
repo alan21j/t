@@ -271,6 +271,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 #EXTINF:-1 group-title="日本",BS 10 Star Channel (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 group-title="日本",BS11
+https://nl.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="日本",Cartoon Network
 https://nl.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="日本",Cartoon Network (Primehome)
@@ -279,12 +281,16 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 https://nl.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="日本",Channel Ginga (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF:-1 group-title="日本",CNNj (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #EXTINF:-1 group-title="日本",Discovery Channel (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 #EXTINF:-1 group-title="日本",Disney Channel (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 group-title="日本",Disney Channel
 https://nl.utako.moe/disneychan/index.m3u8
+#EXTINF:-1 group-title="日本",Disney Junior (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 group-title="日本",Dlife
 https://nl.utako.moe/dlife/index.m3u8
 #EXTINF:-1 group-title="日本",Eisei Gekijo (Primehome)
@@ -307,6 +313,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 #EXTINF:-1 group-title="日本",Fuji TV ONE
 https://nl.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 group-title="日本",Fuji TV TWO
+https://nl.utako.moe/fuji_two/index.m3u8
 #EXTINF:-1 group-title="日本",Fuji TV NEXT
 https://nl.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 group-title="日本",Fuji TV Next (Primehome)
@@ -319,8 +327,14 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 https://nl.utako.moe/golf_network/index.m3u8
 #EXTINF:-1 group-title="日本",Golf Network (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+#EXTINF:-1 group-title="日本",Green Channel
+https://nl.utako.moe/green/index.m3u8
+#EXTINF:-1 group-title="日本",Green Channel (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 #EXTINF:-1 group-title="日本",History (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+#EXTINF:-1 group-title="日本",Home Drama Channel
+https://nl.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 group-title="日本",Home Drama Channel (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
 #EXTINF:-1 group-title="日本",JCOM BS (Primehome)
@@ -343,12 +357,16 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 group-title="日本",JSport 4 (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="日本",Kansai TV
+https://nl.utako.moe/kansaitv/index.m3u8
 #EXTINF:-1 group-title="日本",Kansai TV (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 #EXTINF:-1 group-title="日本",Kayo Pops
 https://nl.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 group-title="日本",Kayo Pops (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+#EXTINF:-1 group-title="日本",KBS
+https://nl.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="日本",Kids Staton
 https://nl.utako.moe/kids_station/index.m3u8
 #EXTINF:-1 group-title="日本",Kids Staton TV (Primehome)
@@ -379,6 +397,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
 https://nl.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="日本",NHK G
 https://nl.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="日本",NHK E
+https://nl.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 group-title="日本",NHK G HD (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 #EXTINF:-1 group-title="日本",NHK E HD (Primehome)
@@ -413,6 +433,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 https://nl.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 group-title="日本",Sky A
 https://nl.utako.moe/skya/index.m3u8
+#EXTINF:-1 group-title="日本",Sky A (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 group-title="日本",Sky A  (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 #EXTINF:-1 group-title="日本",Space Shower TV
 https://nl.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="日本",Space Shower TV (Primehome)
@@ -443,8 +467,14 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 https://nl.utako.moe/TBS/index.m3u8
 #EXTINF:-1 group-title="日本",The Cinema
 https://nl.utako.moe/the_cinema/index.m3u8
+#EXTINF:-1 group-title="日本",Toei Channel
+https://nl.utako.moe/toei/index.m3u8
 #EXTINF:-1 group-title="日本",Toei Channel (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+#EXTINF:-1 group-title="日本",TOKYO MX1
+https://nl.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="日本",TOKYO MX2
+https://nl.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1 group-title="日本",TOKYO MX1 HD (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
 #EXTINF:-1 group-title="日本",TOKYO MX1 (Primehome)
@@ -483,6 +513,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 #EXTINF:-1 group-title="日本",ytv (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+#EXTINF:-1 group-title="日本",ytv
+https://nl.utako.moe/ytv/index.m3u8
+#EXTINF:-1 group-title="日本",Pigoo (NSFW)
+https://nl.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="日本",V Paradise (NSFW)
+https://nl.utako.moe/v_paradise/index.m3u8
 
 #EXTINF:-1 group-title="兒童卡通",4 Fun Kids (576i) [[Not 24/7]]
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
