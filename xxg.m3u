@@ -1,1946 +1,1946 @@
 #EXTM3U
 
-#EXTINF:-1 logo="" group-title="Business;News" ,100%News(576p)
+#EXTINF:-1 group-title="Business;News",100%News(576p)
 https://xxg.laispot.com/mytv.php?url=http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 logo="" group-title="Business;News" ,AsharqRadio(1080p)
+#EXTINF:-1 group-title="Business;News",AsharqRadio(1080p)
 https://xxg.laispot.com/mytv.php?url=https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Business;News" ,CanalE(720p)
+#EXTINF:-1 group-title="Business;News",CanalE(720p)
 https://xxg.laispot.com/mytv.php?url=https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 logo="" group-title="Classic;News" ,ZillarBartaNews
+#EXTINF:-1 group-title="Classic;News",ZillarBartaNews
 https://xxg.laispot.com/mytv.php?url=https://server.zillarbarta.com/zillarbarta/index.m3u8
 
-#EXTINF:-1 logo="" group-title="Culture;Entertainment;News" ,TéléMaroc(1080p)
+#EXTINF:-1 group-title="Culture;Entertainment;News",TéléMaroc(1080p)
 https://xxg.laispot.com/mytv.php?url=http://5.253.46.190:8000/play/a0cb/index.m3u8
 
-#EXTINF:-1 logo="" group-title="Culture;News" ,CatamarcaTV(720p)
+#EXTINF:-1 group-title="Culture;News",CatamarcaTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-#EXTINF:-1 logo="" group-title="Culture;News" ,ChannelOne
+#EXTINF:-1 group-title="Culture;News",ChannelOne
 https://xxg.laispot.com/mytv.php?url=https://pemirateshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="Culture;News" ,DDMizoram(504p)
+#EXTINF:-1 group-title="Culture;News",DDMizoram(504p)
 https://xxg.laispot.com/mytv.php?url=https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
-#EXTINF:-1 logo="" group-title="Culture;News" ,GebTv(KBPXLD5)(1080p)
+#EXTINF:-1 group-title="Culture;News",GebTv(KBPXLD5)(1080p)
 https://xxg.laispot.com/mytv.php?url=https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Culture;News" ,KTV2(1080p)
+#EXTINF:-1 group-title="Culture;News",KTV2(1080p)
 https://xxg.laispot.com/mytv.php?url=https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
-#EXTINF:-1 logo="" group-title="Culture;News" ,NHKWorldJapan(1080p)[Geoblocked]
+#EXTINF:-1 group-title="Culture;News",NHKWorldJapan(1080p)[Geoblocked]
 https://xxg.laispot.com/mytv.php?url=https://nhk.lls.pbs.org/index.m3u8
-#EXTINF:-1 logo="" group-title="Culture;News" ,STZTV(1080p)
+#EXTINF:-1 group-title="Culture;News",STZTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 
-#EXTINF:-1 logo="" group-title="Documentary;News" ,AlArabiyaPrograms(1280p)
+#EXTINF:-1 group-title="Documentary;News",AlArabiyaPrograms(1280p)
 https://xxg.laispot.com/mytv.php?url=https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 
-#EXTINF:-1 logo="" group-title="Education;News" ,DabangaTV(1080p)
+#EXTINF:-1 group-title="Education;News",DabangaTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://hls.dabangasudan.org/hls/stream.m3u8
 
-#EXTINF:-1 logo="" group-title="Entertainment;Family;General;News" ,TVParaense(720p)
+#EXTINF:-1 group-title="Entertainment;Family;General;News",TVParaense(720p)
 https://xxg.laispot.com/mytv.php?url=https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 
-#EXTINF:-1 logo="" group-title="Entertainment;News" ,30AGeorgiaHollywoodReviewTV
+#EXTINF:-1 group-title="Entertainment;News",30AGeorgiaHollywoodReviewTV
 https://xxg.laispot.com/mytv.php?url=https://30a-tv.com/gh.m3u8
-#EXTINF:-1 logo="" group-title="Entertainment;News" ,HollyWire(720p)
+#EXTINF:-1 group-title="Entertainment;News",HollyWire(720p)
 https://xxg.laispot.com/mytv.php?url=https://bozztv.com/hwotta/playlist/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Entertainment;News" ,PSN(288p)
+#EXTINF:-1 group-title="Entertainment;News",PSN(288p)
 https://xxg.laispot.com/mytv.php?url=https://srspsn.live/live/livestream.m3u8
-#EXTINF:-1 logo="" group-title="Entertainment;News" ,TVZoom(720p)
+#EXTINF:-1 group-title="Entertainment;News",TVZoom(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
-#EXTINF:-1 logo="" group-title="General;Lifestyle;Music;News" ,CEACOMTV[Not24/7]
+#EXTINF:-1 group-title="General;Lifestyle;Music;News",CEACOMTV[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://eu1.servers10.com:8081/ceacom/index.m3u8
 
-#EXTINF:-1 logo="" group-title="General;News" ,ArirangTV
+#EXTINF:-1 group-title="General;News",ArirangTV
 https://xxg.laispot.com/mytv.php?url=https://dash3.antik.sk/live/test_arirang/playlist.m3u8
-#EXTINF:-1 logo="" group-title="General;News" ,ArirangTV(1080p)
+#EXTINF:-1 group-title="General;News",ArirangTV(1080p)
 https://xxg.laispot.com/mytv.php?url=http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="General;News" ,Canal33Tijuana(720p)
+#EXTINF:-1 group-title="General;News",Canal33Tijuana(720p)
 https://xxg.laispot.com/mytv.php?url=https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:-1 logo="" group-title="General;News" ,NTDTVEnglish(1080p)
+#EXTINF:-1 group-title="General;News",NTDTVEnglish(1080p)
 https://xxg.laispot.com/mytv.php?url=https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
-#EXTINF:-1 logo="" group-title="General;News" ,NTDTVEnglishUK
+#EXTINF:-1 group-title="General;News",NTDTVEnglishUK
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
-#EXTINF:-1 logo="" group-title="General;News" ,TVKStella(576p)
+#EXTINF:-1 group-title="General;News",TVKStella(576p)
 https://xxg.laispot.com/mytv.php?url=https://stream.tvkstella.pl/stella/stella.m3u8
-#EXTINF:-1 logo="" group-title="General;News" ,ĐồngNai1(480p)[Not24/7]
+#EXTINF:-1 group-title="General;News",ĐồngNai1(480p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 
-#EXTINF:-1 logo="" group-title="Legislative;News" ,KoreaTV(1080p)
+#EXTINF:-1 group-title="Legislative;News",KoreaTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
-#EXTINF:-1 logo="" group-title="Movies;News" ,IndywoodTV(720p)
+#EXTINF:-1 group-title="Movies;News",IndywoodTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 
-#EXTINF:-1 logo="" group-title="Music;News" ,Onda15TV(224p)
+#EXTINF:-1 group-title="Music;News",Onda15TV(224p)
 https://xxg.laispot.com/mytv.php?url=https://cloudvideo.servers10.com:8081/8034/index.m3u8
-#EXTINF:-1 logo="" group-title="Music;News" ,OndaValencia(720p)
+#EXTINF:-1 group-title="Music;News",OndaValencia(720p)
 https://xxg.laispot.com/mytv.php?url=https://cloudvideo.servers10.com:8081/8116/index.m3u8
 
-#EXTINF:-1 logo="" group-title="Music;News;Religious" ,LingkarTV
+#EXTINF:-1 group-title="Music;News;Religious",LingkarTV
 https://xxg.laispot.com/mytv.php?url=https://lingkartv.my.id/hls/lingkartv.m3u8
 
-#EXTINF:-1 logo="" group-title="News" ,10TV(576p)
+#EXTINF:-1 group-title="News",10TV(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-1.pishow.tv/live/391/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,13SiamThai(1080p)
+#EXTINF:-1 group-title="News",13SiamThai(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.x2.co.th/live/13livetv-th.m3u8
-#EXTINF:-1 logo="" group-title="News" ,24/7CanaldeNoticias
+#EXTINF:-1 group-title="News",24/7CanaldeNoticias
 https://xxg.laispot.com/mytv.php?url=https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:-1 logo="" group-title="News" ,24News(576p)
+#EXTINF:-1 group-title="News",24News(576p)
 https://xxg.laispot.com/mytv.php?url=https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,360TV(720p)[Not24/7]
+#EXTINF:-1 group-title="News",360TV(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 logo="" group-title="News" ,4TVNews(576p)
+#EXTINF:-1 group-title="News",4TVNews(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-4.pishow.tv/live/1007/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,6TVTelugu(576p)
+#EXTINF:-1 group-title="News",6TVTelugu(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-1.pishow.tv/live/232/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,99TV(720p)
+#EXTINF:-1 group-title="News",99TV(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-1.pishow.tv/live/1211/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,:24(1080p)
+#EXTINF:-1 group-title="News",:24(1080p)
 https://xxg.laispot.com/mytv.php?url=http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABCNews
+#EXTINF:-1 group-title="News",ABCNews
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABCNewsLive1(720p)
+#EXTINF:-1 group-title="News",ABCNewsLive1(720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABCNewsLive10(720p)
+#EXTINF:-1 group-title="News",ABCNewsLive10(720p)
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABCNewsLive2(720p)
+#EXTINF:-1 group-title="News",ABCNewsLive2(720p)
 https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABCNewsLive3(720p)
+#EXTINF:-1 group-title="News",ABCNewsLive3(720p)
 https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABCNewsLive4(720p)
+#EXTINF:-1 group-title="News",ABCNewsLive4(720p)
 https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master_4000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABCNewsLive5(720p)
+#EXTINF:-1 group-title="News",ABCNewsLive5(720p)
 https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master_4000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABCNewsLive6(720p)
+#EXTINF:-1 group-title="News",ABCNewsLive6(720p)
 https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABCNewsLive7(720p)
+#EXTINF:-1 group-title="News",ABCNewsLive7(720p)
 https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABCNewsLive8(720p)
+#EXTINF:-1 group-title="News",ABCNewsLive8(720p)
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABCNewsLive9(720p)
+#EXTINF:-1 group-title="News",ABCNewsLive9(720p)
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABCWWAY3
+#EXTINF:-1 group-title="News",ABCWWAY3
 https://xxg.laispot.com/mytv.php?url=https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABPAnanda(1080p)
+#EXTINF:-1 group-title="News",ABPAnanda(1080p)
 https://xxg.laispot.com/mytv.php?url=https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABPAsmita(1080p)
+#EXTINF:-1 group-title="News",ABPAsmita(1080p)
 https://xxg.laispot.com/mytv.php?url=https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABPGanga(1080p)
+#EXTINF:-1 group-title="News",ABPGanga(1080p)
 https://xxg.laispot.com/mytv.php?url=https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ABPNews(1080p)
+#EXTINF:-1 group-title="News",ABPNews(1080p)
 https://xxg.laispot.com/mytv.php?url=https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AKDCalcuttaNews(1080p)
+#EXTINF:-1 group-title="News",AKDCalcuttaNews(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.legitpro.co.in/cnnnews/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ALWifakNewsTV(720p)
+#EXTINF:-1 group-title="News",ALWifakNewsTV(720p)
 https://xxg.laispot.com/mytv.php?url=http://alwifaklive.info:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AMXNoticias(720p)[Not24/7]
+#EXTINF:-1 group-title="News",AMXNoticias(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ANBNews(576p)
+#EXTINF:-1 group-title="News",ANBNews(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ANNNews(1080p)
+#EXTINF:-1 group-title="News",ANNNews(1080p)
 https://xxg.laispot.com/mytv.php?url=https://legitpro.co.in/annnews/annnews/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,APN(576p)
+#EXTINF:-1 group-title="News",APN(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt01.tangotv.in/APN/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ARB24
+#EXTINF:-1 group-title="News",ARB24
 https://xxg.laispot.com/mytv.php?url=https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ASTVNews1(720p)[Not24/7]
+#EXTINF:-1 group-title="News",ASTVNews1(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=http://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AajTak(720p)
+#EXTINF:-1 group-title="News",AajTak(720p)
 https://xxg.laispot.com/mytv.php?url=https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AbanteTV(1080p)
+#EXTINF:-1 group-title="News",AbanteTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AcentoTV
+#EXTINF:-1 group-title="News",AcentoTV
 https://xxg.laispot.com/mytv.php?url=https://acentotv01.streamprolive.com/hls/live.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AfghanistanInternational(720p)
+#EXTINF:-1 group-title="News",AfghanistanInternational(720p)
 https://xxg.laispot.com/mytv.php?url=https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Africa24English(1080p)
+#EXTINF:-1 group-title="News",Africa24English(1080p)
 https://xxg.laispot.com/mytv.php?url=https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Afrique54TV(720p)
+#EXTINF:-1 group-title="News",Afrique54TV(720p)
 https://xxg.laispot.com/mytv.php?url=https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AikNews
+#EXTINF:-1 group-title="News",AikNews
 https://xxg.laispot.com/mytv.php?url=https://video.primexsports.com/pnn/live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AkitTV(720p)
+#EXTINF:-1 group-title="News",AkitTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlArabiya(1080p)
+#EXTINF:-1 group-title="News",AlArabiya(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlArabiyaEnglish(1080p)
+#EXTINF:-1 group-title="News",AlArabiyaEnglish(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlArabyTV(1080p)
+#EXTINF:-1 group-title="News",AlArabyTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlArabyTV2(1080p)
+#EXTINF:-1 group-title="News",AlArabyTV2(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlGhadTV(1080p)
+#EXTINF:-1 group-title="News",AlGhadTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlJazeera(1080p)
+#EXTINF:-1 group-title="News",AlJazeera(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlJazeeraEnglish(1080p)
+#EXTINF:-1 group-title="News",AlJazeeraEnglish(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlJazeeraMubasher(1080p)
+#EXTINF:-1 group-title="News",AlJazeeraMubasher(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlJazeeraMubasher24(1080p)
+#EXTINF:-1 group-title="News",AlJazeeraMubasher24(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlJazeeraMubasherBroadcast2(1080p)
+#EXTINF:-1 group-title="News",AlJazeeraMubasherBroadcast2(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlMasarTV(576p)
+#EXTINF:-1 group-title="News",AlMasarTV(576p)
 https://xxg.laispot.com/mytv.php?url=https://starmenajo.com/hls/almasar/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlMayadeen(576p)
+#EXTINF:-1 group-title="News",AlMayadeen(576p)
 https://xxg.laispot.com/mytv.php?url=https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlSharqiyaNews(1080p)
+#EXTINF:-1 group-title="News",AlSharqiyaNews(1080p)
 https://xxg.laispot.com/mytv.php?url=https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlYaumTV(1080p)
+#EXTINF:-1 group-title="News",AlYaumTV(1080p)
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlalamNewsChannelSyria(1080p)
+#EXTINF:-1 group-title="News",AlalamNewsChannelSyria(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live2.alalam.ir/live/Alalam/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlephNews(720p)
+#EXTINF:-1 group-title="News",AlephNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Alert(576p)[Not24/7]
+#EXTINF:-1 group-title="News",Alert(576p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlhaqeqaAldawlia(1080p)[Not24/7]
+#EXTINF:-1 group-title="News",AlhaqeqaAldawlia(1080p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://ghaasiflu.online/alhqeqa/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AlmahriahTV(576p)
+#EXTINF:-1 group-title="News",AlmahriahTV(576p)
 https://xxg.laispot.com/mytv.php?url=https://starmenajo.com/hls/almahriah/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Alqanat9TV(1080p)
+#EXTINF:-1 group-title="News",Alqanat9TV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AltaghierTV(1080p)
+#EXTINF:-1 group-title="News",AltaghierTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AmarUjala(1080p)
+#EXTINF:-1 group-title="News",AmarUjala(1080p)
 https://xxg.laispot.com/mytv.php?url=https://amarujala.ottlive.co.in/amarujala/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AnandaBarta(720p)
+#EXTINF:-1 group-title="News",AnandaBarta(720p)
 https://xxg.laispot.com/mytv.php?url=https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AnshunComprehensiveNewsChannel
+#EXTINF:-1 group-title="News",AnshunComprehensiveNewsChannel
 https://xxg.laispot.com/mytv.php?url=https://hplayer1.juyun.tv/camera/154379194.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AsianetSuvarnaNews(1080p)[Not24/7]
+#EXTINF:-1 group-title="News",AsianetSuvarnaNews(1080p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AssamTalks(576p)
+#EXTINF:-1 group-title="News",AssamTalks(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AtacamaNoticias(720p)[Not24/7]
+#EXTINF:-1 group-title="News",AtacamaNoticias(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,AwaazIndiaTV(720p)[Not24/7]
+#EXTINF:-1 group-title="News",AwaazIndiaTV(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-#EXTINF:-1 logo="" group-title="News" ,BEKTVNews(720p)
+#EXTINF:-1 group-title="News",BEKTVNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,BRKNews(576p)
+#EXTINF:-1 group-title="News",BRKNews(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-1.pishow.tv/live/1037/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,BTV(720p)
+#EXTINF:-1 group-title="News",BTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
-#EXTINF:-1 logo="" group-title="News" ,BakuTV(720p)
+#EXTINF:-1 group-title="News",BakuTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-#EXTINF:-1 logo="" group-title="News" ,BharatSamachar(480p)
+#EXTINF:-1 group-title="News",BharatSamachar(480p)
 https://xxg.laispot.com/mytv.php?url=https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
-#EXTINF:-1 logo="" group-title="News" ,BlackNewsChannel(1080p)
+#EXTINF:-1 group-title="News",BlackNewsChannel(1080p)
 https://xxg.laispot.com/mytv.php?url=https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,BrianTV(720p)[Not24/7]
+#EXTINF:-1 group-title="News",BrianTV(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,BurkinaInfoTV(540p)
+#EXTINF:-1 group-title="News",BurkinaInfoTV(540p)
 https://xxg.laispot.com/mytv.php?url=http://69.64.57.208/burkinainfo/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CBCNews(1080p)
+#EXTINF:-1 group-title="News",CBCNews(1080p)
 https://xxg.laispot.com/mytv.php?url=https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CBSNewsBaltimore(720p)
+#EXTINF:-1 group-title="News",CBSNewsBaltimore(720p)
 https://xxg.laispot.com/mytv.php?url=https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CBSNewsBayArea(720p)
+#EXTINF:-1 group-title="News",CBSNewsBayArea(720p)
 https://xxg.laispot.com/mytv.php?url=https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CBSNewsBoston(720p)
+#EXTINF:-1 group-title="News",CBSNewsBoston(720p)
 https://xxg.laispot.com/mytv.php?url=https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CBSNewsColorado(720p)
+#EXTINF:-1 group-title="News",CBSNewsColorado(720p)
 https://xxg.laispot.com/mytv.php?url=https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CBSNewsLosAngeles(720p)
+#EXTINF:-1 group-title="News",CBSNewsLosAngeles(720p)
 https://xxg.laispot.com/mytv.php?url=https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CBSNewsMiami(720p)
+#EXTINF:-1 group-title="News",CBSNewsMiami(720p)
 https://xxg.laispot.com/mytv.php?url=https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CBSNewsMinnesota(720p)
+#EXTINF:-1 group-title="News",CBSNewsMinnesota(720p)
 https://xxg.laispot.com/mytv.php?url=https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CBSNewsNewYork(720p)
+#EXTINF:-1 group-title="News",CBSNewsNewYork(720p)
 https://xxg.laispot.com/mytv.php?url=https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CBSNewsPhiladelphia(720p)
+#EXTINF:-1 group-title="News",CBSNewsPhiladelphia(720p)
 https://xxg.laispot.com/mytv.php?url=https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CBSNewsPittsburgh(720p)
+#EXTINF:-1 group-title="News",CBSNewsPittsburgh(720p)
 https://xxg.laispot.com/mytv.php?url=https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CBSNewsSacramento(720p)
+#EXTINF:-1 group-title="News",CBSNewsSacramento(720p)
 https://xxg.laispot.com/mytv.php?url=https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CCTV+1(600p)[Not24/7]
+#EXTINF:-1 group-title="News",CCTV+1(600p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CCTV+2(600p)[Not24/7]
+#EXTINF:-1 group-title="News",CCTV+2(600p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CGTN(1080p)
+#EXTINF:-1 group-title="News",CGTN(1080p)
 https://xxg.laispot.com/mytv.php?url=https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CGTNArabic(1080p)[Not24/7]
+#EXTINF:-1 group-title="News",CGTNArabic(1080p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CGTNEspañol(1080p)
+#EXTINF:-1 group-title="News",CGTNEspañol(1080p)
 https://xxg.laispot.com/mytv.php?url=https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CGTNFrançais(1080p)[Not24/7]
+#EXTINF:-1 group-title="News",CGTNFrançais(1080p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CGTNРусский(1080p)
+#EXTINF:-1 group-title="News",CGTNРусский(1080p)
 https://xxg.laispot.com/mytv.php?url=https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CNA(1080p)
+#EXTINF:-1 group-title="News",CNA(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CNA(1080p)[Geoblocked]
+#EXTINF:-1 group-title="News",CNA(1080p)[Geoblocked]
 https://xxg.laispot.com/mytv.php?url=https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CTVNAKDPlus(1080p)
+#EXTINF:-1 group-title="News",CTVNAKDPlus(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.legitpro.co.in/ctvnakdplus/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CVREnglish(720p)
+#EXTINF:-1 group-title="News",CVREnglish(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-2.pishow.tv/live/425/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CVRNews(576p)
+#EXTINF:-1 group-title="News",CVRNews(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt04.tangotv.in/CVRNEWS/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Cablenoticias(1080p)
+#EXTINF:-1 group-title="News",Cablenoticias(1080p)
 https://xxg.laispot.com/mytv.php?url=https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CanTV(720p)
+#EXTINF:-1 group-title="News",CanTV(720p)
 https://xxg.laispot.com/mytv.php?url=http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Canal38(720p)
+#EXTINF:-1 group-title="News",Canal38(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Carivision(1080p)[Geoblocked]
+#EXTINF:-1 group-title="News",Carivision(1080p)[Geoblocked]
 https://xxg.laispot.com/mytv.php?url=https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ChardiklaGurbaaniTV(1080p)
+#EXTINF:-1 group-title="News",ChardiklaGurbaaniTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ChardiklaTimeTV(1080p)
+#EXTINF:-1 group-title="News",ChardiklaTimeTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ChardiklaTimeTVNorthAmerica(1080p)
+#EXTINF:-1 group-title="News",ChardiklaTimeTVNorthAmerica(1080p)
 https://xxg.laispot.com/mytv.php?url=https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CheddarNews(1080p)
+#EXTINF:-1 group-title="News",CheddarNews(1080p)
 https://xxg.laispot.com/mytv.php?url=https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ChifengComprehensiveNewsChanel
+#EXTINF:-1 group-title="News",ChifengComprehensiveNewsChanel
 https://xxg.laispot.com/mytv.php?url=http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CitricoTV(360p)[Not24/7]
+#EXTINF:-1 group-title="News",CitricoTV(360p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://mlb.essastream.com:8081/citricotv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CityNewsCalgary(720p)
+#EXTINF:-1 group-title="News",CityNewsCalgary(720p)
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CityNewsEdmonton
+#EXTINF:-1 group-title="News",CityNewsEdmonton
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CityNewsToronto(720p)
+#EXTINF:-1 group-title="News",CityNewsToronto(720p)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CityNewsVancouver(720p)
+#EXTINF:-1 group-title="News",CityNewsVancouver(720p)
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Conecta2TV(720p)[Not24/7]
+#EXTINF:-1 group-title="News",Conecta2TV(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://live.obslivestream.com/conecta2/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Contivision(720p)
+#EXTINF:-1 group-title="News",Contivision(720p)
 https://xxg.laispot.com/mytv.php?url=https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,CorfuChannel(720p)
+#EXTINF:-1 group-title="News",CorfuChannel(720p)
 https://xxg.laispot.com/mytv.php?url=https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,DDNews(1080p)
+#EXTINF:-1 group-title="News",DDNews(1080p)
 https://xxg.laispot.com/mytv.php?url=https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,DDNews(576p)
+#EXTINF:-1 group-title="News",DDNews(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt04.tangotv.in/DDNEWS/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,DHA(720p)[Not24/7]
+#EXTINF:-1 group-title="News",DHA(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,DVBTV(720p)[Geoblocked]
+#EXTINF:-1 group-title="News",DVBTV(720p)[Geoblocked]
 https://xxg.laispot.com/mytv.php?url=https://live-stream.dvb.no/hls/stream_src/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,DWEnglish(1080p)
+#EXTINF:-1 group-title="News",DWEnglish(1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,DY365(576p)
+#EXTINF:-1 group-title="News",DY365(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt04.tangotv.in/DY365/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,DeUltimoMinutoTV
+#EXTINF:-1 group-title="News",DeUltimoMinutoTV
 https://xxg.laispot.com/mytv.php?url=https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
-#EXTINF:-1 logo="" group-title="News" ,DidgahTV(576p)
+#EXTINF:-1 group-title="News",DidgahTV(576p)
 https://xxg.laispot.com/mytv.php?url=https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Digi24(720p)
+#EXTINF:-1 group-title="News",Digi24(720p)
 https://xxg.laispot.com/mytv.php?url=https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,DottoTV(1080p)
+#EXTINF:-1 group-title="News",DottoTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.dottotv.ro/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,DunyaNews(INTFeed)(720p)[Not24/7]
+#EXTINF:-1 group-title="News",DunyaNews(INTFeed)(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,DunyaNews(UKFeed)(720p)[Not24/7]
+#EXTINF:-1 group-title="News",DunyaNews(UKFeed)(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,EACNewsTV(720p)
+#EXTINF:-1 group-title="News",EACNewsTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ETVAndhraPradesh(1080p)
+#EXTINF:-1 group-title="News",ETVAndhraPradesh(1080p)
 https://xxg.laispot.com/mytv.php?url=https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ETVNews(1080p)
+#EXTINF:-1 group-title="News",ETVNews(1080p)
 https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ETVTelangana(1080p)
+#EXTINF:-1 group-title="News",ETVTelangana(1080p)
 https://xxg.laispot.com/mytv.php?url=https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,EcotelTV(720p)
+#EXTINF:-1 group-title="News",EcotelTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:-1 logo="" group-title="News" ,EgnatiaTV(576p)
+#EXTINF:-1 group-title="News",EgnatiaTV(576p)
 https://xxg.laispot.com/mytv.php?url=https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,EkusheyTV(480p)
+#EXTINF:-1 group-title="News",EkusheyTV(480p)
 https://xxg.laispot.com/mytv.php?url=https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 logo="" group-title="News" ,EspaceTV(1080p)
+#EXTINF:-1 group-title="News",EspaceTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
-#EXTINF:-1 logo="" group-title="News" ,EtnaEspressoChannel(720p)
+#EXTINF:-1 group-title="News",EtnaEspressoChannel(720p)
 https://xxg.laispot.com/mytv.php?url=https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,EuronewsEnglish
+#EXTINF:-1 group-title="News",EuronewsEnglish
 https://xxg.laispot.com/mytv.php?url=https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ExitosaTV(720p)[Not24/7]
+#EXTINF:-1 group-title="News",ExitosaTV(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,FOX2DetroitMI(WJBK)(720p)
+#EXTINF:-1 group-title="News",FOX2DetroitMI(WJBK)(720p)
 https://xxg.laispot.com/mytv.php?url=https://aegis-cloudfront-1.tubi.video/5689247c-331e-4444-92e1-f7cc21377360/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,FebruaryChannel(1080p)
+#EXTINF:-1 group-title="News",FebruaryChannel(1080p)
 https://xxg.laispot.com/mytv.php?url=https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,FinansTurkTV(720p)
+#EXTINF:-1 group-title="News",FinansTurkTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,FirstChannelNews(1080p)
+#EXTINF:-1 group-title="News",FirstChannelNews(1080p)
 https://xxg.laispot.com/mytv.php?url=https://amtvusdvr.tulix.tv/am3abr/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,FirstIndiaNews(576p)
+#EXTINF:-1 group-title="News",FirstIndiaNews(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,FoxNewsRadio(720p)
+#EXTINF:-1 group-title="News",FoxNewsRadio(720p)
 https://xxg.laispot.com/mytv.php?url=https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,France24Arabic(1080p)
+#EXTINF:-1 group-title="News",France24Arabic(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,France24English(1080p)
+#EXTINF:-1 group-title="News",France24English(1080p)
 https://xxg.laispot.com/mytv.php?url=https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,France24Español(1080p)
+#EXTINF:-1 group-title="News",France24Español(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,France24French(1080p)
+#EXTINF:-1 group-title="News",France24French(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,FreeSpeechTV(720p)
+#EXTINF:-1 group-title="News",FreeSpeechTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,GSTV(576p)
+#EXTINF:-1 group-title="News",GSTV(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt05.tangotv.in/GSTV/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,GeoNews(576p)
+#EXTINF:-1 group-title="News",GeoNews(576p)
 https://xxg.laispot.com/mytv.php?url=http://116.90.120.151:8000/play/a020/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,GeoTez(576i)
+#EXTINF:-1 group-title="News",GeoTez(576i)
 https://xxg.laispot.com/mytv.php?url=https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,GiornaleRadioTV(720p)
+#EXTINF:-1 group-title="News",GiornaleRadioTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,GlobalPunjab(1080p)
+#EXTINF:-1 group-title="News",GlobalPunjab(1080p)
 https://xxg.laispot.com/mytv.php?url=https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Goa365(1080p)
+#EXTINF:-1 group-title="News",Goa365(1080p)
 https://xxg.laispot.com/mytv.php?url=https://ktismaservers.in:3086/live/goa365live.m3u8
-#EXTINF:-1 logo="" group-title="News" ,GuaranteeNews(1080p)
+#EXTINF:-1 group-title="News",GuaranteeNews(1080p)
 https://xxg.laispot.com/mytv.php?url=https://guaranteenews.in:8443/live/gnews/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,GujaratFirst(1080p)
+#EXTINF:-1 group-title="News",GujaratFirst(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.legitpro.co.in/gujaratfirst/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,GulistanNews(720p)[Not24/7]
+#EXTINF:-1 group-title="News",GulistanNews(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://live.gulistannews.in/hls/gul.m3u8
-#EXTINF:-1 logo="" group-title="News" ,GéopolisTV(240p)
+#EXTINF:-1 group-title="News",GéopolisTV(240p)
 https://xxg.laispot.com/mytv.php?url=https://tnt-television.com/Geopolis_tv/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HMTV(720p)
+#EXTINF:-1 group-title="News",HMTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-1.pishow.tv/live/280/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Haber61TV(720p)[Not24/7]
+#EXTINF:-1 group-title="News",Haber61TV(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HaberGlobal(720p)[Not24/7]
+#EXTINF:-1 group-title="News",HaberGlobal(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HaitiNewsChannel(720p)[Not24/7]
+#EXTINF:-1 group-title="News",HaitiNewsChannel(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://haititivi.com/website/haitinews/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HalabTodayTV(1080p)
+#EXTINF:-1 group-title="News",HalabTodayTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HalkTV(1080p)
+#EXTINF:-1 group-title="News",HalkTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HamdardTV(1080p)
+#EXTINF:-1 group-title="News",HamdardTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://tv.hamdardtv.com/hamdard/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HarKhabar(576p)
+#EXTINF:-1 group-title="News",HarKhabar(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt01.tangotv.in/HARKHABAR/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HarbinComprehensiveNewsChannel
+#EXTINF:-1 group-title="News",HarbinComprehensiveNewsChannel
 https://xxg.laispot.com/mytv.php?url=https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
-#EXTINF:-1 logo="" group-title="News" ,HermanasMirabalTV(720p)[Not24/7]
+#EXTINF:-1 group-title="News",HermanasMirabalTV(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://fox.hostlagarto.com:8081/hmtv/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HighNews(480p)
+#EXTINF:-1 group-title="News",HighNews(480p)
 https://xxg.laispot.com/mytv.php?url=https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HindiKhabar(576p)
+#EXTINF:-1 group-title="News",HindiKhabar(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-2.pishow.tv/live/1041/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HirTV(1080p)
+#EXTINF:-1 group-title="News",HirTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HornbillTV(576p)
+#EXTINF:-1 group-title="News",HornbillTV(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-2.pishow.tv/live/1463/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HumNews(1080p)
+#EXTINF:-1 group-title="News",HumNews(1080p)
 https://xxg.laispot.com/mytv.php?url=http://116.90.120.151:8000/play/a024/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,HumaBetangTV(720p)[Not24/7]
+#EXTINF:-1 group-title="News",HumaBetangTV(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://v3.siar.us/humabetangtv/live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,IBC24(720p)
+#EXTINF:-1 group-title="News",IBC24(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-3.pishow.tv/live/220/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ICIRDI(720p)
+#EXTINF:-1 group-title="News",ICIRDI(720p)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,INH24x7(576p)
+#EXTINF:-1 group-title="News",INH24x7(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt01.tangotv.in/INH24X7/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,INews(720p)
+#EXTINF:-1 group-title="News",INews(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-1.pishow.tv/live/411/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Ind24(576p)
+#EXTINF:-1 group-title="News",Ind24(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt02.tangotv.in/IND24/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,IndiaAhead(576p)
+#EXTINF:-1 group-title="News",IndiaAhead(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,IndiaDailyLive(1080p)
+#EXTINF:-1 group-title="News",IndiaDailyLive(1080p)
 https://xxg.laispot.com/mytv.php?url=https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,IndiaTV(720p)
+#EXTINF:-1 group-title="News",IndiaTV(720p)
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,IndiaTVSpeedNews(1080p)
+#EXTINF:-1 group-title="News",IndiaTVSpeedNews(1080p)
 https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
-#EXTINF:-1 logo="" group-title="News" ,IndiaVoice(576p)
+#EXTINF:-1 group-title="News",IndiaVoice(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt04.tangotv.in/INDIAVOICE/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,InformatiaTV
+#EXTINF:-1 group-title="News",InformatiaTV
 https://xxg.laispot.com/mytv.php?url=https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
-#EXTINF:-1 logo="" group-title="News" ,IranInternational(720p)
+#EXTINF:-1 group-title="News",IranInternational(720p)
 https://xxg.laispot.com/mytv.php?url=https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,IranPress
+#EXTINF:-1 group-title="News",IranPress
 https://xxg.laispot.com/mytv.php?url=https://live.presstv.ir/hls/presstv_5_482/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,IraneFardaTV(720p)
+#EXTINF:-1 group-title="News",IraneFardaTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://hls.iranfarda.live/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="News" ,JK24x7News(720p)[Not24/7]
+#EXTINF:-1 group-title="News",JK24x7News(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://live.gulistannews.in/hls/jk.m3u8
-#EXTINF:-1 logo="" group-title="News" ,JaiMaharashtra(576p)
+#EXTINF:-1 group-title="News",JaiMaharashtra(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-3.pishow.tv/live/1465/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,JantaTV(1080p)
+#EXTINF:-1 group-title="News",JantaTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.jswk.online/IK_RTPM/live/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,JovemPanNews(JPNews)(1080p)[Not24/7]
+#EXTINF:-1 group-title="News",JovemPanNews(JPNews)(1080p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,KNewsIndia(576p)
+#EXTINF:-1 group-title="News",KNewsIndia(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,KairaliNews(720p)
+#EXTINF:-1 group-title="News",KairaliNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-3.pishow.tv/live/1469/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,KalaignarSeithigal(720p)
+#EXTINF:-1 group-title="News",KalaignarSeithigal(720p)
 https://xxg.laispot.com/mytv.php?url=https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,KannurVision(1080p)
+#EXTINF:-1 group-title="News",KannurVision(1080p)
 https://xxg.laispot.com/mytv.php?url=https://stream.logichost.in/kannurvision/live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,KapazTV
+#EXTINF:-1 group-title="News",KapazTV
 https://xxg.laispot.com/mytv.php?url=http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,KashishNews(720p)
+#EXTINF:-1 group-title="News",KashishNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,KhabarFast(576p)
+#EXTINF:-1 group-title="News",KhabarFast(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt04.tangotv.in/KHABARFAST/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,KhabrainAbhiTak(576p)
+#EXTINF:-1 group-title="News",KhabrainAbhiTak(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,KolkataTV(1080p)
+#EXTINF:-1 group-title="News",KolkataTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://cdn.ottlive.co.in/kolkatatv/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Kurdistan24(720p)
+#EXTINF:-1 group-title="News",Kurdistan24(720p)
 https://xxg.laispot.com/mytv.php?url=https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,KurdsatNews(1080p)
+#EXTINF:-1 group-title="News",KurdsatNews(1080p)
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-#EXTINF:-1 logo="" group-title="News" ,LN24
+#EXTINF:-1 group-title="News",LN24
 https://xxg.laispot.com/mytv.php?url=https://live-ln24.digiteka.com/1911668011/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,LN24SA(1080p)
+#EXTINF:-1 group-title="News",LN24SA(1080p)
 https://xxg.laispot.com/mytv.php?url=https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,LRTRadijas(1080p)
+#EXTINF:-1 group-title="News",LRTRadijas(1080p)
 https://xxg.laispot.com/mytv.php?url=https://stream-live.lrt.lt/radijas/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,LahoreNews(720p)[Not24/7]
+#EXTINF:-1 group-title="News",LahoreNews(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,LeMediaTV
+#EXTINF:-1 group-title="News",LeMediaTV
 https://xxg.laispot.com/mytv.php?url=https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
-#EXTINF:-1 logo="" group-title="News" ,LencaTelevisionCanal40(720p)[Not24/7]
+#EXTINF:-1 group-title="News",LencaTelevisionCanal40(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://lencatelevision.com/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="News" ,LivingIndiaNews(1080p)
+#EXTINF:-1 group-title="News",LivingIndiaNews(1080p)
 https://xxg.laispot.com/mytv.php?url=https://stream.ottlive.co.in/livingindia/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,LokshahiNews(1080p)
+#EXTINF:-1 group-title="News",LokshahiNews(1080p)
 https://xxg.laispot.com/mytv.php?url=https://see.lokshahi.live/live/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,LoveTelevision(720p)
+#EXTINF:-1 group-title="News",LoveTelevision(720p)
 https://xxg.laispot.com/mytv.php?url=https://streamer2.nexgen.bz/01-LOVE/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,LyonCapitaleTV
+#EXTINF:-1 group-title="News",LyonCapitaleTV
 https://xxg.laispot.com/mytv.php?url=https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8
-#EXTINF:-1 logo="" group-title="News" ,M95TelevisiónMarbella(1080p)[Not24/7]
+#EXTINF:-1 group-title="News",M95TelevisiónMarbella(1080p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://limited2.todostreaming.es/live/m95-livestream.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MNaduTV(576p)
+#EXTINF:-1 group-title="News",MNaduTV(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt01.tangotv.in/MNADU/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MNetInfo
+#EXTINF:-1 group-title="News",MNetInfo
 https://xxg.laispot.com/mytv.php?url=https://live.mnet.mk/hls/mnet-info.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MadhimugamTV(576p)
+#EXTINF:-1 group-title="News",MadhimugamTV(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-3.pishow.tv/live/1476/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MalabarNews(720p)
+#EXTINF:-1 group-title="News",MalabarNews(720p)
 https://xxg.laispot.com/mytv.php?url=http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ManoramaNews(1080p)
+#EXTINF:-1 group-title="News",ManoramaNews(1080p)
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MathrubhumiNews(576p)
+#EXTINF:-1 group-title="News",MathrubhumiNews(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Medi1TVAfrique(1080p)
+#EXTINF:-1 group-title="News",Medi1TVAfrique(1080p)
 https://xxg.laispot.com/mytv.php?url=https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Medi1TVArabic(720p)
+#EXTINF:-1 group-title="News",Medi1TVArabic(720p)
 https://xxg.laispot.com/mytv.php?url=https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Medi1TVMaghreb(720p)
+#EXTINF:-1 group-title="News",Medi1TVMaghreb(720p)
 https://xxg.laispot.com/mytv.php?url=https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MediaOne(720p)
+#EXTINF:-1 group-title="News",MediaOne(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-3.pishow.tv/live/1481/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MekameleenTV(1080p)
+#EXTINF:-1 group-title="News",MekameleenTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MetroTV
+#EXTINF:-1 group-title="News",MetroTV
 https://xxg.laispot.com/mytv.php?url=https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Mh1News(576p)
+#EXTINF:-1 group-title="News",Mh1News(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt04.tangotv.in/MHONENEWS/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MihanTV
+#EXTINF:-1 group-title="News",MihanTV
 https://xxg.laispot.com/mytv.php?url=https://iptv.mihantv.com/mihantv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MinformoTV(720p)
+#EXTINF:-1 group-title="News",MinformoTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MirrorNow(720p)
+#EXTINF:-1 group-title="News",MirrorNow(720p)
 https://xxg.laispot.com/mytv.php?url=https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MonacoInfo(1080p)
+#EXTINF:-1 group-title="News",MonacoInfo(1080p)
 https://xxg.laispot.com/mytv.php?url=https://webtv.monacoinfo.com/live/prod/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MoonTV(720p)
+#EXTINF:-1 group-title="News",MoonTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,MásNoticiasTelevisión(720p)
+#EXTINF:-1 group-title="News",MásNoticiasTelevisión(720p)
 https://xxg.laispot.com/mytv.php?url=https://www.amixtv.com:8081/mntvh/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NBC12WinstonSalemNC(WXII)(720p)
+#EXTINF:-1 group-title="News",NBC12WinstonSalemNC(WXII)(720p)
 https://xxg.laispot.com/mytv.php?url=https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NBC2
+#EXTINF:-1 group-title="News",NBC2
 https://xxg.laispot.com/mytv.php?url=https://hls2.nbcplus.na/hls/high_nbc2.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NBC8LancasterPA(WGAL)(720p)
+#EXTINF:-1 group-title="News",NBC8LancasterPA(WGAL)(720p)
 https://xxg.laispot.com/mytv.php?url=https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NCTV(1080p)
+#EXTINF:-1 group-title="News",NCTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NDTV24X7(480p)[Not24/7]
+#EXTINF:-1 group-title="News",NDTV24X7(480p)[Not24/7]
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NDTVIndia(480p)[Not24/7]
+#EXTINF:-1 group-title="News",NDTVIndia(480p)[Not24/7]
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NDTVMarathi(1080p)
+#EXTINF:-1 group-title="News",NDTVMarathi(1080p)
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NDTVRajasthan(1080p)
+#EXTINF:-1 group-title="News",NDTVRajasthan(1080p)
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NENews(576p)
+#EXTINF:-1 group-title="News",NENews(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt05.tangotv.in/NENEWS/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NTVTelugu(576p)
+#EXTINF:-1 group-title="News",NTVTelugu(576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NagalandTV(576p)
+#EXTINF:-1 group-title="News",NagalandTV(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-6.pishow.tv/live/10014/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18AssamNorthEast(1080p)
+#EXTINF:-1 group-title="News",News18AssamNorthEast(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18Bangla(1080p)
+#EXTINF:-1 group-title="News",News18Bangla(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18BiharJharkhand(1080p)
+#EXTINF:-1 group-title="News",News18BiharJharkhand(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18Gujarati(1080p)
+#EXTINF:-1 group-title="News",News18Gujarati(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18India(1080p)
+#EXTINF:-1 group-title="News",News18India(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18JKLH(1080p)
+#EXTINF:-1 group-title="News",News18JKLH(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18Kerala(1080p)
+#EXTINF:-1 group-title="News",News18Kerala(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18Lokmat(1080p)
+#EXTINF:-1 group-title="News",News18Lokmat(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18MadhyaPradesh/Chhattisgarh(1080p)
+#EXTINF:-1 group-title="News",News18MadhyaPradesh/Chhattisgarh(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18Odia(1080p)
+#EXTINF:-1 group-title="News",News18Odia(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18Punjab/Haryana/Himachal(1080p)
+#EXTINF:-1 group-title="News",News18Punjab/Haryana/Himachal(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18Rajasthan(1080p)
+#EXTINF:-1 group-title="News",News18Rajasthan(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18TamilNadu(1080p)
+#EXTINF:-1 group-title="News",News18TamilNadu(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18Urdu(1080p)
+#EXTINF:-1 group-title="News",News18Urdu(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18UttarPradeshUttarakhand(1080p)
+#EXTINF:-1 group-title="News",News18UttarPradeshUttarakhand(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News1st(576p)
+#EXTINF:-1 group-title="News",News1st(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-3.pishow.tv/live/268/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News7Tamil(576p)
+#EXTINF:-1 group-title="News",News7Tamil(576p)
 https://xxg.laispot.com/mytv.php?url=https://segment.yuppcdn.net/240122/news7/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News9Live(720p)
+#EXTINF:-1 group-title="News",News9Live(720p)
 https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NewsDaily24(576p)
+#EXTINF:-1 group-title="News",NewsDaily24(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-6.pishow.tv/live/10009/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NewsJ(720p)[Not24/7]
+#EXTINF:-1 group-title="News",NewsJ(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://cdn-3.pishow.tv/live/1279/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NewsLive(576p)
+#EXTINF:-1 group-title="News",NewsLive(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-6.pishow.tv/live/10011/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NewsMalayalam24x7(1080p)
+#EXTINF:-1 group-title="News",NewsMalayalam24x7(1080p)
 https://xxg.laispot.com/mytv.php?url=https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NewsNation(1080p)
+#EXTINF:-1 group-title="News",NewsNation(1080p)
 https://xxg.laispot.com/mytv.php?url=https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NewsTamil24x7(1080p)
+#EXTINF:-1 group-title="News",NewsTamil24x7(1080p)
 https://xxg.laispot.com/mytv.php?url=https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NewsWorld
+#EXTINF:-1 group-title="News",NewsWorld
 https://xxg.laispot.com/mytv.php?url=https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Newsmax2(1080p)
+#EXTINF:-1 group-title="News",Newsmax2(1080p)
 https://xxg.laispot.com/mytv.php?url=https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NopolaNews(1080p)[Not24/7]
+#EXTINF:-1 group-title="News",NopolaNews(1080p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,NorteInformativoTV(240p)
+#EXTINF:-1 group-title="News",NorteInformativoTV(240p)
 https://xxg.laispot.com/mytv.php?url=https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Noticias16(720p)[Not24/7]
+#EXTINF:-1 group-title="News",Noticias16(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://mlb.essastream.com:8081/noticias16/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,O'zbekiston24(1080p)
+#EXTINF:-1 group-title="News",O'zbekiston24(1080p)
 https://xxg.laispot.com/mytv.php?url=https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,OANEncore(720p)[Geoblocked]
+#EXTINF:-1 group-title="News",OANEncore(720p)[Geoblocked]
 https://xxg.laispot.com/mytv.php?url=https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,OANPlus(1080p)
+#EXTINF:-1 group-title="News",OANPlus(1080p)
 https://xxg.laispot.com/mytv.php?url=https://oan-plus-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ObservatorNews(720p)
+#EXTINF:-1 group-title="News",ObservatorNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
-#EXTINF:-1 logo="" group-title="News" ,OmanMubashir(1080p)
+#EXTINF:-1 group-title="News",OmanMubashir(1080p)
 https://xxg.laispot.com/mytv.php?url=https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,OraNews(720p)
+#EXTINF:-1 group-title="News",OraNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 logo="" group-title="News" ,PSNCanal45.2(288p)
+#EXTINF:-1 group-title="News",PSNCanal45.2(288p)
 https://xxg.laispot.com/mytv.php?url=https://srspsn2.live/live/livestream.m3u8
-#EXTINF:-1 logo="" group-title="News" ,PTCNews(576p)
+#EXTINF:-1 group-title="News",PTCNews(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-4.pishow.tv/live/1502/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,PalitraNews(480p)[Not24/7]
+#EXTINF:-1 group-title="News",PalitraNews(480p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://live.palitranews.ge/hls/palitratv/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,PayamTV(720p)[Not24/7]
+#EXTINF:-1 group-title="News",PayamTV(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,PayvandTV(720p)[Not24/7]
+#EXTINF:-1 group-title="News",PayvandTV(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://bozztv.com/cus01/ucur1/Payvand/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,PlenaTV(720p)
+#EXTINF:-1 group-title="News",PlenaTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,PolimerNews(720p)
+#EXTINF:-1 group-title="News",PolimerNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://live-cf-polimernews.dailyhunt.in/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,PrensaLatinaTV(1080p)
+#EXTINF:-1 group-title="News",PrensaLatinaTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://eu1.servers10.com:8081/8192/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Prime9News(1080p)
+#EXTINF:-1 group-title="News",Prime9News(1080p)
 https://xxg.laispot.com/mytv.php?url=https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ProbashiTVNews
+#EXTINF:-1 group-title="News",ProbashiTVNews
 https://xxg.laispot.com/mytv.php?url=http://158.69.24.53:8080/probashi_tv/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,PrudentMedia(1080p)
+#EXTINF:-1 group-title="News",PrudentMedia(1080p)
 https://xxg.laispot.com/mytv.php?url=https://prudentmcdn.rixcast.com/prudentm.m3u8
-#EXTINF:-1 logo="" group-title="News" ,PublicTV(720p)
+#EXTINF:-1 group-title="News",PublicTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-3.pishow.tv/live/439/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,PuranoticiaTV(720p)
+#EXTINF:-1 group-title="News",PuranoticiaTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://pnt.janusmedia.tv/hls/pnt.m3u8
-#EXTINF:-1 logo="" group-title="News" ,PuthiyaThalaimurai(576p)
+#EXTINF:-1 group-title="News",PuthiyaThalaimurai(576p)
 https://xxg.laispot.com/mytv.php?url=https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RCVTV(712p)
+#EXTINF:-1 group-title="News",RCVTV(712p)
 https://xxg.laispot.com/mytv.php?url=https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RDN(1080p)[Not24/7]
+#EXTINF:-1 group-title="News",RDN(1080p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://mlb.essastream.com:8081/rdntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RNN(720p)[Not24/7]
+#EXTINF:-1 group-title="News",RNN(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RPPTV
+#EXTINF:-1 group-title="News",RPPTV
 https://xxg.laispot.com/mytv.php?url=https://redirector.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RSelvaTV
+#EXTINF:-1 group-title="News",RSelvaTV
 https://xxg.laispot.com/mytv.php?url=https://live.obslivestream.com/selvatv/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RTArabic(1080p)[Geoblocked]
+#EXTINF:-1 group-title="News",RTArabic(1080p)[Geoblocked]
 https://xxg.laispot.com/mytv.php?url=https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RTDE(1080p)[Not24/7]
+#EXTINF:-1 group-title="News",RTDE(1080p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RTFrance(1080p)[Geoblocked]
+#EXTINF:-1 group-title="News",RTFrance(1080p)[Geoblocked]
 https://xxg.laispot.com/mytv.php?url=https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RTHKTV35(港台電視35)(1080p)[Geoblocked]
+#EXTINF:-1 group-title="News",RTHKTV35(港台電視35)(1080p)[Geoblocked]
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RTIndia(1080p)
+#EXTINF:-1 group-title="News",RTIndia(1080p)
 https://xxg.laispot.com/mytv.php?url=https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RadioAncón(720p)
+#EXTINF:-1 group-title="News",RadioAncón(720p)
 https://xxg.laispot.com/mytv.php?url=https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RadioIslaTV(720p)
+#EXTINF:-1 group-title="News",RadioIslaTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RaiNews24(1080p)
+#EXTINF:-1 group-title="News",RaiNews24(1080p)
 https://xxg.laispot.com/mytv.php?url=http://78.130.250.2:8023/play/a04l/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RajNewsKannada(576p)
+#EXTINF:-1 group-title="News",RajNewsKannada(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt03.tangotv.in/RAJNEWSKANDA/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RajNewsMalayalam(576p)
+#EXTINF:-1 group-title="News",RajNewsMalayalam(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RajNewsTelugu(576p)
+#EXTINF:-1 group-title="News",RajNewsTelugu(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt04.tangotv.in/RAJNEWSTELUGU/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RealNewsKerala(1080p)[Not24/7]
+#EXTINF:-1 group-title="News",RealNewsKerala(1080p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RecordNews(720p)
+#EXTINF:-1 group-title="News",RecordNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RedTVLebanon(1080p)
+#EXTINF:-1 group-title="News",RedTVLebanon(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RedseatTheFirst(720p)
+#EXTINF:-1 group-title="News",RedseatTheFirst(720p)
 https://xxg.laispot.com/mytv.php?url=https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RepublicBangla(1080p)
+#EXTINF:-1 group-title="News",RepublicBangla(1080p)
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RepublicBharat(1080p)[Geoblocked]
+#EXTINF:-1 group-title="News",RepublicBharat(1080p)[Geoblocked]
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RepublicKannada(1080p)
+#EXTINF:-1 group-title="News",RepublicKannada(1080p)
 https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kannada/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1acd1ce1-c6a7-4ae4-afa1-133ffb111ebb/main.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RepublicTV(1080p)
+#EXTINF:-1 group-title="News",RepublicTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,RliveTV(406p)
+#EXTINF:-1 group-title="News",RliveTV(406p)
 https://xxg.laispot.com/mytv.php?url=https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SABCLehae[Geoblocked]
+#EXTINF:-1 group-title="News",SABCLehae[Geoblocked]
 https://xxg.laispot.com/mytv.php?url=https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SadhnaPlusNews(720p)
+#EXTINF:-1 group-title="News",SadhnaPlusNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SahanaNews(576p)
+#EXTINF:-1 group-title="News",SahanaNews(576p)
 https://xxg.laispot.com/mytv.php?url=https://mumt03.tangotv.in/SAHANANEWS/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SalaamTV(720p)
+#EXTINF:-1 group-title="News",SalaamTV(720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SamayKolkata(1080p)
+#EXTINF:-1 group-title="News",SamayKolkata(1080p)
 https://xxg.laispot.com/mytv.php?url=https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SathiyamTV(720p)
+#EXTINF:-1 group-title="News",SathiyamTV(720p)
 https://xxg.laispot.com/mytv.php?url=https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ShamsTV(1080p)
+#EXTINF:-1 group-title="News",ShamsTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://stream.shams.tv/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SkyNewsExtra1(540p)
+#EXTINF:-1 group-title="News",SkyNewsExtra1(540p)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SkyNewsExtra2(540p)[Not24/7]
+#EXTINF:-1 group-title="News",SkyNewsExtra2(540p)[Not24/7]
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SkyNewsExtra3(1080p)
+#EXTINF:-1 group-title="News",SkyNewsExtra3(1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SomoyNewsTV(1080p)
+#EXTINF:-1 group-title="News",SomoyNewsTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://bozztv.com/rongo/rongo-somoy/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,StarBharat(576p)
+#EXTINF:-1 group-title="News",StarBharat(576p)
 https://xxg.laispot.com/mytv.php?url=http://116.90.120.151:8000/play/a0h2/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,StartTV(480p)
+#EXTINF:-1 group-title="News",StartTV(480p)
 https://xxg.laispot.com/mytv.php?url=https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SuchTV
+#EXTINF:-1 group-title="News",SuchTV
 https://xxg.laispot.com/mytv.php?url=https://video.primexsports.com/suchnews/live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SuperExpressTV(1080i)
+#EXTINF:-1 group-title="News",SuperExpressTV(1080i)
 https://xxg.laispot.com/mytv.php?url=https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SwadeshNews(720p)
+#EXTINF:-1 group-title="News",SwadeshNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-2.pishow.tv/live/465/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SwarajExpressSMBC(720p)[Not24/7]
+#EXTINF:-1 group-title="News",SwarajExpressSMBC(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://cdn-2.pishow.tv/live/477/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,SwatantraTV(1080p)
+#EXTINF:-1 group-title="News",SwatantraTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Syri(720p)
+#EXTINF:-1 group-title="News",Syri(720p)
 https://xxg.laispot.com/mytv.php?url=https://stream.syritv.al/live/syritv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TCM10(1080p)
+#EXTINF:-1 group-title="News",TCM10(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TGRTHaber(720p)
+#EXTINF:-1 group-title="News",TGRTHaber(720p)
 https://xxg.laispot.com/mytv.php?url=https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TN
+#EXTINF:-1 group-title="News",TN
 https://xxg.laispot.com/mytv.php?url=http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TNews(720p)
+#EXTINF:-1 group-title="News",TNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-1.pishow.tv/live/385/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TOIGlobal(1080p)
+#EXTINF:-1 group-title="News",TOIGlobal(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.sli.ke/live/npnhm84gz9/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TRA2(576p)
+#EXTINF:-1 group-title="News",TRA2(576p)
 https://xxg.laispot.com/mytv.php?url=https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TRTArabi(1080p)[Not24/7]
+#EXTINF:-1 group-title="News",TRTArabi(1080p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TRTHaber(720p)
+#EXTINF:-1 group-title="News",TRTHaber(720p)
 https://xxg.laispot.com/mytv.php?url=https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TRTWorld
+#EXTINF:-1 group-title="News",TRTWorld
 https://xxg.laispot.com/mytv.php?url=https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TRTWorld
+#EXTINF:-1 group-title="News",TRTWorld
 https://xxg.laispot.com/mytv.php?url=https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TRTWorld(1080p)[Not24/7]
+#EXTINF:-1 group-title="News",TRTWorld(1080p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TV5Kannada(576p)
+#EXTINF:-1 group-title="News",TV5Kannada(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-3.pishow.tv/live/1526/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TV5News(576p)
+#EXTINF:-1 group-title="News",TV5News(576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TV9Bangla(720p)
+#EXTINF:-1 group-title="News",TV9Bangla(720p)
 https://xxg.laispot.com/mytv.php?url=https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TV9Bharatvarsh(720p)
+#EXTINF:-1 group-title="News",TV9Bharatvarsh(720p)
 https://xxg.laispot.com/mytv.php?url=https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TV9Gujarati(720p)
+#EXTINF:-1 group-title="News",TV9Gujarati(720p)
 https://xxg.laispot.com/mytv.php?url=https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TV9Marathi(720p)
+#EXTINF:-1 group-title="News",TV9Marathi(720p)
 https://xxg.laispot.com/mytv.php?url=https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TV9Telugu(720p)
+#EXTINF:-1 group-title="News",TV9Telugu(720p)
 https://xxg.laispot.com/mytv.php?url=https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TVAFolha(720p)
+#EXTINF:-1 group-title="News",TVAFolha(720p)
 https://xxg.laispot.com/mytv.php?url=https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TVBrusque(720p)
+#EXTINF:-1 group-title="News",TVBrusque(720p)
 https://xxg.laispot.com/mytv.php?url=https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TVJadran(720p)[Not24/7]
+#EXTINF:-1 group-title="News",TVJadran(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TVPWorld(1080p)
+#EXTINF:-1 group-title="News",TVPWorld(1080p)
 https://xxg.laispot.com/mytv.php?url=https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TVPeruNoticias(360p)
+#EXTINF:-1 group-title="News",TVPeruNoticias(360p)
 https://xxg.laispot.com/mytv.php?url=https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TVRInfo
+#EXTINF:-1 group-title="News",TVRInfo
 https://xxg.laispot.com/mytv.php?url=https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TVSimCachoeiro(720p)
+#EXTINF:-1 group-title="News",TVSimCachoeiro(720p)
 https://xxg.laispot.com/mytv.php?url=https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TVSimColatina(720p)
+#EXTINF:-1 group-title="News",TVSimColatina(720p)
 https://xxg.laispot.com/mytv.php?url=https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TVSimSãoMateus(720p)
+#EXTINF:-1 group-title="News",TVSimSãoMateus(720p)
 https://xxg.laispot.com/mytv.php?url=https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TVdoPovo(540p)
+#EXTINF:-1 group-title="News",TVdoPovo(540p)
 https://xxg.laispot.com/mytv.php?url=https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TVídeoNews(720p)[Not24/7]
+#EXTINF:-1 group-title="News",TVídeoNews(720p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Telegela647
+#EXTINF:-1 group-title="News",Telegela647
 https://xxg.laispot.com/mytv.php?url=https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TelenewsTV
+#EXTINF:-1 group-title="News",TelenewsTV
 https://xxg.laispot.com/mytv.php?url=https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Telesur(1080p)
+#EXTINF:-1 group-title="News",Telesur(1080p)
 https://xxg.laispot.com/mytv.php?url=https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Telesur(480p)
+#EXTINF:-1 group-title="News",Telesur(480p)
 https://xxg.laispot.com/mytv.php?url=https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TelesurEnglish(1080p)
+#EXTINF:-1 group-title="News",TelesurEnglish(1080p)
 https://xxg.laispot.com/mytv.php?url=https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TelesurEnglish(480p)
+#EXTINF:-1 group-title="News",TelesurEnglish(480p)
 https://xxg.laispot.com/mytv.php?url=https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TelevisiondelEste(1080p)[Not24/7]
+#EXTINF:-1 group-title="News",TelevisiondelEste(1080p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://mlb.essastream.com:8081/televisiondeleste/tracks-v1a1/mono.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ThanthiTV(576p)
+#EXTINF:-1 group-title="News",ThanthiTV(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-3.pishow.tv/live/1612/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TonghuaTV
+#EXTINF:-1 group-title="News",TonghuaTV
 https://xxg.laispot.com/mytv.php?url=http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,TopNews(720p)
+#EXTINF:-1 group-title="News",TopNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 logo="" group-title="News" ,UN24(720p)
+#EXTINF:-1 group-title="News",UN24(720p)
 https://xxg.laispot.com/mytv.php?url=https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,UNWebTV(540p)
+#EXTINF:-1 group-title="News",UNWebTV(540p)
 https://xxg.laispot.com/mytv.php?url=https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 logo="" group-title="News" ,UzReportTV(1080p)
+#EXTINF:-1 group-title="News",UzReportTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,V6News(576p)
+#EXTINF:-1 group-title="News",V6News(576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,VIPNews(360p)
+#EXTINF:-1 group-title="News",VIPNews(360p)
 https://xxg.laispot.com/mytv.php?url=https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,VNP
+#EXTINF:-1 group-title="News",VNP
 https://xxg.laispot.com/mytv.php?url=https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 logo="" group-title="News" ,VOAPersian
+#EXTINF:-1 group-title="News",VOAPersian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,VOATVAfrica(1080p)
+#EXTINF:-1 group-title="News",VOATVAfrica(1080p)
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,VelichamTV(576p)
+#EXTINF:-1 group-title="News",VelichamTV(576p)
 https://xxg.laispot.com/mytv.php?url=https://cdn-3.pishow.tv/live/461/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,VoiceofLebanon(1080p)
+#EXTINF:-1 group-title="News",VoiceofLebanon(1080p)
 https://xxg.laispot.com/mytv.php?url=https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Vísir(1080p)
+#EXTINF:-1 group-title="News",Vísir(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.visir.is/hls-live/visir.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,W14DKD14.2NEWSNET
+#EXTINF:-1 group-title="News",W14DKD14.2NEWSNET
 https://xxg.laispot.com/mytv.php?url=https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,WelatTV(1080i)
+#EXTINF:-1 group-title="News",WelatTV(1080i)
 https://xxg.laispot.com/mytv.php?url=https://stream.badinan.xyz/welat/tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Zee24Ghanta(576p)
+#EXTINF:-1 group-title="News",Zee24Ghanta(576p)
 https://xxg.laispot.com/mytv.php?url=http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Zee24Kalak(720p)
+#EXTINF:-1 group-title="News",Zee24Kalak(720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/497f7199-758d-495d-9d2f-a5489231c428/14b7c8ec-16da-47f2-8d7e-5bbaec67b3e2/3.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Zee24Taas(720p)
+#EXTINF:-1 group-title="News",Zee24Taas(720p)
 https://xxg.laispot.com/mytv.php?url=https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ZeeBharat(720p)
+#EXTINF:-1 group-title="News",ZeeBharat(720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ZeeBiharJharkhand(720p)
+#EXTINF:-1 group-title="News",ZeeBiharJharkhand(720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ZeeDelhiNCRHaryana(720p)
+#EXTINF:-1 group-title="News",ZeeDelhiNCRHaryana(720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ZeeKannadaNews(720p)
+#EXTINF:-1 group-title="News",ZeeKannadaNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ZeeMadhyaPradeshChhattisgarh(720p)
+#EXTINF:-1 group-title="News",ZeeMadhyaPradeshChhattisgarh(720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ZeeMalayalamNews(720p)
+#EXTINF:-1 group-title="News",ZeeMalayalamNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ZeeNews(1080p)
+#EXTINF:-1 group-title="News",ZeeNews(1080p)
 https://xxg.laispot.com/mytv.php?url=https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ZeePunjabHaryanaHimachal(720p)
+#EXTINF:-1 group-title="News",ZeePunjabHaryanaHimachal(720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ZeeRajasthan(720p)
+#EXTINF:-1 group-title="News",ZeeRajasthan(720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ZeeTeluguNews(720p)
+#EXTINF:-1 group-title="News",ZeeTeluguNews(720p)
 https://xxg.laispot.com/mytv.php?url=https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
-#EXTINF:-1 logo="" group-title="News" ,ZeeUttarPradesh/Uttarakhand(720p)
+#EXTINF:-1 group-title="News",ZeeUttarPradesh/Uttarakhand(720p)
 https://xxg.laispot.com/mytv.php?url=https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-#EXTINF:-1 logo="" group-title="News" ,iNEWSTV(1080p)
+#EXTINF:-1 group-title="News",iNEWSTV(1080p)
 https://xxg.laispot.com/mytv.php?url=https://live.i-news.tv/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="News" ,News18Kannada(1080p)
+#EXTINF:-1 group-title="News",News18Kannada(1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 logo="" group-title="News" ,PowerTV(576p)
+#EXTINF:-1 group-title="News",PowerTV(576p)
 https://xxg.laispot.com/mytv.php?url=https://powertvkannada.com/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="News" ,BBCNewsAsiaPacific(1080p)
+#EXTINF:-1 group-title="News",BBCNewsAsiaPacific(1080p)
 https://xxg.laispot.com/mytv.php?url=https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 logo="" group-title="News" ,èTvMarche(720p)
+#EXTINF:-1 group-title="News",èTvMarche(720p)
 https://xxg.laispot.com/mytv.php?url=https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,èTvRete7(720p)
+#EXTINF:-1 group-title="News",èTvRete7(720p)
 https://xxg.laispot.com/mytv.php?url=https://live.ipstream.it/etv/etv.stream/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ČT24(1080p)
+#EXTINF:-1 group-title="News",ČT24(1080p)
 https://xxg.laispot.com/mytv.php?url=http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Астрахань24(720p)
+#EXTINF:-1 group-title="News",Астрахань24(720p)
 https://xxg.laispot.com/mytv.php?url=https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Беларусь24(1080p)
+#EXTINF:-1 group-title="News",Беларусь24(1080p)
 https://xxg.laispot.com/mytv.php?url=https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Известия
+#EXTINF:-1 group-title="News",Известия
 https://xxg.laispot.com/mytv.php?url=http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,КРИКТВ(Екатеринбург)
+#EXTINF:-1 group-title="News",КРИКТВ(Екатеринбург)
 https://xxg.laispot.com/mytv.php?url=http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Легендарный24
+#EXTINF:-1 group-title="News",Легендарный24
 https://xxg.laispot.com/mytv.php?url=https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Мир24(1080p)
+#EXTINF:-1 group-title="News",Мир24(1080p)
 https://xxg.laispot.com/mytv.php?url=http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ОбщественноеНезависимоеТелевидение(576p)
+#EXTINF:-1 group-title="News",ОбщественноеНезависимоеТелевидение(576p)
 https://xxg.laispot.com/mytv.php?url=http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 logo="" group-title="News" ,ПервыйРеспубликанский
+#EXTINF:-1 group-title="News",ПервыйРеспубликанский
 https://xxg.laispot.com/mytv.php?url=https://streaming.televizor-24-tochka.ru/live/27.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Первыйинформационный(1080p)
+#EXTINF:-1 group-title="News",Первыйинформационный(1080p)
 https://xxg.laispot.com/mytv.php?url=https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="News" ,РадиоГоворитМосква(Вебкамера)(720p)
+#EXTINF:-1 group-title="News",РадиоГоворитМосква(Вебкамера)(720p)
 https://xxg.laispot.com/mytv.php?url=https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:-1 logo="" group-title="News" ,Толк
+#EXTINF:-1 group-title="News",Толк
 https://xxg.laispot.com/mytv.php?url=http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 
-#EXTINF:-1 logo="" group-title="News;Public" ,3CatInfo(1080p)
+#EXTINF:-1 group-title="News;Public",3CatInfo(1080p)
 https://xxg.laispot.com/mytv.php?url=https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1 logo="" group-title="News;Public" ,Canal24HorasCanarias(720p)
+#EXTINF:-1 group-title="News;Public",Canal24HorasCanarias(720p)
 https://xxg.laispot.com/mytv.php?url=https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 logo="" group-title="News;Public" ,Canal24HorasCatalunya(720p)
+#EXTINF:-1 group-title="News;Public",Canal24HorasCatalunya(720p)
 https://xxg.laispot.com/mytv.php?url=https://ztnr.rtve.es/ztnr/4952053.m3u8
-#EXTINF:-1 logo="" group-title="News;Public" ,CanalSurNoticias
+#EXTINF:-1 group-title="News;Public",CanalSurNoticias
 https://xxg.laispot.com/mytv.php?url=https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 
-#EXTINF:-1 logo="" group-title="News;Sports" ,Africa24Sport(1080p)
+#EXTINF:-1 group-title="News;Sports",Africa24Sport(1080p)
 https://xxg.laispot.com/mytv.php?url=https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
-#EXTINF:-1 logo="" group-title="News;Weather" ,ABC9ManchesterNH(WMURTV)(720p)
+#EXTINF:-1 group-title="News;Weather",ABC9ManchesterNH(WMURTV)(720p)
 https://xxg.laispot.com/mytv.php?url=https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
 
-#EXTINF:-1 logo="" group-title="中國上海" ,新聞綜合
+#EXTINF:-1 group-title="中國上海",新聞綜合
 https://xxg.laispot.com/mytv.php?url=https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國上海" ,新聞綜合
+#EXTINF:-1 group-title="中國上海",新聞綜合
 https://xxg.laispot.com/mytv.php?url=https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-#EXTINF:-1 logo="" group-title="中國上海" ,新聞綜合
+#EXTINF:-1 group-title="中國上海",新聞綜合
 https://xxg.laispot.com/mytv.php?url=http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
 
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV1
+#EXTINF:-1 group-title="中國官媒",CCTV1
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/1/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV1
+#EXTINF:-1 group-title="中國官媒",CCTV1
 https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/501/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV10
+#EXTINF:-1 group-title="中國官媒",CCTV10
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/11/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV10
+#EXTINF:-1 group-title="中國官媒",CCTV10
 https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/506/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV10
+#EXTINF:-1 group-title="中國官媒",CCTV10
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV11
+#EXTINF:-1 group-title="中國官媒",CCTV11
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/12/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV11
+#EXTINF:-1 group-title="中國官媒",CCTV11
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV12
+#EXTINF:-1 group-title="中國官媒",CCTV12
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/13/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV12
+#EXTINF:-1 group-title="中國官媒",CCTV12
 https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/507/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV12
+#EXTINF:-1 group-title="中國官媒",CCTV12
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV13
+#EXTINF:-1 group-title="中國官媒",CCTV13
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/14/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV13
+#EXTINF:-1 group-title="中國官媒",CCTV13
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV14
+#EXTINF:-1 group-title="中國官媒",CCTV14
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/15/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV14
+#EXTINF:-1 group-title="中國官媒",CCTV14
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV15
+#EXTINF:-1 group-title="中國官媒",CCTV15
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/16/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV15
+#EXTINF:-1 group-title="中國官媒",CCTV15
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV2
+#EXTINF:-1 group-title="中國官媒",CCTV2
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/2/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV2
+#EXTINF:-1 group-title="中國官媒",CCTV2
 https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/502/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV3
+#EXTINF:-1 group-title="中國官媒",CCTV3
 https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV3
+#EXTINF:-1 group-title="中國官媒",CCTV3
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/3/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV3
+#EXTINF:-1 group-title="中國官媒",CCTV3
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV4
+#EXTINF:-1 group-title="中國官媒",CCTV4
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/4/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV4
+#EXTINF:-1 group-title="中國官媒",CCTV4
 https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/4/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV4
+#EXTINF:-1 group-title="中國官媒",CCTV4
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5
+#EXTINF:-1 group-title="中國官媒",CCTV5
 https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5
+#EXTINF:-1 group-title="中國官媒",CCTV5
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/5/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5
+#EXTINF:-1 group-title="中國官媒",CCTV5
 https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/503/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV5+
+#EXTINF:-1 group-title="中國官媒",CCTV5+
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/6/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV6
+#EXTINF:-1 group-title="中國官媒",CCTV6
 https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV6
+#EXTINF:-1 group-title="中國官媒",CCTV6
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/7/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV7
+#EXTINF:-1 group-title="中國官媒",CCTV7
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/8/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV7
+#EXTINF:-1 group-title="中國官媒",CCTV7
 https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/504/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV8
+#EXTINF:-1 group-title="中國官媒",CCTV8
 https://xxg.laispot.com/mytv.php?url=http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV8
+#EXTINF:-1 group-title="中國官媒",CCTV8
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/9/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV8
+#EXTINF:-1 group-title="中國官媒",CCTV8
 https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/8/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV8
+#EXTINF:-1 group-title="中國官媒",CCTV8
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV9
+#EXTINF:-1 group-title="中國官媒",CCTV9
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/10/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV9
+#EXTINF:-1 group-title="中國官媒",CCTV9
 https://xxg.laispot.com/mytv.php?url=http://112.46.105.20:8009/hls/509/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV9
+#EXTINF:-1 group-title="中國官媒",CCTV9
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV世界地理
+#EXTINF:-1 group-title="中國官媒",CCTV世界地理
 https://xxg.laispot.com/mytv.php?url=http://111.61.236.247:9081/hls/62/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CCTV風雲足球
+#EXTINF:-1 group-title="中國官媒",CCTV風雲足球
 https://xxg.laispot.com/mytv.php?url=http://111.61.236.247:9081/hls/58/index.m3u8
-#EXTINF:-1 logo="" group-title="中國官媒" ,CGTN
+#EXTINF:-1 group-title="中國官媒",CGTN
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/17/index.m3u8
 
-#EXTINF:-1 logo="" group-title="中國廣東" ,東莞新聞綜合
+#EXTINF:-1 group-title="中國廣東",東莞新聞綜合
 https://xxg.laispot.com/mytv.php?url=https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
-#EXTINF:-1 logo="" group-title="中國廣東" ,東莞生活資訊
+#EXTINF:-1 group-title="中國廣東",東莞生活資訊
 https://xxg.laispot.com/mytv.php?url=https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
-#EXTINF:-1 logo="" group-title="中國廣東" ,河源公共
+#EXTINF:-1 group-title="中國廣東",河源公共
 https://xxg.laispot.com/mytv.php?url=http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 logo="" group-title="中國廣東" ,河源綜合
+#EXTINF:-1 group-title="中國廣東",河源綜合
 https://xxg.laispot.com/mytv.php?url=http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 logo="" group-title="中國廣東" ,番禺綜合
+#EXTINF:-1 group-title="中國廣東",番禺綜合
 https://xxg.laispot.com/mytv.php?url=http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
-#EXTINF:-1 logo="" group-title="中國江蘇" ,蘇州文化生活
+#EXTINF:-1 group-title="中國江蘇",蘇州文化生活
 https://xxg.laispot.com/mytv.php?url=https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-#EXTINF:-1 logo="" group-title="中國江蘇" ,蘇州生活資訊
+#EXTINF:-1 group-title="中國江蘇",蘇州生活資訊
 https://xxg.laispot.com/mytv.php?url=https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-#EXTINF:-1 logo="" group-title="中國江蘇" ,蘇州社會經濟
+#EXTINF:-1 group-title="中國江蘇",蘇州社會經濟
 https://xxg.laispot.com/mytv.php?url=https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 
-#EXTINF:-1 logo="" group-title="中國浙江" ,之江紀錄
+#EXTINF:-1 group-title="中國浙江",之江紀錄
 https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,文成新聞綜合
+#EXTINF:-1 group-title="中國浙江",文成新聞綜合
 https://xxg.laispot.com/mytv.php?url=http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江World
+#EXTINF:-1 group-title="中國浙江",浙江World
 https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江少兒
+#EXTINF:-1 group-title="中國浙江",浙江少兒
 https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江教科
+#EXTINF:-1 group-title="中國浙江",浙江教科
 https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江新聞
+#EXTINF:-1 group-title="中國浙江",浙江新聞
 https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江民生
+#EXTINF:-1 group-title="中國浙江",浙江民生
 https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江經濟
+#EXTINF:-1 group-title="中國浙江",浙江經濟
 https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,浙江錢江
+#EXTINF:-1 group-title="中國浙江",浙江錢江
 https://xxg.laispot.com/mytv.php?url=https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,蕭山綜合
+#EXTINF:-1 group-title="中國浙江",蕭山綜合
 https://xxg.laispot.com/mytv.php?url=http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,象山新聞綜合
+#EXTINF:-1 group-title="中國浙江",象山新聞綜合
 https://xxg.laispot.com/mytv.php?url=http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,雲和新聞綜合
+#EXTINF:-1 group-title="中國浙江",雲和新聞綜合
 https://xxg.laispot.com/mytv.php?url=http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-#EXTINF:-1 logo="" group-title="中國浙江" ,青田電視台
+#EXTINF:-1 group-title="中國浙江",青田電視台
 https://xxg.laispot.com/mytv.php?url=http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
-#EXTINF:-1 logo="" group-title="中國港澳" ,CCTV1港澳版
+#EXTINF:-1 group-title="中國港澳",CCTV1港澳版
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,HOY76
+#EXTINF:-1 group-title="中國港澳",HOY76
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,HOY77
+#EXTINF:-1 group-title="中國港澳",HOY77
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,HOY77
+#EXTINF:-1 group-title="中國港澳",HOY77
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,HOY78
+#EXTINF:-1 group-title="中國港澳",HOY78
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,NOW新聞
+#EXTINF:-1 group-title="中國港澳",NOW新聞
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK31
+#EXTINF:-1 group-title="中國港澳",RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK31
+#EXTINF:-1 group-title="中國港澳",RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK32
+#EXTINF:-1 group-title="中國港澳",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK32
+#EXTINF:-1 group-title="中國港澳",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK33
+#EXTINF:-1 group-title="中國港澳",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK34
+#EXTINF:-1 group-title="中國港澳",RTHK34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,RTHK35
+#EXTINF:-1 group-title="中國港澳",RTHK35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB1
+#EXTINF:-1 group-title="中國港澳",TVB1
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVBJ1
+#EXTINF:-1 group-title="中國港澳",TVBJ1
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVBPlus
+#EXTINF:-1 group-title="中國港澳",TVBPlus
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB明珠台
+#EXTINF:-1 group-title="中國港澳",TVB明珠台
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB無線新聞
+#EXTINF:-1 group-title="中國港澳",TVB無線新聞
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB無線新聞
+#EXTINF:-1 group-title="中國港澳",TVB無線新聞
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB翡翠劇集台
+#EXTINF:-1 group-title="中國港澳",TVB翡翠劇集台
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB翡翠台
+#EXTINF:-1 group-title="中國港澳",TVB翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB翡翠台
+#EXTINF:-1 group-title="中國港澳",TVB翡翠台
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,TVB翡翠台
+#EXTINF:-1 group-title="中國港澳",TVB翡翠台
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,有線18台
+#EXTINF:-1 group-title="中國港澳",有線18台
 https://xxg.laispot.com/mytv.php?url=https://dbkzprpiusvoq.cloudfront.net/racing-gps/ch603-3-hls.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳",澳視澳門
 https://xxg.laispot.com/mytv.php?url=https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳",澳視澳門
 https://xxg.laispot.com/mytv.php?url=http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視澳門
+#EXTINF:-1 group-title="中國港澳",澳視澳門
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視綜藝
+#EXTINF:-1 group-title="中國港澳",澳視綜藝
 https://xxg.laispot.com/mytv.php?url=http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視葡語
+#EXTINF:-1 group-title="中國港澳",澳視葡語
 https://xxg.laispot.com/mytv.php?url=https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視葡語
+#EXTINF:-1 group-title="中國港澳",澳視葡語
 https://xxg.laispot.com/mytv.php?url=http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視衛星
+#EXTINF:-1 group-title="中國港澳",澳視衛星
 https://xxg.laispot.com/mytv.php?url=https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視衛星
+#EXTINF:-1 group-title="中國港澳",澳視衛星
 https://xxg.laispot.com/mytv.php?url=http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視衛星
+#EXTINF:-1 group-title="中國港澳",澳視衛星
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視資訊
+#EXTINF:-1 group-title="中國港澳",澳視資訊
 https://xxg.laispot.com/mytv.php?url=http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳視體育
+#EXTINF:-1 group-title="中國港澳",澳視體育
 https://xxg.laispot.com/mytv.php?url=http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳門綜藝
+#EXTINF:-1 group-title="中國港澳",澳門綜藝
 https://xxg.laispot.com/mytv.php?url=https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳門資訊
+#EXTINF:-1 group-title="中國港澳",澳門資訊
 https://xxg.laispot.com/mytv.php?url=https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳門體育
+#EXTINF:-1 group-title="中國港澳",澳門體育
 https://xxg.laispot.com/mytv.php?url=https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,澳門體育
+#EXTINF:-1 group-title="中國港澳",澳門體育
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,環球電視
+#EXTINF:-1 group-title="中國港澳",環球電視
 https://xxg.laispot.com/mytv.php?url=http://utv1.hqtvzb.com:9999/hls/world.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,美亞C+
+#EXTINF:-1 group-title="中國港澳",美亞C+
 https://xxg.laispot.com/mytv.php?url=http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,美亞C+
+#EXTINF:-1 group-title="中國港澳",美亞C+
 https://xxg.laispot.com/mytv.php?url=http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,美亞C+
+#EXTINF:-1 group-title="中國港澳",美亞C+
 https://xxg.laispot.com/mytv.php?url=http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,鳳凰中文
+#EXTINF:-1 group-title="中國港澳",鳳凰中文
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,鳳凰資訊
+#EXTINF:-1 group-title="中國港澳",鳳凰資訊
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國港澳" ,鳳凰香港
+#EXTINF:-1 group-title="中國港澳",鳳凰香港
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
 
-#EXTINF:-1 logo="" group-title="中國衛視" ,上海衛視
+#EXTINF:-1 group-title="中國衛視",上海衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/28/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,內蒙古衛視
+#EXTINF:-1 group-title="中國衛視",內蒙古衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/49/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,北京衛視
+#EXTINF:-1 group-title="中國衛視",北京衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/27/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,北京衛視
+#EXTINF:-1 group-title="中國衛視",北京衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,北京衛視
+#EXTINF:-1 group-title="中國衛視",北京衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,吉林衛視
+#EXTINF:-1 group-title="中國衛視",吉林衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,四川衛視
+#EXTINF:-1 group-title="中國衛視",四川衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/35/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,天津衛視
+#EXTINF:-1 group-title="中國衛視",天津衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/42/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,天津衛視
+#EXTINF:-1 group-title="中國衛視",天津衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,天津衛視
+#EXTINF:-1 group-title="中國衛視",天津衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,安徽衛視
+#EXTINF:-1 group-title="中國衛視",安徽衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/26/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,安徽衛視
+#EXTINF:-1 group-title="中國衛視",安徽衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,安徽衛視
+#EXTINF:-1 group-title="中國衛視",安徽衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,寧夏衛視
+#EXTINF:-1 group-title="中國衛視",寧夏衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,山東衛視
+#EXTINF:-1 group-title="中國衛視",山東衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/34/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,山東衛視
+#EXTINF:-1 group-title="中國衛視",山東衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,山東衛視
+#EXTINF:-1 group-title="中國衛視",山東衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,山西衛視
+#EXTINF:-1 group-title="中國衛視",山西衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/45/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,山西衛視
+#EXTINF:-1 group-title="中國衛視",山西衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,廣東衛視
+#EXTINF:-1 group-title="中國衛視",廣東衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,東南衛視
+#EXTINF:-1 group-title="中國衛視",東南衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/38/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,東南衛視
+#EXTINF:-1 group-title="中國衛視",東南衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,東南衛視
+#EXTINF:-1 group-title="中國衛視",東南衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,東方衛視
+#EXTINF:-1 group-title="中國衛視",東方衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,東方衛視
+#EXTINF:-1 group-title="中國衛視",東方衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,江蘇衛視
+#EXTINF:-1 group-title="中國衛視",江蘇衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/32/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,江蘇衛視
+#EXTINF:-1 group-title="中國衛視",江蘇衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,江西衛視
+#EXTINF:-1 group-title="中國衛視",江西衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/44/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,江西衛視
+#EXTINF:-1 group-title="中國衛視",江西衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,河北衛視
+#EXTINF:-1 group-title="中國衛視",河北衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/39/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,河北衛視
+#EXTINF:-1 group-title="中國衛視",河北衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,河北衛視
+#EXTINF:-1 group-title="中國衛視",河北衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,河南衛視
+#EXTINF:-1 group-title="中國衛視",河南衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/37/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,河南衛視
+#EXTINF:-1 group-title="中國衛視",河南衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,浙江衛視
+#EXTINF:-1 group-title="中國衛視",浙江衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/29/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,浙江衛視
+#EXTINF:-1 group-title="中國衛視",浙江衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,浙江衛視
+#EXTINF:-1 group-title="中國衛視",浙江衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,深圳衛視
+#EXTINF:-1 group-title="中國衛視",深圳衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/33/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,深圳衛視
+#EXTINF:-1 group-title="中國衛視",深圳衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,深圳衛視
+#EXTINF:-1 group-title="中國衛視",深圳衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,湖北衛視
+#EXTINF:-1 group-title="中國衛視",湖北衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/41/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,湖北衛視
+#EXTINF:-1 group-title="中國衛視",湖北衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,湖北衛視
+#EXTINF:-1 group-title="中國衛視",湖北衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,湖南衛視
+#EXTINF:-1 group-title="中國衛視",湖南衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/31/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,湖南衛視
+#EXTINF:-1 group-title="中國衛視",湖南衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,貴州衛視
+#EXTINF:-1 group-title="中國衛視",貴州衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/46/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,貴州衛視
+#EXTINF:-1 group-title="中國衛視",貴州衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,貴州衛視
+#EXTINF:-1 group-title="中國衛視",貴州衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,遼寧衛視
+#EXTINF:-1 group-title="中國衛視",遼寧衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/47/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,遼寧衛視
+#EXTINF:-1 group-title="中國衛視",遼寧衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,遼寧衛視
+#EXTINF:-1 group-title="中國衛視",遼寧衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,重慶衛視
+#EXTINF:-1 group-title="中國衛視",重慶衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/36/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,重慶衛視
+#EXTINF:-1 group-title="中國衛視",重慶衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,重慶衛視
+#EXTINF:-1 group-title="中國衛視",重慶衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,陝西衛視
+#EXTINF:-1 group-title="中國衛視",陝西衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/43/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,陝西衛視
+#EXTINF:-1 group-title="中國衛視",陝西衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,雲南衛視
+#EXTINF:-1 group-title="中國衛視",雲南衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/40/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,雲南衛視
+#EXTINF:-1 group-title="中國衛視",雲南衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,青海衛視
+#EXTINF:-1 group-title="中國衛視",青海衛視
 https://xxg.laispot.com/mytv.php?url=http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 logo="" group-title="中國衛視" ,黑龍江衛視
+#EXTINF:-1 group-title="中國衛視",黑龍江衛視
 https://xxg.laispot.com/mytv.php?url=http://112.27.235.94:8000/hls/48/index.m3u8
-#EXTINF:-1 logo="" group-title="中國衛視" ,黑龍江衛視
+#EXTINF:-1 group-title="中國衛視",黑龍江衛視
 https://xxg.laispot.com/mytv.php?url=http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
 
-#EXTINF:-1 logo="" group-title="中國體育" ,勁爆體育
+#EXTINF:-1 group-title="中國體育",勁爆體育
 https://xxg.laispot.com/mytv.php?url=http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-#EXTINF:-1 logo="" group-title="中國體育" ,勁爆體育
+#EXTINF:-1 group-title="中國體育",勁爆體育
 https://xxg.laispot.com/mytv.php?url=http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 logo="" group-title="中國體育" ,廣東體育
+#EXTINF:-1 group-title="中國體育",廣東體育
 https://xxg.laispot.com/mytv.php?url=http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-#EXTINF:-1 logo="" group-title="中國體育" ,廣東體育
+#EXTINF:-1 group-title="中國體育",廣東體育
 https://xxg.laispot.com/mytv.php?url=http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
-#EXTINF:-1 logo="" group-title="中國體育" ,廣東體育
+#EXTINF:-1 group-title="中國體育",廣東體育
 https://xxg.laispot.com/mytv.php?url=http://183.11.239.36:808/hls/2/index.m3u8
-#EXTINF:-1 logo="" group-title="中國體育" ,風雲足球
+#EXTINF:-1 group-title="中國體育",風雲足球
 https://xxg.laispot.com/mytv.php?url=https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-#EXTINF:-1 logo="" group-title="中國體育" ,風雲足球
+#EXTINF:-1 group-title="中國體育",風雲足球
 https://xxg.laispot.com/mytv.php?url=http://183.11.239.36:808/hls/133/index.m3u8
-#EXTINF:-1 logo="" group-title="中國體育" ,風雲足球
+#EXTINF:-1 group-title="中國體育",風雲足球
 https://xxg.laispot.com/mytv.php?url=http://61.184.46.85:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 logo="" group-title="兒童卡通" ,4FunKids(576i)[[Not24/7]]
+#EXTINF:-1 group-title="兒童卡通",4FunKids(576i)[[Not24/7]]
 https://xxg.laispot.com/mytv.php?url=https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,ARBGunes
+#EXTINF:-1 group-title="兒童卡通",ARBGunes
 https://xxg.laispot.com/mytv.php?url=https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,AfarinBaxcha
+#EXTINF:-1 group-title="兒童卡通",AfarinBaxcha
 https://xxg.laispot.com/mytv.php?url=https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,AfarinTV[Not24/7]
+#EXTINF:-1 group-title="兒童卡通",AfarinTV[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,AghapyKids
+#EXTINF:-1 group-title="兒童卡通",AghapyKids
 https://xxg.laispot.com/mytv.php?url=https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,Atfal&MawahebTV
+#EXTINF:-1 group-title="兒童卡通",Atfal&MawahebTV
 https://xxg.laispot.com/mytv.php?url=https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,BabySharkTV
+#EXTINF:-1 group-title="兒童卡通",BabySharkTV
 https://xxg.laispot.com/mytv.php?url=https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,BabySharkTV
+#EXTINF:-1 group-title="兒童卡通",BabySharkTV
 https://xxg.laispot.com/mytv.php?url=https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,BeJoy.kids
+#EXTINF:-1 group-title="兒童卡通",BeJoy.kids
 https://xxg.laispot.com/mytv.php?url=https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,BiznetKids
+#EXTINF:-1 group-title="兒童卡通",BiznetKids
 https://xxg.laispot.com/mytv.php?url=http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,BluesTV
+#EXTINF:-1 group-title="兒童卡通",BluesTV
 https://xxg.laispot.com/mytv.php?url=https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,CampSpoopy
+#EXTINF:-1 group-title="兒童卡通",CampSpoopy
 https://xxg.laispot.com/mytv.php?url=https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:-1 logo="" group-title="兒童卡通" ,ChinolaTV
+#EXTINF:-1 group-title="兒童卡通",ChinolaTV
 https://xxg.laispot.com/mytv.php?url=https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,ChristianYouthChannel
+#EXTINF:-1 group-title="兒童卡通",ChristianYouthChannel
 https://xxg.laispot.com/mytv.php?url=http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,DiosTeVeKids
+#EXTINF:-1 group-title="兒童卡通",DiosTeVeKids
 https://xxg.laispot.com/mytv.php?url=https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,EBSkids(400p)[Not24/7]
+#EXTINF:-1 group-title="兒童卡通",EBSkids(400p)[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,ETV2
+#EXTINF:-1 group-title="兒童卡通",ETV2
 https://xxg.laispot.com/mytv.php?url=https://sb.err.ee/live/etv2.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,EnerGeek[Not24/7]
+#EXTINF:-1 group-title="兒童卡通",EnerGeek[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 logo="" group-title="兒童卡通" ,ExtremaKidsTV[Not24/7]
+#EXTINF:-1 group-title="兒童卡通",ExtremaKidsTV[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,Geekdot
+#EXTINF:-1 group-title="兒童卡通",Geekdot
 https://xxg.laispot.com/mytv.php?url=https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,IuniorTV
+#EXTINF:-1 group-title="兒童卡通",IuniorTV
 https://xxg.laispot.com/mytv.php?url=https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,JapanimTV
+#EXTINF:-1 group-title="兒童卡通",JapanimTV
 https://xxg.laispot.com/mytv.php?url=https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,Kanade
+#EXTINF:-1 group-title="兒童卡通",Kanade
 https://xxg.laispot.com/mytv.php?url=https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 logo="" group-title="兒童卡通" ,KartoonChannel
+#EXTINF:-1 group-title="兒童卡通",KartoonChannel
 https://xxg.laispot.com/mytv.php?url=https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,KetchupTV
+#EXTINF:-1 group-title="兒童卡通",KetchupTV
 https://xxg.laispot.com/mytv.php?url=https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
-#EXTINF:-1 logo="" group-title="兒童卡通" ,LogosTVKids[Not24/7]
+#EXTINF:-1 group-title="兒童卡通",LogosTVKids[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,Minimax
+#EXTINF:-1 group-title="兒童卡通",Minimax
 https://xxg.laispot.com/mytv.php?url=http://88.212.15.19/live/test_minimax/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,MoonbugKids
+#EXTINF:-1 group-title="兒童卡通",MoonbugKids
 https://xxg.laispot.com/mytv.php?url=https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,Nickelodeon
+#EXTINF:-1 group-title="兒童卡通",Nickelodeon
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,PBSKids
+#EXTINF:-1 group-title="兒童卡通",PBSKids
 https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,PBSKids
+#EXTINF:-1 group-title="兒童卡通",PBSKids
 https://xxg.laispot.com/mytv.php?url=https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,PBSKidsEastern/Central
+#EXTINF:-1 group-title="兒童卡通",PBSKidsEastern/Central
 https://xxg.laispot.com/mytv.php?url=https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,PBSKidsPacific
+#EXTINF:-1 group-title="兒童卡通",PBSKidsPacific
 https://xxg.laispot.com/mytv.php?url=https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,PersianaJunior
+#EXTINF:-1 group-title="兒童卡通",PersianaJunior
 https://xxg.laispot.com/mytv.php?url=https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,PersianaTeen
+#EXTINF:-1 group-title="兒童卡通",PersianaTeen
 https://xxg.laispot.com/mytv.php?url=https://kphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,SKWAD
+#EXTINF:-1 group-title="兒童卡通",SKWAD
 https://xxg.laispot.com/mytv.php?url=https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
-#EXTINF:-1 logo="" group-title="兒童卡通" ,STSkids
+#EXTINF:-1 group-title="兒童卡通",STSkids
 https://xxg.laispot.com/mytv.php?url=http://31.148.48.15/STS_Kids_HD/index.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,Sat7Kids
+#EXTINF:-1 group-title="兒童卡通",Sat7Kids
 https://xxg.laispot.com/mytv.php?url=https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,TVBahoriston
+#EXTINF:-1 group-title="兒童卡通",TVBahoriston
 https://xxg.laispot.com/mytv.php?url=https://live.teleradiocom.tj/3/3m.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,TVCARiBKids&Teens[Not24/7]
+#EXTINF:-1 group-title="兒童卡通",TVCARiBKids&Teens[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,TigueritoTV[Not24/7]
+#EXTINF:-1 group-title="兒童卡通",TigueritoTV[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,TomAndJerry
+#EXTINF:-1 group-title="兒童卡通",TomAndJerry
 https://xxg.laispot.com/mytv.php?url=https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,ZBCartoon
+#EXTINF:-1 group-title="兒童卡通",ZBCartoon
 https://xxg.laispot.com/mytv.php?url=https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,ZooMoo(Australia)
+#EXTINF:-1 group-title="兒童卡通",ZooMoo(Australia)
 https://xxg.laispot.com/mytv.php?url=https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,ČT:D/ČTart
+#EXTINF:-1 group-title="兒童卡通",ČT:D/ČTart
 https://xxg.laispot.com/mytv.php?url=http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,КарусельInternational
+#EXTINF:-1 group-title="兒童卡通",КарусельInternational
 https://xxg.laispot.com/mytv.php?url=https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,Радостьмоя
+#EXTINF:-1 group-title="兒童卡通",Радостьмоя
 https://xxg.laispot.com/mytv.php?url=https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,Рыжий
+#EXTINF:-1 group-title="兒童卡通",Рыжий
 https://xxg.laispot.com/mytv.php?url=http://31.148.48.15/Rizhiy/index.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,Солнце
+#EXTINF:-1 group-title="兒童卡通",Солнце
 https://xxg.laispot.com/mytv.php?url=http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1 logo="" group-title="兒童卡通" ,韓國EBS兒童
+#EXTINF:-1 group-title="兒童卡通",韓國EBS兒童
 https://xxg.laispot.com/mytv.php?url=http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 logo="" group-title="国际" ,ABC
+#EXTINF:-1 group-title="国际",ABC
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/abc/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,ActionHollywood
+#EXTINF:-1 group-title="国际",ActionHollywood
 https://xxg.laispot.com/mytv.php?url=https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,AdventureEarth
+#EXTINF:-1 group-title="国际",AdventureEarth
 https://xxg.laispot.com/mytv.php?url=https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,AlJazeera
+#EXTINF:-1 group-title="国际",AlJazeera
 https://xxg.laispot.com/mytv.php?url=https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,Arirang
+#EXTINF:-1 group-title="国际",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,Arirang
+#EXTINF:-1 group-title="国际",Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,Arirang
+#EXTINF:-1 group-title="国际",Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,Arirang
+#EXTINF:-1 group-title="国际",Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b656000_sleng.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,Arirang
+#EXTINF:-1 group-title="国际",Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,AutenticHistory
+#EXTINF:-1 group-title="国际",AutenticHistory
 https://xxg.laispot.com/mytv.php?url=https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,AutenticTravel
+#EXTINF:-1 group-title="国际",AutenticTravel
 https://xxg.laispot.com/mytv.php?url=https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,BBCNews
+#EXTINF:-1 group-title="国际",BBCNews
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,BBCNews
+#EXTINF:-1 group-title="国际",BBCNews
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,BilliardTV
+#EXTINF:-1 group-title="国际",BilliardTV
 https://xxg.laispot.com/mytv.php?url=https://stream.ads.ottera.tv/playlist.m3u8?network_id=15270&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_us&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 logo="" group-title="国际" ,Bloomberg
+#EXTINF:-1 group-title="国际",Bloomberg
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,CMT
+#EXTINF:-1 group-title="国际",CMT
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,CNA
+#EXTINF:-1 group-title="国际",CNA
 https://xxg.laispot.com/mytv.php?url=https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,CNA
+#EXTINF:-1 group-title="国际",CNA
 https://xxg.laispot.com/mytv.php?url=https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,CNN
+#EXTINF:-1 group-title="国际",CNN
 https://xxg.laispot.com/mytv.php?url=https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,CNN
+#EXTINF:-1 group-title="国际",CNN
 https://xxg.laispot.com/mytv.php?url=https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,CNN
+#EXTINF:-1 group-title="国际",CNN
 https://xxg.laispot.com/mytv.php?url=https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,CNN
+#EXTINF:-1 group-title="国际",CNN
 https://xxg.laispot.com/mytv.php?url=https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,CNN
+#EXTINF:-1 group-title="国际",CNN
 https://xxg.laispot.com/mytv.php?url=https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,CartoonNetwork
+#EXTINF:-1 group-title="国际",CartoonNetwork
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/cartoon_network/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,CartoonNetwork
+#EXTINF:-1 group-title="国际",CartoonNetwork
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,CinemaxMoremax
+#EXTINF:-1 group-title="国际",CinemaxMoremax
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,ComedyCentral
+#EXTINF:-1 group-title="国际",ComedyCentral
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,CookingChannel
+#EXTINF:-1 group-title="国际",CookingChannel
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_COOKING/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,DWNews
+#EXTINF:-1 group-title="国际",DWNews
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,DiscoveryChannel
+#EXTINF:-1 group-title="国际",DiscoveryChannel
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,DisneyXD
+#EXTINF:-1 group-title="国际",DisneyXD
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,ESPN
+#EXTINF:-1 group-title="国际",ESPN
 https://xxg.laispot.com/mytv.php?url=http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,ESPN2
+#EXTINF:-1 group-title="国际",ESPN2
 https://xxg.laispot.com/mytv.php?url=http://mytvstream.net:8080/live/30550113/30550113/2210.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,ESPNU
+#EXTINF:-1 group-title="国际",ESPNU
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,EZTV1歐洲華文
+#EXTINF:-1 group-title="国际",EZTV1歐洲華文
 https://xxg.laispot.com/mytv.php?url=http://oh.eztv.vip/live/eztv1.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,FashionChannel
+#EXTINF:-1 group-title="国际",FashionChannel
 https://xxg.laispot.com/mytv.php?url=http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,FoxSports1
+#EXTINF:-1 group-title="国际",FoxSports1
 https://xxg.laispot.com/mytv.php?url=http://mytvstream.net:8080/live/30550113/30550113/1846.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,GBNews
+#EXTINF:-1 group-title="国际",GBNews
 https://xxg.laispot.com/mytv.php?url=https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,GBNews
+#EXTINF:-1 group-title="国际",GBNews
 https://xxg.laispot.com/mytv.php?url=https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,GlobalNews
+#EXTINF:-1 group-title="国际",GlobalNews
 https://xxg.laispot.com/mytv.php?url=https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,GlobalNews
+#EXTINF:-1 group-title="国际",GlobalNews
 https://xxg.laispot.com/mytv.php?url=https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,GoUSATV
+#EXTINF:-1 group-title="国际",GoUSATV
 https://xxg.laispot.com/mytv.php?url=https://cc2b7c60df304389ba60c76790d1a82f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_GoUSATV/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,GreatBritishMenu
+#EXTINF:-1 group-title="国际",GreatBritishMenu
 https://xxg.laispot.com/mytv.php?url=https://7ed93f662af44c2e9bdf93b56464f6a8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-gb_GreatBritishMenu/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,HBO
+#EXTINF:-1 group-title="国际",HBO
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,HBO2
+#EXTINF:-1 group-title="国际",HBO2
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,HistoryHit
+#EXTINF:-1 group-title="国际",HistoryHit
 https://xxg.laispot.com/mytv.php?url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,HollyWire
+#EXTINF:-1 group-title="国际",HollyWire
 https://xxg.laispot.com/mytv.php?url=https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,IONTV
+#EXTINF:-1 group-title="国际",IONTV
 https://xxg.laispot.com/mytv.php?url=http://mytvstream.net:8080/live/30550113/30550113/9297.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,IconFilmChannel
+#EXTINF:-1 group-title="国际",IconFilmChannel
 https://xxg.laispot.com/mytv.php?url=https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_IconFilmChannelClassics/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,InsideOutside
+#EXTINF:-1 group-title="国际",InsideOutside
 https://xxg.laispot.com/mytv.php?url=https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,LG1
+#EXTINF:-1 group-title="国际",LG1
 https://xxg.laispot.com/mytv.php?url=https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 logo="" group-title="国际" ,LG1Film
+#EXTINF:-1 group-title="国际",LG1Film
 https://xxg.laispot.com/mytv.php?url=https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 logo="" group-title="国际" ,LG1Spotlight
+#EXTINF:-1 group-title="国际",LG1Spotlight
 https://xxg.laispot.com/mytv.php?url=https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 logo="" group-title="国际" ,LifetimeMovieNetwork
+#EXTINF:-1 group-title="国际",LifetimeMovieNetwork
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,MovieSphere
+#EXTINF:-1 group-title="国际",MovieSphere
 https://xxg.laispot.com/mytv.php?url=https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,MytimeMovie
+#EXTINF:-1 group-title="国际",MytimeMovie
 https://xxg.laispot.com/mytv.php?url=https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,NEWSMAX
+#EXTINF:-1 group-title="国际",NEWSMAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,NationalGeographic
+#EXTINF:-1 group-title="国际",NationalGeographic
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,Newsmax
+#EXTINF:-1 group-title="国际",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,Newsy
+#EXTINF:-1 group-title="国际",Newsy
 https://xxg.laispot.com/mytv.php?url=https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,OutdoorChannel
+#EXTINF:-1 group-title="国际",OutdoorChannel
 https://xxg.laispot.com/mytv.php?url=https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,Popflix
+#EXTINF:-1 group-title="国际",Popflix
 https://xxg.laispot.com/mytv.php?url=https://2e90a1efd576492a8eaf4364feedf8d5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_Popflix/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,Pulse
+#EXTINF:-1 group-title="国际",Pulse
 https://xxg.laispot.com/mytv.php?url=https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,RTDocumentary
+#EXTINF:-1 group-title="国际",RTDocumentary
 https://xxg.laispot.com/mytv.php?url=https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,RTMASEAN
+#EXTINF:-1 group-title="国际",RTMASEAN
 https://xxg.laispot.com/mytv.php?url=https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,RTNews
+#EXTINF:-1 group-title="国际",RTNews
 https://xxg.laispot.com/mytv.php?url=https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,RakutenComedy
+#EXTINF:-1 group-title="国际",RakutenComedy
 https://xxg.laispot.com/mytv.php?url=https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,RedBullTV
+#EXTINF:-1 group-title="国际",RedBullTV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,Redbull
+#EXTINF:-1 group-title="国际",Redbull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,SECNetwork
+#EXTINF:-1 group-title="国际",SECNetwork
 https://xxg.laispot.com/mytv.php?url=http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,SkyNews
+#EXTINF:-1 group-title="国际",SkyNews
 https://xxg.laispot.com/mytv.php?url=https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,SkySportsF1
+#EXTINF:-1 group-title="国际",SkySportsF1
 https://xxg.laispot.com/mytv.php?url=https://7pal.short.gy/ssportsf1
-#EXTINF:-1 logo="" group-title="国际" ,SkySportsTennis
+#EXTINF:-1 group-title="国际",SkySportsTennis
 https://xxg.laispot.com/mytv.php?url=https://7pal.short.gy/ssportstn
-#EXTINF:-1 logo="" group-title="国际" ,SonyOneActionHITS
+#EXTINF:-1 group-title="国际",SonyOneActionHITS
 https://xxg.laispot.com/mytv.php?url=https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,TBSSeoul
+#EXTINF:-1 group-title="国际",TBSSeoul
 https://xxg.laispot.com/mytv.php?url=https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,TennisChannel
+#EXTINF:-1 group-title="国际",TennisChannel
 https://xxg.laispot.com/mytv.php?url=https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 logo="" group-title="国际" ,TheFirst
+#EXTINF:-1 group-title="国际",TheFirst
 https://xxg.laispot.com/mytv.php?url=https://thefirst-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,TraceSportStars
+#EXTINF:-1 group-title="国际",TraceSportStars
 https://xxg.laispot.com/mytv.php?url=https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,TraceSports
+#EXTINF:-1 group-title="国际",TraceSports
 https://xxg.laispot.com/mytv.php?url=https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,TraceUrban
+#EXTINF:-1 group-title="国际",TraceUrban
 https://xxg.laispot.com/mytv.php?url=https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,WION
+#EXTINF:-1 group-title="国际",WION
 https://xxg.laispot.com/mytv.php?url=https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 logo="" group-title="国际" ,WildEarth
+#EXTINF:-1 group-title="国际",WildEarth
 https://xxg.laispot.com/mytv.php?url=https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
-#EXTINF:-1 logo="" group-title="日本" ,ABC(Primehome)
+#EXTINF:-1 group-title="日本",ABC(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
-#EXTINF:-1 logo="" group-title="日本" ,ATX
+#EXTINF:-1 group-title="日本",ATX
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,AnimalPlanet(Primehome)
+#EXTINF:-1 group-title="日本",AnimalPlanet(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
-#EXTINF:-1 logo="" group-title="日本" ,Animax
+#EXTINF:-1 group-title="日本",Animax
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/Animax/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,Animax(Primehome)
+#EXTINF:-1 group-title="日本",Animax(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 logo="" group-title="日本" ,BBCNews(Primehome)
+#EXTINF:-1 group-title="日本",BBCNews(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-#EXTINF:-1 logo="" group-title="日本" ,BS10Premium
+#EXTINF:-1 group-title="日本",BS10Premium
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/bs10_star/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,BS10StarChannel(Primehome)
+#EXTINF:-1 group-title="日本",BS10StarChannel(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 logo="" group-title="日本" ,BS11
+#EXTINF:-1 group-title="日本",BS11
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/BS11/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,BSAsahi
+#EXTINF:-1 group-title="日本",BSAsahi
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/bsasahi/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,BSAsahi(Primehome)
+#EXTINF:-1 group-title="日本",BSAsahi(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-#EXTINF:-1 logo="" group-title="日本" ,BSFuji
+#EXTINF:-1 group-title="日本",BSFuji
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,BSFuji(Primehome)
+#EXTINF:-1 group-title="日本",BSFuji(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-#EXTINF:-1 logo="" group-title="日本" ,BSNTV
+#EXTINF:-1 group-title="日本",BSNTV
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,BSNTV(Primehome)
+#EXTINF:-1 group-title="日本",BSNTV(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-#EXTINF:-1 logo="" group-title="日本" ,BSTBS
+#EXTINF:-1 group-title="日本",BSTBS
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,BSTBS(Primehome)
+#EXTINF:-1 group-title="日本",BSTBS(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-#EXTINF:-1 logo="" group-title="日本" ,BSTVTokyo
+#EXTINF:-1 group-title="日本",BSTVTokyo
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,BSTVTokyo(Primehome)
+#EXTINF:-1 group-title="日本",BSTVTokyo(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-#EXTINF:-1 logo="" group-title="日本" ,CNNj(Primehome)
+#EXTINF:-1 group-title="日本",CNNj(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-#EXTINF:-1 logo="" group-title="日本" ,CartoonNetwork(Primehome)
+#EXTINF:-1 group-title="日本",CartoonNetwork(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 logo="" group-title="日本" ,ChannelGinga
+#EXTINF:-1 group-title="日本",ChannelGinga
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/gingach/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,ChannelGinga(Primehome)
+#EXTINF:-1 group-title="日本",ChannelGinga(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-#EXTINF:-1 logo="" group-title="日本" ,DiscoveryChannel(Primehome)
+#EXTINF:-1 group-title="日本",DiscoveryChannel(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-#EXTINF:-1 logo="" group-title="日本" ,DisneyChannel
+#EXTINF:-1 group-title="日本",DisneyChannel
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,DisneyChannel(Primehome)
+#EXTINF:-1 group-title="日本",DisneyChannel(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 logo="" group-title="日本" ,DisneyJunior(Primehome)
+#EXTINF:-1 group-title="日本",DisneyJunior(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-#EXTINF:-1 logo="" group-title="日本" ,Dlife
+#EXTINF:-1 group-title="日本",Dlife
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/dlife/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,EiseiGekijo(Primehome)
+#EXTINF:-1 group-title="日本",EiseiGekijo(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-#EXTINF:-1 logo="" group-title="日本" ,EntermeiTele
+#EXTINF:-1 group-title="日本",EntermeiTele
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/entermei_tele/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,FamilyGekijyo
+#EXTINF:-1 group-title="日本",FamilyGekijyo
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/familygeki/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,FamilyGekijyo(Primehome)
+#EXTINF:-1 group-title="日本",FamilyGekijyo(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-#EXTINF:-1 logo="" group-title="日本" ,FightingTVSamurai
+#EXTINF:-1 group-title="日本",FightingTVSamurai
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,FishingVision(Primehome)
+#EXTINF:-1 group-title="日本",FishingVision(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
-#EXTINF:-1 logo="" group-title="日本" ,FujiTV
+#EXTINF:-1 group-title="日本",FujiTV
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,FujiTV(Primehome)
+#EXTINF:-1 group-title="日本",FujiTV(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
-#EXTINF:-1 logo="" group-title="日本" ,FujiTV(Primehome)
+#EXTINF:-1 group-title="日本",FujiTV(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
-#EXTINF:-1 logo="" group-title="日本" ,FujiTVNEXT
+#EXTINF:-1 group-title="日本",FujiTVNEXT
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,FujiTVNext(Primehome)
+#EXTINF:-1 group-title="日本",FujiTVNext(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
-#EXTINF:-1 logo="" group-title="日本" ,FujiTVONE
+#EXTINF:-1 group-title="日本",FujiTVONE
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,FujiTVTWO
+#EXTINF:-1 group-title="日本",FujiTVTWO
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,GAORASPORTS(Primehome)
+#EXTINF:-1 group-title="日本",GAORASPORTS(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 logo="" group-title="日本" ,GaoraSports
+#EXTINF:-1 group-title="日本",GaoraSports
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/gaora/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,GolfNetwork
+#EXTINF:-1 group-title="日本",GolfNetwork
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/golf_network/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,GreenChannel
+#EXTINF:-1 group-title="日本",GreenChannel
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/green/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,GreenChannel(Primehome)
+#EXTINF:-1 group-title="日本",GreenChannel(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-#EXTINF:-1 logo="" group-title="日本" ,History(Primehome)
+#EXTINF:-1 group-title="日本",History(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
-#EXTINF:-1 logo="" group-title="日本" ,HomeDramaChannel
+#EXTINF:-1 group-title="日本",HomeDramaChannel
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,HomeDramaChannel(Primehome)
+#EXTINF:-1 group-title="日本",HomeDramaChannel(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-#EXTINF:-1 logo="" group-title="日本" ,JCOMBS(Primehome)
+#EXTINF:-1 group-title="日本",JCOMBS(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
-#EXTINF:-1 logo="" group-title="日本" ,JSport1
+#EXTINF:-1 group-title="日本",JSport1
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/js1/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,JSport1(Primehome)
+#EXTINF:-1 group-title="日本",JSport1(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:-1 logo="" group-title="日本" ,JSport2
+#EXTINF:-1 group-title="日本",JSport2
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/js2/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,JSport2(Primehome)
+#EXTINF:-1 group-title="日本",JSport2(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-#EXTINF:-1 logo="" group-title="日本" ,JSport3
+#EXTINF:-1 group-title="日本",JSport3
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/js3/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,JSport3(Primehome)
+#EXTINF:-1 group-title="日本",JSport3(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:-1 logo="" group-title="日本" ,JSport4
+#EXTINF:-1 group-title="日本",JSport4
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/js4/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,JSport4(Primehome)
+#EXTINF:-1 group-title="日本",JSport4(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:-1 logo="" group-title="日本" ,JidaigekiSenmon(Primehome)
+#EXTINF:-1 group-title="日本",JidaigekiSenmon(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-#EXTINF:-1 logo="" group-title="日本" ,KBS
+#EXTINF:-1 group-title="日本",KBS
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/kbs/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,KansaiTV
+#EXTINF:-1 group-title="日本",KansaiTV
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,KansaiTV(Primehome)
+#EXTINF:-1 group-title="日本",KansaiTV(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
-#EXTINF:-1 logo="" group-title="日本" ,KayoPops
+#EXTINF:-1 group-title="日本",KayoPops
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/kayopops/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,KayoPops(Primehome)
+#EXTINF:-1 group-title="日本",KayoPops(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-#EXTINF:-1 logo="" group-title="日本" ,KidsStaton
+#EXTINF:-1 group-title="日本",KidsStaton
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/kids_station/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,KidsStatonTV(Primehome)
+#EXTINF:-1 group-title="日本",KidsStatonTV(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-#EXTINF:-1 logo="" group-title="日本" ,LaLaTV(Primehome)
+#EXTINF:-1 group-title="日本",LaLaTV(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
-#EXTINF:-1 logo="" group-title="日本" ,MBS
+#EXTINF:-1 group-title="日本",MBS
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/mbs/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,MBS(Primehome)
+#EXTINF:-1 group-title="日本",MBS(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
-#EXTINF:-1 logo="" group-title="日本" ,MTV
+#EXTINF:-1 group-title="日本",MTV
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/mtv/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,MTV(Primehome)
+#EXTINF:-1 group-title="日本",MTV(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 logo="" group-title="日本" ,MondoTV
+#EXTINF:-1 group-title="日本",MondoTV
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/mondo/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,MondoTV(Primehome)
+#EXTINF:-1 group-title="日本",MondoTV(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
-#EXTINF:-1 logo="" group-title="日本" ,MoviePlus(Primehome)
+#EXTINF:-1 group-title="日本",MoviePlus(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 logo="" group-title="日本" ,MusicJapanTV(Primehome)
+#EXTINF:-1 group-title="日本",MusicJapanTV(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 logo="" group-title="日本" ,MusicONTV
+#EXTINF:-1 group-title="日本",MusicONTV
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/musicon/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,NHKBS
+#EXTINF:-1 group-title="日本",NHKBS
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,NHKBS(Primehome)
+#EXTINF:-1 group-title="日本",NHKBS(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
-#EXTINF:-1 logo="" group-title="日本" ,NHKBS4K
+#EXTINF:-1 group-title="日本",NHKBS4K
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,NHKBS4K(Primehome)
+#EXTINF:-1 group-title="日本",NHKBS4K(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 logo="" group-title="日本" ,NHKE
+#EXTINF:-1 group-title="日本",NHKE
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,NHKE(Primehome)
+#EXTINF:-1 group-title="日本",NHKE(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
-#EXTINF:-1 logo="" group-title="日本" ,NHKE(Primehome)
+#EXTINF:-1 group-title="日本",NHKE(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
-#EXTINF:-1 logo="" group-title="日本" ,NHKG
+#EXTINF:-1 group-title="日本",NHKG
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,NHKG(Primehome)
+#EXTINF:-1 group-title="日本",NHKG(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
-#EXTINF:-1 logo="" group-title="日本" ,NHKG(Primehome)
+#EXTINF:-1 group-title="日本",NHKG(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-#EXTINF:-1 logo="" group-title="日本" ,NHKGOsaka(Primehome)
+#EXTINF:-1 group-title="日本",NHKGOsaka(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-#EXTINF:-1 logo="" group-title="日本" ,NTV
+#EXTINF:-1 group-title="日本",NTV
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,NTV(Primehome)
+#EXTINF:-1 group-title="日本",NTV(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
-#EXTINF:-1 logo="" group-title="日本" ,NTV(Primehome)
+#EXTINF:-1 group-title="日本",NTV(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-#EXTINF:-1 logo="" group-title="日本" ,NationalGeographicJapan(Primehome)
+#EXTINF:-1 group-title="日本",NationalGeographicJapan(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
-#EXTINF:-1 logo="" group-title="日本" ,NecoChannel
+#EXTINF:-1 group-title="日本",NecoChannel
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/neco/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,NihonEigaSenmon
+#EXTINF:-1 group-title="日本",NihonEigaSenmon
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/nihoneiga/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,NihonEigaSenmon(Primehome)
+#EXTINF:-1 group-title="日本",NihonEigaSenmon(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-#EXTINF:-1 logo="" group-title="日本" ,NitteleG+
+#EXTINF:-1 group-title="日本",NitteleG+
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/ntvgplus/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,NitteleG+(Primehome)
+#EXTINF:-1 group-title="日本",NitteleG+(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-#EXTINF:-1 logo="" group-title="日本" ,Pigoo(NSFW)
+#EXTINF:-1 group-title="日本",Pigoo(NSFW)
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,SUN
+#EXTINF:-1 group-title="日本",SUN
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/suntv/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,SUN(Primehome)
+#EXTINF:-1 group-title="日本",SUN(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-#EXTINF:-1 logo="" group-title="日本" ,SkyA
+#EXTINF:-1 group-title="日本",SkyA
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/skya/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,SkyA(Primehome)
+#EXTINF:-1 group-title="日本",SkyA(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-#EXTINF:-1 logo="" group-title="日本" ,SpaceShowerTV
+#EXTINF:-1 group-title="日本",SpaceShowerTV
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,SpaceShowerTV(Primehome)
+#EXTINF:-1 group-title="日本",SpaceShowerTV(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-#EXTINF:-1 logo="" group-title="日本" ,SportLivePlus
+#EXTINF:-1 group-title="日本",SportLivePlus
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,TBS
+#EXTINF:-1 group-title="日本",TBS
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/TBS/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,TBS(Primehome)
+#EXTINF:-1 group-title="日本",TBS(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
-#EXTINF:-1 logo="" group-title="日本" ,TBS(Primehome)
+#EXTINF:-1 group-title="日本",TBS(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 logo="" group-title="日本" ,TBSChannel1
+#EXTINF:-1 group-title="日本",TBSChannel1
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,TBSChannel2
+#EXTINF:-1 group-title="日本",TBSChannel2
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/tbsch2/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,TBSNews(Primehome)
+#EXTINF:-1 group-title="日本",TBSNews(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
-#EXTINF:-1 logo="" group-title="日本" ,TOKYOMX1
+#EXTINF:-1 group-title="日本",TOKYOMX1
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,TOKYOMX1(Primehome)
+#EXTINF:-1 group-title="日本",TOKYOMX1(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
-#EXTINF:-1 logo="" group-title="日本" ,TOKYOMX1(Primehome)
+#EXTINF:-1 group-title="日本",TOKYOMX1(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-#EXTINF:-1 logo="" group-title="日本" ,TOKYOMX2
+#EXTINF:-1 group-title="日本",TOKYOMX2
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/Tokyo_MX2/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,TVAsahi
+#EXTINF:-1 group-title="日本",TVAsahi
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,TVAsahi(Primehome)
+#EXTINF:-1 group-title="日本",TVAsahi(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
-#EXTINF:-1 logo="" group-title="日本" ,TVAsahi(Primehome)
+#EXTINF:-1 group-title="日本",TVAsahi(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-#EXTINF:-1 logo="" group-title="日本" ,TVAsahiChannel1
+#EXTINF:-1 group-title="日本",TVAsahiChannel1
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/ex_ch1/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,TVAsahiChannel2
+#EXTINF:-1 group-title="日本",TVAsahiChannel2
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,TVOsaka
+#EXTINF:-1 group-title="日本",TVOsaka
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/tvo/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,TVOsaka(Primehome)
+#EXTINF:-1 group-title="日本",TVOsaka(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
-#EXTINF:-1 logo="" group-title="日本" ,TVTokyo
+#EXTINF:-1 group-title="日本",TVTokyo
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,TVTokyo(Primehome)
+#EXTINF:-1 group-title="日本",TVTokyo(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
-#EXTINF:-1 logo="" group-title="日本" ,TVTokyo(Primehome)
+#EXTINF:-1 group-title="日本",TVTokyo(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
-#EXTINF:-1 logo="" group-title="日本" ,TabiChannel
+#EXTINF:-1 group-title="日本",TabiChannel
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/tabi/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,TabiChannel(Primehome)
+#EXTINF:-1 group-title="日本",TabiChannel(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
-#EXTINF:-1 logo="" group-title="日本" ,TakarazukaSkyStage(Primehome)
+#EXTINF:-1 group-title="日本",TakarazukaSkyStage(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
-#EXTINF:-1 logo="" group-title="日本" ,TheCinema
+#EXTINF:-1 group-title="日本",TheCinema
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/the_cinema/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,ToeiChannel
+#EXTINF:-1 group-title="日本",ToeiChannel
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/toei/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,ToeiChannel(Primehome)
+#EXTINF:-1 group-title="日本",ToeiChannel(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-#EXTINF:-1 logo="" group-title="日本" ,VParadise(NSFW)
+#EXTINF:-1 group-title="日本",VParadise(NSFW)
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/v_paradise/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,WOWOWCinema
+#EXTINF:-1 group-title="日本",WOWOWCinema
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,WOWOWCinema(Primehome)
+#EXTINF:-1 group-title="日本",WOWOWCinema(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 logo="" group-title="日本" ,WOWOWLive
+#EXTINF:-1 group-title="日本",WOWOWLive
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/wlive/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,WOWOWLive(Primehome)
+#EXTINF:-1 group-title="日本",WOWOWLive(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 logo="" group-title="日本" ,WOWOWPrime
+#EXTINF:-1 group-title="日本",WOWOWPrime
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/wprime/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,WOWOWPrime(Primehome)
+#EXTINF:-1 group-title="日本",WOWOWPrime(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
-#EXTINF:-1 logo="" group-title="日本" ,ytv
+#EXTINF:-1 group-title="日本",ytv
 https://xxg.laispot.com/mytv.php?url=https://nl.utako.moe/ytv/index.m3u8
-#EXTINF:-1 logo="" group-title="日本" ,ytv(Primehome)
+#EXTINF:-1 group-title="日本",ytv(Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 
-#EXTINF:-1 logo="" group-title="臺灣" ,Channel5
+#EXTINF:-1 group-title="臺灣",Channel5
 http://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 logo="" group-title="臺灣" ,Channel5
+#EXTINF:-1 group-title="臺灣",Channel5
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,Channel8
+#EXTINF:-1 group-title="臺灣",Channel8
 http://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 logo="" group-title="臺灣" ,Channel8
+#EXTINF:-1 group-title="臺灣",Channel8
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,ChannelU
+#EXTINF:-1 group-title="臺灣",ChannelU
 http://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 logo="" group-title="臺灣" ,ChannelU
+#EXTINF:-1 group-title="臺灣",ChannelU
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,TVBS亞洲
+#EXTINF:-1 group-title="臺灣",TVBS亞洲
 https://xxg.laispot.com/mytv.php?url=http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,TVBS亞洲
+#EXTINF:-1 group-title="臺灣",TVBS亞洲
 https://xxg.laispot.com/mytv.php?url=http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,TVBS亞洲
+#EXTINF:-1 group-title="臺灣",TVBS亞洲
 https://xxg.laispot.com/mytv.php?url=http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,人間衛視
+#EXTINF:-1 group-title="臺灣",人間衛視
 https://xxg.laispot.com/mytv.php?url=https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,人間衛視
+#EXTINF:-1 group-title="臺灣",人間衛視
 https://xxg.laispot.com/mytv.php?url=http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 logo="" group-title="臺灣" ,八度空間
+#EXTINF:-1 group-title="臺灣",八度空間
 http://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 logo="" group-title="臺灣" ,八度空間
+#EXTINF:-1 group-title="臺灣",八度空間
 https://xxg.laispot.com/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,台視新聞
+#EXTINF:-1 group-title="臺灣",台視新聞
 https://xxg.laispot.com/mytv.php?url=http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,台視新聞
+#EXTINF:-1 group-title="臺灣",台視新聞
 https://xxg.laispot.com/mytv.php?url=http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,大立電視台
+#EXTINF:-1 group-title="臺灣",大立電視台
 https://xxg.laispot.com/mytv.php?url=http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,富立電視台
+#EXTINF:-1 group-title="臺灣",富立電視台
 https://xxg.laispot.com/mytv.php?url=http://tv.fltvshow.com.tw/hls/fltv.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,東森美洲
+#EXTINF:-1 group-title="臺灣",東森美洲
 https://xxg.laispot.com/mytv.php?url=http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,東森美洲
+#EXTINF:-1 group-title="臺灣",東森美洲
 https://xxg.laispot.com/mytv.php?url=http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,東森超視
+#EXTINF:-1 group-title="臺灣",東森超視
 https://xxg.laispot.com/mytv.php?url=http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,東森超視
+#EXTINF:-1 group-title="臺灣",東森超視
 https://xxg.laispot.com/mytv.php?url=http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,民視新聞
+#EXTINF:-1 group-title="臺灣",民視新聞
 https://xxg.laispot.com/mytv.php?url=http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,民視新聞
+#EXTINF:-1 group-title="臺灣",民視新聞
 https://xxg.laispot.com/mytv.php?url=http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,民視新聞
+#EXTINF:-1 group-title="臺灣",民視新聞
 https://xxg.laispot.com/mytv.php?url=http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,民視新聞
+#EXTINF:-1 group-title="臺灣",民視新聞
 https://xxg.laispot.com/mytv.php?url=http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,生命電視
+#EXTINF:-1 group-title="臺灣",生命電視
 https://xxg.laispot.com/mytv.php?url=http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-#EXTINF:-1 logo="" group-title="臺灣" ,緯來精采
+#EXTINF:-1 group-title="臺灣",緯來精采
 https://xxg.laispot.com/mytv.php?url=http://61.221.215.25:8800/hls/48/index.m3u8
 
-#EXTINF:-1 logo="" group-title="體育賽事" ,30AGolfKingdom
+#EXTINF:-1 group-title="體育賽事",30AGolfKingdom
 https://xxg.laispot.com/mytv.php?url=https://30a-tv.com/feeds/vidaa/golf.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,:Šport
+#EXTINF:-1 group-title="體育賽事",:Šport
 https://xxg.laispot.com/mytv.php?url=http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,AntenaSport[Not24/7]
+#EXTINF:-1 group-title="體育賽事",AntenaSport[Not24/7]
 https://xxg.laispot.com/mytv.php?url=https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,CDNDeportes
+#EXTINF:-1 group-title="體育賽事",CDNDeportes
 https://xxg.laispot.com/mytv.php?url=http://200.125.170.122:8000/play/a03j/index.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,ColimdoTTV
+#EXTINF:-1 group-title="體育賽事",ColimdoTTV
 https://xxg.laispot.com/mytv.php?url=https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,FanDuelRacing
+#EXTINF:-1 group-title="體育賽事",FanDuelRacing
 https://xxg.laispot.com/mytv.php?url=https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,FanDuelTV
+#EXTINF:-1 group-title="體育賽事",FanDuelTV
 https://xxg.laispot.com/mytv.php?url=https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,HorseTV
+#EXTINF:-1 group-title="體育賽事",HorseTV
 https://xxg.laispot.com/mytv.php?url=https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,MadeinBOTV
+#EXTINF:-1 group-title="體育賽事",MadeinBOTV
 https://xxg.laispot.com/mytv.php?url=https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,OvacionTV[Not24/7]
+#EXTINF:-1 group-title="體育賽事",OvacionTV[Not24/7]
 https://xxg.laispot.com/mytv.php?url=http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,PROSportInternational
+#EXTINF:-1 group-title="體育賽事",PROSportInternational
 https://xxg.laispot.com/mytv.php?url=https://proshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,PersianaFight
+#EXTINF:-1 group-title="體育賽事",PersianaFight
 https://xxg.laispot.com/mytv.php?url=https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,RightNowTV
+#EXTINF:-1 group-title="體育賽事",RightNowTV
 https://xxg.laispot.com/mytv.php?url=https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,ČTSport
+#EXTINF:-1 group-title="體育賽事",ČTSport
 https://xxg.laispot.com/mytv.php?url=http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 logo="" group-title="體育賽事" ,杜拜體育2
+#EXTINF:-1 group-title="體育賽事",杜拜體育2
 https://xxg.laispot.com/mytv.php?url=https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
